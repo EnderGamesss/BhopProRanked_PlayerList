@@ -2,11 +2,24 @@
   "users": {
     "939363878": {
       "name": "Эллис",
-      "coins": 750,
+      "coins": 450,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "camospinner.png",
+          "type": "spinner",
+          "at": "2026-08-08T19:11:30.074Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 2.5,
+          "caseType": "spinner",
+          "at": "2026-08-08T19:11:30.074Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
