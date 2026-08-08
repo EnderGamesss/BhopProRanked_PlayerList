@@ -43,7 +43,7 @@
     },
     "939363878": {
       "name": "Эллис",
-      "coins": 11900,
+      "coins": 11600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -51,9 +51,21 @@
           "file": "prettyspinner.png",
           "type": "spinner",
           "at": "2026-08-08T19:16:33.566Z"
+        },
+        {
+          "file": "karambitkoi.png",
+          "type": "knife",
+          "at": "2026-08-08T19:19:24.324Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitkoi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-08-08T19:19:24.324Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -107,12 +119,6 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-08T19:17:53.819Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "spinner",
-          "at": "2026-08-08T19:17:43.748Z"
         }
       ],
       "lastBonus": 1786216214657
