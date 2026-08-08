@@ -349,11 +349,24 @@
     },
     "5117405936": {
       "name": "xGRI3Fx",
-      "coins": 22250,
+      "coins": 21950,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitdesert.png",
+          "type": "knife",
+          "at": "2026-08-08T19:25:10.817Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-08T19:25:10.817Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -408,12 +421,6 @@
           "amount": 100,
           "caseType": "glove",
           "at": "2026-08-08T19:15:07.245Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-08T19:12:18.428Z"
         }
       ],
       "lastBonus": 0
