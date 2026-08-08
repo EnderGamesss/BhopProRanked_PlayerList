@@ -2,11 +2,24 @@
   "users": {
     "7307808447": {
       "name": "EnderGamesDev",
-      "coins": 24050,
+      "coins": 23750,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butsnake.png",
+          "type": "knife",
+          "at": "2026-08-08T18:21:18.487Z"
+        }
+      ],
       "history": [
+        {
+          "type": "knife",
+          "kind": "skin",
+          "file": "butsnake.png",
+          "chance": 0.3,
+          "at": "2026-08-08T18:21:18.487Z"
+        },
         {
           "type": "knife",
           "kind": "coins",
