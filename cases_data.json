@@ -610,7 +610,7 @@
     },
     "5818384071": {
       "name": "Temp",
-      "coins": 109650,
+      "coins": 109450,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -621,6 +621,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-08T20:34:32.007Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -675,17 +681,10 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-08-08T20:32:41.585Z"
-        },
-        {
-          "kind": "skin",
-          "file": "ironaquaspinner.png",
-          "chance": 1,
-          "caseType": "spinner",
-          "at": "2026-08-08T20:31:42.366Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786221265714,
+      "lastCaseAt": 1786221271757,
       "username": "lTemp"
     },
     "5168978133": {
