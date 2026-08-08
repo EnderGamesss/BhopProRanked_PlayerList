@@ -96,11 +96,24 @@
     },
     "1840807637": {
       "name": "𝑲𝒆𝒛𝒖𝒎𝒖 𝒏𝒆𝒕𝒓𝒐𝒍",
-      "coins": 1100,
+      "coins": 800,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-basic-spinner-5.png",
+          "type": "spinner",
+          "at": "2026-08-08T19:13:42.650Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-basic-spinner-5.png",
+          "chance": 2,
+          "caseType": "spinner",
+          "at": "2026-08-08T19:13:42.650Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -154,12 +167,6 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-08T19:12:38.477Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-08T19:12:37.432Z"
         }
       ],
       "lastBonus": 1786216229164
