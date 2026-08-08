@@ -119,7 +119,7 @@
     },
     "1840807637": {
       "name": "𝑲𝒆𝒛𝒖𝒎𝒖 𝒏𝒆𝒕𝒓𝒐𝒍",
-      "coins": 350,
+      "coins": 250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -135,6 +135,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "spinner",
+          "at": "2026-08-08T19:18:58.522Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -190,12 +196,6 @@
           "amount": 500,
           "caseType": "spinner",
           "at": "2026-08-08T19:13:10.636Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-08T19:13:08.876Z"
         }
       ],
       "lastBonus": 1786216229164
