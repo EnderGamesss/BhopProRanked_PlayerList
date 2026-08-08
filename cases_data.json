@@ -507,7 +507,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 1015050,
+      "coins": 1014750,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -525,9 +525,21 @@
           "file": "butkoi.png",
           "type": "knife",
           "at": "2026-08-08T20:39:02.197Z"
+        },
+        {
+          "file": "butforest.png",
+          "type": "knife",
+          "at": "2026-08-08T20:39:25.779Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-08T20:39:25.779Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -582,16 +594,10 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-08T20:37:55.052Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-08T20:37:18.667Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786221560112
+      "lastCaseAt": 1786221565563
     },
     "6703298995": {
       "name": "Aleksandyr",
