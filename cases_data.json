@@ -2,7 +2,7 @@
   "users": {
     "7307808447": {
       "name": "EnderGamesDev",
-      "coins": 23750,
+      "coins": 23450,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -10,9 +10,21 @@
           "file": "butsnake.png",
           "type": "knife",
           "at": "2026-08-08T18:21:18.487Z"
+        },
+        {
+          "file": "thumb-North.png",
+          "type": "glove",
+          "at": "2026-08-08T18:28:13.113Z"
         }
       ],
       "history": [
+        {
+          "type": "glove",
+          "kind": "skin",
+          "file": "thumb-North.png",
+          "chance": 7.5,
+          "at": "2026-08-08T18:28:13.113Z"
+        },
         {
           "type": "knife",
           "kind": "skin",
@@ -215,7 +227,8 @@
           "amount": 150,
           "at": "2026-08-08T17:27:16.525Z"
         }
-      ]
+      ],
+      "lastBonus": 0
     }
   },
   "chatLuck": {}
