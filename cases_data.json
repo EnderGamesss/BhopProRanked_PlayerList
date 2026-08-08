@@ -281,7 +281,7 @@
     },
     "7887063317": {
       "name": "b10xxx10",
-      "coins": 84200,
+      "coins": 83900,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -289,9 +289,21 @@
           "file": "karambitdesert.png",
           "type": "knife",
           "at": "2026-08-08T19:29:05.628Z"
+        },
+        {
+          "file": "karambitforest.png",
+          "type": "knife",
+          "at": "2026-08-08T19:34:00.059Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-08T19:34:00.059Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -345,12 +357,6 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-08T19:29:19.100Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-08T19:29:17.535Z"
         }
       ],
       "lastBonus": 0,
