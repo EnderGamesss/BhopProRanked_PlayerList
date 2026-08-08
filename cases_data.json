@@ -43,7 +43,7 @@
     },
     "939363878": {
       "name": "Эллис",
-      "coins": 9400,
+      "coins": 9850,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -54,6 +54,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "spinner",
+          "at": "2026-08-08T19:16:46.968Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -108,12 +114,6 @@
           "amount": 750,
           "caseType": "spinner",
           "at": "2026-08-08T19:15:59.083Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-08T19:15:52.049Z"
         }
       ],
       "lastBonus": 1786216214657
