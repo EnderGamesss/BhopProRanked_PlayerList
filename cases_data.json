@@ -2,11 +2,24 @@
   "users": {
     "5818384071": {
       "name": "Temp",
-      "coins": 850,
+      "coins": 550,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-basic-spinner-5.png",
+          "type": "spinner",
+          "at": "2026-08-08T19:04:48.589Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-basic-spinner-5.png",
+          "chance": 2,
+          "caseType": "spinner",
+          "at": "2026-08-08T19:04:48.589Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
