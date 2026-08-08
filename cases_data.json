@@ -691,11 +691,24 @@
     },
     "5168978133": {
       "name": "бабайка🥷",
-      "coins": 1850,
+      "coins": 1550,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "camospinner.png",
+          "type": "spinner",
+          "at": "2026-08-08T20:34:15.308Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 2.5,
+          "caseType": "spinner",
+          "at": "2026-08-08T20:34:15.308Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -735,7 +748,7 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786221246343,
+      "lastCaseAt": 1786221255001,
       "username": "babaykkkka"
     }
   },
