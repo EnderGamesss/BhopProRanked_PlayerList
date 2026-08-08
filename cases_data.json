@@ -209,11 +209,24 @@
     },
     "7307808447": {
       "name": "EnderGamesDev",
-      "coins": 241900,
+      "coins": 241600,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9forest.png",
+          "type": "knife",
+          "at": "2026-08-08T19:32:04.766Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9forest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-08T19:32:04.766Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -267,12 +280,6 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-08-08T19:27:55.038Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-08T19:27:52.768Z"
         }
       ],
       "lastBonus": 0,
