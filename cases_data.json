@@ -18,11 +18,24 @@
     },
     "5099998733": {
       "name": "qyeex",
-      "coins": 800,
+      "coins": 500,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-North.png",
+          "type": "glove",
+          "at": "2026-08-08T19:02:28.263Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-North.png",
+          "chance": 7.5,
+          "caseType": "glove",
+          "at": "2026-08-08T19:02:28.263Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
