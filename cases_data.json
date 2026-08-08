@@ -823,11 +823,24 @@
     },
     "6532399525": {
       "name": "M I ⛧ K E",
-      "coins": 13550,
+      "coins": 13250,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitsnake.png",
+          "type": "knife",
+          "at": "2026-08-08T20:38:49.324Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitsnake.png",
+          "chance": 0.3,
+          "caseType": "knife",
+          "at": "2026-08-08T20:38:49.324Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -880,7 +893,7 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786221516852,
+      "lastCaseAt": 1786221529106,
       "username": "NassaUzb"
     }
   },
