@@ -24,11 +24,24 @@
     },
     "7887063317": {
       "name": "b10xxx10",
-      "coins": 700,
+      "coins": 400,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "woodspinner.png",
+          "type": "spinner",
+          "at": "2026-08-08T19:09:00.385Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "woodspinner.png",
+          "chance": 0.6,
+          "caseType": "spinner",
+          "at": "2026-08-08T19:09:00.385Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
