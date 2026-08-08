@@ -43,11 +43,17 @@
     },
     "939363878": {
       "name": "Эллис",
-      "coins": 186950,
+      "coins": 186750,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-08T19:29:24.778Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -103,12 +109,6 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-08-08T19:20:57.935Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-08T19:20:56.669Z"
         }
       ],
       "lastBonus": 1786216214657,
