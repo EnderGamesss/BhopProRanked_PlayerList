@@ -43,11 +43,24 @@
     },
     "939363878": {
       "name": "Эллис",
-      "coins": 189850,
+      "coins": 189550,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butdesert.png",
+          "type": "knife",
+          "at": "2026-08-08T19:38:19.180Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-08T19:38:19.180Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -101,17 +114,11 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-08T19:34:18.426Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-08T19:34:17.102Z"
         }
       ],
       "lastBonus": 1786216214657,
       "username": "cazuso",
-      "lastCaseAt": 1786217880825
+      "lastCaseAt": 1786217898683
     },
     "1840807637": {
       "name": "𝑲𝒆𝒛𝒖𝒎𝒖 𝒏𝒆𝒕𝒓𝒐𝒍",
