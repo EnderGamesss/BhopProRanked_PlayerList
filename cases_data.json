@@ -235,7 +235,7 @@
     },
     "7887063317": {
       "name": "b10xxx10",
-      "coins": 60100,
+      "coins": 60000,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -266,6 +266,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-08T19:21:31.728Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -320,12 +326,6 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-08T19:20:04.270Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-08T19:20:00.292Z"
         }
       ],
       "lastBonus": 0
