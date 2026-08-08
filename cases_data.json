@@ -97,11 +97,24 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 300,
+      "coins": 0,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "dangerspinner.png",
+          "type": "spinner",
+          "at": "2026-08-08T19:10:25.726Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "dangerspinner.png",
+          "chance": 0.2,
+          "caseType": "spinner",
+          "at": "2026-08-08T19:10:25.726Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
