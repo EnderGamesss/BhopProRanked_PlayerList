@@ -610,11 +610,24 @@
     },
     "5818384071": {
       "name": "Temp",
-      "coins": 110150,
+      "coins": 109850,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9snake.png",
+          "type": "knife",
+          "at": "2026-08-08T20:34:12.837Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9snake.png",
+          "chance": 0.35,
+          "caseType": "knife",
+          "at": "2026-08-08T20:34:12.837Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -673,7 +686,7 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786221243656,
+      "lastCaseAt": 1786221252591,
       "username": "lTemp"
     },
     "5168978133": {
