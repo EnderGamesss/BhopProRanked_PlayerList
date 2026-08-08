@@ -2,7 +2,7 @@
   "users": {
     "5818384071": {
       "name": "Temp",
-      "coins": 92400,
+      "coins": 92100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -10,9 +10,21 @@
           "file": "thumb-basic-spinner-5.png",
           "type": "spinner",
           "at": "2026-08-08T18:49:00.290Z"
+        },
+        {
+          "file": "camospinner.png",
+          "type": "spinner",
+          "at": "2026-08-08T18:49:02.279Z"
         }
       ],
       "history": [
+        {
+          "type": "spinner",
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 2.5,
+          "at": "2026-08-08T18:49:02.279Z"
+        },
         {
           "type": "spinner",
           "kind": "coins",
