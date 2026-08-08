@@ -43,7 +43,7 @@
     },
     "939363878": {
       "name": "Эллис",
-      "coins": 11100,
+      "coins": 11050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -59,6 +59,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-08T19:20:33.634Z"
+        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -112,13 +118,6 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-08T19:19:27.313Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitkoi.png",
-          "chance": 0.25,
-          "caseType": "knife",
-          "at": "2026-08-08T19:19:24.324Z"
         }
       ],
       "lastBonus": 1786216214657
