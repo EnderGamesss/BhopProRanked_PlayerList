@@ -529,8 +529,21 @@
       "coins": 2052650,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "firespinner.png",
+          "type": "booster",
+          "at": "2026-08-09T12:25:57.534Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "firespinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-09T12:25:57.534Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -584,19 +597,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T11:47:01.190Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-09T11:46:43.740Z"
         }
       ],
       "lastBonus": 1786219491674,
       "username": "EnderGamesDev",
       "lastCaseAt": 1786277426286,
       "totalEarned": 1376100,
-      "lastBoosterAt": 1786273751866,
+      "lastBoosterAt": 1786278356887,
       "memoryGame": {
         "board": [
           {
