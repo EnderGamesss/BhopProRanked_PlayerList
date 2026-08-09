@@ -841,11 +841,17 @@
     },
     "7887063317": {
       "name": "b10xxx10",
-      "coins": 2009300,
+      "coins": 2009750,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "spinner",
+          "at": "2026-08-09T13:15:43.326Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -902,19 +908,13 @@
           "chance": 0.25,
           "caseType": "knife",
           "at": "2026-08-09T13:14:01.958Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T13:13:55.860Z"
         }
       ],
       "lastBonus": 1786280843041,
       "username": "b10xxx10",
-      "lastCaseAt": 1786281335868,
+      "lastCaseAt": 1786281343000,
       "lastBoosterAt": 1786281181157,
-      "totalEarned": 511700,
+      "totalEarned": 512450,
       "memoryGame": {
         "board": [
           {
