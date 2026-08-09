@@ -1231,7 +1231,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 6027050,
+      "coins": 6026900,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1247,6 +1247,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-09T11:20:45.938Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -1300,18 +1306,12 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T11:18:41.638Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T11:18:35.803Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786274437967,
+      "lastCaseAt": 1786274445527,
       "lastBoosterAt": 1786268958649,
-      "totalEarned": 6459750,
+      "totalEarned": 6459900,
       "memoryGame": {
         "board": [
           {
@@ -3054,17 +3054,11 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 741600,
+      "coins": 741150,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "spinner",
-          "at": "2026-08-09T11:20:46.843Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -3120,12 +3114,18 @@
           "chance": 0.5,
           "caseType": "spinner",
           "at": "2026-08-09T11:19:43.484Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 1000,
+          "caseType": "spinner",
+          "at": "2026-08-09T11:19:38.530Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786274446561,
+      "lastCaseAt": 1786274441335,
       "lastBoosterAt": 1786274323582,
-      "totalEarned": 745100,
+      "totalEarned": 744350,
       "memoryGame": {
         "board": [
           {
@@ -3356,11 +3356,17 @@
     },
     "8161884493": {
       "name": "lolololololo",
-      "coins": 3000,
+      "coins": 2850,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-09T11:20:48.957Z"
+        },
         {
           "kind": "skin",
           "file": "m9forest.png",
@@ -3370,9 +3376,9 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 0,
+      "lastCaseAt": 1786274448693,
       "lastBoosterAt": 1786274363088,
-      "totalEarned": 2000,
+      "totalEarned": 2150,
       "memoryGame": null
     }
   },
