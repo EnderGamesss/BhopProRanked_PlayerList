@@ -1205,7 +1205,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 5284550,
+      "coins": 5784550,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1821,7 +1821,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 457150,
+      "coins": 457100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1842,6 +1842,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "spinner",
+          "at": "2026-08-09T10:54:54.082Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-Mercenery.png",
@@ -1898,19 +1904,13 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-08-08T21:52:44.521Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "spinner",
-          "at": "2026-08-08T21:52:39.406Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786271675326,
+      "lastCaseAt": 1786272893874,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
-      "totalEarned": 10250,
+      "totalEarned": 10500,
       "memoryGame": {
         "board": [
           {
@@ -2739,7 +2739,7 @@
     },
     "8347129286": {
       "name": "s10",
-      "coins": 323650,
+      "coins": 823650,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3488,20 +3488,14 @@
     "duel_1786272837941_8347129286": {
       "challenger": "8347129286",
       "opponent": "8708014655",
-      "status": "active",
+      "status": "bet_confirm",
       "createdAt": 1786272837941,
       "choices": {
         "8708014655": "spinner",
         "8347129286": "spinner"
       },
       "chosenType": "spinner",
-      "bet": 500000,
-      "turn": "8347129286",
-      "challengerOpens": 0,
-      "opponentOpens": 0,
-      "challengerTotal": 0,
-      "opponentTotal": 0,
-      "results": []
+      "bet": 500000
     }
   }
 }
