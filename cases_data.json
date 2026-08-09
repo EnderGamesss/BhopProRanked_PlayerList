@@ -847,11 +847,24 @@
     },
     "7887063317": {
       "name": "b10xxx10",
-      "coins": 2502350,
+      "coins": 2502050,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "royalspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T17:59:58.088Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "royalspinner.png",
+          "chance": 0.12,
+          "caseType": "spinner",
+          "at": "2026-08-09T17:59:58.088Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -905,17 +918,11 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-09T17:58:39.377Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "spinner",
-          "at": "2026-08-09T17:58:32.238Z"
         }
       ],
       "lastBonus": 1786280843041,
       "username": "b10xxx10",
-      "lastCaseAt": 1786298391455,
+      "lastCaseAt": 1786298397778,
       "lastBoosterAt": 1786298272147,
       "totalEarned": 1047650,
       "memoryGame": {
