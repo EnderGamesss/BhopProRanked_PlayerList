@@ -90,8 +90,21 @@
       "coins": 1538700,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "ironaquaspinner.png",
+          "type": "booster",
+          "at": "2026-08-09T11:50:54.572Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "ironaquaspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-09T11:50:54.572Z"
+        },
         {
           "kind": "skin",
           "file": "karambitemerand.png",
@@ -147,18 +160,12 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T10:04:53.454Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "knife",
-          "at": "2026-08-09T10:04:48.145Z"
         }
       ],
       "lastBonus": 1786216214657,
       "username": "cazuso",
       "lastCaseAt": 1786269949246,
-      "lastBoosterAt": 1786270330531,
+      "lastBoosterAt": 1786276254383,
       "totalEarned": 1202850,
       "memoryGame": null
     },
