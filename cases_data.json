@@ -1464,7 +1464,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 8564900,
+      "coins": 8568850,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1472,14 +1472,15 @@
           "file": "karambitmonster.png",
           "type": "knife",
           "at": "2026-08-09T15:08:09.054Z"
-        },
-        {
-          "file": "thumb-North.png",
-          "type": "glove",
-          "at": "2026-08-09T15:10:20.572Z"
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "glove",
+          "at": "2026-08-09T15:10:35.360Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-North.png",
@@ -1534,18 +1535,12 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T15:09:15.025Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-09T15:09:04.958Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786288220042,
+      "lastCaseAt": 1786288235045,
       "lastBoosterAt": 1786284696560,
-      "totalEarned": 9190800,
+      "totalEarned": 9195050,
       "memoryGame": {
         "board": [
           {
@@ -2882,24 +2877,11 @@
     },
     "8881481544": {
       "name": "Тьфу, свинья ебаная",
-      "coins": 43450,
+      "coins": 43750,
       "luck": 1,
       "boosts": [],
-      "inventory": [
-        {
-          "file": "thumb-North.png",
-          "type": "glove",
-          "at": "2026-08-09T15:10:32.855Z"
-        }
-      ],
+      "inventory": [],
       "history": [
-        {
-          "kind": "skin",
-          "file": "thumb-North.png",
-          "chance": 7.5,
-          "caseType": "glove",
-          "at": "2026-08-09T15:10:32.855Z"
-        },
         {
           "kind": "coins",
           "amount": 150,
@@ -2955,10 +2937,16 @@
           "chance": 0.25,
           "caseType": "knife",
           "at": "2026-08-09T08:45:27.219Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T08:45:21.859Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786288232340,
+      "lastCaseAt": 1786288224601,
       "lastBoosterAt": 0,
       "totalEarned": 900,
       "memoryGame": null
