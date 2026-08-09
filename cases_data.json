@@ -1485,10 +1485,16 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 10707800,
+      "coins": 10662800,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "ironaquaspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T20:37:36.948Z"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -1555,7 +1561,7 @@
       "lastBonus": 1786259491073,
       "lastCaseAt": 1786307856515,
       "lastBoosterAt": 1786305613935,
-      "totalEarned": 11293700,
+      "totalEarned": 11248700,
       "memoryGame": {
         "board": [
           {
@@ -2410,7 +2416,7 @@
     },
     "8624452786": {
       "name": "ор щет",
-      "coins": 297550,
+      "coins": 297250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2443,9 +2449,21 @@
           "file": "karambit-hotline.png",
           "type": "knife",
           "at": "2026-08-09T20:35:26.306Z"
+        },
+        {
+          "file": "karambitdesert.png",
+          "type": "knife",
+          "at": "2026-08-09T20:37:44.503Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T20:37:44.503Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -2502,16 +2520,10 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-09T20:35:15.669Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-09T20:35:09.204Z"
         }
       ],
       "lastBonus": 1786281511849,
-      "lastCaseAt": 1786307858694,
+      "lastCaseAt": 1786307864179,
       "username": "orzett",
       "lastBoosterAt": 1786305808953,
       "totalEarned": 416950,
