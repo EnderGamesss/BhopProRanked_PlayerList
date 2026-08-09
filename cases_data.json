@@ -1462,7 +1462,7 @@
     },
     "7886451818": {
       "name": "EnderGamesDev",
-      "coins": 400,
+      "coins": 600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1473,6 +1473,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-09T09:08:30.921Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -1506,8 +1512,8 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786266494459,
-      "totalEarned": 1000,
+      "lastCaseAt": 1786266510921,
+      "totalEarned": 1200,
       "username": "BhopProManager",
       "lastBoosterAt": 0,
       "memoryGame": null
@@ -1809,9 +1815,9 @@
       "bet": 1000,
       "turn": "7886451818",
       "challengerOpens": 4,
-      "opponentOpens": 3,
+      "opponentOpens": 4,
       "challengerTotal": 1750,
-      "opponentTotal": 2300,
+      "opponentTotal": 2500,
       "results": [
         {
           "uid": "7307808447",
@@ -1869,6 +1875,14 @@
             "amount": 500
           },
           "earnings": 500
+        },
+        {
+          "uid": "7886451818",
+          "result": {
+            "kind": "coins",
+            "amount": 200
+          },
+          "earnings": 200
         }
       ]
     }
