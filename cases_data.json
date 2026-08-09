@@ -5002,11 +5002,24 @@
     },
     "7692376723": {
       "name": "Типа клутой ыыыы",
-      "coins": 16150,
+      "coins": 15850,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-bhopool.png",
+          "type": "glove",
+          "at": "2026-08-09T19:52:12.503Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-bhopool.png",
+          "chance": 0.2,
+          "caseType": "glove",
+          "at": "2026-08-09T19:52:12.503Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -5052,7 +5065,7 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786305125281,
+      "lastCaseAt": 1786305131765,
       "lastBoosterAt": 1786304756991,
       "totalEarned": 16950,
       "memoryGame": {
