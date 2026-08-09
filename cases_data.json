@@ -1714,11 +1714,11 @@
           }
         ],
         "revealed": [
+          true,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1772,9 +1772,13 @@
           "amount": 750,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
-        "createdAt": 1786290714422
+        "createdAt": 1786290714422,
+        "pendingHide": [
+          0,
+          4
+        ]
       }
     },
     "6703298995": {
