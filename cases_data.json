@@ -185,7 +185,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 1623000,
+      "coins": 1622800,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -417,6 +417,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T16:42:33.290Z"
+        },
+        {
           "kind": "skin",
           "file": "m9desert.png",
           "chance": 0.9,
@@ -470,18 +476,12 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T16:41:39.138Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T16:41:33.468Z"
         }
       ],
       "lastBonus": 1786272475133,
-      "lastCaseAt": 1786293746871,
+      "lastCaseAt": 1786293752895,
       "lastBoosterAt": 1786291105196,
-      "totalEarned": 1875300,
+      "totalEarned": 1875400,
       "memoryGame": {
         "board": [
           {
@@ -2298,21 +2298,9 @@
           "file": "royalspinner.png",
           "type": "booster",
           "at": "2026-08-09T15:13:44.744Z"
-        },
-        {
-          "file": "m9fire_0.png",
-          "type": "booster",
-          "at": "2026-08-09T16:42:33.028Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "m9fire_0.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-09T16:42:33.028Z"
-        },
         {
           "kind": "skin",
           "file": "royalspinner.png",
@@ -2368,12 +2356,18 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-09T14:55:23.236Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T14:55:15.960Z"
         }
       ],
       "lastBonus": 1786226289859,
       "lastCaseAt": 1786287428628,
       "username": "Pidor_play",
-      "lastBoosterAt": 1786293752725,
+      "lastBoosterAt": 1786288424306,
       "totalEarned": 1236100,
       "memoryGame": {
         "board": [
