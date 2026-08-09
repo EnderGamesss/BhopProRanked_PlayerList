@@ -5475,11 +5475,24 @@
     },
     "5921506870": {
       "name": "ErikmiT",
-      "coins": 45650,
+      "coins": 45350,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitforest.png",
+          "type": "knife",
+          "at": "2026-08-09T21:09:01.963Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T21:09:01.963Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -5534,16 +5547,10 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T21:07:36.902Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-09T21:07:29.164Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786309735989,
+      "lastCaseAt": 1786309741524,
       "lastBoosterAt": 0,
       "totalEarned": 51850,
       "memoryGame": null,
