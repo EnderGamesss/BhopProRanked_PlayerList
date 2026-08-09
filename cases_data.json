@@ -2111,7 +2111,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 4712150,
+      "coins": 4712400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2356,6 +2356,12 @@
           "kind": "coins",
           "amount": 250,
           "caseType": "knife",
+          "at": "2026-08-09T23:51:59.396Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
           "at": "2026-08-09T23:51:54.307Z"
         },
         {
@@ -2405,19 +2411,13 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-09T23:50:04.240Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T23:49:55.232Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786319513965,
+      "lastCaseAt": 1786319519396,
       "username": "Pidor_play",
       "lastBoosterAt": 1786295872893,
-      "totalEarned": 5375750,
+      "totalEarned": 5376000,
       "memoryGame": {
         "board": [
           {
@@ -6979,9 +6979,9 @@
       "bet": 500000,
       "turn": "6408582313",
       "challengerOpens": 1,
-      "opponentOpens": 0,
+      "opponentOpens": 1,
       "challengerTotal": 150,
-      "opponentTotal": 0,
+      "opponentTotal": 250,
       "results": [
         {
           "uid": "8624452786",
@@ -6990,9 +6990,17 @@
             "amount": 150
           },
           "earnings": 150
+        },
+        {
+          "uid": "6408582313",
+          "result": {
+            "kind": "coins",
+            "amount": 250
+          },
+          "earnings": 250
         }
       ],
-      "lastAction": 1786319508170
+      "lastAction": 1786319519396
     }
   }
 }
