@@ -1247,7 +1247,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 105700,
+      "coins": 105400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1260,9 +1260,21 @@
           "file": "ironaquaspinner.png",
           "type": "spinner",
           "at": "2026-08-09T06:32:48.613Z"
+        },
+        {
+          "file": "dangerspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T06:32:55.839Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "dangerspinner.png",
+          "chance": 0.2,
+          "caseType": "spinner",
+          "at": "2026-08-09T06:32:55.839Z"
+        },
         {
           "kind": "skin",
           "file": "ironaquaspinner.png",
@@ -1318,16 +1330,10 @@
           "chance": 2.5,
           "caseType": "spinner",
           "at": "2026-08-09T06:31:35.386Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "spinner",
-          "at": "2026-08-09T06:31:29.094Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786257168204,
+      "lastCaseAt": 1786257175574,
       "username": "Bonnifacay"
     }
   },
