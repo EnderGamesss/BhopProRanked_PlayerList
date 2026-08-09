@@ -4691,7 +4691,13 @@
       "coins": 2650,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "arrowspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T19:49:30.750Z"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -4762,55 +4768,25 @@
       "memoryGame": {
         "board": [
           {
-            "kind": "coins",
-            "amount": 500,
-            "weight": 20
-          },
-          {
-            "kind": "coins",
-            "amount": 250,
-            "weight": 20
-          },
-          {
             "kind": "skin",
-            "file": "prettyspinner.png",
-            "type": "spinner",
-            "price": 80000,
-            "weight": 4
-          },
-          {
-            "kind": "skin",
-            "file": "woodspinner.png",
-            "type": "spinner",
-            "price": 65000,
-            "weight": 4
-          },
-          {
-            "kind": "coins",
-            "amount": 150,
-            "weight": 20
-          },
-          {
-            "kind": "coins",
-            "amount": 500,
-            "weight": 20
-          },
-          {
-            "kind": "coins",
-            "amount": 750,
-            "weight": 20
-          },
-          {
-            "kind": "coins",
-            "amount": 250,
-            "weight": 20
-          },
-          {
-            "kind": "skin",
-            "file": "thumb-fairy.png",
+            "file": "thumb-bhopool.png",
             "type": "glove",
-            "price": 20000,
+            "price": 140000,
             "weight": 5
+          },
+          {
+            "kind": "skin",
+            "file": "m9koi.png",
+            "type": "knife",
+            "price": 15000,
+            "weight": 3
+          },
+          {
+            "kind": "skin",
+            "file": "butdesert.png",
+            "type": "knife",
+            "price": 2500,
+            "weight": 3
           },
           {
             "kind": "coins",
@@ -4824,20 +4800,51 @@
           },
           {
             "kind": "coins",
-            "amount": 750,
+            "amount": 100,
             "weight": 20
           },
           {
             "kind": "coins",
-            "amount": 150,
+            "amount": 200,
             "weight": 20
           },
           {
             "kind": "skin",
-            "file": "m9faded.png",
+            "file": "butdesert.png",
             "type": "knife",
-            "price": 245000,
+            "price": 2500,
+            "weight": 3
+          },
+          {
+            "kind": "skin",
+            "file": "karambitscratch.png",
+            "type": "knife",
+            "price": 299000,
             "weight": 2
+          },
+          {
+            "kind": "coins",
+            "amount": 250,
+            "weight": 20
+          },
+          {
+            "kind": "coins",
+            "amount": 200,
+            "weight": 20
+          },
+          {
+            "kind": "skin",
+            "file": "skullspinner.png",
+            "type": "spinner",
+            "price": 95000,
+            "weight": 4
+          },
+          {
+            "kind": "skin",
+            "file": "karambitsnake.png",
+            "type": "knife",
+            "price": 10000,
+            "weight": 3
           },
           {
             "kind": "coins",
@@ -4846,65 +4853,72 @@
           },
           {
             "kind": "skin",
-            "file": "m9faded.png",
+            "file": "karambitsnake.png",
             "type": "knife",
-            "price": 245000,
+            "price": 10000,
+            "weight": 3
+          },
+          {
+            "kind": "coins",
+            "amount": 200,
+            "weight": 20
+          },
+          {
+            "kind": "coins",
+            "amount": 200,
+            "weight": 20
+          },
+          {
+            "kind": "skin",
+            "file": "thumb-bhopool.png",
+            "type": "glove",
+            "price": 140000,
+            "weight": 5
+          },
+          {
+            "kind": "skin",
+            "file": "arrowspinner.png",
+            "type": "spinner",
+            "price": 50000,
+            "weight": 4
+          },
+          {
+            "kind": "skin",
+            "file": "arrowspinner.png",
+            "type": "spinner",
+            "price": 50000,
+            "weight": 4
+          },
+          {
+            "kind": "coins",
+            "amount": 100,
+            "weight": 20
+          },
+          {
+            "kind": "skin",
+            "file": "skullspinner.png",
+            "type": "spinner",
+            "price": 95000,
+            "weight": 4
+          },
+          {
+            "kind": "skin",
+            "file": "karambitscratch.png",
+            "type": "knife",
+            "price": 299000,
             "weight": 2
           },
           {
             "kind": "coins",
-            "amount": 750,
+            "amount": 1000,
             "weight": 20
           },
           {
             "kind": "skin",
-            "file": "m9snake.png",
+            "file": "m9koi.png",
             "type": "knife",
-            "price": 9000,
+            "price": 15000,
             "weight": 3
-          },
-          {
-            "kind": "coins",
-            "amount": 750,
-            "weight": 20
-          },
-          {
-            "kind": "skin",
-            "file": "m9snake.png",
-            "type": "knife",
-            "price": 9000,
-            "weight": 3
-          },
-          {
-            "kind": "coins",
-            "amount": 750,
-            "weight": 20
-          },
-          {
-            "kind": "skin",
-            "file": "woodspinner.png",
-            "type": "spinner",
-            "price": 65000,
-            "weight": 4
-          },
-          {
-            "kind": "skin",
-            "file": "prettyspinner.png",
-            "type": "spinner",
-            "price": 80000,
-            "weight": 4
-          },
-          {
-            "kind": "skin",
-            "file": "thumb-fairy.png",
-            "type": "glove",
-            "price": 20000,
-            "weight": 5
-          },
-          {
-            "kind": "coins",
-            "amount": 250,
-            "weight": 20
           }
         ],
         "revealed": [
@@ -4921,10 +4935,10 @@
           false,
           false,
           false,
-          true,
           false,
           false,
-          true,
+          false,
+          false,
           false,
           false,
           false,
@@ -4953,8 +4967,8 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
+          true,
           false,
           false,
           false,
@@ -4963,18 +4977,15 @@
         ],
         "target": {
           "kind": "skin",
-          "file": "m9snake.png",
-          "type": "knife",
-          "price": 9000,
-          "weight": 3
+          "file": "skullspinner.png",
+          "type": "spinner",
+          "price": 95000,
+          "weight": 4
         },
         "attempts": 6,
         "status": "playing",
-        "createdAt": 1786304923468,
-        "pendingHide": [
-          13,
-          16
-        ]
+        "createdAt": 1786304907265,
+        "pendingHide": null
       },
       "username": "bauparkur"
     },
