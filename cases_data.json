@@ -1231,7 +1231,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 6024850,
+      "coins": 6024650,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1257,6 +1257,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T11:27:07.320Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1312,18 +1318,12 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T11:23:52.332Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-09T11:23:47.301Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786274779171,
+      "lastCaseAt": 1786274826809,
       "lastBoosterAt": 1786268958649,
-      "totalEarned": 6464750,
+      "totalEarned": 6464850,
       "memoryGame": {
         "board": [
           {
@@ -2328,7 +2328,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 2979400,
+      "coins": 2979200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2401,12 +2401,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-09T11:27:06.176Z"
-        },
-        {
-          "kind": "coins",
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T11:26:57.788Z"
@@ -2461,13 +2455,19 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T11:25:42.627Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-09T11:25:36.253Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786274825934,
+      "lastCaseAt": 1786274817519,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786273267968,
-      "totalEarned": 3178700,
+      "totalEarned": 3178200,
       "memoryGame": {
         "board": [
           {
@@ -3102,6 +3102,11 @@
           "file": "karambitsaphire.png",
           "type": "knife",
           "at": "2026-08-09T11:23:55.004Z"
+        },
+        {
+          "file": "dangerspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T11:27:05.503Z"
         }
       ],
       "history": [
@@ -3375,12 +3380,12 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           true,
           true,
-          false,
+          true,
           false,
           false,
           true
@@ -3392,7 +3397,7 @@
           "price": 100000,
           "weight": 3
         },
-        "attempts": 6,
+        "attempts": 5,
         "status": "playing",
         "createdAt": 1786274213033,
         "pendingHide": null
