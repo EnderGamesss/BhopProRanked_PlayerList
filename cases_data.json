@@ -2568,6 +2568,11 @@
           "file": "m9desert.png",
           "type": "knife",
           "at": "2026-08-09T15:21:11.386Z"
+        },
+        {
+          "file": "butsnake.png",
+          "type": "knife",
+          "at": "2026-08-09T15:24:11.964Z"
         }
       ],
       "history": [
@@ -2841,8 +2846,8 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
+          true,
           false,
           false,
           false,
@@ -2856,9 +2861,10 @@
           "price": 16000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1786284559735
+        "createdAt": 1786284559735,
+        "pendingHide": null
       }
     },
     "7886451818": {
