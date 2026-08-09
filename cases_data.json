@@ -185,7 +185,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 1629700,
+      "coins": 1629500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -372,6 +372,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T16:33:25.951Z"
+        },
+        {
           "kind": "skin",
           "file": "karambitforest.png",
           "chance": 0.9,
@@ -426,18 +432,12 @@
           "chance": 0.25,
           "caseType": "knife",
           "at": "2026-08-09T16:32:31.881Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-09T16:32:25.863Z"
         }
       ],
       "lastBonus": 1786272475133,
-      "lastCaseAt": 1786293199533,
+      "lastCaseAt": 1786293205532,
       "lastBoosterAt": 1786291105196,
-      "totalEarned": 1857100,
+      "totalEarned": 1857200,
       "memoryGame": {
         "board": [
           {
@@ -1616,10 +1616,26 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 10267150,
+      "coins": 10104650,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitdesert.png",
+          "type": "knife",
+          "at": "2026-08-09T16:08:23.635Z"
+        },
+        {
+          "file": "prettyspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T16:32:46.827Z"
+        },
+        {
+          "file": "prettyspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T16:33:12.193Z"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -1689,7 +1705,7 @@
       "lastBonus": 1786259491073,
       "lastCaseAt": 1786293143316,
       "lastBoosterAt": 1786291013731,
-      "totalEarned": 10920650,
+      "totalEarned": 10758150,
       "memoryGame": {
         "board": [
           {
