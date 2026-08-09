@@ -1379,7 +1379,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 835050,
+      "coins": 835250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1405,6 +1405,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-09T09:50:51.260Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -1458,20 +1464,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T09:49:17.247Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitforest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-09T09:49:09.814Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786269041548,
+      "lastCaseAt": 1786269051260,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786268615161,
-      "totalEarned": 7650,
+      "totalEarned": 7850,
       "memoryGame": null
     },
     "7886451818": {
@@ -2003,9 +2002,9 @@
       "bet": 100000,
       "turn": "6335884130",
       "challengerOpens": 2,
-      "opponentOpens": 1,
+      "opponentOpens": 2,
       "challengerTotal": 450,
-      "opponentTotal": 250,
+      "opponentTotal": 450,
       "results": [
         {
           "uid": "7307808447",
@@ -2025,6 +2024,14 @@
         },
         {
           "uid": "7307808447",
+          "result": {
+            "kind": "coins",
+            "amount": 200
+          },
+          "earnings": 200
+        },
+        {
+          "uid": "6335884130",
           "result": {
             "kind": "coins",
             "amount": 200
