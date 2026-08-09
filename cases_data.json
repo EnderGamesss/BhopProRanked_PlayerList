@@ -1821,7 +1821,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 456350,
+      "coins": 456050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1849,9 +1849,21 @@
           "file": "thumb-basic-spinner-5.png",
           "type": "spinner",
           "at": "2026-08-09T10:56:06.391Z"
+        },
+        {
+          "file": "woodspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T10:56:13.764Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "woodspinner.png",
+          "chance": 0.6,
+          "caseType": "spinner",
+          "at": "2026-08-09T10:56:13.764Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-basic-spinner-5.png",
@@ -1910,16 +1922,10 @@
           "chance": 0.5,
           "caseType": "spinner",
           "at": "2026-08-08T22:01:25.286Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-08T21:54:47.116Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786272965865,
+      "lastCaseAt": 1786272973529,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
       "totalEarned": 10650,
