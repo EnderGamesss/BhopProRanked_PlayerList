@@ -3437,7 +3437,7 @@
     },
     "7231392817": {
       "name": "Нейрохам",
-      "coins": 51450,
+      "coins": 51150,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3450,9 +3450,21 @@
           "file": "karambittiger.png",
           "type": "knife",
           "at": "2026-08-09T12:35:12.858Z"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "knife",
+          "at": "2026-08-09T12:35:31.516Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T12:35:31.516Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -3510,16 +3522,10 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-09T12:34:05.832Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T12:33:57.422Z"
         }
       ],
       "lastBonus": 1786278200045,
-      "lastCaseAt": 1786278924046,
+      "lastCaseAt": 1786278931258,
       "lastBoosterAt": 1786278307471,
       "totalEarned": 56750,
       "memoryGame": null,
