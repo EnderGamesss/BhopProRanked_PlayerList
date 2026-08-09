@@ -3141,7 +3141,13 @@
       "coins": 3076400,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9desert.png",
+          "type": "knife",
+          "at": "2026-08-09T11:52:25.891Z"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -3410,6 +3416,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -3419,8 +3426,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false
@@ -3432,9 +3438,10 @@
           "price": 12000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1786276200167
+        "createdAt": 1786276200167,
+        "pendingHide": null
       },
       "username": "bogdansert"
     },
