@@ -1205,7 +1205,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 5285650,
+      "coins": 5285800,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1231,6 +1231,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "spinner",
+          "at": "2026-08-09T10:55:46.547Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1287,18 +1293,12 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T10:47:28.878Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-09T10:47:22.123Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786272935695,
+      "lastCaseAt": 1786272946547,
       "lastBoosterAt": 1786268958649,
-      "totalEarned": 5686850,
+      "totalEarned": 5687000,
       "memoryGame": {
         "board": [
           {
@@ -1821,7 +1821,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 457650,
+      "coins": 456950,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1842,12 +1842,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "spinner",
-          "at": "2026-08-09T10:55:45.811Z"
-        },
         {
           "kind": "coins",
           "amount": 150,
@@ -1904,13 +1898,19 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-08T21:54:41.132Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "spinner",
+          "at": "2026-08-08T21:52:49.643Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786272945282,
+      "lastCaseAt": 1786272932647,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
-      "totalEarned": 11650,
+      "totalEarned": 10650,
       "memoryGame": {
         "board": [
           {
@@ -3497,9 +3497,9 @@
       "bet": 500000,
       "turn": "8708014655",
       "challengerOpens": 3,
-      "opponentOpens": 2,
+      "opponentOpens": 3,
       "challengerTotal": 1350,
-      "opponentTotal": 1100,
+      "opponentTotal": 1250,
       "results": [
         {
           "uid": "8347129286",
@@ -3540,9 +3540,17 @@
             "amount": 100
           },
           "earnings": 100
+        },
+        {
+          "uid": "8708014655",
+          "result": {
+            "kind": "coins",
+            "amount": 150
+          },
+          "earnings": 150
         }
       ],
-      "lastAction": 1786272940360
+      "lastAction": 1786272946547
     }
   }
 }
