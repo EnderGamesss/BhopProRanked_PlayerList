@@ -1508,6 +1508,11 @@
           "file": "karambittiger.png",
           "type": "knife",
           "at": "2026-08-09T15:33:38.834Z"
+        },
+        {
+          "file": "m9koi.png",
+          "type": "knife",
+          "at": "2026-08-09T15:34:27.078Z"
         }
       ],
       "history": [
@@ -1772,8 +1777,8 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
+          true,
           false,
           false
         ],
@@ -1782,7 +1787,7 @@
           "amount": 200,
           "weight": 20
         },
-        "attempts": 5,
+        "attempts": 3,
         "status": "playing",
         "createdAt": 1786289599080,
         "pendingHide": null
