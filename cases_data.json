@@ -1221,7 +1221,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 5423450,
+      "coins": 5398450,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -2722,7 +2722,7 @@
     },
     "8347129286": {
       "name": "s10",
-      "coins": 325150,
+      "coins": 300150,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3555,14 +3555,20 @@
     "duel_1786273159813_8708014655": {
       "challenger": "8708014655",
       "opponent": "8347129286",
-      "status": "bet_confirm",
+      "status": "active",
       "createdAt": 1786273159813,
       "choices": {
         "8708014655": "spinner",
         "8347129286": "spinner"
       },
       "chosenType": "spinner",
-      "bet": 25000
+      "bet": 25000,
+      "turn": "8708014655",
+      "challengerOpens": 0,
+      "opponentOpens": 0,
+      "challengerTotal": 0,
+      "opponentTotal": 0,
+      "results": []
     }
   }
 }
