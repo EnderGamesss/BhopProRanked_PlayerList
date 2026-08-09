@@ -1605,7 +1605,7 @@
     },
     "8347129286": {
       "name": "s10",
-      "coins": 824200,
+      "coins": 824100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1616,6 +1616,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-09T09:23:33.067Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-Swat.png",
@@ -1671,16 +1677,10 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-09T09:20:51.117Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-09T09:20:44.144Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786267370417,
+      "lastCaseAt": 1786267412853,
       "username": "pastanal"
     }
   },
