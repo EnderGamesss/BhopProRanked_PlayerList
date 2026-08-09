@@ -1180,17 +1180,11 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 6604750,
+      "coins": 6604550,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-09T12:32:13.844Z"
-        },
         {
           "kind": "skin",
           "file": "butruby.png",
@@ -1245,12 +1239,18 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T12:29:03.502Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T12:28:57.090Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786278733625,
+      "lastCaseAt": 1786278720549,
       "lastBoosterAt": 1786278007448,
-      "totalEarned": 7091150,
+      "totalEarned": 7090650,
       "memoryGame": {
         "board": [
           {
@@ -1776,7 +1776,13 @@
       "coins": 1405300,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "ironaquaspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T12:32:15.496Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -2032,7 +2038,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2049,7 +2055,7 @@
           false,
           true,
           false,
-          false,
+          true,
           false,
           false,
           false
@@ -2220,7 +2226,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 3887800,
+      "coins": 3887600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2231,6 +2237,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T12:32:13.770Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -2284,19 +2296,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T12:30:50.840Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T12:30:43.242Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786278727496,
+      "lastCaseAt": 1786278733554,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786276100726,
-      "totalEarned": 4053400,
+      "totalEarned": 4053500,
       "memoryGame": {
         "board": [
           {
