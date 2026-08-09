@@ -1503,7 +1503,13 @@
       "coins": 9563350,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitbreak.png",
+          "type": "knife",
+          "at": "2026-08-09T15:47:23.090Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -1733,7 +1739,7 @@
           false,
           false,
           false,
-          true,
+          false,
           false,
           false,
           false,
@@ -1754,10 +1760,10 @@
           false,
           false,
           false,
-          false,
+          true,
           true,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1782,7 +1788,7 @@
           "amount": 150,
           "weight": 20
         },
-        "attempts": 4,
+        "attempts": 3,
         "status": "playing",
         "createdAt": 1786290394363,
         "pendingHide": null
