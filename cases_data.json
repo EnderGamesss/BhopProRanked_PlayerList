@@ -2516,6 +2516,11 @@
           "file": "butsnake.png",
           "type": "knife",
           "at": "2026-08-09T13:56:05.722Z"
+        },
+        {
+          "file": "thumb-fairy.png",
+          "type": "glove",
+          "at": "2026-08-09T13:56:12.589Z"
         }
       ],
       "history": [
@@ -2792,7 +2797,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2805,7 +2810,7 @@
           false,
           false,
           false,
-          false
+          true
         ],
         "target": {
           "kind": "skin",
@@ -2814,7 +2819,7 @@
           "price": 10000,
           "weight": 3
         },
-        "attempts": 3,
+        "attempts": 2,
         "status": "playing",
         "createdAt": 1786283748111,
         "pendingHide": null
