@@ -87,7 +87,7 @@
     },
     "939363878": {
       "name": "Эллис",
-      "coins": 802300,
+      "coins": 802000,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -95,9 +95,21 @@
           "file": "butdesert.png",
           "type": "knife",
           "at": "2026-08-09T09:50:40.205Z"
+        },
+        {
+          "file": "karambitkoi.png",
+          "type": "knife",
+          "at": "2026-08-09T09:51:00.511Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitkoi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-08-09T09:51:00.511Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -154,18 +166,11 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T09:40:13.262Z"
-        },
-        {
-          "kind": "skin",
-          "file": "butdesert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-09T09:39:58.532Z"
         }
       ],
       "lastBonus": 1786216214657,
       "username": "cazuso",
-      "lastCaseAt": 1786269055049,
+      "lastCaseAt": 1786269060127,
       "lastBoosterAt": 0,
       "totalEarned": 424450,
       "memoryGame": null
