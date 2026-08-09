@@ -2417,7 +2417,7 @@
     },
     "8624452786": {
       "name": "ор щет",
-      "coins": 303750,
+      "coins": 303450,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2445,9 +2445,21 @@
           "file": "karambit-hotline.png",
           "type": "knife",
           "at": "2026-08-09T20:35:26.306Z"
+        },
+        {
+          "file": "karambitdesert.png",
+          "type": "knife",
+          "at": "2026-08-09T20:45:16.229Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T20:45:16.229Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -2502,16 +2514,10 @@
           "amount": 1000,
           "caseType": "knife",
           "at": "2026-08-09T20:38:35.368Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T20:38:27.699Z"
         }
       ],
       "lastBonus": 1786281511849,
-      "lastCaseAt": 1786308001711,
+      "lastCaseAt": 1786308315988,
       "username": "orzett",
       "lastBoosterAt": 1786305808953,
       "totalEarned": 427350,
