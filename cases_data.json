@@ -1546,7 +1546,7 @@
     },
     "8347129286": {
       "name": "s10",
-      "coins": 11250,
+      "coins": 11050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1587,6 +1587,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "spinner",
+          "at": "2026-08-09T09:00:04.209Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1640,17 +1646,10 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-09T08:59:08.054Z"
-        },
-        {
-          "kind": "skin",
-          "file": "skullspinner.png",
-          "chance": 0.4,
-          "caseType": "spinner",
-          "at": "2026-08-09T08:58:53.287Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786265997471,
+      "lastCaseAt": 1786266003998,
       "username": "pastanal"
     }
   },
