@@ -2435,7 +2435,7 @@
     },
     "8624452786": {
       "name": "ор щет",
-      "coins": 346150,
+      "coins": 346850,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2471,6 +2471,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 1000,
+          "caseType": "knife",
+          "at": "2026-08-09T21:06:08.436Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -2524,19 +2530,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T21:04:01.692Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T21:03:54.832Z"
         }
       ],
       "lastBonus": 1786281511849,
-      "lastCaseAt": 1786309557763,
+      "lastCaseAt": 1786309567930,
       "username": "orzett",
       "lastBoosterAt": 1786305808953,
-      "totalEarned": 498250,
+      "totalEarned": 499250,
       "memoryGame": null
     },
     "5624673181": {
@@ -5457,17 +5457,11 @@
     },
     "5921506870": {
       "name": "ErikmiT",
-      "coins": 45250,
+      "coins": 45450,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T21:06:08.296Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -5521,12 +5515,19 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-09T21:04:44.233Z"
+        },
+        {
+          "kind": "skin",
+          "file": "ironaquaspinner.png",
+          "chance": 1,
+          "caseType": "spinner",
+          "at": "2026-08-09T21:04:35.365Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786309567835,
+      "lastCaseAt": 1786309561881,
       "lastBoosterAt": 0,
-      "totalEarned": 48150,
+      "totalEarned": 48050,
       "memoryGame": null,
       "username": "hozud"
     }
