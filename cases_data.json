@@ -2502,8 +2502,21 @@
       "coins": 6402050,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitkoi.png",
+          "type": "booster",
+          "at": "2026-08-09T14:13:55.985Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitkoi.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-09T14:13:55.985Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -2559,18 +2572,12 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-09T13:48:31.443Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-09T13:48:24.051Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786283417298,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1786282790936,
+      "lastBoosterAt": 1786284835734,
       "totalEarned": 6599450,
       "memoryGame": {
         "board": [
