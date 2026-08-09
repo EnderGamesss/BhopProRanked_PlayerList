@@ -979,7 +979,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 5007900,
+      "coins": 5007600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1037,9 +1037,21 @@
           "file": "karambitmonster.png",
           "type": "knife",
           "at": "2026-08-09T10:27:52.983Z"
+        },
+        {
+          "file": "m9razor.png",
+          "type": "knife",
+          "at": "2026-08-09T10:28:27.295Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9razor.png",
+          "chance": 0.05,
+          "caseType": "knife",
+          "at": "2026-08-09T10:28:27.295Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -1095,17 +1107,10 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T10:27:18.706Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitkoi.png",
-          "chance": 0.25,
-          "caseType": "knife",
-          "at": "2026-08-09T10:27:13.480Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786271295636,
+      "lastCaseAt": 1786271306750,
       "lastBoosterAt": 1786268958649,
       "totalEarned": 4905600,
       "memoryGame": {
