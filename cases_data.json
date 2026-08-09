@@ -3337,7 +3337,7 @@
     },
     "6086452992": {
       "name": "Fatal",
-      "coins": 700,
+      "coins": 600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3349,6 +3349,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-09T12:07:46.686Z"
+        },
+        {
           "kind": "skin",
           "file": "thumb-bluestar.png",
           "chance": 2.5,
@@ -3357,9 +3363,9 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786276724641,
+      "lastCaseAt": 1786277266279,
       "lastBoosterAt": 0,
-      "totalEarned": 0,
+      "totalEarned": 200,
       "memoryGame": null,
       "username": "FatalADS"
     },
