@@ -185,7 +185,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 1655000,
+      "coins": 1655150,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -211,12 +211,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-09T16:04:08.064Z"
-        },
         {
           "kind": "coins",
           "amount": 150,
@@ -270,12 +264,18 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T16:03:08.165Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-09T16:03:01.868Z"
         }
       ],
       "lastBonus": 1786272475133,
-      "lastCaseAt": 1786291447755,
+      "lastCaseAt": 1786291435824,
       "lastBoosterAt": 1786291105196,
-      "totalEarned": 1803500,
+      "totalEarned": 1803350,
       "memoryGame": {
         "board": [
           {
@@ -1693,31 +1693,31 @@
           }
         ],
         "revealed": [
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
           true,
           true,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
         ],
         "matched": [
           false,
@@ -1751,13 +1751,11 @@
           "amount": 250,
           "weight": 20
         },
-        "attempts": 2,
-        "status": "playing",
+        "attempts": 0,
+        "status": "lost",
         "createdAt": 1786291410430,
-        "pendingHide": [
-          8,
-          9
-        ]
+        "pendingHide": null,
+        "endedAt": 1786291448438
       }
     },
     "6703298995": {
