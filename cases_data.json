@@ -3263,7 +3263,7 @@
     },
     "6086452992": {
       "name": "Fatal",
-      "coins": 248400,
+      "coins": 248100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3271,9 +3271,21 @@
           "file": "ironaquaspinner.png",
           "type": "spinner",
           "at": "2026-08-09T12:14:52.098Z"
+        },
+        {
+          "file": "woodspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T12:15:49.018Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "woodspinner.png",
+          "chance": 0.6,
+          "caseType": "spinner",
+          "at": "2026-08-09T12:15:49.018Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -3328,16 +3340,10 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-09T12:14:24.387Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "spinner",
-          "at": "2026-08-09T12:14:17.017Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786277727840,
+      "lastCaseAt": 1786277748616,
       "lastBoosterAt": 0,
       "totalEarned": 254300,
       "memoryGame": null,
