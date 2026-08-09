@@ -756,11 +756,24 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 5012500,
+      "coins": 5012200,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butforest.png",
+          "type": "knife",
+          "at": "2026-08-09T10:21:18.275Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T10:21:18.275Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -815,16 +828,10 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T10:19:25.310Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-09T10:19:14.643Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786270828960,
+      "lastCaseAt": 1786270877914,
       "lastBoosterAt": 1786268958649,
       "totalEarned": 1433550,
       "memoryGame": {
@@ -1583,7 +1590,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 1746500,
+      "coins": 1746550,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1666,12 +1673,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-09T10:21:17.246Z"
-        },
-        {
-          "kind": "coins",
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-09T10:21:10.393Z"
@@ -1724,13 +1725,19 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T10:19:58.778Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-09T10:19:52.249Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786270876912,
+      "lastCaseAt": 1786270870043,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786268615161,
-      "totalEarned": 1046100,
+      "totalEarned": 1045850,
       "memoryGame": {
         "board": [
           {
