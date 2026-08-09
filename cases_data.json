@@ -2335,7 +2335,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 2977550,
+      "coins": 2977350,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2425,6 +2425,12 @@
           "kind": "coins",
           "amount": 100,
           "caseType": "knife",
+          "at": "2026-08-09T11:33:56.702Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
           "at": "2026-08-09T11:31:33.404Z"
         },
         {
@@ -2475,20 +2481,13 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-09T11:27:56.730Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitforest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-09T11:27:43.438Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786275092962,
+      "lastCaseAt": 1786275236426,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786273267968,
-      "totalEarned": 3180450,
+      "totalEarned": 3180550,
       "memoryGame": {
         "board": [
           {
@@ -3115,7 +3114,7 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 1388250,
+      "coins": 1387250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3217,7 +3216,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786274904896,
       "lastBoosterAt": 1786274323582,
-      "totalEarned": 1396250,
+      "totalEarned": 1395250,
       "memoryGame": {
         "board": [
           {
@@ -3407,9 +3406,10 @@
         ],
         "matched": [
           true,
+          true,
+          true,
           false,
-          false,
-          false,
+          true,
           false,
           true,
           false,
@@ -3417,10 +3417,6 @@
           true,
           false,
           true,
-          false,
-          false,
-          false,
-          false,
           true,
           true,
           true,
@@ -3428,8 +3424,11 @@
           true,
           true,
           true,
-          false,
-          false,
+          true,
+          true,
+          true,
+          true,
+          true,
           true
         ],
         "target": {
@@ -3439,7 +3438,7 @@
           "price": 100000,
           "weight": 3
         },
-        "attempts": 1,
+        "attempts": 4,
         "status": "playing",
         "createdAt": 1786274213033,
         "pendingHide": null
