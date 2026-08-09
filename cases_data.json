@@ -2213,7 +2213,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 3765800,
+      "coins": 3765700,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2229,6 +2229,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-09T12:15:44.063Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -2282,19 +2288,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T12:12:25.955Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-09T12:12:18.877Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786277735237,
+      "lastCaseAt": 1786277743570,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786276100726,
-      "totalEarned": 3905600,
+      "totalEarned": 3905800,
       "memoryGame": {
         "board": [
           {
@@ -3263,7 +3263,7 @@
     },
     "6086452992": {
       "name": "Fatal",
-      "coins": 248250,
+      "coins": 248400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3274,12 +3274,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-09T12:15:43.026Z"
-        },
         {
           "kind": "coins",
           "amount": 150,
@@ -3334,12 +3328,18 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-09T12:14:24.387Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "spinner",
+          "at": "2026-08-09T12:14:17.017Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786277742722,
+      "lastCaseAt": 1786277727840,
       "lastBoosterAt": 0,
-      "totalEarned": 254450,
+      "totalEarned": 254300,
       "memoryGame": null,
       "username": "FatalADS"
     },
