@@ -87,7 +87,7 @@
     },
     "939363878": {
       "name": "Эллис",
-      "coins": 1597200,
+      "coins": 1597400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -103,12 +103,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T12:35:02.239Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -163,13 +157,19 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-09T12:33:31.822Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-08-09T12:33:24.214Z"
         }
       ],
       "lastBonus": 1786216214657,
       "username": "cazuso",
-      "lastCaseAt": 1786278902058,
+      "lastCaseAt": 1786278889317,
       "lastBoosterAt": 1786278633705,
-      "totalEarned": 1267650,
+      "totalEarned": 1267550,
       "memoryGame": null
     },
     "1721484630": {
@@ -3432,17 +3432,24 @@
     },
     "7231392817": {
       "name": "Нейрохам",
-      "coins": 50200,
+      "coins": 51900,
       "luck": 1,
       "boosts": [],
       "inventory": [
         {
           "file": "butforest.png",
           "type": "knife",
-          "at": "2026-08-09T12:34:55.182Z"
+          "at": "2026-08-09T12:35:04.806Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T12:35:04.806Z"
+        },
         {
           "kind": "skin",
           "file": "butforest.png",
@@ -3498,18 +3505,12 @@
           "amount": 1000,
           "caseType": "knife",
           "at": "2026-08-09T12:27:24.609Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-09T12:27:17.058Z"
         }
       ],
       "lastBonus": 1786278200045,
-      "lastCaseAt": 1786278894754,
+      "lastCaseAt": 1786278904573,
       "lastBoosterAt": 1786278307471,
-      "totalEarned": 54600,
+      "totalEarned": 56600,
       "memoryGame": null,
       "username": "APECTOBAH_3A_BENZIH"
     }
