@@ -2739,7 +2739,7 @@
     },
     "8347129286": {
       "name": "s10",
-      "coins": 324650,
+      "coins": 324900,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2755,6 +2755,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "spinner",
+          "at": "2026-08-09T10:55:26.871Z"
+        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -2809,20 +2815,13 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-09T09:23:33.067Z"
-        },
-        {
-          "kind": "skin",
-          "file": "thumb-Swat.png",
-          "chance": 7,
-          "caseType": "glove",
-          "at": "2026-08-09T09:22:50.637Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786272913089,
+      "lastCaseAt": 1786272926871,
       "username": "pastanal",
       "lastBoosterAt": 0,
-      "totalEarned": 1000,
+      "totalEarned": 1250,
       "memoryGame": null
     },
     "6918450813": {
@@ -3497,9 +3496,9 @@
       "chosenType": "spinner",
       "bet": 500000,
       "turn": "8347129286",
-      "challengerOpens": 1,
+      "challengerOpens": 2,
       "opponentOpens": 1,
-      "challengerTotal": 1000,
+      "challengerTotal": 1250,
       "opponentTotal": 1000,
       "results": [
         {
@@ -3517,9 +3516,17 @@
             "amount": 1000
           },
           "earnings": 1000
+        },
+        {
+          "uid": "8347129286",
+          "result": {
+            "kind": "coins",
+            "amount": 250
+          },
+          "earnings": 250
         }
       ],
-      "lastAction": 1786272920853
+      "lastAction": 1786272926871
     }
   }
 }
