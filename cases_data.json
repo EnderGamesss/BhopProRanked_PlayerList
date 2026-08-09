@@ -1225,7 +1225,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 5421800,
+      "coins": 5422100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1238,21 +1238,9 @@
           "file": "m9snake.png",
           "type": "knife",
           "at": "2026-08-09T11:01:01.267Z"
-        },
-        {
-          "file": "m9desert.png",
-          "type": "knife",
-          "at": "2026-08-09T11:01:52.147Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "m9desert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-09T11:01:52.147Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -1308,10 +1296,16 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-09T11:00:16.659Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-09T11:00:11.432Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786273311903,
+      "lastCaseAt": 1786273305532,
       "lastBoosterAt": 1786268958649,
       "totalEarned": 5826900,
       "memoryGame": {
@@ -1836,7 +1830,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 790750,
+      "coins": 790450,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1849,9 +1843,21 @@
           "file": "thumb-Military.png",
           "type": "glove",
           "at": "2026-08-09T11:01:37.341Z"
+        },
+        {
+          "file": "thumb-fairy.png",
+          "type": "glove",
+          "at": "2026-08-09T11:01:52.658Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-fairy.png",
+          "chance": 1.4,
+          "caseType": "glove",
+          "at": "2026-08-09T11:01:52.658Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-Military.png",
@@ -1907,16 +1913,10 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-08-09T11:00:06.958Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-08-09T10:59:59.518Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786273296920,
+      "lastCaseAt": 1786273312278,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
       "totalEarned": 354650,
