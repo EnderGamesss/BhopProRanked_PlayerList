@@ -3129,6 +3129,11 @@
           "file": "m9skullskin.png",
           "type": "knife",
           "at": "2026-08-09T11:38:52.620Z"
+        },
+        {
+          "file": "thumb-Mercenery.png",
+          "type": "glove",
+          "at": "2026-08-09T11:43:22.340Z"
         }
       ],
       "history": [
@@ -3383,9 +3388,9 @@
           false,
           false,
           false,
+          true,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -3412,9 +3417,10 @@
           "price": 2500,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
-        "createdAt": 1786275766845
+        "createdAt": 1786275766845,
+        "pendingHide": null
       },
       "username": "bogdansert"
     },
