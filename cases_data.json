@@ -2042,7 +2042,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 1882300,
+      "coins": 1882000,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2320,9 +2320,21 @@
           "file": "m9snake.png",
           "type": "knife",
           "at": "2026-08-09T18:49:16.284Z"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "knife",
+          "at": "2026-08-09T18:50:07.785Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T18:50:07.785Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -2377,16 +2389,10 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T18:49:00.862Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "knife",
-          "at": "2026-08-09T18:48:53.412Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786301399706,
+      "lastCaseAt": 1786301407296,
       "username": "Pidor_play",
       "lastBoosterAt": 1786295872893,
       "totalEarned": 1730000,
