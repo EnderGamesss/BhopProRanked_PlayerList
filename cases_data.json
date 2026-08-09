@@ -168,8 +168,21 @@
       "coins": 824200,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-joke.png",
+          "type": "booster",
+          "at": "2026-08-09T12:14:25.088Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-joke.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-09T12:14:25.088Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -223,18 +236,11 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T11:53:46.352Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambit-hotline.png",
-          "chance": 0.05,
-          "caseType": "knife",
-          "at": "2026-08-09T11:53:40.226Z"
         }
       ],
       "lastBonus": 1786272475133,
       "lastCaseAt": 1786276538140,
-      "lastBoosterAt": 1786275674618,
+      "lastBoosterAt": 1786277664616,
       "totalEarned": 889900,
       "memoryGame": {
         "board": [
@@ -3269,17 +3275,11 @@
     },
     "6086452992": {
       "name": "Fatal",
-      "coins": 249250,
+      "coins": 249350,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-09T12:14:24.387Z"
-        },
         {
           "kind": "coins",
           "amount": 250,
@@ -3333,12 +3333,18 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T12:08:33.950Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T12:08:27.164Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786277663967,
+      "lastCaseAt": 1786277656509,
       "lastBoosterAt": 0,
-      "totalEarned": 252750,
+      "totalEarned": 252550,
       "memoryGame": null,
       "username": "FatalADS"
     },
