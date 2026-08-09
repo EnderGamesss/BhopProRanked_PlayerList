@@ -1231,7 +1231,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 6024300,
+      "coins": 6024200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1257,6 +1257,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-09T11:29:43.070Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -1311,18 +1317,12 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-09T11:25:38.028Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-09T11:25:32.904Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786274977083,
+      "lastCaseAt": 1786274982782,
       "lastBoosterAt": 1786268958649,
-      "totalEarned": 6465700,
+      "totalEarned": 6465900,
       "memoryGame": {
         "board": [
           {
@@ -1845,7 +1845,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 831250,
+      "coins": 831550,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1898,21 +1898,9 @@
           "file": "thumb-basic-spinner-5.png",
           "type": "spinner",
           "at": "2026-08-09T11:29:26.795Z"
-        },
-        {
-          "file": "arrowspinner.png",
-          "type": "spinner",
-          "at": "2026-08-09T11:29:42.004Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "arrowspinner.png",
-          "chance": 0.6,
-          "caseType": "spinner",
-          "at": "2026-08-09T11:29:42.004Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -1969,10 +1957,16 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-09T11:28:31.090Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "spinner",
+          "at": "2026-08-09T11:28:23.599Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786274981550,
+      "lastCaseAt": 1786274974007,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
       "totalEarned": 416150,
