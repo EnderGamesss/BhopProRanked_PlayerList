@@ -2591,6 +2591,11 @@
           "file": "m9snake.png",
           "type": "knife",
           "at": "2026-08-09T13:49:39.716Z"
+        },
+        {
+          "file": "thumb-North.png",
+          "type": "glove",
+          "at": "2026-08-09T13:50:49.185Z"
         }
       ],
       "history": [
@@ -2848,14 +2853,14 @@
         "matched": [
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
           true,
           false,
           true,
-          false,
+          true,
           false,
           false,
           false,
@@ -2879,9 +2884,10 @@
           "price": 100000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1786280888245
+        "createdAt": 1786280888245,
+        "pendingHide": null
       }
     },
     "7886451818": {
