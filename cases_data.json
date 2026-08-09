@@ -2301,11 +2301,17 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 3768450,
+      "coins": 3768650,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-08-09T12:08:17.673Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2360,19 +2366,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T12:06:02.329Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T12:05:54.920Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786277285368,
+      "lastCaseAt": 1786277297184,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786276100726,
-      "totalEarned": 3899850,
+      "totalEarned": 3900350,
       "memoryGame": {
         "board": [
           {
@@ -3348,7 +3348,7 @@
     },
     "6086452992": {
       "name": "Fatal",
-      "coins": 240750,
+      "coins": 750,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3356,6 +3356,11 @@
           "file": "thumb-bluestar.png",
           "type": "glove",
           "at": "2026-08-09T11:58:45.127Z"
+        },
+        {
+          "file": "karambit-hotline.png",
+          "type": "knife",
+          "at": "2026-08-09T12:08:03.629Z"
         }
       ],
       "history": [
@@ -3389,7 +3394,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786277283157,
       "lastBoosterAt": 0,
-      "totalEarned": 240950,
+      "totalEarned": 950,
       "memoryGame": null,
       "username": "FatalADS"
     },
