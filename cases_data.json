@@ -1730,7 +1730,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1780,9 +1780,13 @@
           "price": 50000,
           "weight": 4
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
-        "createdAt": 1786307167563
+        "createdAt": 1786307167563,
+        "pendingHide": [
+          10,
+          15
+        ]
       }
     },
     "6703298995": {
