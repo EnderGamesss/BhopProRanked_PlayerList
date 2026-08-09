@@ -1819,7 +1819,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 829900,
+      "coins": 829750,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1882,6 +1882,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 150,
+          "caseType": "spinner",
+          "at": "2026-08-09T11:48:09.892Z"
+        },
+        {
+          "kind": "coins",
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-09T11:48:00.609Z"
@@ -1933,19 +1939,13 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-09T11:46:38.801Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-09T11:46:30.536Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786276080304,
+      "lastCaseAt": 1786276089507,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
-      "totalEarned": 420200,
+      "totalEarned": 420350,
       "memoryGame": {
         "board": [
           {
@@ -3126,7 +3126,7 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 3073300,
+      "coins": 3072300,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -3197,7 +3197,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786274904896,
       "lastBoosterAt": 1786274323582,
-      "totalEarned": 3081300,
+      "totalEarned": 3080300,
       "memoryGame": {
         "board": [
           {
@@ -3391,16 +3391,16 @@
           false,
           false,
           false,
-          true,
-          false,
-          false,
-          true,
-          false,
-          false,
           false,
           false,
           false,
           true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
           false,
           false,
           false,
@@ -3417,7 +3417,7 @@
           "price": 9000,
           "weight": 3
         },
-        "attempts": 4,
+        "attempts": 5,
         "status": "playing",
         "createdAt": 1786275974418,
         "pendingHide": null
