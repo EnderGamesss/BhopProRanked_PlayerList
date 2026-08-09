@@ -1485,7 +1485,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 10754250,
+      "coins": 10754050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1496,6 +1496,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T20:44:00.841Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -1549,18 +1555,12 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-08-09T20:42:23.672Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-09T20:42:18.619Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786308235180,
+      "lastCaseAt": 1786308240344,
       "lastBoosterAt": 1786305613935,
-      "totalEarned": 11349750,
+      "totalEarned": 11349850,
       "memoryGame": {
         "board": [
           {
@@ -5047,7 +5047,7 @@
     },
     "7692376723": {
       "name": "Типа клутой ыыыы",
-      "coins": 16400,
+      "coins": 16600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -5063,12 +5063,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T20:43:59.417Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -5122,12 +5116,19 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T20:07:03.551Z"
+        },
+        {
+          "kind": "skin",
+          "file": "m9snake.png",
+          "chance": 0.35,
+          "caseType": "knife",
+          "at": "2026-08-09T20:06:10.881Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786308238881,
+      "lastCaseAt": 1786308233838,
       "lastBoosterAt": 1786304756991,
-      "totalEarned": 26200,
+      "totalEarned": 26100,
       "memoryGame": {
         "board": [
           {
