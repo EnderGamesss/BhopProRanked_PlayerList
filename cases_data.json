@@ -1814,7 +1814,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 830350,
+      "coins": 830500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1877,12 +1877,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-09T11:45:57.683Z"
-        },
-        {
-          "kind": "coins",
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-08-09T11:45:48.938Z"
@@ -1936,13 +1930,20 @@
           "chance": 2,
           "caseType": "spinner",
           "at": "2026-08-09T11:29:26.795Z"
+        },
+        {
+          "kind": "skin",
+          "file": "ironaquaspinner.png",
+          "chance": 1,
+          "caseType": "spinner",
+          "at": "2026-08-09T11:29:17.154Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786275957202,
+      "lastCaseAt": 1786275948658,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
-      "totalEarned": 417350,
+      "totalEarned": 417200,
       "memoryGame": {
         "board": [
           {
@@ -3151,6 +3152,11 @@
           "file": "m9tiger.png",
           "type": "knife",
           "at": "2026-08-09T11:45:37.851Z"
+        },
+        {
+          "file": "prettyspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T11:45:58.345Z"
         }
       ],
       "history": [
@@ -3404,9 +3410,9 @@
           false,
           false,
           false,
-          false,
           true,
-          false,
+          true,
+          true,
           true,
           true,
           false,
