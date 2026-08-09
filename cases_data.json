@@ -3269,11 +3269,17 @@
     },
     "6086452992": {
       "name": "Fatal",
-      "coins": 249400,
+      "coins": 249350,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "spinner",
+          "at": "2026-08-09T12:14:17.017Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -3327,19 +3333,12 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T12:08:27.164Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambit-hotline.png",
-          "chance": 0.05,
-          "caseType": "knife",
-          "at": "2026-08-09T12:08:03.629Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786277651286,
+      "lastCaseAt": 1786277656509,
       "lastBoosterAt": 0,
-      "totalEarned": 252300,
+      "totalEarned": 252550,
       "memoryGame": null,
       "username": "FatalADS"
     },
