@@ -5330,11 +5330,24 @@
     },
     "5487365719": {
       "name": "buogar",
-      "coins": 93050,
+      "coins": 92750,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Mercenery.png",
+          "type": "glove",
+          "at": "2026-08-09T20:12:15.827Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Mercenery.png",
+          "chance": 8.5,
+          "caseType": "glove",
+          "at": "2026-08-09T20:12:15.827Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -5368,7 +5381,7 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786306285446,
+      "lastCaseAt": 1786306335513,
       "lastBoosterAt": 1786306183923,
       "totalEarned": 93250,
       "memoryGame": null,
