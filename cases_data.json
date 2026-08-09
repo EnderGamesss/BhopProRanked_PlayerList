@@ -2111,7 +2111,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 5212400,
+      "coins": 4712400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2641,7 +2641,7 @@
     },
     "8624452786": {
       "name": "ор щет",
-      "coins": 1771600,
+      "coins": 1271600,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -6970,14 +6970,20 @@
     "duel_1786319426880_8624452786": {
       "challenger": "8624452786",
       "opponent": "6408582313",
-      "status": "bet_confirm",
+      "status": "active",
       "createdAt": 1786319426880,
       "choices": {
         "8624452786": "knife",
         "6408582313": "knife"
       },
       "chosenType": "knife",
-      "bet": 500000
+      "bet": 500000,
+      "turn": "8624452786",
+      "challengerOpens": 0,
+      "opponentOpens": 0,
+      "challengerTotal": 0,
+      "opponentTotal": 0,
+      "results": []
     }
   }
 }
