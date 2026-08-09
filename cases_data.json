@@ -87,10 +87,16 @@
     },
     "939363878": {
       "name": "Эллис",
-      "coins": 1599700,
+      "coins": 1583700,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitkoi.png",
+          "type": "booster",
+          "at": "2026-08-09T12:30:34.084Z"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -161,7 +167,7 @@
       "username": "cazuso",
       "lastCaseAt": 1786269949246,
       "lastBoosterAt": 1786278633705,
-      "totalEarned": 1263850,
+      "totalEarned": 1247850,
       "memoryGame": null
     },
     "1721484630": {
@@ -1181,11 +1187,24 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 6529850,
+      "coins": 6529550,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9snake.png",
+          "type": "knife",
+          "at": "2026-08-09T12:30:42.015Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9snake.png",
+          "chance": 0.35,
+          "caseType": "knife",
+          "at": "2026-08-09T12:30:42.015Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -1239,16 +1258,10 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T12:28:57.090Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-09T12:28:23.605Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786278617433,
+      "lastCaseAt": 1786278641513,
       "lastBoosterAt": 1786278007448,
       "totalEarned": 7015650,
       "memoryGame": {
