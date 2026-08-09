@@ -1675,7 +1675,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1715,8 +1715,8 @@
           false,
           false,
           false,
-          false,
           true,
+          false,
           false,
           false,
           false,
@@ -1729,9 +1729,10 @@
           "amount": 750,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1786269944834
+        "createdAt": 1786269944834,
+        "pendingHide": null
       }
     },
     "7886451818": {
