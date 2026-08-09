@@ -3061,6 +3061,11 @@
           "file": "firespinner.png",
           "type": "spinner",
           "at": "2026-08-09T11:17:15.981Z"
+        },
+        {
+          "file": "firespinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T11:17:32.014Z"
         }
       ],
       "history": [
@@ -3296,13 +3301,13 @@
           false,
           false,
           false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
           true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
           false,
           false,
           false,
@@ -3315,9 +3320,10 @@
           "price": 100000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1786274213033
+        "createdAt": 1786274213033,
+        "pendingHide": null
       },
       "username": "bogdansert"
     }
