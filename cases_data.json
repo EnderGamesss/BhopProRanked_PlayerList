@@ -1231,7 +1231,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 6025800,
+      "coins": 6025350,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1257,12 +1257,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-09T11:25:43.493Z"
-        },
         {
           "kind": "skin",
           "file": "m9desert.png",
@@ -1318,12 +1312,18 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-09T11:23:32.156Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-09T11:23:24.515Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786274742988,
+      "lastCaseAt": 1786274737721,
       "lastBoosterAt": 1786268958649,
-      "totalEarned": 6465100,
+      "totalEarned": 6464350,
       "memoryGame": {
         "board": [
           {
@@ -3077,7 +3077,7 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 1167800,
+      "coins": 1168800,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3153,7 +3153,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786274505291,
       "lastBoosterAt": 1786274323582,
-      "totalEarned": 1173700,
+      "totalEarned": 1174700,
       "memoryGame": {
         "board": [
           {
@@ -3349,12 +3349,7 @@
           false,
           false,
           false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -3366,7 +3361,12 @@
           false,
           false,
           false,
-          true
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
         ],
         "target": {
           "kind": "skin",
@@ -3375,7 +3375,7 @@
           "price": 100000,
           "weight": 3
         },
-        "attempts": 6,
+        "attempts": 1,
         "status": "playing",
         "createdAt": 1786274213033,
         "pendingHide": null
