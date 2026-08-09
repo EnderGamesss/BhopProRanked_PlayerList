@@ -4368,7 +4368,13 @@
       "coins": 200,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-crown.png",
+          "type": "glove",
+          "at": "2026-08-09T14:29:29.498Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -4596,10 +4602,10 @@
         ],
         "matched": [
           false,
+          true,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -4628,9 +4634,10 @@
           "price": 299000,
           "weight": 2
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1786285709655
+        "createdAt": 1786285709655,
+        "pendingHide": null
       },
       "username": "Tralalelotralala_52"
     }
