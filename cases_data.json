@@ -848,7 +848,7 @@
     },
     "7887063317": {
       "name": "b10xxx10",
-      "coins": 2351300,
+      "coins": 2351150,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -859,6 +859,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "spinner",
+          "at": "2026-08-09T13:30:16.425Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -914,20 +920,13 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-09T13:29:16.449Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitruby.png",
-          "chance": 0.065,
-          "caseType": "knife",
-          "at": "2026-08-09T13:28:57.492Z"
         }
       ],
       "lastBonus": 1786280843041,
       "username": "b10xxx10",
-      "lastCaseAt": 1786282210760,
+      "lastCaseAt": 1786282216089,
       "lastBoosterAt": 1786281181157,
-      "totalEarned": 876200,
+      "totalEarned": 876350,
       "memoryGame": {
         "board": [
           {
