@@ -636,7 +636,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 2036750,
+      "coins": 2036450,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -709,9 +709,21 @@
           "file": "camospinner.png",
           "type": "spinner",
           "at": "2026-08-09T06:51:41.866Z"
+        },
+        {
+          "file": "prettyspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T06:53:18.399Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "prettyspinner.png",
+          "chance": 0.5,
+          "caseType": "spinner",
+          "at": "2026-08-09T06:53:18.399Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -766,16 +778,10 @@
           "amount": 250,
           "caseType": "spinner",
           "at": "2026-08-09T06:51:28.319Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-09T06:51:11.285Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786258392087
+      "lastCaseAt": 1786258398125
     },
     "6703298995": {
       "name": "Aleksandyr",
