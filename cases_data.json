@@ -164,7 +164,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 241850,
+      "coins": 216850,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1195,7 +1195,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 5759250,
+      "coins": 5734250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3343,14 +3343,20 @@
     "duel_1786272530116_8708014655": {
       "challenger": "8708014655",
       "opponent": "1721484630",
-      "status": "bet_confirm",
+      "status": "active",
       "createdAt": 1786272530116,
       "choices": {
         "1721484630": "knife",
         "8708014655": "knife"
       },
       "chosenType": "knife",
-      "bet": 25000
+      "bet": 25000,
+      "turn": "8708014655",
+      "challengerOpens": 0,
+      "opponentOpens": 0,
+      "challengerTotal": 0,
+      "opponentTotal": 0,
+      "results": []
     }
   }
 }
