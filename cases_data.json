@@ -2220,7 +2220,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 3764650,
+      "coins": 3764350,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2248,9 +2248,21 @@
           "file": "karambitforest.png",
           "type": "knife",
           "at": "2026-08-09T12:16:53.738Z"
+        },
+        {
+          "file": "karambitsaphire.png",
+          "type": "knife",
+          "at": "2026-08-09T12:17:19.670Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitsaphire.png",
+          "chance": 0.055,
+          "caseType": "knife",
+          "at": "2026-08-09T12:17:19.670Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2307,16 +2319,10 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T12:15:50.476Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-09T12:15:44.063Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786277833310,
+      "lastCaseAt": 1786277839459,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786276100726,
       "totalEarned": 3907450,
@@ -3288,7 +3294,7 @@
     },
     "6086452992": {
       "name": "Fatal",
-      "coins": 246650,
+      "coins": 246700,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3319,12 +3325,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "spinner",
-          "at": "2026-08-09T12:17:18.929Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -3382,12 +3382,18 @@
           "chance": 0.6,
           "caseType": "spinner",
           "at": "2026-08-09T12:15:49.018Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "spinner",
+          "at": "2026-08-09T12:15:28.350Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786277838674,
+      "lastCaseAt": 1786277829002,
       "lastBoosterAt": 0,
-      "totalEarned": 255550,
+      "totalEarned": 255300,
       "memoryGame": null,
       "username": "FatalADS"
     },
