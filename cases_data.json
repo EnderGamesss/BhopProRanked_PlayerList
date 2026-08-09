@@ -1490,6 +1490,11 @@
           "file": "m9snake.png",
           "type": "knife",
           "at": "2026-08-09T15:58:56.172Z"
+        },
+        {
+          "file": "thumb-bhopool.png",
+          "type": "glove",
+          "at": "2026-08-09T16:06:31.204Z"
         }
       ],
       "history": [
@@ -1721,33 +1726,6 @@
           }
         ],
         "revealed": [
-          true,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          true
-        ],
-        "matched": [
           false,
           false,
           false,
@@ -1774,6 +1752,33 @@
           false,
           false
         ],
+        "matched": [
+          false,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false,
+          false,
+          false
+        ],
         "target": {
           "kind": "skin",
           "file": "karambitsnake.png",
@@ -1781,13 +1786,10 @@
           "price": 10000,
           "weight": 3
         },
-        "attempts": 6,
+        "attempts": 3,
         "status": "playing",
         "createdAt": 1786291547541,
-        "pendingHide": [
-          0,
-          24
-        ]
+        "pendingHide": null
       }
     },
     "6703298995": {
