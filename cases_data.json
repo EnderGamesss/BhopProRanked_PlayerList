@@ -979,7 +979,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 5011150,
+      "coins": 5010950,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1005,6 +1005,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T10:25:35.247Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -1061,18 +1067,12 @@
           "chance": 0.35,
           "caseType": "knife",
           "at": "2026-08-09T10:21:29.358Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-09T10:21:23.621Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786271128779,
+      "lastCaseAt": 1786271134756,
       "lastBoosterAt": 1786268958649,
-      "totalEarned": 4901950,
+      "totalEarned": 4902050,
       "memoryGame": {
         "board": [
           {
@@ -1599,10 +1599,21 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 587450,
+      "coins": 447450,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "prettyspinner.png",
+          "type": "spinner",
+          "at": "2026-08-08T22:01:25.286Z"
+        },
+        {
+          "file": "thumb-crown.png",
+          "type": "glove",
+          "at": "2026-08-09T10:24:00.949Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -1670,7 +1681,7 @@
       "lastCaseAt": 1786226495919,
       "username": "Pidor_play",
       "lastBoosterAt": 0,
-      "totalEarned": 140250,
+      "totalEarned": 250,
       "memoryGame": {
         "board": [
           {
