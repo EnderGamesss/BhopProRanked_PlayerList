@@ -1225,10 +1225,21 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 5432700,
+      "coins": 5421700,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butforest.png",
+          "type": "knife",
+          "at": "2026-08-09T11:00:32.770Z"
+        },
+        {
+          "file": "m9snake.png",
+          "type": "knife",
+          "at": "2026-08-09T11:01:01.267Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -1296,7 +1307,7 @@
       "lastBonus": 1786259491073,
       "lastCaseAt": 1786273406760,
       "lastBoosterAt": 1786268958649,
-      "totalEarned": 5838400,
+      "totalEarned": 5827400,
       "memoryGame": {
         "board": [
           {
@@ -2294,7 +2305,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 2981950,
+      "coins": 2981800,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2310,6 +2321,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-09T11:03:40.737Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -2364,19 +2381,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T11:02:16.849Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-09T11:02:04.968Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786273413857,
+      "lastCaseAt": 1786273420335,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786273267968,
-      "totalEarned": 3167750,
+      "totalEarned": 3167900,
       "memoryGame": {
         "board": [
           {
