@@ -1804,11 +1804,24 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 1128750,
+      "coins": 1128450,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Swat.png",
+          "type": "glove",
+          "at": "2026-08-09T12:04:36.675Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Swat.png",
+          "chance": 7,
+          "caseType": "glove",
+          "at": "2026-08-09T12:04:36.675Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1863,16 +1876,10 @@
           "chance": 2.5,
           "caseType": "spinner",
           "at": "2026-08-09T12:01:59.711Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-09T12:01:51.909Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786277060962,
+      "lastCaseAt": 1786277076462,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
       "totalEarned": 741550,
@@ -2955,7 +2962,7 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 3189100,
+      "coins": 3189150,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2966,12 +2973,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-09T12:04:35.659Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -3026,12 +3027,18 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-09T12:02:07.073Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "spinner",
+          "at": "2026-08-09T12:02:01.342Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786277075280,
+      "lastCaseAt": 1786277068746,
       "lastBoosterAt": 1786276226335,
-      "totalEarned": 3206400,
+      "totalEarned": 3206150,
       "memoryGame": {
         "board": [
           {
@@ -3332,7 +3339,7 @@
     },
     "7886091409": {
       "name": "33",
-      "coins": 1000,
+      "coins": 800,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3344,6 +3351,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "spinner",
+          "at": "2026-08-09T12:04:34.719Z"
+        },
+        {
           "kind": "skin",
           "file": "thumb-basic-spinner-5.png",
           "chance": 1,
@@ -3352,9 +3365,9 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 0,
+      "lastCaseAt": 1786277074024,
       "lastBoosterAt": 1786277058141,
-      "totalEarned": 0,
+      "totalEarned": 100,
       "memoryGame": null,
       "username": "torment33"
     }
