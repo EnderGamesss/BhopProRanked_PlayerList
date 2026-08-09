@@ -87,7 +87,7 @@
     },
     "939363878": {
       "name": "Эллис",
-      "coins": 401850,
+      "coins": 402550,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -150,6 +150,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 1000,
+          "caseType": "knife",
+          "at": "2026-08-09T09:38:33.336Z"
+        },
+        {
+          "kind": "coins",
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T09:38:27.430Z"
@@ -202,19 +208,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T09:37:28.378Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T09:37:23.490Z"
         }
       ],
       "lastBonus": 1786216214657,
       "username": "cazuso",
-      "lastCaseAt": 1786268307212,
+      "lastCaseAt": 1786268313158,
       "lastBoosterAt": 0,
-      "totalEarned": 16500,
+      "totalEarned": 17500,
       "memoryGame": null
     },
     "1840807637": {
@@ -291,7 +291,7 @@
     },
     "7307808447": {
       "name": "EnderGamesDev",
-      "coins": 1241700,
+      "coins": 1241850,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -342,12 +342,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-09T09:38:33.307Z"
-        },
         {
           "kind": "skin",
           "file": "karambitforest.png",
@@ -402,12 +396,19 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T09:35:17.055Z"
+        },
+        {
+          "kind": "skin",
+          "file": "karambittiger.png",
+          "chance": 0.05,
+          "caseType": "knife",
+          "at": "2026-08-09T09:35:11.177Z"
         }
       ],
       "lastBonus": 1786219491674,
       "username": "EnderGamesDev",
-      "lastCaseAt": 1786268313142,
-      "totalEarned": 450450,
+      "lastCaseAt": 1786268285162,
+      "totalEarned": 450300,
       "lastBoosterAt": 1786263834308,
       "memoryGame": {
         "board": [
