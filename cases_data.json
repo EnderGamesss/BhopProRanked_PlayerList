@@ -1211,11 +1211,24 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 6385050,
+      "coins": 6384750,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitkoi.png",
+          "type": "knife",
+          "at": "2026-08-09T12:00:14.686Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitkoi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-08-09T12:00:14.686Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1270,17 +1283,10 @@
           "chance": 0.25,
           "caseType": "knife",
           "at": "2026-08-09T11:56:48.058Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitdesert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-09T11:56:40.901Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786276809232,
+      "lastCaseAt": 1786276814291,
       "lastBoosterAt": 1786275380248,
       "totalEarned": 6845950,
       "memoryGame": {
@@ -1805,7 +1811,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 825650,
+      "coins": 825750,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1883,12 +1889,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-09T12:00:13.583Z"
-        },
-        {
-          "kind": "coins",
           "amount": 500,
           "caseType": "spinner",
           "at": "2026-08-09T12:00:04.335Z"
@@ -1940,13 +1940,19 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-08-09T11:58:32.353Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "spinner",
+          "at": "2026-08-09T11:58:23.524Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786276813321,
+      "lastCaseAt": 1786276804023,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
-      "totalEarned": 433650,
+      "totalEarned": 433450,
       "memoryGame": {
         "board": [
           {
