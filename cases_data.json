@@ -396,7 +396,7 @@
     },
     "7887063317": {
       "name": "b10xxx10",
-      "coins": 707650,
+      "coins": 707550,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -422,6 +422,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-09T05:07:07.228Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -477,17 +483,11 @@
           "chance": 1,
           "caseType": "spinner",
           "at": "2026-08-08T20:20:52.454Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "spinner",
-          "at": "2026-08-08T20:20:46.107Z"
         }
       ],
       "lastBonus": 0,
       "username": "b10xxx10",
-      "lastCaseAt": 1786252019476
+      "lastCaseAt": 1786252026965
     },
     "5117405936": {
       "name": "xGRI3Fx",
