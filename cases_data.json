@@ -1924,11 +1924,24 @@
     },
     "5168978133": {
       "name": "бабайка🥷",
-      "coins": 128600,
+      "coins": 128300,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butdesert.png",
+          "type": "knife",
+          "at": "2026-08-09T21:58:20.976Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T21:58:20.976Z"
+        },
         {
           "kind": "skin",
           "file": "m9emerand.png",
@@ -1983,16 +1996,10 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-08T22:52:51.818Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-08T22:23:22.581Z"
         }
       ],
       "lastBonus": 1786227566372,
-      "lastCaseAt": 1786312689903,
+      "lastCaseAt": 1786312700710,
       "username": "babaykkkka",
       "lastBoosterAt": 0,
       "totalEarned": 101300,
