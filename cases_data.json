@@ -848,7 +848,7 @@
     },
     "7887063317": {
       "name": "b10xxx10",
-      "coins": 2349550,
+      "coins": 2349250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -866,9 +866,21 @@
           "file": "karambitdesert.png",
           "type": "knife",
           "at": "2026-08-09T13:31:11.242Z"
+        },
+        {
+          "file": "camospinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T13:31:17.909Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 2.5,
+          "caseType": "spinner",
+          "at": "2026-08-09T13:31:17.909Z"
+        },
         {
           "kind": "skin",
           "file": "karambitdesert.png",
@@ -924,17 +936,11 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T13:30:22.343Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-09T13:30:16.425Z"
         }
       ],
       "lastBonus": 1786280843041,
       "username": "b10xxx10",
-      "lastCaseAt": 1786282270964,
+      "lastCaseAt": 1786282277508,
       "lastBoosterAt": 1786281181157,
       "totalEarned": 877450,
       "memoryGame": {
