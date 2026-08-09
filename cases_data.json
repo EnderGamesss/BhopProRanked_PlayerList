@@ -2435,7 +2435,7 @@
     },
     "8624452786": {
       "name": "ор щет",
-      "coins": 365900,
+      "coins": 366100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2491,6 +2491,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-08-09T21:16:35.079Z"
+        },
         {
           "kind": "skin",
           "file": "m9forest.png",
@@ -2548,19 +2554,13 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-08-09T21:15:02.798Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T21:14:57.128Z"
         }
       ],
       "lastBonus": 1786281511849,
-      "lastCaseAt": 1786310183396,
+      "lastCaseAt": 1786310194519,
       "username": "orzett",
       "lastBoosterAt": 1786305808953,
-      "totalEarned": 536300,
+      "totalEarned": 536800,
       "memoryGame": null
     },
     "5624673181": {
@@ -5481,7 +5481,7 @@
     },
     "5921506870": {
       "name": "ErikmiT",
-      "coins": 144750,
+      "coins": 145050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -5494,21 +5494,9 @@
           "file": "m9snake.png",
           "type": "knife",
           "at": "2026-08-09T21:15:30.762Z"
-        },
-        {
-          "file": "m9desert.png",
-          "type": "knife",
-          "at": "2026-08-09T21:16:34.354Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "m9desert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-09T21:16:34.354Z"
-        },
         {
           "kind": "coins",
           "amount": 150,
@@ -5563,10 +5551,16 @@
           "chance": 0.35,
           "caseType": "knife",
           "at": "2026-08-09T21:15:30.762Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-09T21:15:25.460Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786310194044,
+      "lastCaseAt": 1786310188683,
       "lastBoosterAt": 0,
       "totalEarned": 159950,
       "memoryGame": null,
