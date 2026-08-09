@@ -87,7 +87,7 @@
     },
     "939363878": {
       "name": "Эллис",
-      "coins": 399450,
+      "coins": 399050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -185,14 +185,32 @@
           "file": "karambitdesert.png",
           "type": "knife",
           "at": "2026-08-09T09:40:33.244Z"
+        },
+        {
+          "file": "m9forest.png",
+          "type": "knife",
+          "at": "2026-08-09T09:40:58.609Z"
+        },
+        {
+          "file": "karambitsnake.png",
+          "type": "knife",
+          "at": "2026-08-09T09:41:03.754Z"
         }
       ],
       "history": [
         {
-          "kind": "coins",
-          "amount": 100,
+          "kind": "skin",
+          "file": "karambitsnake.png",
+          "chance": 0.3,
           "caseType": "knife",
-          "at": "2026-08-09T09:40:57.058Z"
+          "at": "2026-08-09T09:41:03.754Z"
+        },
+        {
+          "kind": "skin",
+          "file": "m9forest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T09:40:58.609Z"
         },
         {
           "kind": "coins",
@@ -244,19 +262,13 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-09T09:39:46.502Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-09T09:39:38.691Z"
         }
       ],
       "lastBonus": 1786216214657,
       "username": "cazuso",
-      "lastCaseAt": 1786268456772,
+      "lastCaseAt": 1786268463380,
       "lastBoosterAt": 0,
-      "totalEarned": 20700,
+      "totalEarned": 20600,
       "memoryGame": null
     },
     "1840807637": {
@@ -333,7 +345,7 @@
     },
     "7307808447": {
       "name": "EnderGamesDev",
-      "coins": 1240300,
+      "coins": 1240450,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -405,12 +417,6 @@
       ],
       "history": [
         {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-09T09:40:59.120Z"
-        },
-        {
           "kind": "skin",
           "file": "m9desert.png",
           "chance": 0.9,
@@ -467,12 +473,18 @@
           "chance": 0.3,
           "caseType": "knife",
           "at": "2026-08-09T09:38:46.665Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T09:38:40.755Z"
         }
       ],
       "lastBonus": 1786219491674,
       "username": "EnderGamesDev",
-      "lastCaseAt": 1786268458881,
-      "totalEarned": 452350,
+      "lastCaseAt": 1786268453079,
+      "totalEarned": 452200,
       "lastBoosterAt": 1786263834308,
       "memoryGame": {
         "board": [
@@ -913,7 +925,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 3662850,
+      "coins": 3663150,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -951,21 +963,9 @@
           "file": "butforest.png",
           "type": "knife",
           "at": "2026-08-09T09:40:15.964Z"
-        },
-        {
-          "file": "m9desert.png",
-          "type": "knife",
-          "at": "2026-08-09T09:41:02.567Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "m9desert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-09T09:41:02.567Z"
-        },
         {
           "kind": "coins",
           "amount": 500,
@@ -1021,10 +1021,16 @@
           "chance": 0.3,
           "caseType": "knife",
           "at": "2026-08-09T09:39:50.065Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-09T09:39:43.878Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786268462273,
+      "lastCaseAt": 1786268454584,
       "lastBoosterAt": 0,
       "totalEarned": 9300,
       "memoryGame": null
