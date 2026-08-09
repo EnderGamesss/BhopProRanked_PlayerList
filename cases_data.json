@@ -87,7 +87,7 @@
     },
     "939363878": {
       "name": "Эллис",
-      "coins": 802000,
+      "coins": 802300,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -95,21 +95,9 @@
           "file": "butdesert.png",
           "type": "knife",
           "at": "2026-08-09T09:50:40.205Z"
-        },
-        {
-          "file": "karambitkoi.png",
-          "type": "knife",
-          "at": "2026-08-09T09:51:00.511Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "karambitkoi.png",
-          "chance": 0.25,
-          "caseType": "knife",
-          "at": "2026-08-09T09:51:00.511Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -166,11 +154,18 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T09:40:13.262Z"
+        },
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T09:39:58.532Z"
         }
       ],
       "lastBonus": 1786216214657,
       "username": "cazuso",
-      "lastCaseAt": 1786269060127,
+      "lastCaseAt": 1786269055049,
       "lastBoosterAt": 0,
       "totalEarned": 424450,
       "memoryGame": null
@@ -1384,7 +1379,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 835250,
+      "coins": 835450,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1410,6 +1405,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-09T09:51:01.478Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -1463,19 +1464,13 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-09T09:49:23.789Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-09T09:49:17.247Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786269051260,
+      "lastCaseAt": 1786269061478,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786268615161,
-      "totalEarned": 7850,
+      "totalEarned": 8050,
       "memoryGame": null
     },
     "7886451818": {
@@ -2007,9 +2002,9 @@
       "bet": 100000,
       "turn": "6335884130",
       "challengerOpens": 3,
-      "opponentOpens": 2,
+      "opponentOpens": 3,
       "challengerTotal": 600,
-      "opponentTotal": 450,
+      "opponentTotal": 650,
       "results": [
         {
           "uid": "7307808447",
@@ -2050,6 +2045,14 @@
             "amount": 150
           },
           "earnings": 150
+        },
+        {
+          "uid": "6335884130",
+          "result": {
+            "kind": "coins",
+            "amount": 200
+          },
+          "earnings": 200
         }
       ]
     }
