@@ -602,8 +602,21 @@
       "coins": 1048800,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9guardian.png",
+          "type": "booster",
+          "at": "2026-08-09T10:30:17.107Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9guardian.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-09T10:30:17.107Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -658,18 +671,12 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-09T08:40:16.023Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-09T08:40:01.222Z"
         }
       ],
       "lastBonus": 1786270680645,
       "username": "ITZ_GRI3F",
       "lastCaseAt": 1786264956559,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1786271416604,
       "totalEarned": 1020500,
       "memoryGame": {
         "board": [
