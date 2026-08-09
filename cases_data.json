@@ -2586,6 +2586,11 @@
           "file": "karambitsnake.png",
           "type": "knife",
           "at": "2026-08-09T17:33:07.267Z"
+        },
+        {
+          "file": "firespinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T17:33:32.140Z"
         }
       ],
       "history": [
@@ -2827,8 +2832,8 @@
           false,
           false,
           false,
-          true,
-          true,
+          false,
+          false,
           false,
           false,
           false,
@@ -2855,7 +2860,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2863,7 +2868,7 @@
           true,
           true,
           false,
-          false,
+          true,
           false,
           false,
           false
@@ -2878,10 +2883,7 @@
         "attempts": 3,
         "status": "playing",
         "createdAt": 1786284559735,
-        "pendingHide": [
-          12,
-          13
-        ]
+        "pendingHide": null
       }
     },
     "7886451818": {
