@@ -756,7 +756,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 4772650,
+      "coins": 4772800,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -787,12 +787,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-09T10:18:58.408Z"
-        },
         {
           "kind": "coins",
           "amount": 500,
@@ -848,12 +842,18 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T10:17:48.607Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-09T10:17:43.558Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786270738081,
+      "lastCaseAt": 1786270731532,
       "lastBoosterAt": 1786268958649,
-      "totalEarned": 1190700,
+      "totalEarned": 1190550,
       "memoryGame": {
         "board": [
           {
@@ -1610,7 +1610,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 1747300,
+      "coins": 1747000,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1678,9 +1678,21 @@
           "file": "m9forest.png",
           "type": "knife",
           "at": "2026-08-09T10:18:42.883Z"
+        },
+        {
+          "file": "m9forest.png",
+          "type": "knife",
+          "at": "2026-08-09T10:18:58.686Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9forest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T10:18:58.686Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1736,16 +1748,10 @@
           "chance": 0.05,
           "caseType": "knife",
           "at": "2026-08-09T10:17:56.581Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-09T10:17:50.254Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786270733314,
+      "lastCaseAt": 1786270738421,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786268615161,
       "totalEarned": 1041800,
