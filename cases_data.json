@@ -2435,7 +2435,7 @@
     },
     "8624452786": {
       "name": "ор щет",
-      "coins": 345650,
+      "coins": 345700,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2471,12 +2471,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-09T21:04:34.369Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2532,13 +2526,19 @@
           "chance": 0.25,
           "caseType": "knife",
           "at": "2026-08-09T21:03:17.700Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-09T21:03:12.032Z"
         }
       ],
       "lastBonus": 1786281511849,
-      "lastCaseAt": 1786309474032,
+      "lastCaseAt": 1786309454282,
       "username": "orzett",
       "lastBoosterAt": 1786305808953,
-      "totalEarned": 496250,
+      "totalEarned": 496000,
       "memoryGame": null
     },
     "5624673181": {
@@ -5459,11 +5459,24 @@
     },
     "5921506870": {
       "name": "ErikmiT",
-      "coins": 650,
+      "coins": 350,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "ironaquaspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T21:04:35.365Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "ironaquaspinner.png",
+          "chance": 1,
+          "caseType": "spinner",
+          "at": "2026-08-09T21:04:35.365Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -5478,7 +5491,7 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786309468922,
+      "lastCaseAt": 1786309475057,
       "lastBoosterAt": 0,
       "totalEarned": 250,
       "memoryGame": null,
