@@ -87,11 +87,17 @@
     },
     "939363878": {
       "name": "Эллис",
-      "coins": 1599500,
+      "coins": 1599450,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-09T12:32:33.873Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -148,19 +154,13 @@
           "amount": 1000,
           "caseType": "knife",
           "at": "2026-08-09T10:05:22.284Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T10:05:16.051Z"
         }
       ],
       "lastBonus": 1786216214657,
       "username": "cazuso",
-      "lastCaseAt": 1786278746701,
+      "lastCaseAt": 1786278753670,
       "lastBoosterAt": 1786278633705,
-      "totalEarned": 1264250,
+      "totalEarned": 1264500,
       "memoryGame": null
     },
     "1721484630": {
@@ -1180,16 +1180,23 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 6605550,
+      "coins": 6604550,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butkoi.png",
+          "type": "knife",
+          "at": "2026-08-09T12:32:39.109Z"
+        }
+      ],
       "history": [
         {
-          "kind": "coins",
-          "amount": 1000,
+          "kind": "skin",
+          "file": "butkoi.png",
+          "chance": 0.25,
           "caseType": "knife",
-          "at": "2026-08-09T12:32:33.767Z"
+          "at": "2026-08-09T12:32:39.109Z"
         },
         {
           "kind": "coins",
@@ -1248,9 +1255,9 @@
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786278753541,
+      "lastCaseAt": 1786278758695,
       "lastBoosterAt": 1786278007448,
-      "totalEarned": 7092550,
+      "totalEarned": 7091550,
       "memoryGame": {
         "board": [
           {
@@ -2226,7 +2233,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 3887400,
+      "coins": 3887600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2237,12 +2244,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T12:32:37.538Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2296,13 +2297,19 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-09T12:30:58.750Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-09T12:30:50.840Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786278757198,
+      "lastCaseAt": 1786278733554,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786276100726,
-      "totalEarned": 4053600,
+      "totalEarned": 4053500,
       "memoryGame": {
         "board": [
           {
