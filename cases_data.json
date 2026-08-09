@@ -2810,8 +2810,8 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
+          true,
           false,
           false,
           false,
@@ -2853,10 +2853,13 @@
           "amount": 500,
           "weight": 20
         },
-        "attempts": 3,
+        "attempts": 2,
         "status": "playing",
         "createdAt": 1786284371585,
-        "pendingHide": null
+        "pendingHide": [
+          15,
+          16
+        ]
       }
     },
     "7886451818": {
