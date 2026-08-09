@@ -1804,7 +1804,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 1126600,
+      "coins": 1126300,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1842,9 +1842,21 @@
           "file": "thumb-crown.png",
           "type": "glove",
           "at": "2026-08-09T12:07:44.355Z"
+        },
+        {
+          "file": "thumb-Military.png",
+          "type": "glove",
+          "at": "2026-08-09T12:07:52.023Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Military.png",
+          "chance": 8,
+          "caseType": "glove",
+          "at": "2026-08-09T12:07:52.023Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-crown.png",
@@ -1903,16 +1915,10 @@
           "chance": 7,
           "caseType": "glove",
           "at": "2026-08-09T12:05:49.943Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "glove",
-          "at": "2026-08-09T12:05:42.343Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786277264046,
+      "lastCaseAt": 1786277271679,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
       "totalEarned": 744500,
@@ -2995,17 +3001,11 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 3269550,
+      "coins": 3269750,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-08-09T12:07:52.152Z"
-        },
         {
           "kind": "coins",
           "amount": 150,
@@ -3059,12 +3059,18 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-09T12:06:53.064Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "spinner",
+          "at": "2026-08-09T12:06:46.320Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786277271652,
+      "lastCaseAt": 1786277260657,
       "lastBoosterAt": 1786276226335,
-      "totalEarned": 3291650,
+      "totalEarned": 3291550,
       "memoryGame": {
         "board": [
           {
@@ -3337,7 +3343,7 @@
     },
     "6086452992": {
       "name": "Fatal",
-      "coins": 600,
+      "coins": 1050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3348,6 +3354,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-09T12:07:53.563Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -3363,9 +3375,9 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786277266279,
+      "lastCaseAt": 1786277272867,
       "lastBoosterAt": 0,
-      "totalEarned": 200,
+      "totalEarned": 950,
       "memoryGame": null,
       "username": "FatalADS"
     },
