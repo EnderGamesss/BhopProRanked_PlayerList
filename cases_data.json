@@ -2021,7 +2021,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 1549400,
+      "coins": 1549600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2037,12 +2037,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T14:50:29.528Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -2097,13 +2091,19 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-08-09T14:49:06.955Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-09T14:48:59.761Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786287029228,
+      "lastCaseAt": 1786287021952,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
-      "totalEarned": 1221300,
+      "totalEarned": 1221200,
       "memoryGame": {
         "board": [
           {
@@ -5317,13 +5317,14 @@
     "duel_1786286991628_8708014655": {
       "challenger": "8708014655",
       "opponent": "6408582313",
-      "status": "bet_propose",
+      "status": "bet_confirm",
       "createdAt": 1786286991628,
       "choices": {
         "6408582313": "knife",
         "8708014655": "knife"
       },
-      "chosenType": "knife"
+      "chosenType": "knife",
+      "bet": 100000
     }
   }
 }
