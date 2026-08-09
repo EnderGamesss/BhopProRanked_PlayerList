@@ -2327,7 +2327,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 3072950,
+      "coins": 3072800,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2460,6 +2460,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-09T12:01:14.504Z"
+        },
+        {
+          "kind": "coins",
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-09T12:00:51.598Z"
@@ -2512,19 +2518,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T11:57:38.278Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-09T11:57:31.375Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786276851351,
+      "lastCaseAt": 1786276874272,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786276100726,
-      "totalEarned": 3198650,
+      "totalEarned": 3198800,
       "memoryGame": {
         "board": [
           {
@@ -3158,10 +3158,16 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 3210150,
+      "coins": 3130150,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "prettyspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T12:01:04.852Z"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -3228,7 +3234,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786276864551,
       "lastBoosterAt": 1786276226335,
-      "totalEarned": 3222650,
+      "totalEarned": 3142650,
       "memoryGame": {
         "board": [
           {
