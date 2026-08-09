@@ -4056,7 +4056,7 @@
     },
     "8575376409": {
       "name": "Влад",
-      "coins": 19000,
+      "coins": 19100,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -4072,7 +4072,7 @@
       "lastBonus": 0,
       "lastCaseAt": 0,
       "lastBoosterAt": 1786284456102,
-      "totalEarned": 18000,
+      "totalEarned": 18100,
       "memoryGame": {
         "board": [
           {
@@ -4266,6 +4266,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -4275,8 +4276,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -4290,9 +4290,10 @@
           "price": 78000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1786284499469
+        "createdAt": 1786284499469,
+        "pendingHide": null
       },
       "username": "Vladphu"
     }
