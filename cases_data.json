@@ -1846,7 +1846,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 832250,
+      "coins": 831950,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1889,9 +1889,21 @@
           "file": "ironaquaspinner.png",
           "type": "spinner",
           "at": "2026-08-09T11:29:01.923Z"
+        },
+        {
+          "file": "ironaquaspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T11:29:17.154Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "ironaquaspinner.png",
+          "chance": 1,
+          "caseType": "spinner",
+          "at": "2026-08-09T11:29:17.154Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -1946,16 +1958,10 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-09T11:27:50.697Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "spinner",
-          "at": "2026-08-09T11:27:34.155Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786274949307,
+      "lastCaseAt": 1786274956837,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
       "totalEarned": 415950,
@@ -2333,7 +2339,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 2978250,
+      "coins": 2978550,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2411,21 +2417,9 @@
           "file": "karambitforest.png",
           "type": "knife",
           "at": "2026-08-09T11:27:43.438Z"
-        },
-        {
-          "file": "butforest.png",
-          "type": "knife",
-          "at": "2026-08-09T11:29:16.853Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "butforest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-09T11:29:16.853Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -2483,10 +2477,16 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-09T11:26:27.050Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-09T11:26:21.716Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786274956323,
+      "lastCaseAt": 1786274876387,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786273267968,
       "totalEarned": 3179050,
