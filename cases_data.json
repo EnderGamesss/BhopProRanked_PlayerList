@@ -2021,7 +2021,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 1549550,
+      "coins": 1549850,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2034,21 +2034,9 @@
           "file": "m9desert.png",
           "type": "knife",
           "at": "2026-08-09T14:49:43.039Z"
-        },
-        {
-          "file": "butkoi.png",
-          "type": "knife",
-          "at": "2026-08-09T14:49:50.463Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "butkoi.png",
-          "chance": 0.25,
-          "caseType": "knife",
-          "at": "2026-08-09T14:49:50.463Z"
-        },
         {
           "kind": "skin",
           "file": "m9desert.png",
@@ -2103,10 +2091,17 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T14:48:37.069Z"
+        },
+        {
+          "kind": "skin",
+          "file": "karambitforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T14:46:44.932Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786286989939,
+      "lastCaseAt": 1786286982623,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
       "totalEarned": 1220550,
@@ -5319,6 +5314,12 @@
       "opponent": "6696023434",
       "status": "expired",
       "createdAt": 1786286257148
+    },
+    "duel_1786286991628_8708014655": {
+      "challenger": "8708014655",
+      "opponent": "6408582313",
+      "status": "pending",
+      "createdAt": 1786286991628
     }
   }
 }
