@@ -4059,7 +4059,13 @@
       "coins": 19100,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-crown.png",
+          "type": "glove",
+          "at": "2026-08-09T14:09:18.368Z"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -4259,7 +4265,7 @@
         "matched": [
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -4268,15 +4274,15 @@
           false,
           true,
           false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
+          true,
           false,
           false,
           true,
+          false,
+          false,
+          false,
+          false,
+          false,
           false,
           false,
           false,
