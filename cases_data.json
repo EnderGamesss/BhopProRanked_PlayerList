@@ -758,9 +758,21 @@
           "file": "butemerand.png",
           "type": "knife",
           "at": "2026-08-09T09:43:18.233Z"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "knife",
+          "at": "2026-08-09T09:47:54.010Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T09:47:54.010Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -814,17 +826,10 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-09T09:43:29.033Z"
-        },
-        {
-          "kind": "skin",
-          "file": "butemerand.png",
-          "chance": 0.05,
-          "caseType": "knife",
-          "at": "2026-08-09T09:43:18.233Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786268863870,
+      "lastCaseAt": 1786268874010,
       "lastBoosterAt": 0,
       "totalEarned": 1045650,
       "memoryGame": null
@@ -1870,9 +1875,9 @@
       "chosenType": "knife",
       "bet": 50000,
       "turn": "8708014655",
-      "challengerOpens": 2,
+      "challengerOpens": 3,
       "opponentOpens": 2,
-      "challengerTotal": 650,
+      "challengerTotal": 3150,
       "opponentTotal": 300,
       "results": [
         {
@@ -1906,6 +1911,15 @@
             "amount": 200
           },
           "earnings": 200
+        },
+        {
+          "uid": "8708014655",
+          "result": {
+            "kind": "skin",
+            "file": "butdesert.png",
+            "chance": 0.9
+          },
+          "earnings": 2500
         }
       ]
     }
