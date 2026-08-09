@@ -2961,7 +2961,7 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 3189450,
+      "coins": 3189150,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2969,9 +2969,21 @@
           "file": "prettyspinner.png",
           "type": "spinner",
           "at": "2026-08-09T12:01:04.852Z"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "knife",
+          "at": "2026-08-09T12:05:11.877Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T12:05:11.877Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -3025,16 +3037,10 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-09T12:02:41.816Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-09T12:02:24.281Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786277104964,
+      "lastCaseAt": 1786277111160,
       "lastBoosterAt": 1786276226335,
       "totalEarned": 3207350,
       "memoryGame": {
