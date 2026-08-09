@@ -770,7 +770,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 3189450,
+      "coins": 3189750,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -783,21 +783,9 @@
           "file": "butkoi.png",
           "type": "knife",
           "at": "2026-08-09T09:05:00.429Z"
-        },
-        {
-          "file": "m9desert.png",
-          "type": "knife",
-          "at": "2026-08-09T09:06:51.294Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "m9desert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-09T09:06:51.294Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -852,10 +840,16 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T09:04:54.427Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-09T09:04:48.104Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786266410940
+      "lastCaseAt": 1786266404248
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -1564,7 +1558,7 @@
     },
     "8347129286": {
       "name": "s10",
-      "coins": 20300,
+      "coins": 20450,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1622,12 +1616,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-09T09:06:52.505Z"
-        },
-        {
-          "kind": "coins",
           "amount": 1000,
           "caseType": "spinner",
           "at": "2026-08-09T09:06:46.726Z"
@@ -1680,10 +1668,16 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-09T09:05:50.219Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "spinner",
+          "at": "2026-08-09T09:05:43.777Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786266412093,
+      "lastCaseAt": 1786266406372,
       "username": "pastanal"
     }
   },
@@ -1767,6 +1761,12 @@
       "choices": {
         "7886451818": "knife"
       }
+    },
+    "duel_1786266412045_7307808447": {
+      "challenger": "7307808447",
+      "opponent": "7886451818",
+      "status": "pending",
+      "createdAt": 1786266412045
     }
   }
 }
