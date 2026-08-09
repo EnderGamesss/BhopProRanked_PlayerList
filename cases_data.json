@@ -164,7 +164,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 347850,
+      "coins": 348050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -185,12 +185,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T11:49:41.675Z"
-        },
         {
           "kind": "coins",
           "amount": 150,
@@ -244,12 +238,19 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T11:48:07.447Z"
+        },
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T11:47:13.903Z"
         }
       ],
       "lastBonus": 1786272475133,
-      "lastCaseAt": 1786276181445,
+      "lastCaseAt": 1786276158637,
       "lastBoosterAt": 1786275674618,
-      "totalEarned": 403050,
+      "totalEarned": 402950,
       "memoryGame": {
         "board": [
           {
@@ -3146,7 +3147,13 @@
       "coins": 3072400,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9forest.png",
+          "type": "knife",
+          "at": "2026-08-09T11:49:42.267Z"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -3416,10 +3423,10 @@
           false,
           false,
           false,
-          false,
+          true,
           true,
           false,
-          false,
+          true,
           true,
           true,
           false,
@@ -3434,7 +3441,7 @@
           "price": 9000,
           "weight": 3
         },
-        "attempts": 4,
+        "attempts": 1,
         "status": "playing",
         "createdAt": 1786275974418,
         "pendingHide": null
