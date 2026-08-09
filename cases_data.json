@@ -5367,11 +5367,17 @@
     },
     "5487365719": {
       "name": "buogar",
-      "coins": 99050,
+      "coins": 98850,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "spinner",
+          "at": "2026-08-09T20:31:06.657Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -5427,19 +5433,12 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T20:10:54.587Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9spitfire.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-09T20:09:44.203Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786306366171,
+      "lastCaseAt": 1786307466251,
       "lastBoosterAt": 1786306183923,
-      "totalEarned": 100750,
+      "totalEarned": 100850,
       "memoryGame": null,
       "username": "whe_you_die"
     }
