@@ -1846,7 +1846,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 788600,
+      "coins": 789050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1887,6 +1887,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "spinner",
+          "at": "2026-08-09T11:25:44.946Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1941,19 +1947,13 @@
           "amount": 250,
           "caseType": "spinner",
           "at": "2026-08-09T11:11:12.283Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-09T11:11:04.950Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786274721306,
+      "lastCaseAt": 1786274744728,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
-      "totalEarned": 366000,
+      "totalEarned": 366750,
       "memoryGame": {
         "board": [
           {
@@ -2328,7 +2328,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 2981000,
+      "coins": 2980850,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2388,6 +2388,12 @@
           "kind": "coins",
           "amount": 150,
           "caseType": "knife",
+          "at": "2026-08-09T11:25:42.627Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
           "at": "2026-08-09T11:25:36.253Z"
         },
         {
@@ -2438,19 +2444,13 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-08-09T11:22:47.096Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T11:22:41.743Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786274736021,
+      "lastCaseAt": 1786274742139,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786273267968,
-      "totalEarned": 3177300,
+      "totalEarned": 3177450,
       "memoryGame": {
         "board": [
           {
@@ -3077,7 +3077,7 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 1168800,
+      "coins": 1167800,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3153,7 +3153,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786274505291,
       "lastBoosterAt": 1786274323582,
-      "totalEarned": 1174700,
+      "totalEarned": 1173700,
       "memoryGame": {
         "board": [
           {
@@ -3349,24 +3349,24 @@
           false,
           false,
           false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
           true,
           false,
           false,
           false,
-          false,
-          false,
-          false,
-          true,
-          true,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "skin",
@@ -3375,7 +3375,7 @@
           "price": 100000,
           "weight": 3
         },
-        "attempts": 1,
+        "attempts": 6,
         "status": "playing",
         "createdAt": 1786274213033,
         "pendingHide": null
