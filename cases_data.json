@@ -1364,7 +1364,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 834600,
+      "coins": 834700,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1375,6 +1375,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T09:47:39.457Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1428,19 +1434,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T09:45:10.689Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-09T09:45:04.136Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786268790187,
+      "lastCaseAt": 1786268859457,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786268615161,
-      "totalEarned": 3600,
+      "totalEarned": 3700,
       "memoryGame": null
     },
     "7886451818": {
@@ -1871,9 +1871,9 @@
       "bet": 50000,
       "turn": "6335884130",
       "challengerOpens": 1,
-      "opponentOpens": 0,
+      "opponentOpens": 1,
       "challengerTotal": 500,
-      "opponentTotal": 0,
+      "opponentTotal": 100,
       "results": [
         {
           "uid": "8708014655",
@@ -1882,6 +1882,14 @@
             "amount": 500
           },
           "earnings": 500
+        },
+        {
+          "uid": "6335884130",
+          "result": {
+            "kind": "coins",
+            "amount": 100
+          },
+          "earnings": 100
         }
       ]
     }
