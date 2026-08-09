@@ -2076,17 +2076,11 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 4851650,
+      "coins": 4851700,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-09T19:47:35.288Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -2140,13 +2134,19 @@
           "amount": 1000,
           "caseType": "knife",
           "at": "2026-08-09T19:46:09.194Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T19:45:52.093Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786304854892,
+      "lastCaseAt": 1786304846933,
       "username": "Pidor_play",
       "lastBoosterAt": 1786295872893,
-      "totalEarned": 4832850,
+      "totalEarned": 4832600,
       "memoryGame": {
         "board": [
           {
@@ -4696,11 +4696,24 @@
     },
     "6376231675": {
       "name": "Леша",
-      "coins": 550,
+      "coins": 250,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-North.png",
+          "type": "glove",
+          "at": "2026-08-09T19:47:35.631Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-North.png",
+          "chance": 7.5,
+          "caseType": "glove",
+          "at": "2026-08-09T19:47:35.631Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -4751,7 +4764,7 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786304760371,
+      "lastCaseAt": 1786304855339,
       "lastBoosterAt": 0,
       "totalEarned": 1950,
       "memoryGame": null,
