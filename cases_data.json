@@ -2093,7 +2093,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 1404250,
+      "coins": 1404200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2114,6 +2114,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-09T14:31:11.808Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2168,19 +2174,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T14:30:02.231Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-09T14:29:54.777Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786285862599,
+      "lastCaseAt": 1786285871421,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
-      "totalEarned": 1049150,
+      "totalEarned": 1049400,
       "memoryGame": {
         "board": [
           {
@@ -4388,21 +4388,9 @@
           "file": "karambitdesert.png",
           "type": "knife",
           "at": "2026-08-09T14:30:13.173Z"
-        },
-        {
-          "file": "m9guardian.png",
-          "type": "booster",
-          "at": "2026-08-09T14:31:10.682Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "m9guardian.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-09T14:31:10.682Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -4442,7 +4430,7 @@
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786285672078,
-      "lastBoosterAt": 1786285870219,
+      "lastBoosterAt": 0,
       "totalEarned": 1250,
       "memoryGame": {
         "board": [
