@@ -164,7 +164,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 347850,
+      "coins": 347650,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -185,12 +185,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-09T11:48:30.777Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -245,12 +239,18 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T11:44:13.695Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-09T11:44:07.572Z"
         }
       ],
       "lastBonus": 1786272475133,
-      "lastCaseAt": 1786276110527,
+      "lastCaseAt": 1786276104521,
       "lastBoosterAt": 1786275674618,
-      "totalEarned": 401550,
+      "totalEarned": 401050,
       "memoryGame": {
         "board": [
           {
@@ -3132,7 +3132,7 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 3072300,
+      "coins": 3072400,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -3203,7 +3203,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786274904896,
       "lastBoosterAt": 1786274323582,
-      "totalEarned": 3080300,
+      "totalEarned": 3080400,
       "memoryGame": {
         "board": [
           {
@@ -3397,19 +3397,19 @@
           false,
           false,
           false,
+          true,
+          false,
+          false,
+          true,
+          true,
+          false,
           false,
           false,
           false,
           true,
           false,
           false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
+          true,
           true,
           false,
           false,
@@ -3423,7 +3423,7 @@
           "price": 9000,
           "weight": 3
         },
-        "attempts": 5,
+        "attempts": 4,
         "status": "playing",
         "createdAt": 1786275974418,
         "pendingHide": null
