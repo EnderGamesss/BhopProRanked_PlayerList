@@ -248,8 +248,21 @@
       "coins": 1927900,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9snake.png",
+          "type": "knife",
+          "at": "2026-08-09T09:53:54.829Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9snake.png",
+          "chance": 0.35,
+          "caseType": "knife",
+          "at": "2026-08-09T09:53:54.829Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -303,17 +316,11 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-09T09:41:46.686Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-09T09:41:35.423Z"
         }
       ],
       "lastBonus": 1786219491674,
       "username": "EnderGamesDev",
-      "lastCaseAt": 1786269224397,
+      "lastCaseAt": 1786269234829,
       "totalEarned": 1342350,
       "lastBoosterAt": 1786263834308,
       "memoryGame": {
@@ -2114,9 +2121,9 @@
       "chosenType": "knife",
       "bet": 100000,
       "turn": "7307808447",
-      "challengerOpens": 1,
+      "challengerOpens": 2,
       "opponentOpens": 1,
-      "challengerTotal": 150,
+      "challengerTotal": 9150,
       "opponentTotal": 100,
       "results": [
         {
@@ -2134,6 +2141,15 @@
             "amount": 100
           },
           "earnings": 100
+        },
+        {
+          "uid": "7307808447",
+          "result": {
+            "kind": "skin",
+            "file": "m9snake.png",
+            "chance": 0.35
+          },
+          "earnings": 9000
         }
       ]
     }
