@@ -396,7 +396,7 @@
     },
     "7887063317": {
       "name": "b10xxx10",
-      "coins": 706400,
+      "coins": 706100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -424,9 +424,21 @@
           "file": "butsnake.png",
           "type": "knife",
           "at": "2026-08-09T05:07:43.063Z"
+        },
+        {
+          "file": "m9snake.png",
+          "type": "knife",
+          "at": "2026-08-09T05:09:08.956Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9snake.png",
+          "chance": 0.35,
+          "caseType": "knife",
+          "at": "2026-08-09T05:09:08.956Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -481,17 +493,11 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-09T05:07:07.228Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-09T05:06:59.724Z"
         }
       ],
       "lastBonus": 0,
       "username": "b10xxx10",
-      "lastCaseAt": 1786252142774
+      "lastCaseAt": 1786252148559
     },
     "5117405936": {
       "name": "xGRI3Fx",
