@@ -1211,11 +1211,24 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 6402850,
+      "coins": 6402550,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butdesert.png",
+          "type": "knife",
+          "at": "2026-08-09T12:02:29.112Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T12:02:29.112Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1271,16 +1284,10 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T12:00:09.774Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T11:59:57.248Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786276899724,
+      "lastCaseAt": 1786276948874,
       "lastBoosterAt": 1786275380248,
       "totalEarned": 6866150,
       "memoryGame": {
@@ -1805,7 +1812,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 824400,
+      "coins": 824500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1887,12 +1894,6 @@
       ],
       "history": [
         {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-09T12:02:28.884Z"
-        },
-        {
           "kind": "skin",
           "file": "camospinner.png",
           "chance": 2.5,
@@ -1946,13 +1947,19 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-09T12:00:21.525Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "spinner",
+          "at": "2026-08-09T12:00:04.335Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786276948480,
+      "lastCaseAt": 1786276919305,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
-      "totalEarned": 435100,
+      "totalEarned": 434900,
       "memoryGame": {
         "board": [
           {
