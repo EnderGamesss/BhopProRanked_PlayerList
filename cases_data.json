@@ -979,7 +979,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 5008750,
+      "coins": 5008950,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1025,6 +1025,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-08-09T10:27:06.996Z"
+        },
         {
           "kind": "skin",
           "file": "karambitforest.png",
@@ -1082,18 +1088,12 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-09T10:26:02.780Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-09T10:25:48.973Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786271221046,
+      "lastCaseAt": 1786271226528,
       "lastBoosterAt": 1786268958649,
-      "totalEarned": 4903150,
+      "totalEarned": 4903650,
       "memoryGame": {
         "board": [
           {
@@ -2676,10 +2676,16 @@
     },
     "5619153746": {
       "name": "ﮩ٨ــ ɴᴇᴠᴇʀᴘɪᴛᴄʜ ﮩ٨ـ",
-      "coins": 71000,
+      "coins": 1000,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9saphire.png",
+          "type": "booster",
+          "at": "2026-08-09T10:26:58.691Z"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -2692,7 +2698,7 @@
       "lastBonus": 0,
       "lastCaseAt": 0,
       "lastBoosterAt": 1786271218499,
-      "totalEarned": 70000,
+      "totalEarned": 0,
       "memoryGame": null,
       "username": "neverpitch"
     }
