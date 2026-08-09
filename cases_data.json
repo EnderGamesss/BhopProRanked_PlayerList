@@ -1444,17 +1444,11 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 8366450,
+      "coins": 8366550,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-09T14:52:36.225Z"
-        },
         {
           "kind": "coins",
           "amount": 150,
@@ -1510,12 +1504,18 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T14:48:00.236Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-09T14:47:54.346Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786287156032,
+      "lastCaseAt": 1786287100150,
       "lastBoosterAt": 1786284696560,
-      "totalEarned": 8963550,
+      "totalEarned": 8963350,
       "memoryGame": {
         "board": [
           {
@@ -2029,11 +2029,24 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 1553050,
+      "coins": 1552750,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butforest.png",
+          "type": "knife",
+          "at": "2026-08-09T14:52:36.803Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T14:52:36.803Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -2087,16 +2100,10 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T14:51:14.394Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T14:51:06.902Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786287149279,
+      "lastCaseAt": 1786287156585,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
       "totalEarned": 1228850,
