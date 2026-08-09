@@ -1244,7 +1244,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 298700,
+      "coins": 298650,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1255,6 +1255,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "spinner",
+          "at": "2026-08-09T06:39:04.608Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -1309,16 +1315,10 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-09T06:37:50.114Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-08-09T06:37:43.882Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786257537596,
+      "lastCaseAt": 1786257544295,
       "username": "Bonnifacay"
     }
   },
