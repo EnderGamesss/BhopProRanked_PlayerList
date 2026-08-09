@@ -1805,7 +1805,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 825500,
+      "coins": 825550,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1883,12 +1883,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 250,
-          "caseType": "spinner",
-          "at": "2026-08-09T11:59:06.108Z"
-        },
-        {
-          "kind": "coins",
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-09T11:58:58.291Z"
@@ -1941,13 +1935,19 @@
           "amount": 750,
           "caseType": "spinner",
           "at": "2026-08-09T11:57:50.984Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "spinner",
+          "at": "2026-08-09T11:57:43.360Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786276745713,
+      "lastCaseAt": 1786276737806,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
-      "totalEarned": 432000,
+      "totalEarned": 431750,
       "memoryGame": {
         "board": [
           {
@@ -3153,11 +3153,24 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 3130200,
+      "coins": 3129900,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "camospinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T11:59:06.355Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 2.5,
+          "caseType": "spinner",
+          "at": "2026-08-09T11:59:06.355Z"
+        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -3214,16 +3227,10 @@
           "chance": 1,
           "caseType": "spinner",
           "at": "2026-08-09T11:28:25.140Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-09T11:28:19.294Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786276739676,
+      "lastCaseAt": 1786276745863,
       "lastBoosterAt": 1786276226335,
       "totalEarned": 3140300,
       "memoryGame": {
