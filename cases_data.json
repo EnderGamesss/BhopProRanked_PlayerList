@@ -2435,7 +2435,7 @@
     },
     "8624452786": {
       "name": "ор щет",
-      "coins": 316250,
+      "coins": 315950,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2468,9 +2468,21 @@
           "file": "m9fire_0.png",
           "type": "knife",
           "at": "2026-08-09T20:45:52.544Z"
+        },
+        {
+          "file": "m9desert.png",
+          "type": "knife",
+          "at": "2026-08-09T20:57:42.153Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T20:57:42.153Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -2526,16 +2538,10 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T20:56:08.321Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T20:56:02.664Z"
         }
       ],
       "lastBonus": 1786281511849,
-      "lastCaseAt": 1786309056602,
+      "lastCaseAt": 1786309061807,
       "username": "orzett",
       "lastBoosterAt": 1786305808953,
       "totalEarned": 453950,
