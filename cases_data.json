@@ -3105,11 +3105,24 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 1385300,
+      "coins": 1385000,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "ironaquaspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T11:28:25.140Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "ironaquaspinner.png",
+          "chance": 1,
+          "caseType": "spinner",
+          "at": "2026-08-09T11:28:25.140Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -3164,16 +3177,10 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-08-09T11:21:33.805Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "spinner",
-          "at": "2026-08-09T11:21:28.622Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786274898916,
+      "lastCaseAt": 1786274904896,
       "lastBoosterAt": 1786274323582,
       "totalEarned": 1393000,
       "memoryGame": {
