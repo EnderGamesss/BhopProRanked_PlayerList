@@ -1231,7 +1231,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 6026300,
+      "coins": 6026100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1247,6 +1247,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T11:23:18.153Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1300,18 +1306,12 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-09T11:20:55.454Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-09T11:20:45.938Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786274590611,
+      "lastCaseAt": 1786274597617,
       "lastBoosterAt": 1786268958649,
-      "totalEarned": 6462000,
+      "totalEarned": 6462100,
       "memoryGame": {
         "board": [
           {
@@ -3062,10 +3062,21 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 1167800,
+      "coins": 789800,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "firespinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T11:22:25.977Z"
+        },
+        {
+          "file": "karambitsaphire.png",
+          "type": "knife",
+          "at": "2026-08-09T11:23:03.674Z"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -3132,7 +3143,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786274505291,
       "lastBoosterAt": 1786274323582,
-      "totalEarned": 1173700,
+      "totalEarned": 795700,
       "memoryGame": {
         "board": [
           {
