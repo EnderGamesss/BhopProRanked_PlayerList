@@ -844,7 +844,13 @@
       "coins": 1504100,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butsnake.png",
+          "type": "knife",
+          "at": "2026-08-09T13:08:02.572Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -1102,8 +1108,8 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
+          true,
           false,
           false,
           false,
@@ -1131,7 +1137,7 @@
           "price": 80000,
           "weight": 3
         },
-        "attempts": 4,
+        "attempts": 3,
         "status": "playing",
         "createdAt": 1786280853924,
         "pendingHide": null
