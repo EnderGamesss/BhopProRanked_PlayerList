@@ -1353,7 +1353,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 441500,
+      "coins": 441350,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1379,6 +1379,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-09T07:14:41.844Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -1435,16 +1441,10 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T07:13:06.499Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-09T07:13:00.097Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786259674247,
+      "lastCaseAt": 1786259681590,
       "username": "Bonnifacay"
     }
   },
