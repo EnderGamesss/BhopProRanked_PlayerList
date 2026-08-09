@@ -2435,7 +2435,7 @@
     },
     "8624452786": {
       "name": "ор щет",
-      "coins": 348700,
+      "coins": 348400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2478,9 +2478,21 @@
           "file": "m9skullskin.png",
           "type": "knife",
           "at": "2026-08-09T21:08:27.409Z"
+        },
+        {
+          "file": "karambitdesert.png",
+          "type": "knife",
+          "at": "2026-08-09T21:10:01.303Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T21:10:01.303Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -2536,16 +2548,10 @@
           "chance": 0.05,
           "caseType": "knife",
           "at": "2026-08-09T21:08:27.409Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-09T21:08:03.922Z"
         }
       ],
       "lastBonus": 1786281511849,
-      "lastCaseAt": 1786309789767,
+      "lastCaseAt": 1786309801073,
       "username": "orzett",
       "lastBoosterAt": 1786305808953,
       "totalEarned": 506800,
@@ -5469,10 +5475,16 @@
     },
     "5921506870": {
       "name": "ErikmiT",
-      "coins": 147000,
+      "coins": 47000,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9emerand.png",
+          "type": "knife",
+          "at": "2026-08-09T21:09:56.088Z"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -5540,13 +5552,13 @@
       "lastBonus": 0,
       "lastCaseAt": 1786309795707,
       "lastBoosterAt": 0,
-      "totalEarned": 154100,
+      "totalEarned": 54100,
       "memoryGame": null,
       "username": "hozud"
     },
     "5848447527": {
       "name": "Tenti good🗽",
-      "coins": 20650,
+      "coins": 20350,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -5554,9 +5566,21 @@
           "file": "thumb-North.png",
           "type": "glove",
           "at": "2026-08-09T21:08:19.145Z"
+        },
+        {
+          "file": "karambitmonster.png",
+          "type": "knife",
+          "at": "2026-08-09T21:10:04.501Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitmonster.png",
+          "chance": 0.05,
+          "caseType": "knife",
+          "at": "2026-08-09T21:10:04.501Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -5615,7 +5639,7 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786309798638,
+      "lastCaseAt": 1786309804215,
       "lastBoosterAt": 0,
       "totalEarned": 22350,
       "memoryGame": null,
