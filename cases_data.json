@@ -1231,7 +1231,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 6027750,
+      "coins": 6027900,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1247,12 +1247,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-09T11:16:04.143Z"
-        },
         {
           "kind": "coins",
           "amount": 500,
@@ -1307,12 +1301,18 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-09T11:13:40.366Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-09T11:13:34.971Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786274163624,
+      "lastCaseAt": 1786274157413,
       "lastBoosterAt": 1786268958649,
-      "totalEarned": 6452650,
+      "totalEarned": 6452500,
       "memoryGame": {
         "board": [
           {
@@ -3037,11 +3037,24 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 800,
+      "coins": 500,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-basic-spinner-5.png",
+          "type": "spinner",
+          "at": "2026-08-09T11:16:04.211Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-basic-spinner-5.png",
+          "chance": 2,
+          "caseType": "spinner",
+          "at": "2026-08-09T11:16:04.211Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -3050,7 +3063,7 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786274157848,
+      "lastCaseAt": 1786274163913,
       "lastBoosterAt": 0,
       "totalEarned": 100,
       "memoryGame": null,
