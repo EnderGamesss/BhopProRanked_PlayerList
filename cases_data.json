@@ -3555,11 +3555,13 @@
     "duel_1786273159813_8708014655": {
       "challenger": "8708014655",
       "opponent": "8347129286",
-      "status": "type_select",
+      "status": "bet_propose",
       "createdAt": 1786273159813,
       "choices": {
-        "8708014655": "spinner"
-      }
+        "8708014655": "spinner",
+        "8347129286": "spinner"
+      },
+      "chosenType": "spinner"
     }
   }
 }
