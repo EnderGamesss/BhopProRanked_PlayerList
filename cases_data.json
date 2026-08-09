@@ -1696,9 +1696,9 @@
           false,
           false,
           false,
+          true,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1751,10 +1751,13 @@
           "amount": 250,
           "weight": 20
         },
-        "attempts": 6,
+        "attempts": 4,
         "status": "playing",
         "createdAt": 1786291410430,
-        "pendingHide": null
+        "pendingHide": [
+          3,
+          5
+        ]
       }
     },
     "6703298995": {
