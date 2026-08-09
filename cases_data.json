@@ -577,7 +577,7 @@
     },
     "7307808447": {
       "name": "EnderGamesDev",
-      "coins": 2028500,
+      "coins": 1928500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1241,7 +1241,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 6089100,
+      "coins": 5989100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2349,7 +2349,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 3076650,
+      "coins": 3076700,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2447,12 +2447,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-09T11:39:19.699Z"
-        },
-        {
-          "kind": "coins",
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T11:39:12.823Z"
@@ -2504,13 +2498,19 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-09T11:36:17.265Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-09T11:36:09.578Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786275559176,
+      "lastCaseAt": 1786275552585,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786273267968,
-      "totalEarned": 3184650,
+      "totalEarned": 3184400,
       "memoryGame": {
         "board": [
           {
@@ -4130,14 +4130,20 @@
     "duel_1786275513260_7307808447": {
       "challenger": "7307808447",
       "opponent": "8708014655",
-      "status": "bet_confirm",
+      "status": "active",
       "createdAt": 1786275513260,
       "choices": {
         "8708014655": "spinner",
         "7307808447": "spinner"
       },
       "chosenType": "spinner",
-      "bet": 100000
+      "bet": 100000,
+      "turn": "7307808447",
+      "challengerOpens": 0,
+      "opponentOpens": 0,
+      "challengerTotal": 0,
+      "opponentTotal": 0,
+      "results": []
     }
   }
 }
