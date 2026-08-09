@@ -2829,6 +2829,7 @@
           }
         ],
         "revealed": [
+          true,
           false,
           false,
           false,
@@ -2842,8 +2843,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2889,10 +2889,13 @@
           "price": 100000,
           "weight": 3
         },
-        "attempts": 2,
+        "attempts": 1,
         "status": "playing",
         "createdAt": 1786280888245,
-        "pendingHide": null
+        "pendingHide": [
+          0,
+          14
+        ]
       }
     },
     "7886451818": {
