@@ -87,7 +87,7 @@
     },
     "939363878": {
       "name": "Эллис",
-      "coins": 1597450,
+      "coins": 1597300,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -103,6 +103,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-09T12:34:34.629Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -158,19 +164,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T12:33:13.010Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-09T12:33:06.257Z"
         }
       ],
       "lastBonus": 1786216214657,
       "username": "cazuso",
-      "lastCaseAt": 1786278842916,
+      "lastCaseAt": 1786278874231,
       "lastBoosterAt": 1786278633705,
-      "totalEarned": 1266700,
+      "totalEarned": 1266850,
       "memoryGame": null
     },
     "1721484630": {
@@ -1190,17 +1190,11 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 6621900,
+      "coins": 6622100,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T12:34:33.490Z"
-        },
         {
           "kind": "coins",
           "amount": 150,
@@ -1256,12 +1250,18 @@
           "chance": 0.06,
           "caseType": "knife",
           "at": "2026-08-09T12:32:00.868Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-08-09T12:30:17.890Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786278873288,
+      "lastCaseAt": 1786278808593,
       "lastBoosterAt": 1786278007448,
-      "totalEarned": 7110700,
+      "totalEarned": 7110600,
       "memoryGame": {
         "board": [
           {
@@ -3427,11 +3427,17 @@
     },
     "7231392817": {
       "name": "Нейрохам",
-      "coins": 50550,
+      "coins": 50350,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T12:34:32.307Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -3486,19 +3492,12 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T12:26:50.677Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9desert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-09T12:26:41.114Z"
         }
       ],
       "lastBonus": 1786278200045,
-      "lastCaseAt": 1786278864681,
+      "lastCaseAt": 1786278871736,
       "lastBoosterAt": 1786278307471,
-      "totalEarned": 53750,
+      "totalEarned": 53850,
       "memoryGame": null,
       "username": "APECTOBAH_3A_BENZIH"
     }
