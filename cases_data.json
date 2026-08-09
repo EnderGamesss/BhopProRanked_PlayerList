@@ -164,7 +164,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 217350,
+      "coins": 217850,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -185,6 +185,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-08-09T10:51:08.735Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -238,19 +244,12 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T10:40:17.487Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9desert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-09T10:40:12.065Z"
         }
       ],
       "lastBonus": 1786272475133,
-      "lastCaseAt": 1786272656747,
+      "lastCaseAt": 1786272668735,
       "lastBoosterAt": 1786271891771,
-      "totalEarned": 245250,
+      "totalEarned": 245750,
       "memoryGame": {
         "board": [
           {
@@ -3375,9 +3374,9 @@
       "bet": 25000,
       "turn": "1721484630",
       "challengerOpens": 5,
-      "opponentOpens": 4,
+      "opponentOpens": 5,
       "challengerTotal": 136300,
-      "opponentTotal": 500,
+      "opponentTotal": 1000,
       "results": [
         {
           "uid": "8708014655",
@@ -3453,9 +3452,17 @@
             "amount": 150
           },
           "earnings": 150
+        },
+        {
+          "uid": "1721484630",
+          "result": {
+            "kind": "coins",
+            "amount": 500
+          },
+          "earnings": 500
         }
       ],
-      "lastAction": 1786272663193
+      "lastAction": 1786272668735
     }
   }
 }
