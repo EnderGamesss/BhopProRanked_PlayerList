@@ -1109,11 +1109,24 @@
     },
     "8624452786": {
       "name": "ÖrZet",
-      "coins": 900,
+      "coins": 600,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "camospinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T02:44:56.688Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 2.5,
+          "caseType": "spinner",
+          "at": "2026-08-09T02:44:56.688Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -1122,7 +1135,7 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786243488580,
+      "lastCaseAt": 1786243496461,
       "username": "orzett"
     }
   },
