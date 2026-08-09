@@ -3043,7 +3043,7 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 300,
+      "coins": 200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3054,6 +3054,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "spinner",
+          "at": "2026-08-09T11:16:28.727Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -3075,9 +3081,9 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786274178246,
+      "lastCaseAt": 1786274188495,
       "lastBoosterAt": 0,
-      "totalEarned": 200,
+      "totalEarned": 400,
       "memoryGame": null,
       "username": "bogdansert"
     }
