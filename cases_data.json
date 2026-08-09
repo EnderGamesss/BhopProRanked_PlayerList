@@ -245,7 +245,7 @@
     },
     "7307808447": {
       "name": "EnderGamesDev",
-      "coins": 2027750,
+      "coins": 1927750,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -1380,7 +1380,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 835550,
+      "coins": 735550,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2106,14 +2106,20 @@
     "duel_1786269174406_7307808447": {
       "challenger": "7307808447",
       "opponent": "6335884130",
-      "status": "bet_confirm",
+      "status": "active",
       "createdAt": 1786269174406,
       "choices": {
         "6335884130": "knife",
         "7307808447": "knife"
       },
       "chosenType": "knife",
-      "bet": 100000
+      "bet": 100000,
+      "turn": "7307808447",
+      "challengerOpens": 0,
+      "opponentOpens": 0,
+      "challengerTotal": 0,
+      "opponentTotal": 0,
+      "results": []
     }
   }
 }
