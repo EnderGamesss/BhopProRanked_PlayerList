@@ -2104,7 +2104,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 5238150,
+      "coins": 5237950,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2150,6 +2150,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T22:05:37.238Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -2204,19 +2210,13 @@
           "chance": 0.3,
           "caseType": "knife",
           "at": "2026-08-09T22:03:59.926Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-09T22:03:52.558Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786313127726,
+      "lastCaseAt": 1786313136674,
       "username": "Pidor_play",
       "lastBoosterAt": 1786295872893,
-      "totalEarned": 5269150,
+      "totalEarned": 5269250,
       "memoryGame": {
         "board": [
           {
@@ -5657,11 +5657,6 @@
           "file": "camospinner.png",
           "type": "spinner",
           "at": "2026-08-09T22:05:25.026Z"
-        },
-        {
-          "file": "woodspinner.png",
-          "type": "spinner",
-          "at": "2026-08-09T22:05:37.172Z"
         }
       ],
       "history": [
@@ -5904,26 +5899,26 @@
         "matched": [
           false,
           false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
           true,
-          false,
           false,
           true,
           false,
           false,
           false,
           false,
+          true,
+          false,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
           false,
           false,
           false
@@ -5935,7 +5930,7 @@
           "price": 45000,
           "weight": 4
         },
-        "attempts": 5,
+        "attempts": 6,
         "status": "playing",
         "createdAt": 1786313083350,
         "pendingHide": null
