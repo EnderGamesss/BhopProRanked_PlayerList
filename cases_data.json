@@ -1508,6 +1508,11 @@
           "file": "butdesert.png",
           "type": "knife",
           "at": "2026-08-09T15:30:09.481Z"
+        },
+        {
+          "file": "m9faded.png",
+          "type": "knife",
+          "at": "2026-08-09T15:32:37.188Z"
         }
       ],
       "history": [
@@ -1768,6 +1773,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -1778,8 +1784,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1792,9 +1797,10 @@
           "price": 20000,
           "weight": 5
         },
-        "attempts": 7,
+        "attempts": 1,
         "status": "playing",
-        "createdAt": 1786289468261
+        "createdAt": 1786289468261,
+        "pendingHide": null
       }
     },
     "6703298995": {
