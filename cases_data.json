@@ -1231,7 +1231,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 6023750,
+      "coins": 6023600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1257,6 +1257,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-09T11:30:46.554Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -1310,18 +1316,12 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-09T11:29:48.785Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-09T11:29:43.070Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786275040556,
+      "lastCaseAt": 1786275045807,
       "lastBoosterAt": 1786268958649,
-      "totalEarned": 6468150,
+      "totalEarned": 6468300,
       "memoryGame": {
         "board": [
           {
@@ -3132,11 +3132,6 @@
           "file": "m9guardian.png",
           "type": "knife",
           "at": "2026-08-09T11:30:44.023Z"
-        },
-        {
-          "file": "m9guardian.png",
-          "type": "knife",
-          "at": "2026-08-09T11:30:45.793Z"
         }
       ],
       "history": [
@@ -3407,13 +3402,13 @@
           false,
           false,
           false,
-          true,
           false,
           false,
           false,
+          false,
           true,
           true,
-          true,
+          false,
           true,
           true,
           true,
@@ -3428,7 +3423,7 @@
           "price": 100000,
           "weight": 3
         },
-        "attempts": 5,
+        "attempts": 4,
         "status": "playing",
         "createdAt": 1786274213033,
         "pendingHide": null
