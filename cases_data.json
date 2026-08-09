@@ -1231,7 +1231,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 6026300,
+      "coins": 6026500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1247,12 +1247,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T11:23:03.781Z"
-        },
         {
           "kind": "coins",
           "amount": 500,
@@ -1306,12 +1300,18 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T11:20:45.938Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-09T11:20:38.341Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786274583251,
+      "lastCaseAt": 1786274578218,
       "lastBoosterAt": 1786268958649,
-      "totalEarned": 6462000,
+      "totalEarned": 6461900,
       "memoryGame": {
         "board": [
           {
@@ -3070,6 +3070,11 @@
           "file": "firespinner.png",
           "type": "spinner",
           "at": "2026-08-09T11:22:25.977Z"
+        },
+        {
+          "file": "karambitsaphire.png",
+          "type": "knife",
+          "at": "2026-08-09T11:23:03.674Z"
         }
       ],
       "history": [
@@ -3327,6 +3332,11 @@
           false
         ],
         "matched": [
+          true,
+          false,
+          false,
+          false,
+          false,
           false,
           false,
           false,
@@ -3342,16 +3352,11 @@
           false,
           false,
           true,
-          false,
-          false,
-          false,
-          false,
-          false,
           true,
           false,
           false,
           false,
-          false
+          true
         ],
         "target": {
           "kind": "skin",
@@ -3360,10 +3365,9 @@
           "price": 100000,
           "weight": 3
         },
-        "attempts": 4,
+        "attempts": 7,
         "status": "playing",
-        "createdAt": 1786274213033,
-        "pendingHide": null
+        "createdAt": 1786274213033
       },
       "username": "bogdansert"
     },
