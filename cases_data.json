@@ -3863,7 +3863,7 @@
     },
     "6086452992": {
       "name": "Fatal",
-      "coins": 246600,
+      "coins": 246400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3894,6 +3894,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "spinner",
+          "at": "2026-08-09T18:55:08.929Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -3950,19 +3956,12 @@
           "amount": 500,
           "caseType": "spinner",
           "at": "2026-08-09T12:15:55.425Z"
-        },
-        {
-          "kind": "skin",
-          "file": "woodspinner.png",
-          "chance": 0.6,
-          "caseType": "spinner",
-          "at": "2026-08-09T12:15:49.018Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786301673937,
+      "lastCaseAt": 1786301708419,
       "lastBoosterAt": 0,
-      "totalEarned": 255500,
+      "totalEarned": 255600,
       "memoryGame": null,
       "username": "FatalADS"
     },
