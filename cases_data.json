@@ -87,7 +87,7 @@
     },
     "939363878": {
       "name": "Эллис",
-      "coins": 403150,
+      "coins": 403600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -103,6 +103,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-09T09:31:25.662Z"
+        },
         {
           "kind": "skin",
           "file": "butforest.png",
@@ -158,19 +164,13 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-09T09:30:34.711Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-09T09:30:25.527Z"
         }
       ],
       "lastBonus": 1786216214657,
       "username": "cazuso",
-      "lastCaseAt": 1786267880303,
+      "lastCaseAt": 1786267885467,
       "lastBoosterAt": 0,
-      "totalEarned": 2200,
+      "totalEarned": 2950,
       "memoryGame": null
     },
     "1840807637": {
@@ -797,21 +797,9 @@
           "file": "thumb-Swat.png",
           "type": "glove",
           "at": "2026-08-09T09:30:02.859Z"
-        },
-        {
-          "file": "dangerspinner.png",
-          "type": "booster",
-          "at": "2026-08-09T09:31:24.843Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "dangerspinner.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-09T09:31:24.843Z"
-        },
         {
           "kind": "coins",
           "amount": 500,
@@ -866,11 +854,17 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T09:29:06.871Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-09T09:28:58.869Z"
         }
       ],
       "lastBonus": 1786259491073,
       "lastCaseAt": 1786267874015,
-      "lastBoosterAt": 1786267884483,
+      "lastBoosterAt": 0,
       "totalEarned": 500,
       "memoryGame": null
     },
