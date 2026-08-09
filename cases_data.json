@@ -1485,7 +1485,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 10717200,
+      "coins": 10716900,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1493,9 +1493,21 @@
           "file": "ironaquaspinner.png",
           "type": "spinner",
           "at": "2026-08-09T20:37:36.948Z"
+        },
+        {
+          "file": "camospinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T20:39:03.732Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 2.5,
+          "caseType": "spinner",
+          "at": "2026-08-09T20:39:03.732Z"
+        },
         {
           "kind": "skin",
           "file": "camospinner.png",
@@ -1552,16 +1564,10 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T20:29:12.924Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-09T20:28:58.600Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786307877291,
+      "lastCaseAt": 1786307943360,
       "lastBoosterAt": 1786305613935,
       "totalEarned": 11303700,
       "memoryGame": {
@@ -2418,7 +2424,7 @@
     },
     "8624452786": {
       "name": "ор щет",
-      "coins": 296750,
+      "coins": 297050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2456,21 +2462,9 @@
           "file": "karambitdesert.png",
           "type": "knife",
           "at": "2026-08-09T20:37:44.503Z"
-        },
-        {
-          "file": "karambitdesert.png",
-          "type": "knife",
-          "at": "2026-08-09T20:39:03.608Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "karambitdesert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-09T20:39:03.608Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -2525,10 +2519,16 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-09T20:37:44.503Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-09T20:37:39.299Z"
         }
       ],
       "lastBonus": 1786281511849,
-      "lastCaseAt": 1786307943152,
+      "lastCaseAt": 1786307936262,
       "username": "orzett",
       "lastBoosterAt": 1786305808953,
       "totalEarned": 419150,
