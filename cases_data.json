@@ -1821,7 +1821,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 454800,
+      "coins": 455250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1867,6 +1867,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "spinner",
+          "at": "2026-08-09T10:57:13.489Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -1925,19 +1931,13 @@
           "chance": 2.5,
           "caseType": "spinner",
           "at": "2026-08-09T10:55:58.158Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-09T10:55:33.156Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786273025895,
+      "lastCaseAt": 1786273033260,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
-      "totalEarned": 11200,
+      "totalEarned": 11950,
       "memoryGame": {
         "board": [
           {
@@ -3590,13 +3590,11 @@
     "duel_1786273018879_8347129286": {
       "challenger": "8347129286",
       "opponent": "8708014655",
-      "status": "bet_propose",
+      "status": "type_select",
       "createdAt": 1786273018879,
       "choices": {
-        "8708014655": "spinner",
-        "8347129286": "spinner"
-      },
-      "chosenType": "spinner"
+        "8708014655": "spinner"
+      }
     }
   }
 }
