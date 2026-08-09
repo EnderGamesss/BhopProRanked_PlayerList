@@ -1574,35 +1574,41 @@
       "memoryGame": {
         "board": [
           {
-            "kind": "coins",
-            "amount": 100,
-            "weight": 20
+            "kind": "skin",
+            "file": "thumb-North.png",
+            "type": "glove",
+            "price": 4000,
+            "weight": 5
           },
           {
             "kind": "coins",
-            "amount": 100,
-            "weight": 20
-          },
-          {
-            "kind": "coins",
-            "amount": 150,
-            "weight": 20
-          },
-          {
-            "kind": "coins",
-            "amount": 100,
+            "amount": 200,
             "weight": 20
           },
           {
             "kind": "skin",
-            "file": "butsnake.png",
+            "file": "butdesert.png",
             "type": "knife",
-            "price": 12000,
+            "price": 2500,
             "weight": 3
           },
           {
+            "kind": "skin",
+            "file": "m9saphire.png",
+            "type": "knife",
+            "price": 70000,
+            "weight": 3
+          },
+          {
+            "kind": "skin",
+            "file": "m9fire_0.png",
+            "type": "knife",
+            "price": 265000,
+            "weight": 2
+          },
+          {
             "kind": "coins",
-            "amount": 250,
+            "amount": 500,
             "weight": 20
           },
           {
@@ -1612,88 +1618,13 @@
           },
           {
             "kind": "skin",
-            "file": "butforest.png",
-            "type": "knife",
-            "price": 2000,
-            "weight": 3
-          },
-          {
-            "kind": "coins",
-            "amount": 500,
-            "weight": 20
-          },
-          {
-            "kind": "skin",
-            "file": "skullspinner.png",
+            "file": "prettyspinner.png",
             "type": "spinner",
-            "price": 95000,
+            "price": 80000,
             "weight": 4
           },
           {
             "kind": "coins",
-            "amount": 750,
-            "weight": 20
-          },
-          {
-            "kind": "skin",
-            "file": "butsnake.png",
-            "type": "knife",
-            "price": 12000,
-            "weight": 3
-          },
-          {
-            "kind": "coins",
-            "amount": 500,
-            "weight": 20
-          },
-          {
-            "kind": "coins",
-            "amount": 750,
-            "weight": 20
-          },
-          {
-            "kind": "coins",
-            "amount": 100,
-            "weight": 20
-          },
-          {
-            "kind": "coins",
-            "amount": 200,
-            "weight": 20
-          },
-          {
-            "kind": "coins",
-            "amount": 500,
-            "weight": 20
-          },
-          {
-            "kind": "skin",
-            "file": "butforest.png",
-            "type": "knife",
-            "price": 2000,
-            "weight": 3
-          },
-          {
-            "kind": "skin",
-            "file": "m9ruby.png",
-            "type": "knife",
-            "price": 60000,
-            "weight": 3
-          },
-          {
-            "kind": "coins",
-            "amount": 250,
-            "weight": 20
-          },
-          {
-            "kind": "skin",
-            "file": "m9ruby.png",
-            "type": "knife",
-            "price": 60000,
-            "weight": 3
-          },
-          {
-            "kind": "coins",
             "amount": 150,
             "weight": 20
           },
@@ -1703,9 +1634,90 @@
             "weight": 20
           },
           {
+            "kind": "skin",
+            "file": "thumb-North.png",
+            "type": "glove",
+            "price": 4000,
+            "weight": 5
+          },
+          {
+            "kind": "coins",
+            "amount": 500,
+            "weight": 20
+          },
+          {
             "kind": "coins",
             "amount": 200,
             "weight": 20
+          },
+          {
+            "kind": "skin",
+            "file": "thumb-North.png",
+            "type": "glove",
+            "price": 4000,
+            "weight": 5
+          },
+          {
+            "kind": "coins",
+            "amount": 200,
+            "weight": 20
+          },
+          {
+            "kind": "skin",
+            "file": "thumb-North.png",
+            "type": "glove",
+            "price": 4000,
+            "weight": 5
+          },
+          {
+            "kind": "skin",
+            "file": "butdesert.png",
+            "type": "knife",
+            "price": 2500,
+            "weight": 3
+          },
+          {
+            "kind": "skin",
+            "file": "thumb-bhopool.png",
+            "type": "glove",
+            "price": 140000,
+            "weight": 5
+          },
+          {
+            "kind": "skin",
+            "file": "m9saphire.png",
+            "type": "knife",
+            "price": 70000,
+            "weight": 3
+          },
+          {
+            "kind": "coins",
+            "amount": 500,
+            "weight": 20
+          },
+          {
+            "kind": "coins",
+            "amount": 200,
+            "weight": 20
+          },
+          {
+            "kind": "coins",
+            "amount": 150,
+            "weight": 20
+          },
+          {
+            "kind": "skin",
+            "file": "prettyspinner.png",
+            "type": "spinner",
+            "price": 80000,
+            "weight": 4
+          },
+          {
+            "kind": "skin",
+            "file": "m9fire_0.png",
+            "type": "knife",
+            "price": 265000,
+            "weight": 2
           },
           {
             "kind": "coins",
@@ -1769,12 +1781,12 @@
         ],
         "target": {
           "kind": "coins",
-          "amount": 500,
+          "amount": 200,
           "weight": 20
         },
         "attempts": 7,
         "status": "playing",
-        "createdAt": 1786290549595
+        "createdAt": 1786290638953
       }
     },
     "6703298995": {
