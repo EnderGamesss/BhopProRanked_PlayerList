@@ -1730,7 +1730,7 @@
           false,
           false,
           false,
-          true,
+          false,
           false,
           false,
           false,
@@ -1780,13 +1780,9 @@
           "price": 50000,
           "weight": 4
         },
-        "attempts": 6,
+        "attempts": 7,
         "status": "playing",
-        "createdAt": 1786307167563,
-        "pendingHide": [
-          10,
-          15
-        ]
+        "createdAt": 1786307167563
       }
     },
     "6703298995": {
@@ -2428,7 +2424,7 @@
     },
     "8624452786": {
       "name": "ор щет",
-      "coins": 381150,
+      "coins": 380850,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2456,9 +2452,21 @@
           "file": "karambitdesert.png",
           "type": "knife",
           "at": "2026-08-09T20:20:50.564Z"
+        },
+        {
+          "file": "m9forest.png",
+          "type": "knife",
+          "at": "2026-08-09T20:26:35.365Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9forest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T20:26:35.365Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -2512,16 +2520,10 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T20:21:33.350Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-09T20:21:24.774Z"
         }
       ],
       "lastBonus": 1786281511849,
-      "lastCaseAt": 1786306954435,
+      "lastCaseAt": 1786307194928,
       "username": "orzett",
       "lastBoosterAt": 1786305808953,
       "totalEarned": 393950,
