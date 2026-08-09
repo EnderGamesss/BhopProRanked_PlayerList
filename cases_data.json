@@ -1180,11 +1180,24 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 6529300,
+      "coins": 6529000,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butforest.png",
+          "type": "knife",
+          "at": "2026-08-09T12:29:41.993Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T12:29:41.993Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -1238,16 +1251,10 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-09T12:28:11.231Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-09T12:28:06.138Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786278568756,
+      "lastCaseAt": 1786278581471,
       "lastBoosterAt": 1786278007448,
       "totalEarned": 7014200,
       "memoryGame": {
@@ -1772,7 +1779,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 1370300,
+      "coins": 1370100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1788,12 +1795,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-09T12:29:41.506Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -1847,13 +1848,19 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T12:28:07.535Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-09T12:28:00.315Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786278581223,
+      "lastCaseAt": 1786278573657,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
-      "totalEarned": 1008000,
+      "totalEarned": 1007500,
       "memoryGame": {
         "board": [
           {
