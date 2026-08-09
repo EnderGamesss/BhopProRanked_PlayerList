@@ -2021,7 +2021,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 1549850,
+      "coins": 1549750,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2037,6 +2037,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-09T14:50:05.991Z"
+        },
         {
           "kind": "skin",
           "file": "m9desert.png",
@@ -2091,20 +2097,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T14:48:37.069Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitforest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-09T14:46:44.932Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786286982623,
+      "lastCaseAt": 1786287005575,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
-      "totalEarned": 1220550,
+      "totalEarned": 1220750,
       "memoryGame": {
         "board": [
           {
@@ -5320,9 +5319,7 @@
       "opponent": "6408582313",
       "status": "type_select",
       "createdAt": 1786286991628,
-      "choices": {
-        "8708014655": "knife"
-      }
+      "choices": {}
     }
   }
 }
