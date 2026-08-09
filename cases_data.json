@@ -1353,7 +1353,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 441950,
+      "coins": 441650,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1371,9 +1371,21 @@
           "file": "butdesert.png",
           "type": "knife",
           "at": "2026-08-09T07:13:31.033Z"
+        },
+        {
+          "file": "karambitdesert.png",
+          "type": "knife",
+          "at": "2026-08-09T07:14:28.313Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T07:14:28.313Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -1429,16 +1441,10 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-09T07:12:52.110Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-09T07:12:46.151Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786259661524,
+      "lastCaseAt": 1786259667750,
       "username": "Bonnifacay"
     }
   },
