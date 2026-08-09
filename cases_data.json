@@ -3065,7 +3065,13 @@
       "coins": 1167800,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitsaphire.png",
+          "type": "knife",
+          "at": "2026-08-09T11:23:55.004Z"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -3354,9 +3360,10 @@
           "price": 100000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
-        "createdAt": 1786274213033
+        "createdAt": 1786274213033,
+        "pendingHide": null
       },
       "username": "bogdansert"
     },
