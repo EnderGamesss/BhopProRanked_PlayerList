@@ -2435,7 +2435,7 @@
     },
     "8624452786": {
       "name": "ор щет",
-      "coins": 346850,
+      "coins": 346550,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2468,9 +2468,21 @@
           "file": "m9fire_0.png",
           "type": "knife",
           "at": "2026-08-09T20:45:52.544Z"
+        },
+        {
+          "file": "m9desert.png",
+          "type": "knife",
+          "at": "2026-08-09T21:06:17.947Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T21:06:17.947Z"
+        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -2524,16 +2536,10 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T21:04:07.658Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-09T21:04:01.692Z"
         }
       ],
       "lastBonus": 1786281511849,
-      "lastCaseAt": 1786309567930,
+      "lastCaseAt": 1786309577596,
       "username": "orzett",
       "lastBoosterAt": 1786305808953,
       "totalEarned": 499250,
@@ -5457,17 +5463,11 @@
     },
     "5921506870": {
       "name": "ErikmiT",
-      "coins": 45400,
+      "coins": 45450,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-09T21:06:17.402Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -5521,12 +5521,19 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-09T21:04:44.233Z"
+        },
+        {
+          "kind": "skin",
+          "file": "ironaquaspinner.png",
+          "chance": 1,
+          "caseType": "spinner",
+          "at": "2026-08-09T21:04:35.365Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786309576990,
+      "lastCaseAt": 1786309561881,
       "lastBoosterAt": 0,
-      "totalEarned": 48300,
+      "totalEarned": 48050,
       "memoryGame": null,
       "username": "hozud"
     }
