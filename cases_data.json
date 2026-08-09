@@ -232,7 +232,7 @@
     },
     "7307808447": {
       "name": "EnderGamesDev",
-      "coins": 1242000,
+      "coins": 1241000,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1458,7 +1458,7 @@
     },
     "7886451818": {
       "name": "EnderGamesDev",
-      "coins": 1100,
+      "coins": 100,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -1765,14 +1765,20 @@
     "duel_1786266412045_7307808447": {
       "challenger": "7307808447",
       "opponent": "7886451818",
-      "status": "bet_confirm",
+      "status": "active",
       "createdAt": 1786266412045,
       "choices": {
         "7886451818": "knife",
         "7307808447": "knife"
       },
       "chosenType": "knife",
-      "bet": 1000
+      "bet": 1000,
+      "turn": "7307808447",
+      "challengerOpens": 0,
+      "opponentOpens": 0,
+      "challengerTotal": 0,
+      "opponentTotal": 0,
+      "results": []
     }
   }
 }
