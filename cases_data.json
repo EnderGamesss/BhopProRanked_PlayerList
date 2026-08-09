@@ -1377,9 +1377,21 @@
           "file": "m9aura.png",
           "type": "booster",
           "at": "2026-08-09T09:43:35.366Z"
+        },
+        {
+          "file": "butsnake.png",
+          "type": "knife",
+          "at": "2026-08-09T09:48:01.919Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butsnake.png",
+          "chance": 0.3,
+          "caseType": "knife",
+          "at": "2026-08-09T09:48:01.919Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -1433,16 +1445,10 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-09T09:45:30.516Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T09:45:25.285Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786268868502,
+      "lastCaseAt": 1786268881919,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786268615161,
       "totalEarned": 3900,
@@ -1876,9 +1882,9 @@
       "bet": 50000,
       "turn": "6335884130",
       "challengerOpens": 3,
-      "opponentOpens": 2,
+      "opponentOpens": 3,
       "challengerTotal": 3150,
-      "opponentTotal": 300,
+      "opponentTotal": 12300,
       "results": [
         {
           "uid": "8708014655",
@@ -1920,6 +1926,15 @@
             "chance": 0.9
           },
           "earnings": 2500
+        },
+        {
+          "uid": "6335884130",
+          "result": {
+            "kind": "skin",
+            "file": "butsnake.png",
+            "chance": 0.3
+          },
+          "earnings": 12000
         }
       ]
     }
