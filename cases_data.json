@@ -2229,11 +2229,17 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 3890300,
+      "coins": 3890150,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-09T12:28:29.367Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2287,19 +2293,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T12:24:27.038Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-09T12:24:12.870Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786278326376,
+      "lastCaseAt": 1786278508963,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786276100726,
-      "totalEarned": 4049000,
+      "totalEarned": 4049150,
       "memoryGame": {
         "board": [
           {
@@ -2936,13 +2936,7 @@
       "coins": 3271200,
       "luck": 1,
       "boosts": [],
-      "inventory": [
-        {
-          "file": "karambitkoi.png",
-          "type": "knife",
-          "at": "2026-08-09T12:28:28.559Z"
-        }
-      ],
+      "inventory": [],
       "history": [
         {
           "kind": "coins",
@@ -3198,12 +3192,12 @@
           true,
           false,
           false,
-          true,
           false,
           false,
           false,
           false,
-          true,
+          false,
+          false,
           false,
           false,
           false,
