@@ -1701,11 +1701,11 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "matched": [
           false,
@@ -1741,10 +1741,13 @@
           "price": 300000,
           "weight": 4
         },
-        "attempts": 2,
+        "attempts": 1,
         "status": "playing",
         "createdAt": 1786272336175,
-        "pendingHide": null
+        "pendingHide": [
+          20,
+          24
+        ]
       }
     },
     "6703298995": {
