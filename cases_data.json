@@ -1469,7 +1469,7 @@
     },
     "8881481544": {
       "name": "Тьфу, свинья ебаная",
-      "coins": 9950,
+      "coins": 9650,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1487,9 +1487,21 @@
           "file": "karambitdesert.png",
           "type": "knife",
           "at": "2026-08-09T07:52:41.527Z"
+        },
+        {
+          "file": "karambitdesert.png",
+          "type": "knife",
+          "at": "2026-08-09T07:53:02.236Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T07:53:02.236Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -1545,16 +1557,10 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T07:51:57.328Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "knife",
-          "at": "2026-08-09T07:51:49.801Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786261968159
+      "lastCaseAt": 1786261981989
     }
   },
   "chatLuck": {
