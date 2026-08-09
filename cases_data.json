@@ -3343,7 +3343,7 @@
     },
     "6086452992": {
       "name": "Fatal",
-      "coins": 1050,
+      "coins": 750,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3351,9 +3351,21 @@
           "file": "thumb-bluestar.png",
           "type": "glove",
           "at": "2026-08-09T11:58:45.127Z"
+        },
+        {
+          "file": "karambit-hotline.png",
+          "type": "knife",
+          "at": "2026-08-09T12:08:03.629Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambit-hotline.png",
+          "chance": 0.05,
+          "caseType": "knife",
+          "at": "2026-08-09T12:08:03.629Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -3375,7 +3387,7 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786277272867,
+      "lastCaseAt": 1786277283157,
       "lastBoosterAt": 0,
       "totalEarned": 950,
       "memoryGame": null,
