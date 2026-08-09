@@ -848,7 +848,7 @@
     },
     "7887063317": {
       "name": "b10xxx10",
-      "coins": 2363150,
+      "coins": 2363050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -864,6 +864,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-09T13:34:30.229Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -917,19 +923,13 @@
           "amount": 1000,
           "caseType": "knife",
           "at": "2026-08-09T13:33:37.291Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-09T13:33:29.511Z"
         }
       ],
       "lastBonus": 1786280843041,
       "username": "b10xxx10",
-      "lastCaseAt": 1786282464088,
+      "lastCaseAt": 1786282469895,
       "lastBoosterAt": 1786281181157,
-      "totalEarned": 897950,
+      "totalEarned": 898150,
       "memoryGame": {
         "board": [
           {
@@ -1447,7 +1447,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 7562850,
+      "coins": 7467850,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1465,6 +1465,11 @@
           "file": "ironaquaspinner.png",
           "type": "spinner",
           "at": "2026-08-09T13:34:15.541Z"
+        },
+        {
+          "file": "skullspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T13:34:22.693Z"
         }
       ],
       "history": [
@@ -1534,7 +1539,7 @@
       "lastBonus": 1786259491073,
       "lastCaseAt": 1786282462435,
       "lastBoosterAt": 1786281069989,
-      "totalEarned": 8102350,
+      "totalEarned": 8007350,
       "memoryGame": {
         "board": [
           {
