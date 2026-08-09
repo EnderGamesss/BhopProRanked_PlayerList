@@ -1375,7 +1375,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 934800,
+      "coins": 934950,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1401,12 +1401,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-09T09:50:04.021Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1461,13 +1455,20 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-09T09:49:03.336Z"
+        },
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T09:48:56.892Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786269003791,
+      "lastCaseAt": 1786268996846,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786268615161,
-      "totalEarned": 7400,
+      "totalEarned": 7250,
       "memoryGame": null
     },
     "7886451818": {
@@ -1985,6 +1986,12 @@
           "earnings": 200
         }
       ]
+    },
+    "duel_1786269004016_7307808447": {
+      "challenger": "7307808447",
+      "opponent": "6335884130",
+      "status": "pending",
+      "createdAt": 1786269004016
     }
   }
 }
