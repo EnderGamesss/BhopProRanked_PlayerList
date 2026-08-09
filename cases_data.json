@@ -2541,6 +2541,11 @@
           "file": "woodspinner.png",
           "type": "spinner",
           "at": "2026-08-09T14:01:42.480Z"
+        },
+        {
+          "file": "butsnake.png",
+          "type": "knife",
+          "at": "2026-08-09T14:02:33.985Z"
         }
       ],
       "history": [
@@ -2812,14 +2817,14 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2833,9 +2838,10 @@
           "price": 2500,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1786284143698
+        "createdAt": 1786284143698,
+        "pendingHide": null
       }
     },
     "7886451818": {
