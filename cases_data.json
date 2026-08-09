@@ -1462,7 +1462,7 @@
     },
     "7886451818": {
       "name": "EnderGamesDev",
-      "coins": 100,
+      "coins": 200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1473,6 +1473,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T09:07:57.891Z"
+        },
         {
           "kind": "skin",
           "file": "butforest.png",
@@ -1494,8 +1500,8 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786266460767,
-      "totalEarned": 700,
+      "lastCaseAt": 1786266477891,
+      "totalEarned": 800,
       "username": "BhopProManager",
       "lastBoosterAt": 0,
       "memoryGame": null
@@ -1575,7 +1581,7 @@
     },
     "8347129286": {
       "name": "s10",
-      "coins": 19800,
+      "coins": 19600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1637,12 +1643,6 @@
       ],
       "history": [
         {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "spinner",
-          "at": "2026-08-09T09:07:57.174Z"
-        },
-        {
           "kind": "skin",
           "file": "camospinner.png",
           "chance": 2.5,
@@ -1696,10 +1696,16 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-09T09:06:14.365Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "spinner",
+          "at": "2026-08-09T09:06:07.902Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786266476885,
+      "lastCaseAt": 1786266447681,
       "username": "pastanal"
     }
   },
@@ -1797,9 +1803,9 @@
       "bet": 1000,
       "turn": "7886451818",
       "challengerOpens": 2,
-      "opponentOpens": 1,
+      "opponentOpens": 2,
       "challengerTotal": 1000,
-      "opponentTotal": 2000,
+      "opponentTotal": 2100,
       "results": [
         {
           "uid": "7307808447",
@@ -1825,6 +1831,14 @@
             "amount": 250
           },
           "earnings": 250
+        },
+        {
+          "uid": "7886451818",
+          "result": {
+            "kind": "coins",
+            "amount": 100
+          },
+          "earnings": 100
         }
       ]
     }
