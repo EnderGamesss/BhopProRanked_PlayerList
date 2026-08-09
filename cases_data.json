@@ -2511,8 +2511,21 @@
       "coins": 4057250,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9guardian.png",
+          "type": "booster",
+          "at": "2026-08-09T13:39:51.215Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9guardian.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-09T13:39:51.215Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -2566,18 +2579,12 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T12:50:00.986Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-09T12:49:53.719Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786280846690,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1786279213945,
+      "lastBoosterAt": 1786282790936,
       "totalEarned": 4232750,
       "memoryGame": {
         "board": [
