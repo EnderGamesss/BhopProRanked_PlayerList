@@ -2546,6 +2546,11 @@
           "file": "butsnake.png",
           "type": "knife",
           "at": "2026-08-09T14:02:33.985Z"
+        },
+        {
+          "file": "m9guardian.png",
+          "type": "knife",
+          "at": "2026-08-09T14:03:28.606Z"
         }
       ],
       "history": [
@@ -2823,10 +2828,10 @@
           false,
           false,
           false,
-          false,
+          true,
           true,
           false,
-          false,
+          true,
           false,
           false,
           false
@@ -2838,7 +2843,7 @@
           "price": 2500,
           "weight": 3
         },
-        "attempts": 5,
+        "attempts": 2,
         "status": "playing",
         "createdAt": 1786284143698,
         "pendingHide": null
