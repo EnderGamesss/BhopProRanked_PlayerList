@@ -1503,7 +1503,13 @@
       "coins": 8761850,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butdesert.png",
+          "type": "knife",
+          "at": "2026-08-09T15:30:09.481Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -1755,6 +1761,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -1767,8 +1774,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1784,9 +1790,10 @@
           "price": 2500,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1786289378573
+        "createdAt": 1786289378573,
+        "pendingHide": null
       }
     },
     "6703298995": {
