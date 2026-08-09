@@ -87,7 +87,7 @@
     },
     "939363878": {
       "name": "Эллис",
-      "coins": 799800,
+      "coins": 799600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -103,6 +103,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T09:53:30.334Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -157,19 +163,13 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-09T09:52:31.658Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T09:52:26.489Z"
         }
       ],
       "lastBonus": 1786216214657,
       "username": "cazuso",
-      "lastCaseAt": 1786269204714,
+      "lastCaseAt": 1786269209781,
       "lastBoosterAt": 0,
-      "totalEarned": 429150,
+      "totalEarned": 429250,
       "memoryGame": null
     },
     "1840807637": {
@@ -2107,13 +2107,11 @@
     "duel_1786269174406_7307808447": {
       "challenger": "7307808447",
       "opponent": "6335884130",
-      "status": "bet_propose",
+      "status": "type_select",
       "createdAt": 1786269174406,
       "choices": {
-        "6335884130": "knife",
-        "7307808447": "knife"
-      },
-      "chosenType": "knife"
+        "6335884130": "knife"
+      }
     }
   }
 }
