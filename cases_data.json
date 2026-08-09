@@ -185,17 +185,11 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 824400,
+      "coins": 824600,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T12:43:49.552Z"
-        },
         {
           "kind": "coins",
           "amount": 750,
@@ -249,12 +243,18 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-09T11:55:38.920Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T11:55:32.335Z"
         }
       ],
       "lastBonus": 1786272475133,
-      "lastCaseAt": 1786279429092,
+      "lastCaseAt": 1786279423305,
       "lastBoosterAt": 1786275674618,
-      "totalEarned": 892800,
+      "totalEarned": 892700,
       "memoryGame": {
         "board": [
           {
@@ -3479,6 +3479,11 @@
           "file": "firespinner.png",
           "type": "spinner",
           "at": "2026-08-09T12:42:11.350Z"
+        },
+        {
+          "file": "skullspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T12:43:50.018Z"
         }
       ],
       "history": [
@@ -3742,15 +3747,15 @@
           false,
           false,
           false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
           true,
           false,
-          false,
           true,
-          false,
-          false,
-          false,
-          false,
-          false,
           false,
           false,
           false,
@@ -3771,9 +3776,10 @@
           "price": 2000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1786279316681
+        "createdAt": 1786279316681,
+        "pendingHide": null
       },
       "username": "APECTOBAH_3A_BENZIH"
     },
