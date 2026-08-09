@@ -1503,7 +1503,13 @@
       "coins": 9009350,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambittiger.png",
+          "type": "knife",
+          "at": "2026-08-09T15:33:38.834Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -1749,13 +1755,13 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1776,9 +1782,10 @@
           "amount": 200,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1786289599080
+        "createdAt": 1786289599080,
+        "pendingHide": null
       }
     },
     "6703298995": {
