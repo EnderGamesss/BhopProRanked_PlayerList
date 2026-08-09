@@ -1210,11 +1210,17 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 6404350,
+      "coins": 6404200,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-09T12:13:27.874Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -1268,18 +1274,12 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T12:10:41.663Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T12:10:35.172Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786277601883,
+      "lastCaseAt": 1786277607375,
       "lastBoosterAt": 1786275380248,
-      "totalEarned": 6873950,
+      "totalEarned": 6874100,
       "memoryGame": {
         "board": [
           {
@@ -3305,17 +3305,11 @@
     },
     "6086452992": {
       "name": "Fatal",
-      "coins": 250050,
+      "coins": 250250,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-08-09T12:13:27.286Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -3362,9 +3356,9 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786277607077,
+      "lastCaseAt": 1786277319079,
       "lastBoosterAt": 0,
-      "totalEarned": 251450,
+      "totalEarned": 251350,
       "memoryGame": null,
       "username": "FatalADS"
     },
