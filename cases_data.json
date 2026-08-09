@@ -2435,7 +2435,7 @@
     },
     "8624452786": {
       "name": "ор щет",
-      "coins": 351900,
+      "coins": 351750,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2481,6 +2481,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-09T21:11:57.585Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -2535,19 +2541,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T21:10:36.063Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-09T21:10:29.562Z"
         }
       ],
       "lastBonus": 1786281511849,
-      "lastCaseAt": 1786309911029,
+      "lastCaseAt": 1786309917108,
       "username": "orzett",
       "lastBoosterAt": 1786305808953,
-      "totalEarned": 513900,
+      "totalEarned": 514050,
       "memoryGame": null
     },
     "5624673181": {
@@ -5468,11 +5468,24 @@
     },
     "5921506870": {
       "name": "ErikmiT",
-      "coins": 146600,
+      "coins": 146300,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9forest.png",
+          "type": "knife",
+          "at": "2026-08-09T21:11:55.467Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9forest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T21:11:55.467Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -5528,16 +5541,10 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T21:08:31.021Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-09T21:08:23.546Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786309860862,
+      "lastCaseAt": 1786309915155,
       "lastBoosterAt": 0,
       "totalEarned": 154300,
       "memoryGame": null,
@@ -5545,7 +5552,7 @@
     },
     "5848447527": {
       "name": "Tenti good🗽",
-      "coins": 109150,
+      "coins": 109200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -5556,12 +5563,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-09T21:11:56.379Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -5615,12 +5616,18 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T21:10:45.773Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-09T21:10:37.370Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786309915994,
+      "lastCaseAt": 1786309904652,
       "lastBoosterAt": 0,
-      "totalEarned": 115350,
+      "totalEarned": 115100,
       "memoryGame": null,
       "username": "Tentigood"
     }
