@@ -2601,6 +2601,11 @@
           "file": "m9guardian.png",
           "type": "knife",
           "at": "2026-08-09T13:51:17.358Z"
+        },
+        {
+          "file": "woodspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T13:52:32.083Z"
         }
       ],
       "history": [
@@ -2829,7 +2834,6 @@
           }
         ],
         "revealed": [
-          true,
           false,
           false,
           false,
@@ -2843,7 +2847,8 @@
           false,
           false,
           false,
-          true,
+          false,
+          false,
           false,
           false,
           false,
@@ -2870,15 +2875,15 @@
           false,
           false,
           false,
-          false,
-          true,
-          false,
-          false,
-          false,
-          false,
           true,
           true,
           false,
+          false,
+          false,
+          false,
+          true,
+          true,
+          true,
           false,
           false
         ],
@@ -2892,10 +2897,7 @@
         "attempts": 1,
         "status": "playing",
         "createdAt": 1786280888245,
-        "pendingHide": [
-          0,
-          14
-        ]
+        "pendingHide": null
       }
     },
     "7886451818": {
