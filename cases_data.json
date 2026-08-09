@@ -841,7 +841,7 @@
     },
     "7887063317": {
       "name": "b10xxx10",
-      "coins": 1503600,
+      "coins": 1504100,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -911,7 +911,7 @@
       "username": "b10xxx10",
       "lastCaseAt": 1786253296410,
       "lastBoosterAt": 0,
-      "totalEarned": 1500,
+      "totalEarned": 2000,
       "memoryGame": {
         "board": [
           {
@@ -1108,6 +1108,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -1117,8 +1118,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1131,9 +1131,10 @@
           "price": 80000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1786280853924
+        "createdAt": 1786280853924,
+        "pendingHide": null
       }
     },
     "5117405936": {
