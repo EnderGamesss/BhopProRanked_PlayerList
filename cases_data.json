@@ -1231,7 +1231,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 6027900,
+      "coins": 6027700,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1247,6 +1247,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T11:16:25.972Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1301,18 +1307,12 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-09T11:13:54.368Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T11:13:48.792Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786274180644,
+      "lastCaseAt": 1786274185670,
       "lastBoosterAt": 1786268958649,
-      "totalEarned": 6453100,
+      "totalEarned": 6453200,
       "memoryGame": {
         "board": [
           {
@@ -3043,7 +3043,7 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 500,
+      "coins": 300,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3054,12 +3054,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "spinner",
-          "at": "2026-08-09T11:16:24.844Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -3081,9 +3075,9 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786274184424,
+      "lastCaseAt": 1786274178246,
       "lastBoosterAt": 0,
-      "totalEarned": 700,
+      "totalEarned": 200,
       "memoryGame": null,
       "username": "bogdansert"
     }
