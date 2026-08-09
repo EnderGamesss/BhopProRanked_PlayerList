@@ -2526,6 +2526,11 @@
           "file": "arrowspinner.png",
           "type": "spinner",
           "at": "2026-08-09T13:58:09.735Z"
+        },
+        {
+          "file": "dangerspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T14:00:07.886Z"
         }
       ],
       "history": [
@@ -2789,6 +2794,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -2796,8 +2802,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2808,9 +2813,10 @@
           "amount": 200,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1786283964034
+        "createdAt": 1786283964034,
+        "pendingHide": null
       }
     },
     "7886451818": {
