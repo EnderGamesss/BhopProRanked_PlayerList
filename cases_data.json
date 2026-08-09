@@ -1558,7 +1558,7 @@
     },
     "8347129286": {
       "name": "s10",
-      "coins": 20150,
+      "coins": 20250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1616,12 +1616,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-09T09:07:08.895Z"
-        },
-        {
-          "kind": "coins",
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-08-09T09:06:57.109Z"
@@ -1674,10 +1668,16 @@
           "amount": 250,
           "caseType": "spinner",
           "at": "2026-08-09T09:05:55.945Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "spinner",
+          "at": "2026-08-09T09:05:50.219Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786266428647,
+      "lastCaseAt": 1786266416705,
       "username": "pastanal"
     }
   },
@@ -1765,13 +1765,14 @@
     "duel_1786266412045_7307808447": {
       "challenger": "7307808447",
       "opponent": "7886451818",
-      "status": "bet_propose",
+      "status": "bet_confirm",
       "createdAt": 1786266412045,
       "choices": {
         "7886451818": "knife",
         "7307808447": "knife"
       },
-      "chosenType": "knife"
+      "chosenType": "knife",
+      "bet": 1000
     }
   }
 }
