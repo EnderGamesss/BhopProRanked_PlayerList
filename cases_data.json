@@ -844,7 +844,13 @@
       "coins": 1517350,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "woodspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T13:10:01.621Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -1095,12 +1101,12 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1121,7 +1127,7 @@
           "amount": 250,
           "weight": 20
         },
-        "attempts": 4,
+        "attempts": 2,
         "status": "playing",
         "createdAt": 1786280957049,
         "pendingHide": null
