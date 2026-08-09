@@ -1727,7 +1727,6 @@
           false,
           false,
           false,
-          true,
           false,
           false,
           false,
@@ -1740,7 +1739,8 @@
           false,
           false,
           false,
-          false
+          false,
+          true
         ],
         "matched": [
           false,
@@ -1774,9 +1774,10 @@
           "amount": 100,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
-        "createdAt": 1786284770579
+        "createdAt": 1786284770579,
+        "pendingHide": null
       }
     },
     "6703298995": {
@@ -2806,31 +2807,31 @@
           }
         ],
         "revealed": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
           true,
           true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
         ],
         "matched": [
           false,
@@ -2843,11 +2844,6 @@
           false,
           false,
           false,
-          true,
-          false,
-          false,
-          false,
-          false,
           false,
           false,
           false,
@@ -2857,6 +2853,11 @@
           false,
           false,
           true,
+          true,
+          false,
+          false,
+          false,
+          false,
           false
         ],
         "target": {
@@ -2866,11 +2867,13 @@
           "price": 16000,
           "weight": 3
         },
-        "attempts": 0,
-        "status": "lost",
+        "attempts": 3,
+        "status": "playing",
         "createdAt": 1786284559735,
-        "pendingHide": null,
-        "endedAt": 1786289105135
+        "pendingHide": [
+          12,
+          13
+        ]
       }
     },
     "7886451818": {
