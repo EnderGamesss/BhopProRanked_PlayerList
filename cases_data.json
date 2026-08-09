@@ -1778,7 +1778,7 @@
     },
     "8881481544": {
       "name": "Тьфу, свинья ебаная",
-      "coins": 8600,
+      "coins": 8300,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1806,9 +1806,21 @@
           "file": "butdesert.png",
           "type": "knife",
           "at": "2026-08-09T07:53:34.866Z"
+        },
+        {
+          "file": "m9koi.png",
+          "type": "knife",
+          "at": "2026-08-09T08:45:27.219Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9koi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-08-09T08:45:27.219Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1863,16 +1875,10 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T07:53:29.467Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-09T07:53:23.825Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786265121489
+      "lastCaseAt": 1786265126787
     }
   },
   "chatLuck": {
