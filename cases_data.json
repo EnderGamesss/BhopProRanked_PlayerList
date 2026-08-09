@@ -1804,7 +1804,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 1128450,
+      "coins": 1128150,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1812,9 +1812,21 @@
           "file": "thumb-Mercenery.png",
           "type": "glove",
           "at": "2026-08-09T12:04:45.488Z"
+        },
+        {
+          "file": "thumb-Military.png",
+          "type": "glove",
+          "at": "2026-08-09T12:05:18.039Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Military.png",
+          "chance": 8,
+          "caseType": "glove",
+          "at": "2026-08-09T12:05:18.039Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -1869,16 +1881,10 @@
           "amount": 250,
           "caseType": "spinner",
           "at": "2026-08-09T12:03:05.568Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-09T12:02:57.333Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786277109943,
+      "lastCaseAt": 1786277117772,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
       "totalEarned": 742450,
