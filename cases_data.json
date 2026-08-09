@@ -164,7 +164,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 214300,
+      "coins": 214200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -210,6 +210,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-09T11:35:59.705Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -263,18 +269,12 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T11:02:25.790Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-09T11:02:10.881Z"
         }
       ],
       "lastBonus": 1786272475133,
-      "lastCaseAt": 1786275354373,
+      "lastCaseAt": 1786275359400,
       "lastBoosterAt": 1786271891771,
-      "totalEarned": 253000,
+      "totalEarned": 253200,
       "memoryGame": {
         "board": [
           {
@@ -3123,7 +3123,7 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 2245750,
+      "coins": 2245250,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -3194,7 +3194,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786274904896,
       "lastBoosterAt": 1786274323582,
-      "totalEarned": 2253750,
+      "totalEarned": 2253250,
       "memoryGame": {
         "board": [
           {
@@ -3386,14 +3386,14 @@
           true,
           true,
           true,
-          true,
+          false,
           true,
           false,
           true,
           true,
           true,
           true,
-          true,
+          false,
           true,
           true,
           true,
