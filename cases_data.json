@@ -4378,11 +4378,24 @@
     },
     "6696023434": {
       "name": "𝚅𝙻𝙰𝙳𝙸𝙺",
-      "coins": 152950,
+      "coins": 152650,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "camospinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T14:32:25.573Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 2.5,
+          "caseType": "spinner",
+          "at": "2026-08-09T14:32:25.573Z"
+        },
         {
           "kind": "skin",
           "file": "karambitmonster.png",
@@ -4428,7 +4441,7 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786285672078,
+      "lastCaseAt": 1786285945359,
       "lastBoosterAt": 1786285896824,
       "totalEarned": 153750,
       "memoryGame": {
