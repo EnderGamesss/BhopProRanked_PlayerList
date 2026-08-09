@@ -3054,11 +3054,17 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 740550,
+      "coins": 740500,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "spinner",
+          "at": "2026-08-09T11:21:28.622Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -3113,18 +3119,12 @@
           "chance": 1,
           "caseType": "spinner",
           "at": "2026-08-09T11:20:19.515Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-08-09T11:20:10.449Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786274480861,
+      "lastCaseAt": 1786274488420,
       "lastBoosterAt": 1786274323582,
-      "totalEarned": 745250,
+      "totalEarned": 745500,
       "memoryGame": {
         "board": [
           {
@@ -3389,8 +3389,8 @@
   },
   "chatLuck": {
     "-1002507580008": {
-      "multi": 2,
-      "until": 1786275087991
+      "multi": 5,
+      "until": 1786273657805
     },
     "-5310554942": {
       "multi": 3,
