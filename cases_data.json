@@ -5645,11 +5645,17 @@
     },
     "6724286333": {
       "name": "Vin1nd",
-      "coins": 800,
+      "coins": 600,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "spinner",
+          "at": "2026-08-09T22:01:29.182Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -5670,9 +5676,9 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786312870730,
+      "lastCaseAt": 1786312888622,
       "lastBoosterAt": 0,
-      "totalEarned": 700,
+      "totalEarned": 800,
       "memoryGame": null
     }
   },
