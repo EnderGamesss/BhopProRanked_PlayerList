@@ -1503,8 +1503,21 @@
       "coins": 9759600,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitruby.png",
+          "type": "booster",
+          "at": "2026-08-09T15:56:54.104Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitruby.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-09T15:56:54.104Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1559,17 +1572,11 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T15:23:33.909Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T15:23:28.673Z"
         }
       ],
       "lastBonus": 1786259491073,
       "lastCaseAt": 1786289061427,
-      "lastBoosterAt": 1786284696560,
+      "lastBoosterAt": 1786291013731,
       "totalEarned": 10400500,
       "memoryGame": {
         "board": [
