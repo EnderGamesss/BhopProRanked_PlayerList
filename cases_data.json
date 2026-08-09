@@ -246,8 +246,21 @@
       "coins": 941000,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambittiger.png",
+          "type": "booster",
+          "at": "2026-08-09T07:45:18.654Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambittiger.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-09T07:45:18.654Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -301,19 +314,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T06:44:09.858Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-09T06:44:04.458Z"
         }
       ],
       "lastBonus": 1786219491674,
       "username": "EnderGamesDev",
       "lastCaseAt": 1786260320847,
       "totalEarned": 137850,
-      "lastBoosterAt": 0
+      "lastBoosterAt": 1786261518373
     },
     "7887063317": {
       "name": "b10xxx10",
