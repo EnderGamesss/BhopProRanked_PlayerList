@@ -2331,7 +2331,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 3075150,
+      "coins": 3075600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2454,6 +2454,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-09T11:54:55.236Z"
+        },
+        {
+          "kind": "coins",
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T11:54:42.686Z"
@@ -2505,20 +2511,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T11:49:40.282Z"
-        },
-        {
-          "kind": "skin",
-          "file": "butdesert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-09T11:49:32.364Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786276482163,
+      "lastCaseAt": 1786276495006,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786276100726,
-      "totalEarned": 3193950,
+      "totalEarned": 3194700,
       "memoryGame": {
         "board": [
           {
@@ -3155,13 +3154,7 @@
       "coins": 3079900,
       "luck": 1,
       "boosts": [],
-      "inventory": [
-        {
-          "file": "thumb-fairy.png",
-          "type": "glove",
-          "at": "2026-08-09T11:54:55.097Z"
-        }
-      ],
+      "inventory": [],
       "history": [
         {
           "kind": "skin",
@@ -3422,7 +3415,6 @@
           false,
           false,
           false,
-          true,
           false,
           false,
           false,
@@ -3439,7 +3431,8 @@
           false,
           false,
           false,
-          true,
+          false,
+          false,
           false,
           false
         ],
@@ -3450,10 +3443,9 @@
           "price": 4000,
           "weight": 5
         },
-        "attempts": 6,
+        "attempts": 7,
         "status": "playing",
-        "createdAt": 1786276474096,
-        "pendingHide": null
+        "createdAt": 1786276474096
       },
       "username": "bogdansert"
     },
