@@ -859,6 +859,11 @@
           "file": "m9skullskin.png",
           "type": "knife",
           "at": "2026-08-09T13:11:04.290Z"
+        },
+        {
+          "file": "prettyspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T13:11:16.615Z"
         }
       ],
       "history": [
@@ -1124,6 +1129,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -1133,8 +1139,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1147,7 +1152,7 @@
           "price": 300000,
           "weight": 4
         },
-        "attempts": 3,
+        "attempts": 2,
         "status": "playing",
         "createdAt": 1786281038010,
         "pendingHide": null
