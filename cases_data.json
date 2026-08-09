@@ -2425,7 +2425,7 @@
     },
     "8624452786": {
       "name": "ор щет",
-      "coins": 285900,
+      "coins": 286000,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2456,6 +2456,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T20:29:31.238Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2510,19 +2516,13 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-09T20:27:26.680Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T20:27:20.073Z"
         }
       ],
       "lastBonus": 1786281511849,
-      "lastCaseAt": 1786307358286,
+      "lastCaseAt": 1786307371238,
       "username": "orzett",
       "lastBoosterAt": 1786305808953,
-      "totalEarned": 402300,
+      "totalEarned": 402400,
       "memoryGame": null
     },
     "5624673181": {
@@ -6188,9 +6188,9 @@
       "bet": 100000,
       "turn": "8624452786",
       "challengerOpens": 4,
-      "opponentOpens": 3,
+      "opponentOpens": 4,
       "challengerTotal": 900,
-      "opponentTotal": 800,
+      "opponentTotal": 900,
       "results": [
         {
           "uid": "8708014655",
@@ -6247,9 +6247,17 @@
             "amount": 200
           },
           "earnings": 200
+        },
+        {
+          "uid": "8624452786",
+          "result": {
+            "kind": "coins",
+            "amount": 100
+          },
+          "earnings": 100
         }
       ],
-      "lastAction": 1786307365792
+      "lastAction": 1786307371238
     }
   }
 }
