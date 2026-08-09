@@ -3269,11 +3269,17 @@
     },
     "6086452992": {
       "name": "Fatal",
-      "coins": 249350,
+      "coins": 249250,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "spinner",
+          "at": "2026-08-09T12:14:24.387Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -3327,18 +3333,12 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T12:08:33.950Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T12:08:27.164Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786277656509,
+      "lastCaseAt": 1786277663967,
       "lastBoosterAt": 0,
-      "totalEarned": 252550,
+      "totalEarned": 252750,
       "memoryGame": null,
       "username": "FatalADS"
     },
