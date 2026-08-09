@@ -185,7 +185,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 1656450,
+      "coins": 1656150,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -193,9 +193,21 @@
           "file": "m9forest.png",
           "type": "booster",
           "at": "2026-08-09T15:58:25.465Z"
+        },
+        {
+          "file": "karambitscratch.png",
+          "type": "knife",
+          "at": "2026-08-09T15:59:55.421Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitscratch.png",
+          "chance": 0.05,
+          "caseType": "knife",
+          "at": "2026-08-09T15:59:55.421Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -251,16 +263,10 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-09T15:19:53.174Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T15:19:47.212Z"
         }
       ],
       "lastBonus": 1786272475133,
-      "lastCaseAt": 1786291189093,
+      "lastCaseAt": 1786291195120,
       "lastBoosterAt": 1786291105196,
       "totalEarned": 1793850,
       "memoryGame": {
