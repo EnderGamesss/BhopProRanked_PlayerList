@@ -4681,11 +4681,24 @@
     },
     "6376231675": {
       "name": "Леша",
-      "coins": 450,
+      "coins": 150,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Mercenery.png",
+          "type": "glove",
+          "at": "2026-08-09T19:47:56.846Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Mercenery.png",
+          "chance": 8.5,
+          "caseType": "glove",
+          "at": "2026-08-09T19:47:56.846Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -4742,7 +4755,7 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786304865396,
+      "lastCaseAt": 1786304876622,
       "lastBoosterAt": 0,
       "totalEarned": 2150,
       "memoryGame": null,
