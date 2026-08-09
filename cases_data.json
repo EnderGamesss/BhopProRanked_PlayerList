@@ -1924,10 +1924,16 @@
     },
     "5168978133": {
       "name": "бабайка🥷",
-      "coins": 137300,
+      "coins": 135300,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butforest.png",
+          "type": "knife",
+          "at": "2026-08-09T22:20:51.722Z"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -1995,7 +2001,7 @@
       "lastCaseAt": 1786314051136,
       "username": "babaykkkka",
       "lastBoosterAt": 0,
-      "totalEarned": 119900,
+      "totalEarned": 117900,
       "memoryGame": null
     },
     "8228338312": {
@@ -5674,7 +5680,7 @@
     },
     "6724286333": {
       "name": "Vin1nd",
-      "coins": 362450,
+      "coins": 362150,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -5687,9 +5693,21 @@
           "file": "butkoi.png",
           "type": "knife",
           "at": "2026-08-09T22:20:39.221Z"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "knife",
+          "at": "2026-08-09T22:20:56.933Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T22:20:56.933Z"
+        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -5745,16 +5763,10 @@
           "chance": 0.05,
           "caseType": "knife",
           "at": "2026-08-09T22:16:19.114Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T22:16:13.994Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786314046767,
+      "lastCaseAt": 1786314056177,
       "lastBoosterAt": 0,
       "totalEarned": 386350,
       "memoryGame": {
