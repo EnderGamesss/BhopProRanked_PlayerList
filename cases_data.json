@@ -1231,7 +1231,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 6027750,
+      "coins": 6027900,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1247,12 +1247,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-09T11:17:15.688Z"
-        },
         {
           "kind": "coins",
           "amount": 150,
@@ -1306,12 +1300,18 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-09T11:16:16.081Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-08-09T11:15:57.654Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786274235319,
+      "lastCaseAt": 1786274228127,
       "lastBoosterAt": 1786268958649,
-      "totalEarned": 6455350,
+      "totalEarned": 6455200,
       "memoryGame": {
         "board": [
           {
@@ -3056,6 +3056,11 @@
           "file": "thumb-basic-spinner-5.png",
           "type": "spinner",
           "at": "2026-08-09T11:16:04.211Z"
+        },
+        {
+          "file": "firespinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T11:17:15.981Z"
         }
       ],
       "history": [
@@ -3277,6 +3282,7 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
@@ -3296,8 +3302,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
