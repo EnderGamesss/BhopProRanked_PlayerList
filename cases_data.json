@@ -1568,7 +1568,7 @@
     },
     "8347129286": {
       "name": "s10",
-      "coins": 12850,
+      "coins": 12750,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1594,6 +1594,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "spinner",
+          "at": "2026-08-09T08:57:34.395Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -1649,16 +1655,10 @@
           "amount": 1000,
           "caseType": "spinner",
           "at": "2026-08-09T08:56:28.313Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-08-09T08:56:20.271Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786265847743,
+      "lastCaseAt": 1786265854159,
       "username": "pastanal"
     }
   },
