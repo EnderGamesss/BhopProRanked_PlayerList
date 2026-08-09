@@ -5540,11 +5540,24 @@
     },
     "5848447527": {
       "name": "Tenti good🗽",
-      "coins": 20900,
+      "coins": 20600,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-North.png",
+          "type": "glove",
+          "at": "2026-08-09T21:08:19.145Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-North.png",
+          "chance": 7.5,
+          "caseType": "glove",
+          "at": "2026-08-09T21:08:19.145Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -5560,7 +5573,7 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786309692655,
+      "lastCaseAt": 1786309698722,
       "lastBoosterAt": 0,
       "totalEarned": 20500,
       "memoryGame": null,
