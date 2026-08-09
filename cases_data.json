@@ -1814,7 +1814,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 830250,
+      "coins": 830100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1877,6 +1877,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 150,
+          "caseType": "spinner",
+          "at": "2026-08-09T11:46:38.801Z"
+        },
+        {
+          "kind": "coins",
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-09T11:46:30.536Z"
@@ -1929,19 +1935,13 @@
           "chance": 2,
           "caseType": "spinner",
           "at": "2026-08-09T11:45:07.738Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-09T11:44:48.254Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786275990323,
+      "lastCaseAt": 1786275998408,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
-      "totalEarned": 417850,
+      "totalEarned": 418000,
       "memoryGame": {
         "board": [
           {
@@ -3122,10 +3122,41 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 3071550,
+      "coins": 2246550,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9skullskin.png",
+          "type": "knife",
+          "at": "2026-08-09T11:38:52.620Z"
+        },
+        {
+          "file": "thumb-Mercenery.png",
+          "type": "glove",
+          "at": "2026-08-09T11:43:22.340Z"
+        },
+        {
+          "file": "karambitdesert.png",
+          "type": "knife",
+          "at": "2026-08-09T11:44:09.463Z"
+        },
+        {
+          "file": "m9skullskin.png",
+          "type": "knife",
+          "at": "2026-08-09T11:44:43.086Z"
+        },
+        {
+          "file": "m9tiger.png",
+          "type": "knife",
+          "at": "2026-08-09T11:45:37.851Z"
+        },
+        {
+          "file": "prettyspinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T11:45:58.345Z"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -3193,7 +3224,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786274904896,
       "lastBoosterAt": 1786274323582,
-      "totalEarned": 3079550,
+      "totalEarned": 2254550,
       "memoryGame": {
         "board": [
           {
