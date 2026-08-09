@@ -1068,6 +1068,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -1086,8 +1087,7 @@
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "matched": [
           false,
@@ -1121,9 +1121,13 @@
           "amount": 250,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1786280957049
+        "createdAt": 1786280957049,
+        "pendingHide": [
+          5,
+          24
+        ]
       }
     },
     "5117405936": {
