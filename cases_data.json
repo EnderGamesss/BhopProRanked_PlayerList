@@ -5652,7 +5652,13 @@
       "coins": 500,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "camospinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T22:05:25.026Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -5897,7 +5903,14 @@
           false,
           false,
           false,
+          true,
           false,
+          true,
+          false,
+          false,
+          false,
+          false,
+          true,
           false,
           true,
           false,
@@ -5905,14 +5918,7 @@
           false,
           false,
           false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
+          true,
           false,
           false,
           false
@@ -5924,9 +5930,10 @@
           "price": 45000,
           "weight": 4
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
-        "createdAt": 1786313083350
+        "createdAt": 1786313083350,
+        "pendingHide": null
       }
     }
   },
