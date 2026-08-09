@@ -164,7 +164,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 348500,
+      "coins": 348400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -180,6 +180,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-09T11:44:26.029Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -234,18 +240,12 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-09T11:43:06.007Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-09T11:42:52.204Z"
         }
       ],
       "lastBonus": 1786272475133,
-      "lastCaseAt": 1786275859247,
+      "lastCaseAt": 1786275865533,
       "lastBoosterAt": 1786275674618,
-      "totalEarned": 399800,
+      "totalEarned": 400000,
       "memoryGame": {
         "board": [
           {
@@ -1206,7 +1206,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 6089250,
+      "coins": 6089050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1227,6 +1227,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T11:44:23.555Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1280,18 +1286,12 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-09T11:41:44.202Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-09T11:41:38.392Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786275842706,
+      "lastCaseAt": 1786275863052,
       "lastBoosterAt": 1786275380248,
-      "totalEarned": 6544450,
+      "totalEarned": 6544550,
       "memoryGame": {
         "board": [
           {
@@ -3137,11 +3137,6 @@
           "file": "karambitdesert.png",
           "type": "knife",
           "at": "2026-08-09T11:44:09.463Z"
-        },
-        {
-          "file": "royalspinner.png",
-          "type": "spinner",
-          "at": "2026-08-09T11:44:23.698Z"
         }
       ],
       "history": [
@@ -3396,16 +3391,9 @@
           false,
           false,
           false,
-          false,
-          false,
-          false,
-          false,
-          true,
           true,
           false,
-          false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -3414,6 +3402,13 @@
           true,
           false,
           false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          false,
+          true,
           false,
           false,
           true
@@ -3425,7 +3420,7 @@
           "price": 2500,
           "weight": 3
         },
-        "attempts": 2,
+        "attempts": 4,
         "status": "playing",
         "createdAt": 1786275766845,
         "pendingHide": null
