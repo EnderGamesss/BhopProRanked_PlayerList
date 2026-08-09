@@ -1500,7 +1500,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 9188600,
+      "coins": 9188700,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -1570,7 +1570,7 @@
       "lastBonus": 1786259491073,
       "lastCaseAt": 1786289061427,
       "lastBoosterAt": 1786284696560,
-      "totalEarned": 9829500,
+      "totalEarned": 9829600,
       "memoryGame": {
         "board": [
           {
@@ -1756,12 +1756,12 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1780,9 +1780,10 @@
           "price": 20000,
           "weight": 5
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1786289732901
+        "createdAt": 1786289732901,
+        "pendingHide": null
       }
     },
     "6703298995": {
