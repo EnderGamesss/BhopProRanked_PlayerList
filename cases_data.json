@@ -3155,7 +3155,13 @@
       "coins": 3079900,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-fairy.png",
+          "type": "glove",
+          "at": "2026-08-09T11:54:55.097Z"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -3416,6 +3422,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -3432,8 +3439,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false
         ],
@@ -3444,9 +3450,10 @@
           "price": 4000,
           "weight": 5
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
-        "createdAt": 1786276474096
+        "createdAt": 1786276474096,
+        "pendingHide": null
       },
       "username": "bogdansert"
     },
