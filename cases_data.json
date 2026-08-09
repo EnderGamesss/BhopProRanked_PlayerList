@@ -4262,6 +4262,11 @@
           "file": "karambittiger.png",
           "type": "booster",
           "at": "2026-08-09T14:56:04.669Z"
+        },
+        {
+          "file": "karambitmonster.png",
+          "type": "knife",
+          "at": "2026-08-09T18:30:19.717Z"
         }
       ],
       "history": [
@@ -4533,17 +4538,18 @@
           false,
           false,
           false,
-          false,
-          false
+          true,
+          true
         ],
         "target": {
           "kind": "coins",
           "amount": 200,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1786284595359
+        "createdAt": 1786284595359,
+        "pendingHide": null
       },
       "username": "Vladphu"
     },
