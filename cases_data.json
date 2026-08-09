@@ -849,6 +849,11 @@
           "file": "woodspinner.png",
           "type": "spinner",
           "at": "2026-08-09T13:10:01.621Z"
+        },
+        {
+          "file": "m9koi.png",
+          "type": "knife",
+          "at": "2026-08-09T13:11:00.164Z"
         }
       ],
       "history": [
@@ -1106,9 +1111,9 @@
         "matched": [
           false,
           false,
+          true,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1137,9 +1142,10 @@
           "price": 300000,
           "weight": 4
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1786281038010
+        "createdAt": 1786281038010,
+        "pendingHide": null
       }
     },
     "5117405936": {
