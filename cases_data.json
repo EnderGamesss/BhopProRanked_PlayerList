@@ -2611,6 +2611,11 @@
           "file": "m9ruby.png",
           "type": "knife",
           "at": "2026-08-09T13:53:14.622Z"
+        },
+        {
+          "file": "firespinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T13:54:06.348Z"
         }
       ],
       "history": [
@@ -2874,9 +2879,9 @@
           false,
           false,
           false,
+          true,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2895,7 +2900,7 @@
           "amount": 250,
           "weight": 20
         },
-        "attempts": 6,
+        "attempts": 5,
         "status": "playing",
         "createdAt": 1786283633088,
         "pendingHide": null
