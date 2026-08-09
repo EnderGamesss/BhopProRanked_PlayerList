@@ -87,7 +87,7 @@
     },
     "939363878": {
       "name": "Эллис",
-      "coins": 404700,
+      "coins": 404400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -120,9 +120,21 @@
           "file": "butdesert.png",
           "type": "knife",
           "at": "2026-08-09T09:34:07.433Z"
+        },
+        {
+          "file": "butforest.png",
+          "type": "knife",
+          "at": "2026-08-09T09:35:17.713Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-09T09:35:17.713Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -176,17 +188,11 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-08-09T09:34:17.560Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-09T09:34:12.589Z"
         }
       ],
       "lastBonus": 1786216214657,
       "username": "cazuso",
-      "lastCaseAt": 1786268109278,
+      "lastCaseAt": 1786268117519,
       "lastBoosterAt": 0,
       "totalEarned": 10950,
       "memoryGame": null
@@ -265,7 +271,7 @@
     },
     "7307808447": {
       "name": "EnderGamesDev",
-      "coins": 1243400,
+      "coins": 1243600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -311,12 +317,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T09:35:17.055Z"
-        },
         {
           "kind": "skin",
           "file": "karambittiger.png",
@@ -372,12 +372,19 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-09T09:18:53.313Z"
+        },
+        {
+          "kind": "skin",
+          "file": "butemerand.png",
+          "chance": 0.035,
+          "caseType": "knife",
+          "at": "2026-08-09T09:08:42.269Z"
         }
       ],
       "lastBonus": 1786219491674,
       "username": "EnderGamesDev",
-      "lastCaseAt": 1786268116660,
-      "totalEarned": 449450,
+      "lastCaseAt": 1786268110899,
+      "totalEarned": 449350,
       "lastBoosterAt": 1786263834308,
       "memoryGame": {
         "board": [
