@@ -185,7 +185,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 1654450,
+      "coins": 1654250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -221,6 +221,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T16:06:15.873Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -276,18 +282,12 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T16:03:56.379Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-09T16:03:50.106Z"
         }
       ],
       "lastBonus": 1786272475133,
-      "lastCaseAt": 1786291501995,
+      "lastCaseAt": 1786291575480,
       "lastBoosterAt": 1786291105196,
-      "totalEarned": 1805050,
+      "totalEarned": 1805150,
       "memoryGame": {
         "board": [
           {
@@ -1484,11 +1484,6 @@
           "file": "m9snake.png",
           "type": "knife",
           "at": "2026-08-09T15:58:56.172Z"
-        },
-        {
-          "file": "butsnake.png",
-          "type": "knife",
-          "at": "2026-08-09T16:06:15.422Z"
         }
       ],
       "history": [
@@ -1720,6 +1715,7 @@
           }
         ],
         "revealed": [
+          true,
           false,
           false,
           false,
@@ -1743,8 +1739,7 @@
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "matched": [
           false,
@@ -1761,13 +1756,13 @@
           false,
           false,
           false,
-          true,
           false,
           false,
           false,
           false,
           false,
-          true,
+          false,
+          false,
           false,
           false,
           false,
@@ -1780,10 +1775,13 @@
           "price": 10000,
           "weight": 3
         },
-        "attempts": 5,
+        "attempts": 6,
         "status": "playing",
         "createdAt": 1786291547541,
-        "pendingHide": null
+        "pendingHide": [
+          0,
+          24
+        ]
       }
     },
     "6703298995": {
