@@ -1563,7 +1563,7 @@
     },
     "8347129286": {
       "name": "s10",
-      "coins": 14350,
+      "coins": 14050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1571,9 +1571,21 @@
           "file": "butdesert.png",
           "type": "knife",
           "at": "2026-08-09T08:54:14.986Z"
+        },
+        {
+          "file": "camospinner.png",
+          "type": "spinner",
+          "at": "2026-08-09T08:55:49.211Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 2.5,
+          "caseType": "spinner",
+          "at": "2026-08-09T08:55:49.211Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1628,16 +1640,10 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T08:54:08.917Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-09T08:53:51.857Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786265736760,
+      "lastCaseAt": 1786265748973,
       "username": "pastanal"
     }
   },
