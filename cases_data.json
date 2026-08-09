@@ -775,7 +775,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 3189350,
+      "coins": 3189300,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -801,6 +801,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "spinner",
+          "at": "2026-08-09T09:18:00.018Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -855,16 +861,10 @@
           "chance": 0.025,
           "caseType": "knife",
           "at": "2026-08-09T09:16:38.329Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-09T09:16:26.932Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786267073570
+      "lastCaseAt": 1786267079810
     },
     "6703298995": {
       "name": "Aleksandyr",
