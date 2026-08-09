@@ -1503,7 +1503,13 @@
       "coins": 9646350,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitemerand.png",
+          "type": "knife",
+          "at": "2026-08-09T15:53:37.213Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -1781,8 +1787,8 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
+          true,
           false,
           false,
           false
@@ -1794,9 +1800,10 @@
           "price": 78000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1786290801558
+        "createdAt": 1786290801558,
+        "pendingHide": null
       }
     },
     "6703298995": {
