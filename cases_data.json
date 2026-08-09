@@ -1767,17 +1767,11 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 1371100,
+      "coins": 1371300,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T12:25:07.554Z"
-        },
         {
           "kind": "coins",
           "amount": 150,
@@ -1832,13 +1826,19 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-09T12:22:59.514Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-09T12:14:02.456Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786278307040,
+      "lastCaseAt": 1786278299815,
       "username": "Pidor_play",
       "lastBoosterAt": 1786271645244,
-      "totalEarned": 1001000,
+      "totalEarned": 1000900,
       "memoryGame": {
         "board": [
           {
@@ -3401,8 +3401,21 @@
       "coins": 950,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "ironaquaspinner.png",
+          "type": "booster",
+          "at": "2026-08-09T12:25:07.744Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "ironaquaspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-09T12:25:07.744Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -3430,7 +3443,7 @@
       ],
       "lastBonus": 1786278200045,
       "lastCaseAt": 1786278147393,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1786278307471,
       "totalEarned": 1150,
       "memoryGame": null,
       "username": "APECTOBAH_3A_BENZIH"
