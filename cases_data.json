@@ -1715,6 +1715,7 @@
           }
         ],
         "revealed": [
+          true,
           false,
           false,
           false,
@@ -1738,8 +1739,7 @@
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "matched": [
           false,
@@ -1775,9 +1775,13 @@
           "price": 10000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
-        "createdAt": 1786291547541
+        "createdAt": 1786291547541,
+        "pendingHide": [
+          0,
+          24
+        ]
       }
     },
     "6703298995": {
