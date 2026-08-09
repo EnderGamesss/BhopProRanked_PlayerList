@@ -87,7 +87,7 @@
     },
     "939363878": {
       "name": "Эллис",
-      "coins": 801800,
+      "coins": 802000,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -98,12 +98,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T09:51:15.947Z"
-        },
         {
           "kind": "coins",
           "amount": 150,
@@ -160,13 +154,19 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-09T09:40:33.244Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T09:40:22.002Z"
         }
       ],
       "lastBonus": 1786216214657,
       "username": "cazuso",
-      "lastCaseAt": 1786269075584,
+      "lastCaseAt": 1786269070207,
       "lastBoosterAt": 0,
-      "totalEarned": 424850,
+      "totalEarned": 424750,
       "memoryGame": null
     },
     "1840807637": {
@@ -1378,7 +1378,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 835450,
+      "coins": 835550,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1404,6 +1404,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-09T09:51:16.678Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -1457,19 +1463,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T09:49:30.331Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-09T09:49:23.789Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786269061478,
+      "lastCaseAt": 1786269076678,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786268615161,
-      "totalEarned": 8050,
+      "totalEarned": 8150,
       "memoryGame": null
     },
     "7886451818": {
@@ -2001,9 +2001,9 @@
       "bet": 100000,
       "turn": "6335884130",
       "challengerOpens": 4,
-      "opponentOpens": 3,
+      "opponentOpens": 4,
       "challengerTotal": 1350,
-      "opponentTotal": 650,
+      "opponentTotal": 750,
       "results": [
         {
           "uid": "7307808447",
@@ -2060,6 +2060,14 @@
             "amount": 750
           },
           "earnings": 750
+        },
+        {
+          "uid": "6335884130",
+          "result": {
+            "kind": "coins",
+            "amount": 100
+          },
+          "earnings": 100
         }
       ]
     }
