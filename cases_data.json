@@ -3935,11 +3935,24 @@
     },
     "7886091409": {
       "name": "33",
-      "coins": 413650,
+      "coins": 413350,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9emerand.png",
+          "type": "knife",
+          "at": "2026-08-10T09:16:28.018Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9emerand.png",
+          "chance": 0.05,
+          "caseType": "knife",
+          "at": "2026-08-10T09:16:28.018Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -3995,16 +4008,10 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-10T09:15:08.274Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T09:14:52.498Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786353372079,
+      "lastCaseAt": 1786353387444,
       "lastBoosterAt": 1786352678163,
       "totalEarned": 423150,
       "memoryGame": null,
