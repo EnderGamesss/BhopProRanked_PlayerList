@@ -7874,11 +7874,24 @@
     },
     "8596858710": {
       "name": "Haisewm",
-      "coins": 350,
+      "coins": 50,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitforest.png",
+          "type": "knife",
+          "at": "2026-08-10T19:10:13.640Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T19:10:13.640Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -7911,10 +7924,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786389006058,
+      "lastCaseAt": 1786389013151,
       "lastBoosterAt": 0,
       "totalEarned": 850,
-      "totalOpened": 5,
+      "totalOpened": 6,
       "memoryGame": null,
       "username": "haisewm"
     }
