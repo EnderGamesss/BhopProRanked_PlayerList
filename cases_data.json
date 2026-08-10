@@ -3009,7 +3009,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 10515850,
+      "coins": 10515700,
       "luck": 1.25,
       "boosts": [
         {
@@ -3060,6 +3060,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T13:38:14.075Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -3114,19 +3120,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-10T13:36:51.375Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-10T13:36:42.215Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786369084935,
+      "lastCaseAt": 1786369093850,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786367528257,
-      "totalEarned": 11990150,
+      "totalEarned": 11990300,
       "memoryGame": {
         "board": [
           {
@@ -3356,7 +3356,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 621
+      "totalOpened": 622
     },
     "7886451818": {
       "name": "EnderGamesDev",
@@ -6197,7 +6197,7 @@
     },
     "6724286333": {
       "name": "Vin1nd",
-      "coins": 475750,
+      "coins": 476050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -6285,21 +6285,9 @@
           "file": "karambitmonster.png",
           "type": "knife",
           "at": "2026-08-10T13:33:22.319Z"
-        },
-        {
-          "file": "m9saphire.png",
-          "type": "knife",
-          "at": "2026-08-10T13:38:13.921Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "m9saphire.png",
-          "chance": 0.07,
-          "caseType": "knife",
-          "at": "2026-08-10T13:38:13.921Z"
-        },
         {
           "kind": "coins",
           "amount": 250,
@@ -6353,10 +6341,17 @@
           "amount": 1000,
           "caseType": "knife",
           "at": "2026-08-10T13:33:28.665Z"
+        },
+        {
+          "kind": "skin",
+          "file": "karambitmonster.png",
+          "chance": 0.05,
+          "caseType": "knife",
+          "at": "2026-08-10T13:33:22.319Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786369093338,
+      "lastCaseAt": 1786369088284,
       "lastBoosterAt": 0,
       "totalEarned": 655050,
       "memoryGame": {
@@ -6587,7 +6582,7 @@
         "createdAt": 1786313083350,
         "pendingHide": null
       },
-      "totalOpened": 36
+      "totalOpened": 35
     },
     "7891569993": {
       "name": "delo",
