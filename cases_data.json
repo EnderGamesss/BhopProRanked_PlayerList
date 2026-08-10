@@ -2729,11 +2729,24 @@
     },
     "5624673181": {
       "name": "⚜️",
-      "coins": 114900,
+      "coins": 114600,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butkoi.png",
+          "type": "knife",
+          "at": "2026-08-10T09:58:06.216Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butkoi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-08-10T09:58:06.216Z"
+        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -2787,16 +2800,10 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-10T09:56:02.094Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-10T09:55:56.293Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786355874651,
+      "lastCaseAt": 1786355885746,
       "language": "ru",
       "lastBoosterAt": 0,
       "totalEarned": 122750,
