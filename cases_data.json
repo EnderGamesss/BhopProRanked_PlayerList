@@ -1612,24 +1612,11 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 13528750,
+      "coins": 13529050,
       "luck": 1,
       "boosts": [],
-      "inventory": [
-        {
-          "file": "m9skullskin.png",
-          "type": "knife",
-          "at": "2026-08-10T08:21:09.999Z"
-        }
-      ],
+      "inventory": [],
       "history": [
-        {
-          "kind": "skin",
-          "file": "m9skullskin.png",
-          "chance": 0.05,
-          "caseType": "knife",
-          "at": "2026-08-10T08:21:09.999Z"
-        },
         {
           "kind": "coins",
           "amount": 500,
@@ -1685,10 +1672,16 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T07:03:05.452Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-10T07:02:58.862Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786350069512,
+      "lastCaseAt": 1786350054650,
       "lastBoosterAt": 1786350018903,
       "totalEarned": 14203450,
       "memoryGame": {
@@ -6431,11 +6424,17 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 282600,
+      "coins": 282500,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-10T08:21:10.952Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -6491,18 +6490,12 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-10T08:19:08.642Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "spinner",
-          "at": "2026-08-10T08:18:35.879Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786350065315,
+      "lastCaseAt": 1786350070695,
       "lastBoosterAt": 1786349948138,
-      "totalEarned": 288800,
+      "totalEarned": 289000,
       "memoryGame": null,
       "username": "hatemytiredself"
     }
