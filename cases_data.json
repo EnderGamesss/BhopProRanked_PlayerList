@@ -2043,7 +2043,7 @@
     },
     "5168978133": {
       "name": "бабайка🥷",
-      "coins": 135350,
+      "coins": 135150,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2054,6 +2054,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T10:09:05.787Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -2108,19 +2114,13 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-09T22:02:23.633Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T22:02:10.838Z"
         }
       ],
       "lastBonus": 1786227566372,
-      "lastCaseAt": 1786314182023,
+      "lastCaseAt": 1786356545380,
       "username": "babaykkkka",
       "lastBoosterAt": 0,
-      "totalEarned": 118850,
+      "totalEarned": 118950,
       "memoryGame": null
     },
     "8228338312": {
@@ -5918,7 +5918,7 @@
     },
     "6724286333": {
       "name": "Vin1nd",
-      "coins": 452900,
+      "coins": 453200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -6006,21 +6006,9 @@
           "file": "m9spitfire.png",
           "type": "knife",
           "at": "2026-08-10T10:07:40.871Z"
-        },
-        {
-          "file": "m9forest.png",
-          "type": "knife",
-          "at": "2026-08-10T10:09:04.596Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "m9forest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-10T10:09:04.596Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -6075,10 +6063,17 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T10:05:41.238Z"
+        },
+        {
+          "kind": "skin",
+          "file": "butforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T10:05:21.785Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786356544302,
+      "lastCaseAt": 1786356514422,
       "lastBoosterAt": 0,
       "totalEarned": 615400,
       "memoryGame": {
