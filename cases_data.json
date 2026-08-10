@@ -1211,11 +1211,6 @@
           "file": "m9tiger.png",
           "type": "knife",
           "at": "2026-08-10T11:04:11.308Z"
-        },
-        {
-          "file": "m9tiger.png",
-          "type": "knife",
-          "at": "2026-08-10T11:04:13.095Z"
         }
       ],
       "history": [
@@ -1484,7 +1479,7 @@
           false,
           true,
           false,
-          false,
+          true,
           false,
           false,
           true,
@@ -1495,7 +1490,7 @@
           true,
           false,
           false,
-          false,
+          true,
           false
         ],
         "target": {
@@ -1503,7 +1498,7 @@
           "amount": 150,
           "weight": 20
         },
-        "attempts": 4,
+        "attempts": 2,
         "status": "playing",
         "createdAt": 1786359534207,
         "flipStage": "wait_first",
@@ -3189,6 +3184,11 @@
           "file": "m9forest.png",
           "type": "knife",
           "at": "2026-08-10T11:00:52.655Z"
+        },
+        {
+          "file": "prettyspinner.png",
+          "type": "spinner",
+          "at": "2026-08-10T11:04:13.568Z"
         }
       ],
       "history": [
@@ -3468,12 +3468,12 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -3496,7 +3496,9 @@
         },
         "attempts": 7,
         "status": "playing",
-        "createdAt": 1786359826093
+        "createdAt": 1786359826093,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "totalOpened": 167
     },
