@@ -6237,7 +6237,7 @@
     },
     "7891569993": {
       "name": "delo",
-      "coins": 82400,
+      "coins": 82100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -6280,9 +6280,21 @@
           "file": "thumb-Swat.png",
           "type": "glove",
           "at": "2026-08-10T01:56:37.468Z"
+        },
+        {
+          "file": "karambitforest.png",
+          "type": "knife",
+          "at": "2026-08-10T01:58:03.913Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T01:58:03.913Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -6336,17 +6348,10 @@
           "amount": 200,
           "caseType": "glove",
           "at": "2026-08-10T01:56:42.774Z"
-        },
-        {
-          "kind": "skin",
-          "file": "thumb-Swat.png",
-          "chance": 7,
-          "caseType": "glove",
-          "at": "2026-08-10T01:56:37.468Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786327078045,
+      "lastCaseAt": 1786327083231,
       "lastBoosterAt": 0,
       "totalEarned": 98500,
       "memoryGame": {
