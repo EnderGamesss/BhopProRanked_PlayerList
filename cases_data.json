@@ -1612,11 +1612,24 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 13997400,
+      "coins": 13997100,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9forest.png",
+          "type": "knife",
+          "at": "2026-08-10T09:37:24.254Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9forest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T09:37:24.254Z"
+        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -1673,16 +1686,10 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-10T09:36:08.745Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T09:36:02.868Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786354638091,
+      "lastCaseAt": 1786354643735,
       "lastBoosterAt": 1786354052376,
       "totalEarned": 14867200,
       "memoryGame": {
@@ -6678,10 +6685,16 @@
     },
     "5672005374": {
       "name": "JosikXD",
-      "coins": 50650,
+      "coins": 650,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "arrowspinner.png",
+          "type": "spinner",
+          "at": "2026-08-10T09:37:06.975Z"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -6724,7 +6737,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786354626680,
       "lastBoosterAt": 0,
-      "totalEarned": 51450,
+      "totalEarned": 1450,
       "memoryGame": null,
       "username": "JosikYunghollymurder812XD"
     }
