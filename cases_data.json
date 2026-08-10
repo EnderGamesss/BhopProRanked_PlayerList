@@ -4578,6 +4578,11 @@
           "file": "woodspinner.png",
           "type": "spinner",
           "at": "2026-08-10T08:34:16.282Z"
+        },
+        {
+          "file": "woodspinner.png",
+          "type": "spinner",
+          "at": "2026-08-10T08:35:33.313Z"
         }
       ],
       "history": [
@@ -4806,7 +4811,7 @@
           }
         ],
         "revealed": [
-          true,
+          false,
           false,
           false,
           false,
@@ -4851,8 +4856,8 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
+          true,
           true,
           false,
           false,
@@ -4866,11 +4871,11 @@
           "price": 75000,
           "weight": 3
         },
-        "attempts": 4,
+        "attempts": 3,
         "status": "playing",
         "createdAt": 1786350809875,
-        "flipStage": "wait_second",
-        "firstFlip": 0
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Tralalelotralala_52"
     },
