@@ -1601,7 +1601,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 15234300,
+      "coins": 15234150,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1627,6 +1627,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T12:17:04.998Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1681,18 +1687,12 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T12:06:03.464Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-10T12:05:56.081Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786364148051,
+      "lastCaseAt": 1786364224661,
       "lastBoosterAt": 1786362982902,
-      "totalEarned": 16107000,
+      "totalEarned": 16107150,
       "memoryGame": {
         "board": [
           {
@@ -1913,7 +1913,7 @@
         "flipStage": "wait_second",
         "firstFlip": 24
       },
-      "totalOpened": 337
+      "totalOpened": 338
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -6723,7 +6723,7 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 288700,
+      "coins": 288750,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -6801,12 +6801,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-10T12:17:04.095Z"
-        },
-        {
-          "kind": "coins",
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T12:16:58.889Z"
@@ -6860,15 +6854,22 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T12:14:20.968Z"
+        },
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T12:14:14.672Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786364223534,
+      "lastCaseAt": 1786364218410,
       "lastBoosterAt": 1786349948138,
-      "totalEarned": 322500,
+      "totalEarned": 322250,
       "memoryGame": null,
       "username": "hatemytiredself",
-      "totalOpened": 51
+      "totalOpened": 50
     },
     "8429840420": {
       "name": "дверной проём",
