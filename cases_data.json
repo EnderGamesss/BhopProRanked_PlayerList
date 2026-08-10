@@ -4062,11 +4062,17 @@
     },
     "7886091409": {
       "name": "33",
-      "coins": 845400,
+      "coins": 845250,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T10:11:30.767Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -4122,18 +4128,12 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-10T09:57:27.473Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-10T09:57:20.563Z"
         }
       ],
       "lastBonus": 1786355532795,
-      "lastCaseAt": 1786356684827,
+      "lastCaseAt": 1786356690347,
       "lastBoosterAt": 1786352678163,
-      "totalEarned": 881600,
+      "totalEarned": 881750,
       "memoryGame": null,
       "username": "torment33"
     },
