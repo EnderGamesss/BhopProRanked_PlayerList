@@ -2732,8 +2732,21 @@
       "coins": 15250,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitbreak.png",
+          "type": "booster",
+          "at": "2026-08-10T09:50:13.357Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitbreak.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-10T09:50:13.357Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -2787,7 +2800,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786252838285,
       "language": "ru",
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1786355412743,
       "totalEarned": 15000,
       "memoryGame": null
     },
