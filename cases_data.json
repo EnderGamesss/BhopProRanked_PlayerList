@@ -1675,7 +1675,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 14027800,
+      "coins": 14027500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1683,9 +1683,21 @@
           "file": "m9forest.png",
           "type": "knife",
           "at": "2026-08-10T10:19:57.478Z"
+        },
+        {
+          "file": "m9desert.png",
+          "type": "knife",
+          "at": "2026-08-10T10:20:03.079Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T10:20:03.079Z"
+        },
         {
           "kind": "skin",
           "file": "m9forest.png",
@@ -1742,16 +1754,10 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T09:37:52.852Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T09:37:45.929Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786357197153,
+      "lastCaseAt": 1786357202678,
       "lastBoosterAt": 1786357075985,
       "totalEarned": 14901200,
       "memoryGame": {
@@ -1972,7 +1978,7 @@
         "createdAt": 1786345423143,
         "pendingHide": null
       },
-      "totalOpened": 4
+      "totalOpened": 5
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -2952,7 +2958,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 8029500,
+      "coins": 8029600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2988,12 +2994,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-10T10:20:03.127Z"
-        },
         {
           "kind": "coins",
           "amount": 250,
@@ -3048,13 +3048,19 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-08-10T09:31:59.290Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-10T09:31:52.147Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786357202635,
+      "lastCaseAt": 1786357168824,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786357066448,
-      "totalEarned": 8419900,
+      "totalEarned": 8419700,
       "memoryGame": {
         "board": [
           {
@@ -3271,7 +3277,7 @@
         "createdAt": 1786347647381,
         "pendingHide": null
       },
-      "totalOpened": 3
+      "totalOpened": 2
     },
     "7886451818": {
       "name": "EnderGamesDev",
@@ -4134,21 +4140,10 @@
     },
     "7886091409": {
       "name": "33",
-      "coins": 969500,
+      "coins": 1031500,
       "luck": 1,
       "boosts": [],
-      "inventory": [
-        {
-          "file": "karambitforest.png",
-          "type": "knife",
-          "at": "2026-08-10T10:12:02.849Z"
-        },
-        {
-          "file": "m9ruby.png",
-          "type": "knife",
-          "at": "2026-08-10T10:15:43.983Z"
-        }
-      ],
+      "inventory": [],
       "history": [
         {
           "kind": "coins",
@@ -4218,9 +4213,10 @@
       "lastBonus": 1786355532795,
       "lastCaseAt": 1786356959574,
       "lastBoosterAt": 1786356836333,
-      "totalEarned": 1011400,
+      "totalEarned": 1073400,
       "memoryGame": null,
-      "username": "torment33"
+      "username": "torment33",
+      "totalOpened": 0
     },
     "7231392817": {
       "name": "Нейрохам",
