@@ -4965,8 +4965,21 @@
       "coins": 415500,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9skullskin.png",
+          "type": "booster",
+          "at": "2026-08-10T11:21:52.108Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9skullskin.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-10T11:21:52.108Z"
+        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -5023,17 +5036,11 @@
           "amount": 250,
           "caseType": "spinner",
           "at": "2026-08-09T16:27:44.674Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-08-09T16:27:38.269Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786350800945,
-      "lastBoosterAt": 1786350763993,
+      "lastBoosterAt": 1786360911772,
       "totalEarned": 422000,
       "memoryGame": {
         "board": [
@@ -5258,7 +5265,8 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "username": "Tralalelotralala_52"
+      "username": "Tralalelotralala_52",
+      "totalOpened": 1
     },
     "7656276719": {
       "name": "尸丨乚爪乇?&",
