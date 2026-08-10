@@ -6015,7 +6015,7 @@
     },
     "6724286333": {
       "name": "Vin1nd",
-      "coins": 456900,
+      "coins": 456700,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -6108,6 +6108,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T10:18:32.206Z"
+        },
+        {
+          "kind": "coins",
           "amount": 1000,
           "caseType": "knife",
           "at": "2026-08-10T10:18:22.255Z"
@@ -6159,18 +6165,12 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T10:17:01.792Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "knife",
-          "at": "2026-08-10T10:14:14.284Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786357101968,
+      "lastCaseAt": 1786357111831,
       "lastBoosterAt": 0,
-      "totalEarned": 625100,
+      "totalEarned": 625200,
       "memoryGame": {
         "board": [
           {
@@ -6398,7 +6398,8 @@
         "status": "playing",
         "createdAt": 1786313083350,
         "pendingHide": null
-      }
+      },
+      "totalOpened": 1
     },
     "7891569993": {
       "name": "delo",
