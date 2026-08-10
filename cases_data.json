@@ -2776,7 +2776,7 @@
     },
     "6408582313": {
       "name": "РАналдо 💠",
-      "coins": 11550800,
+      "coins": 11551000,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3071,12 +3071,6 @@
           "kind": "coins",
           "amount": 100,
           "caseType": "knife",
-          "at": "2026-08-10T18:29:20.291Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
           "at": "2026-08-10T18:29:08.272Z"
         },
         {
@@ -3127,13 +3121,19 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-10T18:27:54.160Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-08-10T18:27:31.906Z"
         }
       ],
       "lastBonus": 1786342792234,
-      "lastCaseAt": 1786386559808,
+      "lastCaseAt": 1786386547725,
       "username": "Pidor_play",
       "lastBoosterAt": 1786383178998,
-      "totalEarned": 12875000,
+      "totalEarned": 12874900,
       "memoryGame": {
         "board": [
           {
@@ -3354,7 +3354,7 @@
         "createdAt": 1786270970653,
         "pendingHide": null
       },
-      "totalOpened": 154
+      "totalOpened": 153
     },
     "8624452786": {
       "name": "ор щет",
@@ -8816,13 +8816,14 @@
     "duel_1786386536148_6724286333": {
       "challenger": "6724286333",
       "opponent": "7692376723",
-      "status": "bet_propose",
+      "status": "bet_confirm",
       "createdAt": 1786386536148,
       "choices": {
         "7692376723": "knife",
         "6724286333": "knife"
       },
-      "chosenType": "knife"
+      "chosenType": "knife",
+      "bet": 10000
     }
   }
 }
