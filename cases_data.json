@@ -6601,11 +6601,17 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 295000,
+      "coins": 294850,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T10:03:20.323Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -6660,18 +6666,12 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-10T10:01:42.548Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T09:58:31.452Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786356194752,
+      "lastCaseAt": 1786356199906,
       "lastBoosterAt": 1786349948138,
-      "totalEarned": 306900,
+      "totalEarned": 307050,
       "memoryGame": null,
       "username": "hatemytiredself"
     },
@@ -6808,8 +6808,8 @@
   },
   "chatLuck": {
     "-1002507580008": {
-      "multi": 3,
-      "until": 1786357399473
+      "multi": 2,
+      "until": 1786345311769
     },
     "-5310554942": {
       "multi": 3,
