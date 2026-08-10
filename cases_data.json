@@ -2217,7 +2217,7 @@
     },
     "6408582313": {
       "name": "РАналдо 💠",
-      "coins": 11576400,
+      "coins": 11576100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2245,9 +2245,21 @@
           "file": "karambitdesert.png",
           "type": "knife",
           "at": "2026-08-10T08:14:53.417Z"
+        },
+        {
+          "file": "m9koi.png",
+          "type": "knife",
+          "at": "2026-08-10T08:17:31.932Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9koi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-08-10T08:17:31.932Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2301,16 +2313,10 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T08:15:27.007Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-10T08:15:18.758Z"
         }
       ],
       "lastBonus": 1786342792234,
-      "lastCaseAt": 1786349841967,
+      "lastCaseAt": 1786349851619,
       "username": "Pidor_play",
       "lastBoosterAt": 1786295872893,
       "totalEarned": 12806700,
@@ -6400,17 +6406,11 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 19100,
+      "coins": 19300,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-08-10T08:17:30.889Z"
-        },
         {
           "kind": "coins",
           "amount": 500,
@@ -6465,12 +6465,19 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-10T07:50:46.781Z"
+        },
+        {
+          "kind": "skin",
+          "file": "thumb-basic-spinner-5.png",
+          "chance": 2,
+          "caseType": "spinner",
+          "at": "2026-08-10T07:50:32.851Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786349850477,
+      "lastCaseAt": 1786349844709,
       "lastBoosterAt": 0,
-      "totalEarned": 21400,
+      "totalEarned": 21300,
       "memoryGame": null,
       "username": "hatemytiredself"
     }
