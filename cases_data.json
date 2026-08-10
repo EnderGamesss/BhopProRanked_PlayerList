@@ -1612,17 +1612,17 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 13626700,
+      "coins": 13628500,
       "luck": 1,
       "boosts": [],
-      "inventory": [
-        {
-          "file": "butforest.png",
-          "type": "knife",
-          "at": "2026-08-10T09:12:09.397Z"
-        }
-      ],
+      "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T09:12:31.683Z"
+        },
         {
           "kind": "skin",
           "file": "butforest.png",
@@ -1678,18 +1678,12 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-08-10T09:10:43.511Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-10T09:10:36.112Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786353128757,
+      "lastCaseAt": 1786353151093,
       "lastBoosterAt": 1786350018903,
-      "totalEarned": 14370400,
+      "totalEarned": 14372500,
       "memoryGame": {
         "board": [
           {
@@ -3943,17 +3937,11 @@
     },
     "7886091409": {
       "name": "33",
-      "coins": 411200,
+      "coins": 411400,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T09:12:28.510Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -4009,12 +3997,18 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T09:05:24.138Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-08-10T09:05:11.483Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786353148169,
+      "lastCaseAt": 1786353140854,
       "lastBoosterAt": 1786352678163,
-      "totalEarned": 415300,
+      "totalEarned": 415200,
       "memoryGame": null,
       "username": "torment33"
     },
