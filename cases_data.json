@@ -253,7 +253,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 4282700,
+      "coins": 4282550,
       "luck": 1.25,
       "boosts": [
         {
@@ -304,6 +304,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "spinner",
+          "at": "2026-08-10T14:28:10.980Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -359,18 +365,12 @@
           "chance": 1,
           "caseType": "spinner",
           "at": "2026-08-10T14:26:15.956Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "spinner",
-          "at": "2026-08-10T14:26:10.267Z"
         }
       ],
       "lastBonus": 1786368370516,
-      "lastCaseAt": 1786372084425,
+      "lastCaseAt": 1786372090380,
       "lastBoosterAt": 1786370499330,
-      "totalEarned": 5841600,
+      "totalEarned": 5841750,
       "memoryGame": {
         "board": [
           {
@@ -587,7 +587,7 @@
         "createdAt": 1786363992821
       },
       "username": "wfoee",
-      "totalOpened": 715
+      "totalOpened": 716
     },
     "1840807637": {
       "name": "𝑲𝒆𝒛𝒖𝒎𝒖 𝒏𝒆𝒕𝒓𝒐𝒍",
@@ -3126,21 +3126,9 @@
           "file": "karambitkoi.png",
           "type": "knife",
           "at": "2026-08-10T14:22:53.727Z"
-        },
-        {
-          "file": "arrowspinner.png",
-          "type": "booster",
-          "at": "2026-08-10T14:28:10.662Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "arrowspinner.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-10T14:28:10.662Z"
-        },
         {
           "kind": "coins",
           "amount": 250,
@@ -3194,12 +3182,18 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-08-10T14:24:05.243Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T14:23:54.336Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786372069551,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1786372090043,
+      "lastBoosterAt": 1786369440495,
       "totalEarned": 12340650,
       "memoryGame": {
         "board": [
@@ -3430,7 +3424,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 746
+      "totalOpened": 745
     },
     "7886451818": {
       "name": "EnderGamesDev",
