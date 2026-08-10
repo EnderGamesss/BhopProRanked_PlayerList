@@ -1612,7 +1612,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 13805750,
+      "coins": 13805600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1628,6 +1628,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T09:28:48.394Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -1682,19 +1688,12 @@
           "amount": 1000,
           "caseType": "knife",
           "at": "2026-08-10T09:25:30.564Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9snake.png",
-          "chance": 0.35,
-          "caseType": "knife",
-          "at": "2026-08-10T09:25:15.671Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786354121672,
+      "lastCaseAt": 1786354127963,
       "lastBoosterAt": 1786354052376,
-      "totalEarned": 14662950,
+      "totalEarned": 14663100,
       "memoryGame": {
         "board": [
           {
@@ -3965,17 +3964,11 @@
     },
     "7886091409": {
       "name": "33",
-      "coins": 595050,
+      "coins": 595150,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-10T09:28:47.211Z"
-        },
         {
           "kind": "skin",
           "file": "m9snake.png",
@@ -4032,12 +4025,18 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T09:25:32.939Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T09:25:26.330Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786354126645,
+      "lastCaseAt": 1786354041170,
       "lastBoosterAt": 1786352678163,
-      "totalEarned": 618650,
+      "totalEarned": 618450,
       "memoryGame": null,
       "username": "torment33"
     },
