@@ -2812,6 +2812,11 @@
           "file": "butforest.png",
           "type": "knife",
           "at": "2026-08-10T21:36:41.120Z"
+        },
+        {
+          "file": "m9fire_0.png",
+          "type": "knife",
+          "at": "2026-08-10T21:38:15.066Z"
         }
       ],
       "history": [
@@ -3069,6 +3074,7 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
@@ -3079,8 +3085,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -3102,9 +3107,11 @@
           "price": 100000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
-        "createdAt": 1786397875558
+        "createdAt": 1786397875558,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "totalOpened": 566
     },
