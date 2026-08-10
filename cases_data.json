@@ -4087,7 +4087,7 @@
     },
     "7886091409": {
       "name": "33",
-      "coins": 970000,
+      "coins": 969700,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -4095,9 +4095,21 @@
           "file": "karambitforest.png",
           "type": "knife",
           "at": "2026-08-10T10:12:02.849Z"
+        },
+        {
+          "file": "m9ruby.png",
+          "type": "knife",
+          "at": "2026-08-10T10:15:43.983Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9ruby.png",
+          "chance": 0.08,
+          "caseType": "knife",
+          "at": "2026-08-10T10:15:43.983Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -4155,17 +4167,10 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-10T10:13:56.914Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitforest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-10T10:13:14.499Z"
         }
       ],
       "lastBonus": 1786355532795,
-      "lastCaseAt": 1786356936380,
+      "lastCaseAt": 1786356943660,
       "lastBoosterAt": 1786356836333,
       "totalEarned": 1011300,
       "memoryGame": null,
@@ -5435,7 +5440,7 @@
     },
     "7692376723": {
       "name": "Типа клутой ыыыы",
-      "coins": 15100,
+      "coins": 15400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -5453,21 +5458,9 @@
           "file": "karambitdesert.png",
           "type": "knife",
           "at": "2026-08-10T06:34:32.564Z"
-        },
-        {
-          "file": "m9snake.png",
-          "type": "knife",
-          "at": "2026-08-10T10:15:43.380Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "m9snake.png",
-          "chance": 0.35,
-          "caseType": "knife",
-          "at": "2026-08-10T10:15:43.380Z"
-        },
         {
           "kind": "coins",
           "amount": 500,
@@ -5521,10 +5514,16 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-08-10T06:42:51.642Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-10T06:34:46.410Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786356942829,
+      "lastCaseAt": 1786356914585,
       "lastBoosterAt": 1786304756991,
       "totalEarned": 29700,
       "memoryGame": {
