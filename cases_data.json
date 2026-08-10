@@ -5913,7 +5913,7 @@
     },
     "6724286333": {
       "name": "Vin1nd",
-      "coins": 453900,
+      "coins": 453600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -6001,9 +6001,21 @@
           "file": "m9spitfire.png",
           "type": "knife",
           "at": "2026-08-10T10:07:40.871Z"
+        },
+        {
+          "file": "m9desert.png",
+          "type": "knife",
+          "at": "2026-08-10T10:07:57.471Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T10:07:57.471Z"
+        },
         {
           "kind": "skin",
           "file": "m9spitfire.png",
@@ -6060,16 +6072,10 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-10T10:04:34.974Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-10T10:04:29.418Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786356460304,
+      "lastCaseAt": 1786356476902,
       "lastBoosterAt": 0,
       "totalEarned": 614900,
       "memoryGame": {
