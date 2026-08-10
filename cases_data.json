@@ -3128,7 +3128,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 9453600,
+      "coins": 9453300,
       "luck": 1.25,
       "boosts": [
         {
@@ -3376,9 +3376,21 @@
           "file": "m9forest.png",
           "type": "knife",
           "at": "2026-08-10T13:18:27.757Z"
+        },
+        {
+          "file": "m9desert.png",
+          "type": "knife",
+          "at": "2026-08-10T13:20:01.560Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T13:20:01.560Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -3437,17 +3449,10 @@
           "chance": 0.35,
           "caseType": "knife",
           "at": "2026-08-10T13:16:48.367Z"
-        },
-        {
-          "kind": "skin",
-          "file": "butforest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-10T13:16:08.596Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786367995966,
+      "lastCaseAt": 1786368001236,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786367528257,
       "totalEarned": 10899100,
@@ -3680,7 +3685,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 525
+      "totalOpened": 526
     },
     "7886451818": {
       "name": "EnderGamesDev",
@@ -7229,7 +7234,7 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 486550,
+      "coins": 486750,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -7302,12 +7307,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-08-10T13:20:00.791Z"
-        },
-        {
-          "kind": "coins",
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-10T13:19:53.097Z"
@@ -7361,15 +7360,22 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-10T13:18:12.826Z"
+        },
+        {
+          "kind": "skin",
+          "file": "woodspinner.png",
+          "chance": 0.6,
+          "caseType": "spinner",
+          "at": "2026-08-10T13:18:07.581Z"
         }
       ],
       "lastBonus": 1786367456877,
-      "lastCaseAt": 1786368000411,
+      "lastCaseAt": 1786367992350,
       "lastBoosterAt": 1786364320897,
-      "totalEarned": 537450,
+      "totalEarned": 537350,
       "memoryGame": null,
       "username": "hatemytiredself",
-      "totalOpened": 109
+      "totalOpened": 108
     },
     "8429840420": {
       "name": "дверной проём",
