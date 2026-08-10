@@ -2959,9 +2959,14 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 10467400,
-      "luck": 1,
-      "boosts": [],
+      "coins": 9467400,
+      "luck": 1.25,
+      "boosts": [
+        {
+          "id": "lucky_charm",
+          "at": "2026-08-10T12:48:52.996Z"
+        }
+      ],
       "inventory": [
         {
           "file": "m9guardian.png",
