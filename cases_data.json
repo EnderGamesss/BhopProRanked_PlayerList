@@ -6683,7 +6683,7 @@
     },
     "6724286333": {
       "name": "Vin1nd",
-      "coins": 652300,
+      "coins": 652550,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -6831,6 +6831,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-10T18:29:33.362Z"
+        },
+        {
+          "kind": "coins",
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T15:28:07.161Z"
@@ -6883,18 +6889,12 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T15:26:35.719Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-10T15:26:29.043Z"
         }
       ],
       "lastBonus": 1786376060067,
-      "lastCaseAt": 1786375686688,
+      "lastCaseAt": 1786386573362,
       "lastBoosterAt": 1786373994824,
-      "totalEarned": 952000,
+      "totalEarned": 952250,
       "memoryGame": {
         "board": [
           {
@@ -7123,7 +7123,7 @@
         "createdAt": 1786313083350,
         "pendingHide": null
       },
-      "totalOpened": 405
+      "totalOpened": 406
     },
     "7891569993": {
       "name": "delo",
@@ -8825,11 +8825,21 @@
       "chosenType": "knife",
       "bet": 10000,
       "turn": "6724286333",
-      "challengerOpens": 0,
+      "challengerOpens": 1,
       "opponentOpens": 0,
-      "challengerTotal": 0,
+      "challengerTotal": 250,
       "opponentTotal": 0,
-      "results": []
+      "results": [
+        {
+          "uid": "6724286333",
+          "result": {
+            "kind": "coins",
+            "amount": 250
+          },
+          "earnings": 250
+        }
+      ],
+      "lastAction": 1786386573362
     }
   }
 }
