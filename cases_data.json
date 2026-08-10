@@ -2533,8 +2533,21 @@
       "coins": 1315900,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-basic-spinner-5.png",
+          "type": "booster",
+          "at": "2026-08-10T00:29:11.606Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-basic-spinner-5.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-10T00:29:11.606Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2589,18 +2602,12 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-10T00:14:37.851Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-10T00:14:21.266Z"
         }
       ],
       "lastBonus": 1786281511849,
       "lastCaseAt": 1786320992115,
       "username": "orzett",
-      "lastBoosterAt": 1786319232877,
+      "lastBoosterAt": 1786321751317,
       "totalEarned": 1991700,
       "memoryGame": null
     },
