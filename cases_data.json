@@ -3137,11 +3137,23 @@
     },
     "8881481544": {
       "name": "Тьфу, свинья ебаная",
-      "coins": 45850,
+      "coins": 43200,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Mercenery.png",
+          "type": "glove",
+          "at": "2026-08-09T15:20:27.921Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "glove",
+          "at": "2026-08-10T08:53:23.753Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-Mercenery.png",
@@ -3197,18 +3209,12 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T08:45:38.850Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-09T08:45:33.699Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786288827579,
+      "lastCaseAt": 1786352003307,
       "lastBoosterAt": 0,
-      "totalEarned": 3600,
+      "totalEarned": 1250,
       "memoryGame": null
     },
     "8347129286": {
