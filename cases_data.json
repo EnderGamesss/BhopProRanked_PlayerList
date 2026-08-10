@@ -1615,8 +1615,21 @@
       "coins": 13432750,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "skullspinner.png",
+          "type": "booster",
+          "at": "2026-08-10T08:20:19.127Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "skullspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-10T08:20:19.127Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1671,17 +1684,11 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T07:02:19.850Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T07:02:14.538Z"
         }
       ],
       "lastBonus": 1786259491073,
       "lastCaseAt": 1786345632292,
-      "lastBoosterAt": 1786343311907,
+      "lastBoosterAt": 1786350018903,
       "totalEarned": 14105950,
       "memoryGame": {
         "board": [
