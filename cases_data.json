@@ -1612,11 +1612,24 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 13999000,
+      "coins": 13998700,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitdesert.png",
+          "type": "knife",
+          "at": "2026-08-10T09:37:38.582Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T09:37:38.582Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -1672,17 +1685,10 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-10T09:36:27.922Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitforest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-10T09:36:18.537Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786354653083,
+      "lastCaseAt": 1786354658238,
       "lastBoosterAt": 1786354052376,
       "totalEarned": 14869400,
       "memoryGame": {
@@ -6678,10 +6684,16 @@
     },
     "5672005374": {
       "name": "JosikXD",
-      "coins": 50650,
+      "coins": 650,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "arrowspinner.png",
+          "type": "spinner",
+          "at": "2026-08-10T09:37:06.975Z"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -6724,7 +6736,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786354626680,
       "lastBoosterAt": 0,
-      "totalEarned": 51450,
+      "totalEarned": 1450,
       "memoryGame": null,
       "username": "JosikYunghollymurder812XD"
     }
