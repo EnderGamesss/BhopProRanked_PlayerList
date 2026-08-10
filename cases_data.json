@@ -2729,17 +2729,17 @@
     },
     "5624673181": {
       "name": "⚜️",
-      "coins": 132400,
+      "coins": 114600,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
-      "history": [
+      "inventory": [
         {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T09:58:21.108Z"
-        },
+          "file": "butkoi.png",
+          "type": "knife",
+          "at": "2026-08-10T09:58:06.216Z"
+        }
+      ],
+      "history": [
         {
           "kind": "skin",
           "file": "butkoi.png",
@@ -2794,13 +2794,19 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T09:56:08.343Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-08-10T09:56:02.094Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786355900433,
+      "lastCaseAt": 1786355885746,
       "language": "ru",
       "lastBoosterAt": 0,
-      "totalEarned": 140850,
+      "totalEarned": 122750,
       "memoryGame": null
     },
     "6335884130": {
@@ -5870,7 +5876,7 @@
     },
     "6724286333": {
       "name": "Vin1nd",
-      "coins": 441950,
+      "coins": 444250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -5915,11 +5921,6 @@
           "at": "2026-08-10T00:15:39.147Z"
         },
         {
-          "file": "butdesert.png",
-          "type": "knife",
-          "at": "2026-08-10T00:16:35.172Z"
-        },
-        {
           "file": "m9desert.png",
           "type": "knife",
           "at": "2026-08-10T00:18:47.968Z"
@@ -5956,6 +5957,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T09:58:23.548Z"
+        },
         {
           "kind": "skin",
           "file": "butdesert.png",
@@ -6011,18 +6018,12 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T09:54:22.712Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T09:54:15.414Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786355887908,
+      "lastCaseAt": 1786355903027,
       "lastBoosterAt": 0,
-      "totalEarned": 594250,
+      "totalEarned": 596850,
       "memoryGame": {
         "board": [
           {
@@ -6663,8 +6664,21 @@
       "coins": 140800,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Mercenery.png",
+          "type": "booster",
+          "at": "2026-08-10T09:58:19.381Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Mercenery.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-10T09:58:19.381Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -6687,7 +6701,7 @@
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786352884122,
-      "lastBoosterAt": 1786352854833,
+      "lastBoosterAt": 1786355899083,
       "totalEarned": 140400,
       "memoryGame": null,
       "username": "shketgpt"
