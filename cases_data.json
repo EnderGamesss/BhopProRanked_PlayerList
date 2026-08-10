@@ -1612,17 +1612,11 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 13528000,
+      "coins": 13528200,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T08:33:39.262Z"
-        },
         {
           "kind": "coins",
           "amount": 150,
@@ -1677,12 +1671,18 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T08:31:13.932Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-10T08:31:07.657Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786350818787,
+      "lastCaseAt": 1786350812784,
       "lastBoosterAt": 1786350018903,
-      "totalEarned": 14222200,
+      "totalEarned": 14222100,
       "memoryGame": {
         "board": [
           {
@@ -4560,7 +4560,7 @@
     },
     "6696023434": {
       "name": "𝚅𝙻𝙰𝙳𝙸𝙺",
-      "coins": 267250,
+      "coins": 267400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -4638,7 +4638,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786350800945,
       "lastBoosterAt": 1786350763993,
-      "totalEarned": 273750,
+      "totalEarned": 273900,
       "memoryGame": {
         "board": [
           {
@@ -4827,14 +4827,14 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -4858,7 +4858,9 @@
         },
         "attempts": 7,
         "status": "playing",
-        "createdAt": 1786350809875
+        "createdAt": 1786350809875,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Tralalelotralala_52"
     },
