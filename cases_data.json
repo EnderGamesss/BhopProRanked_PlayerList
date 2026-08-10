@@ -2756,7 +2756,7 @@
     },
     "5624673181": {
       "name": "⚜️",
-      "coins": 321050,
+      "coins": 321250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2767,6 +2767,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-08-10T10:10:19.896Z"
+        },
         {
           "kind": "skin",
           "file": "karambitkoi.png",
@@ -2822,19 +2828,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T10:07:45.867Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T10:07:27.404Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786356597456,
+      "lastCaseAt": 1786356619341,
       "language": "ru",
       "lastBoosterAt": 0,
-      "totalEarned": 344800,
+      "totalEarned": 345300,
       "memoryGame": null
     },
     "6335884130": {
@@ -4015,24 +4015,11 @@
     },
     "7886091409": {
       "name": "33",
-      "coins": 605150,
+      "coins": 605450,
       "luck": 1,
       "boosts": [],
-      "inventory": [
-        {
-          "file": "karambitforest.png",
-          "type": "knife",
-          "at": "2026-08-10T10:10:19.930Z"
-        }
-      ],
+      "inventory": [],
       "history": [
-        {
-          "kind": "skin",
-          "file": "karambitforest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-10T10:10:19.930Z"
-        },
         {
           "kind": "coins",
           "amount": 150,
@@ -4087,10 +4074,16 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T09:56:34.701Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-10T09:56:28.340Z"
         }
       ],
       "lastBonus": 1786355532795,
-      "lastCaseAt": 1786356619243,
+      "lastCaseAt": 1786356614219,
       "lastBoosterAt": 1786352678163,
       "totalEarned": 639550,
       "memoryGame": null,
