@@ -2885,6 +2885,11 @@
           "file": "m9guardian.png",
           "type": "knife",
           "at": "2026-08-10T12:32:34.554Z"
+        },
+        {
+          "file": "thumb-joke.png",
+          "type": "glove",
+          "at": "2026-08-10T12:32:44.795Z"
         }
       ],
       "history": [
@@ -3145,23 +3150,23 @@
         ],
         "matched": [
           false,
-          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
           false,
           false,
           true,
           false,
           false,
           false,
-          true,
-          false,
-          false,
           false,
           false,
           true,
-          true,
-          false,
-          true,
-          false,
           false,
           false,
           false,
@@ -3177,7 +3182,7 @@
           "price": 2500,
           "weight": 3
         },
-        "attempts": 5,
+        "attempts": 6,
         "status": "playing",
         "createdAt": 1786365087166,
         "flipStage": "wait_first",
