@@ -7647,7 +7647,7 @@
     },
     "8306609508": {
       "name": ".",
-      "coins": 800,
+      "coins": 600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -7658,6 +7658,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T15:43:57.578Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -7679,10 +7685,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786376630222,
+      "lastCaseAt": 1786376637190,
       "lastBoosterAt": 0,
-      "totalEarned": 700,
-      "totalOpened": 3,
+      "totalEarned": 800,
+      "totalOpened": 4,
       "memoryGame": null
     }
   },
