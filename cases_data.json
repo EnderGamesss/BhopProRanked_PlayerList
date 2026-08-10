@@ -2732,21 +2732,8 @@
       "coins": 15250,
       "luck": 1,
       "boosts": [],
-      "inventory": [
-        {
-          "file": "karambitbreak.png",
-          "type": "booster",
-          "at": "2026-08-10T09:50:13.357Z"
-        }
-      ],
+      "inventory": [],
       "history": [
-        {
-          "kind": "skin",
-          "file": "karambitbreak.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-10T09:50:13.357Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -2800,7 +2787,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786252838285,
       "language": "ru",
-      "lastBoosterAt": 1786355412743,
+      "lastBoosterAt": 0,
       "totalEarned": 15000,
       "memoryGame": null
     },
@@ -6689,11 +6676,24 @@
     },
     "5672005374": {
       "name": "JosikXD",
-      "coins": 113800,
+      "coins": 113500,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "arrowspinner.png",
+          "type": "spinner",
+          "at": "2026-08-10T09:50:13.871Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "arrowspinner.png",
+          "chance": 0.6,
+          "caseType": "spinner",
+          "at": "2026-08-10T09:50:13.871Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -6748,16 +6748,10 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-10T09:49:01.941Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-08-10T09:48:55.911Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786355406600,
+      "lastCaseAt": 1786355413610,
       "lastBoosterAt": 0,
       "totalEarned": 118500,
       "memoryGame": null,
