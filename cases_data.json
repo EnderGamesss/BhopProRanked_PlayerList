@@ -6400,11 +6400,17 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 19300,
+      "coins": 19100,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "spinner",
+          "at": "2026-08-10T08:17:30.889Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -6459,19 +6465,12 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-10T07:50:46.781Z"
-        },
-        {
-          "kind": "skin",
-          "file": "thumb-basic-spinner-5.png",
-          "chance": 2,
-          "caseType": "spinner",
-          "at": "2026-08-10T07:50:32.851Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786349844709,
+      "lastCaseAt": 1786349850477,
       "lastBoosterAt": 0,
-      "totalEarned": 21300,
+      "totalEarned": 21400,
       "memoryGame": null,
       "username": "hatemytiredself"
     }
