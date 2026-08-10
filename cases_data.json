@@ -3079,7 +3079,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 11486800,
+      "coins": 11487250,
       "luck": 1.25,
       "boosts": [
         {
@@ -3110,6 +3110,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-10T15:12:55.367Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -3164,19 +3170,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-10T15:06:15.553Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-10T15:05:57.342Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786374744247,
+      "lastCaseAt": 1786374774827,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786373928200,
-      "totalEarned": 13017500,
+      "totalEarned": 13018250,
       "memoryGame": {
         "board": [
           {
@@ -3406,7 +3406,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 812
+      "totalOpened": 813
     },
     "7886451818": {
       "name": "EnderGamesDev",
@@ -4683,21 +4683,9 @@
           "file": "karambitemerand.png",
           "type": "knife",
           "at": "2026-08-10T14:33:38.897Z"
-        },
-        {
-          "file": "karambitsaphire.png",
-          "type": "booster",
-          "at": "2026-08-10T15:12:55.294Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "karambitsaphire.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-10T15:12:55.294Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -4753,15 +4741,21 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-10T14:26:31.481Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-08-10T14:26:20.066Z"
         }
       ],
       "lastBonus": 1786362595072,
       "lastCaseAt": 1786374762652,
-      "lastBoosterAt": 1786374774913,
+      "lastBoosterAt": 1786371990868,
       "totalEarned": 551450,
       "memoryGame": null,
       "username": "User10me",
-      "totalOpened": 42
+      "totalOpened": 41
     },
     "8575376409": {
       "name": "Влад",
