@@ -1809,7 +1809,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 14777600,
+      "coins": 14777150,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1835,12 +1835,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-10T11:18:26.367Z"
-        },
         {
           "kind": "skin",
           "file": "m9forest.png",
@@ -1896,12 +1890,18 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-10T11:15:18.500Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T11:14:51.535Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786360705789,
+      "lastCaseAt": 1786360688482,
       "lastBoosterAt": 1786359976869,
-      "totalEarned": 15717000,
+      "totalEarned": 15716250,
       "memoryGame": {
         "board": [
           {
@@ -2122,7 +2122,7 @@
         "flipStage": "wait_second",
         "firstFlip": 24
       },
-      "totalOpened": 225
+      "totalOpened": 224
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -4792,7 +4792,7 @@
     },
     "8575376409": {
       "name": "Влад",
-      "coins": 391900,
+      "coins": 391600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -4805,9 +4805,21 @@
           "file": "m9desert.png",
           "type": "knife",
           "at": "2026-08-10T11:18:04.834Z"
+        },
+        {
+          "file": "karambitforest.png",
+          "type": "knife",
+          "at": "2026-08-10T11:18:27.793Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T11:18:27.793Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -4866,16 +4878,10 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-09T14:56:04.669Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-09T14:55:52.128Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786360699117,
+      "lastCaseAt": 1786360707309,
       "lastBoosterAt": 1786360626414,
       "totalEarned": 394800,
       "memoryGame": {
@@ -5093,7 +5099,7 @@
         "pendingHide": null
       },
       "username": "Vladphu",
-      "totalOpened": 5
+      "totalOpened": 6
     },
     "6696023434": {
       "name": "𝚅𝙻𝙰𝙳𝙸𝙺",
