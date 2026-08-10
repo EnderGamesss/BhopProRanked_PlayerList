@@ -1748,7 +1748,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 17740900,
+      "coins": 17740700,
       "luck": 1.25,
       "boosts": [
         {
@@ -1764,6 +1764,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T15:18:40.602Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1818,18 +1824,12 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T15:16:16.452Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T15:15:56.954Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786375114521,
+      "lastCaseAt": 1786375119986,
       "lastBoosterAt": 1786373535418,
-      "totalEarned": 19720700,
+      "totalEarned": 19720800,
       "memoryGame": {
         "board": [
           {
@@ -2047,7 +2047,7 @@
         "flipStage": "wait_second",
         "firstFlip": 10
       },
-      "totalOpened": 699
+      "totalOpened": 700
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -6273,7 +6273,7 @@
     },
     "6724286333": {
       "name": "Vin1nd",
-      "coins": 624750,
+      "coins": 624950,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -6441,12 +6441,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T15:18:40.611Z"
-        },
-        {
-          "kind": "coins",
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-10T15:15:25.446Z"
@@ -6502,12 +6496,19 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T15:13:40.329Z"
+        },
+        {
+          "kind": "skin",
+          "file": "m9snake.png",
+          "chance": 0.35,
+          "caseType": "knife",
+          "at": "2026-08-10T15:13:34.509Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786375119949,
+      "lastCaseAt": 1786374924883,
       "lastBoosterAt": 1786373994824,
-      "totalEarned": 897950,
+      "totalEarned": 897850,
       "memoryGame": {
         "board": [
           {
@@ -6736,7 +6737,7 @@
         "createdAt": 1786313083350,
         "pendingHide": null
       },
-      "totalOpened": 350
+      "totalOpened": 349
     },
     "7891569993": {
       "name": "delo",
