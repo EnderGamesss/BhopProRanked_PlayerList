@@ -2874,7 +2874,13 @@
       "coins": 10471100,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9guardian.png",
+          "type": "knife",
+          "at": "2026-08-10T12:32:34.554Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -3134,22 +3140,22 @@
         ],
         "matched": [
           false,
+          true,
+          false,
+          false,
+          true,
+          false,
+          false,
+          false,
+          true,
           false,
           false,
           false,
           false,
+          true,
+          true,
           false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -3166,9 +3172,11 @@
           "price": 2500,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1786365087166
+        "createdAt": 1786365087166,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "totalOpened": 382
     },
