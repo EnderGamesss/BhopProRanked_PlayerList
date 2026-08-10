@@ -718,7 +718,13 @@
       "coins": 2496100,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitemerand.png",
+          "type": "knife",
+          "at": "2026-08-10T08:00:59.243Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -970,11 +976,11 @@
           false,
           true,
           false,
-          false,
+          true,
           true,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -992,7 +998,7 @@
           "amount": 500,
           "weight": 20
         },
-        "attempts": 2,
+        "attempts": 1,
         "status": "playing",
         "createdAt": 1786264025274,
         "pendingHide": null
