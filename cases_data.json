@@ -7647,7 +7647,7 @@
     },
     "8306609508": {
       "name": ".",
-      "coins": 700,
+      "coins": 600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -7659,6 +7659,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-10T15:43:38.548Z"
+        },
+        {
           "kind": "skin",
           "file": "thumb-bhopool.png",
           "chance": 0.2,
@@ -7667,10 +7673,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786376574366,
+      "lastCaseAt": 1786376617773,
       "lastBoosterAt": 0,
-      "totalEarned": 0,
-      "totalOpened": 1,
+      "totalEarned": 200,
+      "totalOpened": 2,
       "memoryGame": null
     }
   },
