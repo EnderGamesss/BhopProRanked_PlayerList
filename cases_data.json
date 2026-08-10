@@ -1344,7 +1344,7 @@
     },
     "5117405936": {
       "name": "xGRI3Fx",
-      "coins": 1161400,
+      "coins": 1161100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1377,9 +1377,21 @@
           "file": "thumb-basic-spinner-5.png",
           "type": "spinner",
           "at": "2026-08-10T12:37:55.828Z"
+        },
+        {
+          "file": "skullspinner.png",
+          "type": "spinner",
+          "at": "2026-08-10T12:38:10.058Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "skullspinner.png",
+          "chance": 0.4,
+          "caseType": "spinner",
+          "at": "2026-08-10T12:38:10.058Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -1438,18 +1450,11 @@
           "chance": 2,
           "caseType": "spinner",
           "at": "2026-08-10T12:36:31.605Z"
-        },
-        {
-          "kind": "skin",
-          "file": "thumb-basic-spinner-5.png",
-          "chance": 2,
-          "caseType": "spinner",
-          "at": "2026-08-10T12:36:01.491Z"
         }
       ],
       "lastBonus": 1786270680645,
       "username": "ITZ_GRI3F",
-      "lastCaseAt": 1786365481511,
+      "lastCaseAt": 1786365489542,
       "lastBoosterAt": 1786271416604,
       "totalEarned": 1137000,
       "memoryGame": {
@@ -1669,7 +1674,7 @@
         "status": "playing",
         "createdAt": 1786365337656
       },
-      "totalOpened": 13
+      "totalOpened": 14
     },
     "8708014655": {
       "name": "LÖX",
