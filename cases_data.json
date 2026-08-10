@@ -1612,7 +1612,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 13805550,
+      "coins": 13805450,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1628,6 +1628,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-10T09:29:00.510Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1682,18 +1688,12 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-10T09:25:44.829Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "knife",
-          "at": "2026-08-10T09:25:30.564Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786354132673,
+      "lastCaseAt": 1786354139811,
       "lastBoosterAt": 1786354052376,
-      "totalEarned": 14663050,
+      "totalEarned": 14663250,
       "memoryGame": {
         "board": [
           {
@@ -3964,17 +3964,11 @@
     },
     "7886091409": {
       "name": "33",
-      "coins": 594850,
+      "coins": 595050,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T09:29:00.398Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -4031,12 +4025,18 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T09:25:40.455Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T09:25:32.939Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786354140165,
+      "lastCaseAt": 1786354126645,
       "lastBoosterAt": 1786352678163,
-      "totalEarned": 618750,
+      "totalEarned": 618650,
       "memoryGame": null,
       "username": "torment33"
     },
