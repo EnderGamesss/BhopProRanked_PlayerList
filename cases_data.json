@@ -3152,7 +3152,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 10375350,
+      "coins": 10375150,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3183,6 +3183,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T12:04:26.151Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -3238,19 +3244,13 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-10T12:03:01.535Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "knife",
-          "at": "2026-08-10T12:02:48.540Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786363452276,
+      "lastCaseAt": 1786363465599,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786362679454,
-      "totalEarned": 10756650,
+      "totalEarned": 10756750,
       "memoryGame": {
         "board": [
           {
@@ -3468,7 +3468,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 309
+      "totalOpened": 310
     },
     "7886451818": {
       "name": "EnderGamesDev",
