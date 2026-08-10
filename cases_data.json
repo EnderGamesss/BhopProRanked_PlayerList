@@ -1612,17 +1612,11 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 13628350,
+      "coins": 13628450,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-10T09:04:37.651Z"
-        },
         {
           "kind": "skin",
           "file": "m9koi.png",
@@ -1677,12 +1671,18 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T09:02:06.974Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T09:02:00.291Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786352677341,
+      "lastCaseAt": 1786352640095,
       "lastBoosterAt": 1786350018903,
-      "totalEarned": 14363350,
+      "totalEarned": 14363150,
       "memoryGame": {
         "board": [
           {
@@ -3939,8 +3939,21 @@
       "coins": 15700,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9guardian.png",
+          "type": "booster",
+          "at": "2026-08-10T09:04:38.548Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9guardian.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-10T09:04:38.548Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -3987,7 +4000,7 @@
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786352636474,
-      "lastBoosterAt": 1786277058141,
+      "lastBoosterAt": 1786352678163,
       "totalEarned": 16500,
       "memoryGame": null,
       "username": "torment33"
