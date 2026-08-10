@@ -1601,7 +1601,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 15327300,
+      "coins": 15327250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1612,6 +1612,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-10T12:22:47.924Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -1668,18 +1674,12 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T12:19:09.248Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-10T12:19:02.505Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786364559203,
+      "lastCaseAt": 1786364567553,
       "lastBoosterAt": 1786362982902,
-      "totalEarned": 16205100,
+      "totalEarned": 16205350,
       "memoryGame": {
         "board": [
           {
@@ -1900,7 +1900,7 @@
         "flipStage": "wait_second",
         "firstFlip": 24
       },
-      "totalOpened": 354
+      "totalOpened": 355
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -5155,7 +5155,7 @@
     },
     "6376231675": {
       "name": "Леша",
-      "coins": 17400,
+      "coins": 2400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -5163,6 +5163,11 @@
           "file": "arrowspinner.png",
           "type": "spinner",
           "at": "2026-08-09T19:49:30.750Z"
+        },
+        {
+          "file": "thumb-basic-spinner-5.png",
+          "type": "spinner",
+          "at": "2026-08-10T12:22:37.566Z"
         }
       ],
       "history": [
@@ -5231,7 +5236,7 @@
       "lastBonus": 1786305055009,
       "lastCaseAt": 1786364556998,
       "lastBoosterAt": 0,
-      "totalEarned": 23000,
+      "totalEarned": 8000,
       "memoryGame": {
         "board": [
           {
