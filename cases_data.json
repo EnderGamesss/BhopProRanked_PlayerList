@@ -2217,7 +2217,7 @@
     },
     "6408582313": {
       "name": "РАналдо 💠",
-      "coins": 11576100,
+      "coins": 11575950,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2253,6 +2253,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T08:18:06.291Z"
+        },
         {
           "kind": "skin",
           "file": "m9koi.png",
@@ -2307,19 +2313,13 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-10T08:15:35.713Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T08:15:27.007Z"
         }
       ],
       "lastBonus": 1786342792234,
-      "lastCaseAt": 1786349851619,
+      "lastCaseAt": 1786349885663,
       "username": "Pidor_play",
       "lastBoosterAt": 1786295872893,
-      "totalEarned": 12806700,
+      "totalEarned": 12806850,
       "memoryGame": {
         "board": [
           {
@@ -6406,24 +6406,11 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 19200,
+      "coins": 19500,
       "luck": 1,
       "boosts": [],
-      "inventory": [
-        {
-          "file": "ironaquaspinner.png",
-          "type": "spinner",
-          "at": "2026-08-10T08:18:06.438Z"
-        }
-      ],
+      "inventory": [],
       "history": [
-        {
-          "kind": "skin",
-          "file": "ironaquaspinner.png",
-          "chance": 1,
-          "caseType": "spinner",
-          "at": "2026-08-10T08:18:06.438Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -6477,10 +6464,16 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-10T07:51:55.872Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T07:51:50.716Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786349886100,
+      "lastCaseAt": 1786349879261,
       "lastBoosterAt": 0,
       "totalEarned": 23000,
       "memoryGame": null,
