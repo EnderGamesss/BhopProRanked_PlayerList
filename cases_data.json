@@ -1809,11 +1809,24 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 14787700,
+      "coins": 14787400,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butforest.png",
+          "type": "knife",
+          "at": "2026-08-10T11:19:21.809Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T11:19:21.809Z"
+        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -1868,16 +1881,10 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T11:16:05.847Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-10T11:15:48.576Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786360755048,
+      "lastCaseAt": 1786360761324,
       "lastBoosterAt": 1786359976869,
       "totalEarned": 15728000,
       "memoryGame": {
@@ -2100,7 +2107,7 @@
         "flipStage": "wait_second",
         "firstFlip": 24
       },
-      "totalOpened": 228
+      "totalOpened": 229
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -3032,7 +3039,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 8182850,
+      "coins": 8182700,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3175,6 +3182,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T11:19:25.795Z"
+        },
+        {
+          "kind": "coins",
           "amount": 750,
           "caseType": "knife",
           "at": "2026-08-10T11:18:53.774Z"
@@ -3227,20 +3240,13 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-10T11:00:52.655Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9snake.png",
-          "chance": 0.35,
-          "caseType": "knife",
-          "at": "2026-08-10T11:00:17.308Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786360733171,
+      "lastCaseAt": 1786360765178,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786358935177,
-      "totalEarned": 8623050,
+      "totalEarned": 8623200,
       "memoryGame": {
         "board": [
           {
@@ -3480,7 +3486,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 170
+      "totalOpened": 171
     },
     "7886451818": {
       "name": "EnderGamesDev",
@@ -4770,7 +4776,7 @@
     },
     "8575376409": {
       "name": "Влад",
-      "coins": 391100,
+      "coins": 391200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -4796,12 +4802,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-10T11:19:22.199Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -4859,12 +4859,19 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-10T07:25:14.381Z"
+        },
+        {
+          "kind": "skin",
+          "file": "thumb-bluestar.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-10T07:06:37.117Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786360761716,
+      "lastCaseAt": 1786360746081,
       "lastBoosterAt": 1786360626414,
-      "totalEarned": 395200,
+      "totalEarned": 395000,
       "memoryGame": {
         "board": [
           {
@@ -5080,7 +5087,7 @@
         "pendingHide": null
       },
       "username": "Vladphu",
-      "totalOpened": 9
+      "totalOpened": 8
     },
     "6696023434": {
       "name": "𝚅𝙻𝙰𝙳𝙸𝙺",
@@ -7287,16 +7294,10 @@
     },
     "6652040023": {
       "name": "sinvy",
-      "coins": 650,
+      "coins": 10650,
       "luck": 1,
       "boosts": [],
-      "inventory": [
-        {
-          "file": "camospinner.png",
-          "type": "booster",
-          "at": "2026-08-10T11:19:09.732Z"
-        }
-      ],
+      "inventory": [],
       "history": [
         {
           "kind": "skin",
@@ -7321,7 +7322,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786360725444,
       "lastBoosterAt": 1786360749347,
-      "totalEarned": 250,
+      "totalEarned": 10250,
       "totalOpened": 3,
       "memoryGame": null,
       "username": "mhawmhawha"
