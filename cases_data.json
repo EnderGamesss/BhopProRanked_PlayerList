@@ -100,8 +100,21 @@
       "coins": 2000050,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butruby.png",
+          "type": "booster",
+          "at": "2026-08-10T18:58:09.814Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butruby.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-10T18:58:09.814Z"
+        },
         {
           "kind": "skin",
           "file": "butsnake.png",
@@ -160,21 +173,15 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T12:36:02.875Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-09T12:35:51.940Z"
         }
       ],
       "lastBonus": 1786216214657,
-      "username": "cazuso",
+      "username": "normal26sigma",
       "lastCaseAt": 1786278993856,
-      "lastBoosterAt": 1786384345728,
+      "lastBoosterAt": 1786388289439,
       "totalEarned": 1673200,
       "memoryGame": null,
-      "totalOpened": 2
+      "totalOpened": 3
     },
     "1480920167": {
       "name": "Дмитрий",
