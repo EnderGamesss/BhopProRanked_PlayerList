@@ -1675,11 +1675,17 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 14028150,
+      "coins": 14028850,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 1000,
+          "caseType": "knife",
+          "at": "2026-08-10T10:19:31.830Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1736,18 +1742,12 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-10T09:37:38.582Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-10T09:37:33.427Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786357156445,
+      "lastCaseAt": 1786357171314,
       "lastBoosterAt": 1786357075985,
-      "totalEarned": 14900950,
+      "totalEarned": 14901950,
       "memoryGame": {
         "board": [
           {
@@ -1966,7 +1966,7 @@
         "createdAt": 1786345423143,
         "pendingHide": null
       },
-      "totalOpened": 2
+      "totalOpened": 3
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -2805,7 +2805,7 @@
     },
     "5624673181": {
       "name": "⚜️",
-      "coins": 318850,
+      "coins": 319050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2873,12 +2873,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T10:19:31.945Z"
-        },
-        {
-          "kind": "coins",
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-10T10:19:26.731Z"
@@ -2935,15 +2929,21 @@
           "chance": 0.05,
           "caseType": "knife",
           "at": "2026-08-10T10:17:21.785Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-10T10:17:07.247Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786357171717,
+      "lastCaseAt": 1786357166314,
       "language": "ru",
       "lastBoosterAt": 0,
-      "totalEarned": 353100,
+      "totalEarned": 353000,
       "memoryGame": null,
-      "totalOpened": 6
+      "totalOpened": 5
     },
     "6335884130": {
       "name": "Ром",
