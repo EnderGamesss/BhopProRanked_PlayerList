@@ -2217,7 +2217,7 @@
     },
     "6408582313": {
       "name": "РАналдо 💠",
-      "coins": 11575350,
+      "coins": 11575050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2255,9 +2255,21 @@
           "file": "butforest.png",
           "type": "knife",
           "at": "2026-08-10T08:18:55.838Z"
+        },
+        {
+          "file": "butkoi.png",
+          "type": "knife",
+          "at": "2026-08-10T08:19:57.873Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butkoi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-08-10T08:19:57.873Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -2313,16 +2325,10 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T08:17:22.411Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T08:17:12.231Z"
         }
       ],
       "lastBonus": 1786342792234,
-      "lastCaseAt": 1786349984209,
+      "lastCaseAt": 1786349997464,
       "username": "Pidor_play",
       "lastBoosterAt": 1786295872893,
       "totalEarned": 12808050,
@@ -6412,24 +6418,11 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 282750,
+      "coins": 283050,
       "luck": 1,
       "boosts": [],
-      "inventory": [
-        {
-          "file": "butforest.png",
-          "type": "knife",
-          "at": "2026-08-10T08:19:57.272Z"
-        }
-      ],
+      "inventory": [],
       "history": [
-        {
-          "kind": "skin",
-          "file": "butforest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-10T08:19:57.272Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -6485,10 +6478,16 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-10T08:17:36.114Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "spinner",
+          "at": "2026-08-10T08:17:25.069Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786349996864,
+      "lastCaseAt": 1786349991502,
       "lastBoosterAt": 1786349948138,
       "totalEarned": 287450,
       "memoryGame": null,
