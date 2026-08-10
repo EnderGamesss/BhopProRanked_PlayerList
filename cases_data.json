@@ -1809,7 +1809,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 14787400,
+      "coins": 14787100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1817,9 +1817,21 @@
           "file": "butforest.png",
           "type": "knife",
           "at": "2026-08-10T11:19:21.809Z"
+        },
+        {
+          "file": "m9forest.png",
+          "type": "knife",
+          "at": "2026-08-10T11:19:29.262Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9forest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T11:19:29.262Z"
+        },
         {
           "kind": "skin",
           "file": "butforest.png",
@@ -1875,16 +1887,10 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-10T11:16:12.325Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T11:16:05.847Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786360761324,
+      "lastCaseAt": 1786360768996,
       "lastBoosterAt": 1786359976869,
       "totalEarned": 15728000,
       "memoryGame": {
@@ -2107,7 +2113,7 @@
         "flipStage": "wait_second",
         "firstFlip": 24
       },
-      "totalOpened": 229
+      "totalOpened": 230
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -4776,7 +4782,7 @@
     },
     "8575376409": {
       "name": "Влад",
-      "coins": 391000,
+      "coins": 391200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -4802,12 +4808,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T11:19:28.950Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -4865,12 +4865,19 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-10T07:25:14.381Z"
+        },
+        {
+          "kind": "skin",
+          "file": "thumb-bluestar.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-10T07:06:37.117Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786360768552,
+      "lastCaseAt": 1786360746081,
       "lastBoosterAt": 1786360626414,
-      "totalEarned": 395100,
+      "totalEarned": 395000,
       "memoryGame": {
         "board": [
           {
@@ -5086,7 +5093,7 @@
         "pendingHide": null
       },
       "username": "Vladphu",
-      "totalOpened": 9
+      "totalOpened": 8
     },
     "6696023434": {
       "name": "𝚅𝙻𝙰𝙳𝙸𝙺",
