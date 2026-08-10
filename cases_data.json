@@ -1946,6 +1946,11 @@
           "file": "m9guardian.png",
           "type": "booster",
           "at": "2026-08-10T17:39:38.605Z"
+        },
+        {
+          "file": "ironaquaspinner.png",
+          "type": "spinner",
+          "at": "2026-08-10T17:53:23.839Z"
         }
       ],
       "history": [
@@ -2203,8 +2208,8 @@
           false
         ],
         "matched": [
-          false,
-          false,
+          true,
+          true,
           false,
           false,
           false,
@@ -2234,9 +2239,11 @@
           "amount": 150,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1786384142723
+        "createdAt": 1786384142723,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "totalOpened": 790
     },
