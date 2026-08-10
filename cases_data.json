@@ -7511,11 +7511,13 @@
     "duel_1786353734783_6335884130": {
       "challenger": "6335884130",
       "opponent": "8708014655",
-      "status": "type_select",
+      "status": "bet_propose",
       "createdAt": 1786353734783,
       "choices": {
-        "8708014655": "knife"
-      }
+        "8708014655": "knife",
+        "6335884130": "knife"
+      },
+      "chosenType": "knife"
     }
   }
 }
