@@ -1179,7 +1179,7 @@
     },
     "7887063317": {
       "name": "b10xxx10",
-      "coins": 3244650,
+      "coins": 3244350,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1197,9 +1197,21 @@
           "file": "m9koi.png",
           "type": "knife",
           "at": "2026-08-10T11:07:48.679Z"
+        },
+        {
+          "file": "butkoi.png",
+          "type": "knife",
+          "at": "2026-08-10T11:09:34.178Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butkoi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-08-10T11:09:34.178Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1254,17 +1266,11 @@
           "chance": 0.25,
           "caseType": "knife",
           "at": "2026-08-10T11:07:48.679Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T11:07:43.489Z"
         }
       ],
       "lastBonus": 1786280843041,
       "username": "b10xxx10",
-      "lastCaseAt": 1786360162199,
+      "lastCaseAt": 1786360173839,
       "lastBoosterAt": 1786298272147,
       "totalEarned": 1796850,
       "memoryGame": {
@@ -1490,7 +1496,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 16
+      "totalOpened": 17
     },
     "5117405936": {
       "name": "xGRI3Fx",
@@ -1784,7 +1790,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 14762250,
+      "coins": 14762450,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1800,6 +1806,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-08-10T11:09:31.900Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -1855,18 +1867,12 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-10T11:06:17.188Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T11:04:45.531Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786360165546,
+      "lastCaseAt": 1786360171496,
       "lastBoosterAt": 1786359976869,
-      "totalEarned": 15692050,
+      "totalEarned": 15692550,
       "memoryGame": {
         "board": [
           {
@@ -2087,7 +2093,7 @@
         "flipStage": "wait_second",
         "firstFlip": 24
       },
-      "totalOpened": 193
+      "totalOpened": 194
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -7205,17 +7211,11 @@
     },
     "5238025582": {
       "name": "Max",
-      "coins": 650,
+      "coins": 800,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "glove",
-          "at": "2026-08-10T11:09:32.674Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -7224,10 +7224,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786360172258,
+      "lastCaseAt": 1786360166138,
       "lastBoosterAt": 0,
-      "totalEarned": 250,
-      "totalOpened": 2,
+      "totalEarned": 100,
+      "totalOpened": 1,
       "memoryGame": null,
       "username": "nonamerz228"
     }
