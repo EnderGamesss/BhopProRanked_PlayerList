@@ -1773,7 +1773,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 16657300,
+      "coins": 16657600,
       "luck": 1.25,
       "boosts": [
         {
@@ -1881,21 +1881,9 @@
           "file": "karambitdesert.png",
           "type": "knife",
           "at": "2026-08-10T13:14:44.920Z"
-        },
-        {
-          "file": "butforest.png",
-          "type": "knife",
-          "at": "2026-08-10T13:14:51.538Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "butforest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-10T13:14:51.538Z"
-        },
         {
           "kind": "skin",
           "file": "karambitdesert.png",
@@ -1955,10 +1943,16 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-10T13:12:27.592Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T13:12:13.117Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786367690994,
+      "lastCaseAt": 1786367684595,
       "lastBoosterAt": 1786366999279,
       "totalEarned": 18582200,
       "memoryGame": {
@@ -2181,7 +2175,7 @@
         "flipStage": "wait_second",
         "firstFlip": 24
       },
-      "totalOpened": 513
+      "totalOpened": 512
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -7263,7 +7257,7 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 491900,
+      "coins": 491600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -7276,9 +7270,21 @@
           "file": "thumb-basic-spinner-5.png",
           "type": "spinner",
           "at": "2026-08-10T13:14:30.270Z"
+        },
+        {
+          "file": "camospinner.png",
+          "type": "spinner",
+          "at": "2026-08-10T13:14:52.349Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 2.5,
+          "caseType": "spinner",
+          "at": "2026-08-10T13:14:52.349Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -7336,22 +7342,15 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-10T13:07:20.898Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9desert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-10T13:07:12.051Z"
         }
       ],
       "lastBonus": 1786367456877,
-      "lastCaseAt": 1786367676422,
+      "lastCaseAt": 1786367691750,
       "lastBoosterAt": 1786364320897,
       "totalEarned": 535000,
       "memoryGame": null,
       "username": "hatemytiredself",
-      "totalOpened": 83
+      "totalOpened": 84
     },
     "8429840420": {
       "name": "дверной проём",
