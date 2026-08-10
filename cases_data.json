@@ -4637,11 +4637,24 @@
     },
     "8305455890": {
       "name": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🛴🛴🛴",
-      "coins": 419950,
+      "coins": 419650,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-bluestar.png",
+          "type": "glove",
+          "at": "2026-08-10T14:04:22.154Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-bluestar.png",
+          "chance": 2.5,
+          "caseType": "glove",
+          "at": "2026-08-10T14:04:22.154Z"
+        },
         {
           "kind": "skin",
           "file": "camospinner.png",
@@ -4697,21 +4710,15 @@
           "amount": 250,
           "caseType": "spinner",
           "at": "2026-08-10T11:49:40.853Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-10T11:49:35.034Z"
         }
       ],
       "lastBonus": 1786362595072,
-      "lastCaseAt": 1786363065346,
+      "lastCaseAt": 1786370661948,
       "lastBoosterAt": 0,
       "totalEarned": 425850,
       "memoryGame": null,
       "username": "User10me",
-      "totalOpened": 22
+      "totalOpened": 23
     },
     "8575376409": {
       "name": "Влад",
