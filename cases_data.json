@@ -2729,17 +2729,11 @@
     },
     "5624673181": {
       "name": "⚜️",
-      "coins": 114700,
+      "coins": 114900,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T09:58:00.531Z"
-        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -2793,13 +2787,19 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-10T09:56:02.094Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-10T09:55:56.293Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786355880057,
+      "lastCaseAt": 1786355874651,
       "language": "ru",
       "lastBoosterAt": 0,
-      "totalEarned": 122850,
+      "totalEarned": 122750,
       "memoryGame": null
     },
     "6335884130": {
@@ -5869,7 +5869,7 @@
     },
     "6724286333": {
       "name": "Vin1nd",
-      "coins": 440050,
+      "coins": 439750,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -5947,9 +5947,21 @@
           "file": "karambitkoi.png",
           "type": "knife",
           "at": "2026-08-10T01:03:46.815Z"
+        },
+        {
+          "file": "butsnake.png",
+          "type": "knife",
+          "at": "2026-08-10T09:58:02.829Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butsnake.png",
+          "chance": 0.3,
+          "caseType": "knife",
+          "at": "2026-08-10T09:58:02.829Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -6003,16 +6015,10 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T09:54:08.935Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-10T09:53:59.507Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786355876772,
+      "lastCaseAt": 1786355882250,
       "lastBoosterAt": 0,
       "totalEarned": 591750,
       "memoryGame": {
