@@ -5893,7 +5893,7 @@
     },
     "6724286333": {
       "name": "Vin1nd",
-      "coins": 453650,
+      "coins": 453350,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -5971,9 +5971,21 @@
           "file": "butsnake.png",
           "type": "knife",
           "at": "2026-08-10T09:58:02.829Z"
+        },
+        {
+          "file": "m9snake.png",
+          "type": "knife",
+          "at": "2026-08-10T10:04:39.991Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9snake.png",
+          "chance": 0.35,
+          "caseType": "knife",
+          "at": "2026-08-10T10:04:39.991Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -6027,16 +6039,10 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T10:02:20.640Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T10:02:14.440Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786356274505,
+      "lastCaseAt": 1786356279551,
       "lastBoosterAt": 0,
       "totalEarned": 612250,
       "memoryGame": {
@@ -6600,17 +6606,11 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 294300,
+      "coins": 294100,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-10T10:04:37.857Z"
-        },
         {
           "kind": "coins",
           "amount": 150,
@@ -6664,12 +6664,18 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-10T10:03:25.527Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T10:03:20.323Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786356277517,
+      "lastCaseAt": 1786356270785,
       "lastBoosterAt": 1786349948138,
-      "totalEarned": 309500,
+      "totalEarned": 309000,
       "memoryGame": null,
       "username": "hatemytiredself"
     },
