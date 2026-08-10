@@ -3936,11 +3936,24 @@
     },
     "7886091409": {
       "name": "33",
-      "coins": 117400,
+      "coins": 117100,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butsuicide.png",
+          "type": "knife",
+          "at": "2026-08-10T09:05:39.237Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butsuicide.png",
+          "chance": 0.05,
+          "caseType": "knife",
+          "at": "2026-08-10T09:05:39.237Z"
+        },
         {
           "kind": "skin",
           "file": "m9forest.png",
@@ -3996,16 +4009,10 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-09T12:06:13.781Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "spinner",
-          "at": "2026-08-09T12:04:38.673Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786352732179,
+      "lastCaseAt": 1786352738803,
       "lastBoosterAt": 1786352678163,
       "totalEarned": 119100,
       "memoryGame": null,
