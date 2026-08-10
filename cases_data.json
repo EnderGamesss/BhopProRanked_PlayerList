@@ -1939,7 +1939,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 18012550,
+      "coins": 18012250,
       "luck": 1.25,
       "boosts": [
         {
@@ -1957,9 +1957,21 @@
           "file": "karambitbreak.png",
           "type": "knife",
           "at": "2026-08-10T17:19:51.474Z"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "knife",
+          "at": "2026-08-10T17:21:07.928Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T17:21:07.928Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -2014,17 +2026,10 @@
           "chance": 0.05,
           "caseType": "knife",
           "at": "2026-08-10T17:19:51.474Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9forest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-10T17:19:46.153Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786382458736,
+      "lastCaseAt": 1786382467309,
       "lastBoosterAt": 1786376150148,
       "totalEarned": 20015750,
       "memoryGame": {
@@ -2244,7 +2249,7 @@
         "flipStage": "wait_second",
         "firstFlip": 10
       },
-      "totalOpened": 778
+      "totalOpened": 779
     },
     "6703298995": {
       "name": "Aleksandyr",
