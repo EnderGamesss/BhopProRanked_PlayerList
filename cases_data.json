@@ -1638,7 +1638,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 10857350,
+      "coins": 10857300,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1679,6 +1679,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-10T06:32:07.678Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -1735,18 +1741,12 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-10T06:30:40.244Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T06:30:32.206Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786343519229,
+      "lastCaseAt": 1786343527424,
       "lastBoosterAt": 1786343311907,
-      "totalEarned": 11483150,
+      "totalEarned": 11483400,
       "memoryGame": {
         "board": [
           {
@@ -2277,7 +2277,7 @@
     },
     "6408582313": {
       "name": "РАналдо 💠",
-      "coins": 9257150,
+      "coins": 9257200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2510,12 +2510,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-10T06:32:06.959Z"
-        },
-        {
-          "kind": "coins",
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T06:31:47.577Z"
@@ -2569,13 +2563,19 @@
           "chance": 0.05,
           "caseType": "knife",
           "at": "2026-08-10T06:30:03.780Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T06:29:54.895Z"
         }
       ],
       "lastBonus": 1786342792234,
-      "lastCaseAt": 1786343526460,
+      "lastCaseAt": 1786343507178,
       "username": "Pidor_play",
       "lastBoosterAt": 1786295872893,
-      "totalEarned": 10361150,
+      "totalEarned": 10360900,
       "memoryGame": {
         "board": [
           {
