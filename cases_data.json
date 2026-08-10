@@ -1803,7 +1803,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 17830750,
+      "coins": 17831200,
       "luck": 1.25,
       "boosts": [
         {
@@ -1819,6 +1819,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-10T15:30:57.166Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1872,18 +1878,12 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T15:27:20.975Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-10T15:26:54.719Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786375849371,
+      "lastCaseAt": 1786375856686,
       "lastBoosterAt": 1786373535418,
-      "totalEarned": 19818950,
+      "totalEarned": 19819700,
       "memoryGame": {
         "board": [
           {
@@ -2101,7 +2101,7 @@
         "flipStage": "wait_second",
         "firstFlip": 10
       },
-      "totalOpened": 727
+      "totalOpened": 728
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -2146,11 +2146,24 @@
     },
     "5818384071": {
       "name": "Temp",
-      "coins": 120600,
+      "coins": 120300,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitdesert.png",
+          "type": "knife",
+          "at": "2026-08-10T15:31:01.242Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T15:31:01.242Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2205,20 +2218,14 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-08T20:34:32.007Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-08T20:34:25.956Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786375563394,
+      "lastCaseAt": 1786375860904,
       "username": "lTemp",
       "lastBoosterAt": 0,
       "totalEarned": 12650,
-      "totalOpened": 3,
+      "totalOpened": 4,
       "memoryGame": {
         "board": [
           {
@@ -3283,7 +3290,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 11487200,
+      "coins": 11487400,
       "luck": 1.25,
       "boosts": [
         {
@@ -3324,12 +3331,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T15:30:56.294Z"
-        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -3385,13 +3386,19 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T15:14:40.319Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T15:13:25.686Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786375855625,
+      "lastCaseAt": 1786375845025,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786375785629,
-      "totalEarned": 13021200,
+      "totalEarned": 13021100,
       "memoryGame": {
         "board": [
           {
@@ -3621,7 +3628,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 824
+      "totalOpened": 823
     },
     "7886451818": {
       "name": "EnderGamesDev",
@@ -6460,7 +6467,7 @@
     },
     "6724286333": {
       "name": "Vin1nd",
-      "coins": 650300,
+      "coins": 641300,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -6503,6 +6510,11 @@
           "file": "m9skullskin.png",
           "type": "knife",
           "at": "2026-08-10T14:02:07.603Z"
+        },
+        {
+          "file": "m9snake.png",
+          "type": "knife",
+          "at": "2026-08-10T14:09:46.980Z"
         },
         {
           "file": "butsaphire.png",
@@ -6676,7 +6688,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786375686688,
       "lastBoosterAt": 1786373994824,
-      "totalEarned": 940000,
+      "totalEarned": 931000,
       "memoryGame": {
         "board": [
           {
