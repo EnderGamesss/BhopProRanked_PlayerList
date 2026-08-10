@@ -1682,7 +1682,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 14024450,
+      "coins": 14024250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1760,12 +1760,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-10T10:37:25.040Z"
-        },
-        {
-          "kind": "coins",
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-10T10:37:02.584Z"
@@ -1817,12 +1811,18 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-10T10:35:16.829Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T10:35:07.946Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786358244713,
+      "lastCaseAt": 1786358221947,
       "lastBoosterAt": 1786357075985,
-      "totalEarned": 14917350,
+      "totalEarned": 14916850,
       "memoryGame": {
         "board": [
           {
@@ -2041,7 +2041,7 @@
         "createdAt": 1786345423143,
         "pendingHide": null
       },
-      "totalOpened": 69
+      "totalOpened": 68
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -2887,7 +2887,7 @@
     },
     "5624673181": {
       "name": "⚜️",
-      "coins": 935650,
+      "coins": 935350,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2955,9 +2955,21 @@
           "file": "m9forest.png",
           "type": "knife",
           "at": "2026-08-10T10:36:26.368Z"
+        },
+        {
+          "file": "m9saphire.png",
+          "type": "knife",
+          "at": "2026-08-10T10:37:25.275Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9saphire.png",
+          "chance": 0.07,
+          "caseType": "knife",
+          "at": "2026-08-10T10:37:25.275Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -3013,22 +3025,15 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-10T10:34:52.133Z"
-        },
-        {
-          "kind": "skin",
-          "file": "butkoi.png",
-          "chance": 0.25,
-          "caseType": "knife",
-          "at": "2026-08-10T10:34:10.095Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786358231428,
+      "lastCaseAt": 1786358245037,
       "language": "ru",
       "lastBoosterAt": 1786357638875,
       "totalEarned": 986700,
       "memoryGame": null,
-      "totalOpened": 63
+      "totalOpened": 64
     },
     "6335884130": {
       "name": "Ром",
