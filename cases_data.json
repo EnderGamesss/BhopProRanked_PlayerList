@@ -2469,11 +2469,24 @@
     },
     "8624452786": {
       "name": "ор щет",
-      "coins": 1271200,
+      "coins": 1270900,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "ironaquaspinner.png",
+          "type": "spinner",
+          "at": "2026-08-10T00:15:57.598Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "ironaquaspinner.png",
+          "chance": 1,
+          "caseType": "spinner",
+          "at": "2026-08-10T00:15:57.598Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -2528,17 +2541,10 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-09T23:47:13.174Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9forest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-09T21:17:22.732Z"
         }
       ],
       "lastBonus": 1786281511849,
-      "lastCaseAt": 1786320948606,
+      "lastCaseAt": 1786320956855,
       "username": "orzett",
       "lastBoosterAt": 1786319232877,
       "totalEarned": 1946100,
