@@ -546,21 +546,9 @@
           "file": "butemerand.png",
           "type": "booster",
           "at": "2026-08-10T16:33:07.927Z"
-        },
-        {
-          "file": "butdesert.png",
-          "type": "booster",
-          "at": "2026-08-10T17:13:46.375Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "butdesert.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-10T17:13:46.375Z"
-        },
         {
           "kind": "skin",
           "file": "butemerand.png",
@@ -616,11 +604,17 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-10T15:56:24.757Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T15:56:18.585Z"
         }
       ],
       "lastBonus": 1786368370516,
       "lastCaseAt": 1786377426669,
-      "lastBoosterAt": 1786382026156,
+      "lastBoosterAt": 1786379587542,
       "totalEarned": 7224350,
       "memoryGame": {
         "board": [
@@ -838,7 +832,7 @@
         "createdAt": 1786363992821
       },
       "username": "wfoee",
-      "totalOpened": 1300
+      "totalOpened": 1299
     },
     "1840807637": {
       "name": "𝑲𝒆𝒛𝒖𝒎𝒖 𝒏𝒆𝒕𝒓𝒐𝒍",
@@ -3440,7 +3434,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 11485450,
+      "coins": 11485150,
       "luck": 1.25,
       "boosts": [
         {
@@ -3493,9 +3487,21 @@
           "file": "karambitforest.png",
           "type": "knife",
           "at": "2026-08-10T15:47:57.508Z"
+        },
+        {
+          "file": "karambitdesert.png",
+          "type": "knife",
+          "at": "2026-08-10T17:13:48.020Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T17:13:48.020Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -3551,16 +3557,10 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-10T15:35:45.627Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-10T15:34:03.979Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786377021638,
+      "lastCaseAt": 1786382027500,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786375785629,
       "totalEarned": 13026050,
@@ -3793,7 +3793,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 846
+      "totalOpened": 847
     },
     "7886451818": {
       "name": "EnderGamesDev",
