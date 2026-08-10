@@ -4704,8 +4704,21 @@
       "coins": 409050,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "arrowspinner.png",
+          "type": "booster",
+          "at": "2026-08-10T13:59:18.208Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "arrowspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-10T13:59:18.208Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -4759,17 +4772,11 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-10T11:19:56.534Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-10T11:19:49.623Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786370335812,
-      "lastBoosterAt": 1786360626414,
+      "lastBoosterAt": 1786370357908,
       "totalEarned": 416150,
       "memoryGame": {
         "board": [
@@ -4986,7 +4993,7 @@
         "pendingHide": null
       },
       "username": "Vladphu",
-      "totalOpened": 19
+      "totalOpened": 20
     },
     "6696023434": {
       "name": "𝚅𝙻𝙰𝙳𝙸𝙺",
