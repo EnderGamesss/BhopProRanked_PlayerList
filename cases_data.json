@@ -1803,7 +1803,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 17830750,
+      "coins": 17831200,
       "luck": 1.25,
       "boosts": [
         {
@@ -1819,6 +1819,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-10T15:30:57.166Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1872,18 +1878,12 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T15:27:20.975Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-10T15:26:54.719Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786375849371,
+      "lastCaseAt": 1786375856686,
       "lastBoosterAt": 1786373535418,
-      "totalEarned": 19818950,
+      "totalEarned": 19819700,
       "memoryGame": {
         "board": [
           {
@@ -2101,7 +2101,7 @@
         "flipStage": "wait_second",
         "firstFlip": 10
       },
-      "totalOpened": 727
+      "totalOpened": 728
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -3283,7 +3283,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 11487200,
+      "coins": 11487400,
       "luck": 1.25,
       "boosts": [
         {
@@ -3324,12 +3324,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T15:30:56.294Z"
-        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -3385,13 +3379,19 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T15:14:40.319Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T15:13:25.686Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786375855625,
+      "lastCaseAt": 1786375845025,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786375785629,
-      "totalEarned": 13021200,
+      "totalEarned": 13021100,
       "memoryGame": {
         "board": [
           {
@@ -3621,7 +3621,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 824
+      "totalOpened": 823
     },
     "7886451818": {
       "name": "EnderGamesDev",
