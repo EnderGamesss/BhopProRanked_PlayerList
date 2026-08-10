@@ -1653,7 +1653,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 16655600,
+      "coins": 16655400,
       "luck": 1.25,
       "boosts": [
         {
@@ -1795,6 +1795,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T13:17:46.180Z"
+        },
+        {
           "kind": "skin",
           "file": "butsnake.png",
           "chance": 0.3,
@@ -1854,19 +1860,12 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-10T13:14:24.923Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9snake.png",
-          "chance": 0.35,
-          "caseType": "knife",
-          "at": "2026-08-10T13:14:17.705Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786367837848,
+      "lastCaseAt": 1786367865607,
       "lastBoosterAt": 1786366999279,
-      "totalEarned": 18582300,
+      "totalEarned": 18582400,
       "memoryGame": {
         "board": [
           {
@@ -2087,7 +2086,7 @@
         "flipStage": "wait_second",
         "firstFlip": 24
       },
-      "totalOpened": 519
+      "totalOpened": 520
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -7213,7 +7212,7 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 488750,
+      "coins": 489050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -7261,21 +7260,9 @@
           "file": "woodspinner.png",
           "type": "spinner",
           "at": "2026-08-10T13:17:38.927Z"
-        },
-        {
-          "file": "thumb-basic-spinner-5.png",
-          "type": "spinner",
-          "at": "2026-08-10T13:17:45.450Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "thumb-basic-spinner-5.png",
-          "chance": 2,
-          "caseType": "spinner",
-          "at": "2026-08-10T13:17:45.450Z"
-        },
         {
           "kind": "skin",
           "file": "woodspinner.png",
@@ -7332,15 +7319,22 @@
           "amount": 250,
           "caseType": "spinner",
           "at": "2026-08-10T13:15:59.974Z"
+        },
+        {
+          "kind": "skin",
+          "file": "dangerspinner.png",
+          "chance": 0.2,
+          "caseType": "spinner",
+          "at": "2026-08-10T13:15:37.603Z"
         }
       ],
       "lastBonus": 1786367456877,
-      "lastCaseAt": 1786367864868,
+      "lastCaseAt": 1786367858710,
       "lastBoosterAt": 1786364320897,
       "totalEarned": 536350,
       "memoryGame": null,
       "username": "hatemytiredself",
-      "totalOpened": 98
+      "totalOpened": 97
     },
     "8429840420": {
       "name": "дверной проём",
