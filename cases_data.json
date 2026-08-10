@@ -1438,7 +1438,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1460,18 +1460,18 @@
           false,
           true,
           false,
-          true,
           false,
           false,
           false,
           false,
           false,
           false,
-          false,
-          true,
           false,
           false,
           true,
+          false,
+          false,
+          false,
           false
         ],
         "target": {
@@ -1479,11 +1479,11 @@
           "amount": 150,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
         "createdAt": 1786359534207,
-        "flipStage": "wait_first",
-        "firstFlip": null
+        "flipStage": "wait_second",
+        "firstFlip": 17
       },
       "totalOpened": 0
     },
