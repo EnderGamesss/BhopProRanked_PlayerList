@@ -728,21 +728,9 @@
           "file": "butforest.png",
           "type": "knife",
           "at": "2026-08-10T08:08:30.760Z"
-        },
-        {
-          "file": "thumb-fairy.png",
-          "type": "booster",
-          "at": "2026-08-10T08:19:39.208Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "thumb-fairy.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-10T08:19:39.208Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -797,13 +785,19 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-10T06:51:33.839Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T06:51:27.167Z"
         }
       ],
       "lastBonus": 1786306623714,
       "username": "EnderGamesDev",
       "lastCaseAt": 1786347465510,
       "totalEarned": 1847450,
-      "lastBoosterAt": 1786349978946,
+      "lastBoosterAt": 1786291067045,
       "memoryGame": {
         "board": [
           {
@@ -6418,11 +6412,24 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 159450,
+      "coins": 159150,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butemerand.png",
+          "type": "knife",
+          "at": "2026-08-10T08:19:39.646Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butemerand.png",
+          "chance": 0.05,
+          "caseType": "knife",
+          "at": "2026-08-10T08:19:39.646Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-bhopool.png",
@@ -6477,16 +6484,10 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-08-10T08:17:18.790Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-10T08:17:06.737Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786349915272,
+      "lastCaseAt": 1786349979280,
       "lastBoosterAt": 1786349948138,
       "totalEarned": 163250,
       "memoryGame": null,
