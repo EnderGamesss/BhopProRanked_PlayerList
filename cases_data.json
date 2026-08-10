@@ -1908,7 +1908,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1963,7 +1963,9 @@
         },
         "attempts": 7,
         "status": "playing",
-        "createdAt": 1786368246832
+        "createdAt": 1786368246832,
+        "flipStage": "wait_second",
+        "firstFlip": 5
       },
       "totalOpened": 526
     },
