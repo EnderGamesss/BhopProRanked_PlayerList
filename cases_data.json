@@ -1612,7 +1612,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 13898450,
+      "coins": 13798450,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -2786,7 +2786,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 8130300,
+      "coins": 8030300,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -7511,14 +7511,20 @@
     "duel_1786353734783_6335884130": {
       "challenger": "6335884130",
       "opponent": "8708014655",
-      "status": "bet_confirm",
+      "status": "active",
       "createdAt": 1786353734783,
       "choices": {
         "8708014655": "knife",
         "6335884130": "knife"
       },
       "chosenType": "knife",
-      "bet": 100000
+      "bet": 100000,
+      "turn": "6335884130",
+      "challengerOpens": 0,
+      "opponentOpens": 0,
+      "challengerTotal": 0,
+      "opponentTotal": 0,
+      "results": []
     }
   }
 }
