@@ -1612,7 +1612,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 13798450,
+      "coins": 13798950,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1623,6 +1623,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-08-10T09:23:29.203Z"
+        },
         {
           "kind": "skin",
           "file": "karambitdesert.png",
@@ -1677,18 +1683,12 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T09:19:24.383Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T09:19:16.127Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786353793037,
+      "lastCaseAt": 1786353809203,
       "lastBoosterAt": 1786350018903,
-      "totalEarned": 14652050,
+      "totalEarned": 14652550,
       "memoryGame": {
         "board": [
           {
@@ -7528,9 +7528,9 @@
       "bet": 100000,
       "turn": "8708014655",
       "challengerOpens": 2,
-      "opponentOpens": 1,
+      "opponentOpens": 2,
       "challengerTotal": 700,
-      "opponentTotal": 2500,
+      "opponentTotal": 3000,
       "results": [
         {
           "uid": "6335884130",
@@ -7556,9 +7556,17 @@
             "amount": 200
           },
           "earnings": 200
+        },
+        {
+          "uid": "8708014655",
+          "result": {
+            "kind": "coins",
+            "amount": 500
+          },
+          "earnings": 500
         }
       ],
-      "lastAction": 1786353803073
+      "lastAction": 1786353809203
     }
   }
 }
