@@ -253,7 +253,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 5509750,
+      "coins": 5509800,
       "luck": 1.25,
       "boosts": [
         {
@@ -401,12 +401,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-10T15:28:09.110Z"
-        },
-        {
-          "kind": "coins",
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-10T15:28:02.699Z"
@@ -459,12 +453,18 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-10T15:25:13.314Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-10T15:25:07.126Z"
         }
       ],
       "lastBonus": 1786368370516,
-      "lastCaseAt": 1786375688486,
+      "lastCaseAt": 1786375682457,
       "lastBoosterAt": 1786373660562,
-      "totalEarned": 7171850,
+      "totalEarned": 7171600,
       "memoryGame": {
         "board": [
           {
@@ -681,7 +681,7 @@
         "createdAt": 1786363992821
       },
       "username": "wfoee",
-      "totalOpened": 1060
+      "totalOpened": 1059
     },
     "1840807637": {
       "name": "𝑲𝒆𝒛𝒖𝒎𝒖 𝒏𝒆𝒕𝒓𝒐𝒍",
@@ -2132,7 +2132,7 @@
     },
     "5818384071": {
       "name": "Temp",
-      "coins": 108700,
+      "coins": 108950,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2214,7 +2214,7 @@
       "lastCaseAt": 1786375563394,
       "username": "lTemp",
       "lastBoosterAt": 0,
-      "totalEarned": 750,
+      "totalEarned": 1000,
       "totalOpened": 3,
       "memoryGame": {
         "board": [
@@ -2398,6 +2398,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -2417,8 +2418,7 @@
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "skin",
@@ -2427,9 +2427,11 @@
           "price": 60000,
           "weight": 5
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1786375626187
+        "createdAt": 1786375626187,
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     },
     "5168978133": {
