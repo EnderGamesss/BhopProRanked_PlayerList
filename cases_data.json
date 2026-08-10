@@ -1809,11 +1809,17 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 14786500,
+      "coins": 14786300,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T11:18:57.536Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -1869,18 +1875,12 @@
           "chance": 0.25,
           "caseType": "knife",
           "at": "2026-08-10T11:15:23.813Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-10T11:15:18.500Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786360730606,
+      "lastCaseAt": 1786360737314,
       "lastBoosterAt": 1786359976869,
-      "totalEarned": 15725900,
+      "totalEarned": 15726000,
       "memoryGame": {
         "board": [
           {
@@ -2101,7 +2101,7 @@
         "flipStage": "wait_second",
         "firstFlip": 24
       },
-      "totalOpened": 225
+      "totalOpened": 226
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -4771,7 +4771,7 @@
     },
     "8575376409": {
       "name": "Влад",
-      "coins": 391400,
+      "coins": 391600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -4792,12 +4792,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T11:18:56.154Z"
-        },
         {
           "kind": "skin",
           "file": "karambitforest.png",
@@ -4856,12 +4850,19 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-09T18:29:42.095Z"
+        },
+        {
+          "kind": "skin",
+          "file": "karambittiger.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-09T14:56:04.669Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786360735549,
+      "lastCaseAt": 1786360707309,
       "lastBoosterAt": 1786360626414,
-      "totalEarned": 394900,
+      "totalEarned": 394800,
       "memoryGame": {
         "board": [
           {
@@ -5077,7 +5078,7 @@
         "pendingHide": null
       },
       "username": "Vladphu",
-      "totalOpened": 7
+      "totalOpened": 6
     },
     "6696023434": {
       "name": "𝚅𝙻𝙰𝙳𝙸𝙺",
