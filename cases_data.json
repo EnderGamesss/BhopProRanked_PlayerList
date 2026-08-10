@@ -2799,7 +2799,7 @@
     },
     "6408582313": {
       "name": "РАналдо 💠",
-      "coins": 12677700,
+      "coins": 12677400,
       "luck": 1.25,
       "boosts": [
         {
@@ -2807,8 +2807,21 @@
           "at": "2026-08-10T19:52:18.460Z"
         }
       ],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butdesert.png",
+          "type": "knife",
+          "at": "2026-08-10T21:14:34.988Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T21:14:34.988Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -2863,16 +2876,10 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-10T21:13:18.226Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-10T21:13:10.072Z"
         }
       ],
       "lastBonus": 1786342792234,
-      "lastCaseAt": 1786396465545,
+      "lastCaseAt": 1786396474565,
       "username": "Pidor_play",
       "lastBoosterAt": 1786389418366,
       "totalEarned": 15073000,
@@ -3096,7 +3103,7 @@
         "createdAt": 1786270970653,
         "pendingHide": null
       },
-      "totalOpened": 393
+      "totalOpened": 394
     },
     "8624452786": {
       "name": "ор щет",
