@@ -6880,7 +6880,7 @@
     },
     "7891569993": {
       "name": "delo",
-      "coins": 85900,
+      "coins": 85600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -6938,9 +6938,21 @@
           "file": "camospinner.png",
           "type": "spinner",
           "at": "2026-08-10T12:28:56.733Z"
+        },
+        {
+          "file": "camospinner.png",
+          "type": "spinner",
+          "at": "2026-08-10T22:48:18.372Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 2.5,
+          "caseType": "spinner",
+          "at": "2026-08-10T22:48:18.372Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -6995,16 +7007,10 @@
           "amount": 750,
           "caseType": "spinner",
           "at": "2026-08-10T12:28:23.493Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "spinner",
-          "at": "2026-08-10T12:28:17.648Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786402066387,
+      "lastCaseAt": 1786402097900,
       "lastBoosterAt": 0,
       "totalEarned": 113700,
       "memoryGame": {
@@ -7217,7 +7223,7 @@
         "createdAt": 1786321591705,
         "pendingHide": null
       },
-      "totalOpened": 16
+      "totalOpened": 17
     },
     "6099107221": {
       "name": "aceki",
