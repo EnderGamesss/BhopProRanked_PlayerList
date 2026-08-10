@@ -1612,7 +1612,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 13801150,
+      "coins": 13801100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1628,6 +1628,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-10T09:25:58.586Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -1683,19 +1689,12 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-10T09:23:29.203Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitdesert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-10T09:23:13.037Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786353950555,
+      "lastCaseAt": 1786353957943,
       "lastBoosterAt": 1786350018903,
-      "totalEarned": 14656850,
+      "totalEarned": 14657100,
       "memoryGame": {
         "board": [
           {
@@ -3956,17 +3955,11 @@
     },
     "7886091409": {
       "name": "33",
-      "coins": 584000,
+      "coins": 584200,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T09:25:58.680Z"
-        },
         {
           "kind": "skin",
           "file": "karambitdesert.png",
@@ -4021,12 +4014,18 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-10T09:24:16.701Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T09:24:09.915Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786353958387,
+      "lastCaseAt": 1786353948567,
       "lastBoosterAt": 1786352678163,
-      "totalEarned": 605800,
+      "totalEarned": 605700,
       "memoryGame": null,
       "username": "torment33"
     },
