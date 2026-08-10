@@ -6679,11 +6679,24 @@
     },
     "5672005374": {
       "name": "JosikXD",
-      "coins": 49850,
+      "coins": 49550,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "woodspinner.png",
+          "type": "spinner",
+          "at": "2026-08-10T09:49:28.369Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "woodspinner.png",
+          "chance": 0.6,
+          "caseType": "spinner",
+          "at": "2026-08-10T09:49:28.369Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -6738,16 +6751,10 @@
           "chance": 0.6,
           "caseType": "spinner",
           "at": "2026-08-10T09:37:06.975Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-08-10T09:36:58.833Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786355360946,
+      "lastCaseAt": 1786355368026,
       "lastBoosterAt": 0,
       "totalEarned": 53050,
       "memoryGame": null,
