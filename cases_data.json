@@ -2877,7 +2877,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 10470950,
+      "coins": 10470850,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2885,14 +2885,15 @@
           "file": "m9guardian.png",
           "type": "knife",
           "at": "2026-08-10T12:32:34.554Z"
-        },
-        {
-          "file": "thumb-joke.png",
-          "type": "glove",
-          "at": "2026-08-10T12:32:44.795Z"
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-10T12:32:46.610Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -2946,19 +2947,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T12:30:16.603Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-10T12:29:58.421Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786365156272,
+      "lastCaseAt": 1786365166191,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786364996440,
-      "totalEarned": 10874150,
+      "totalEarned": 10874350,
       "memoryGame": {
         "board": [
           {
@@ -3150,13 +3145,10 @@
         ],
         "matched": [
           false,
+          true,
           false,
           false,
-          false,
-          false,
-          false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -3165,8 +3157,11 @@
           false,
           false,
           false,
+          true,
+          true,
           false,
           true,
+          false,
           false,
           false,
           false,
@@ -3182,13 +3177,13 @@
           "price": 2500,
           "weight": 3
         },
-        "attempts": 6,
+        "attempts": 5,
         "status": "playing",
         "createdAt": 1786365087166,
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 383
+      "totalOpened": 384
     },
     "7886451818": {
       "name": "EnderGamesDev",
