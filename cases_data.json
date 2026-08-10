@@ -4703,8 +4703,21 @@
       "coins": 110550,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "firespinner.png",
+          "type": "booster",
+          "at": "2026-08-10T11:52:12.170Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "firespinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-10T11:52:12.170Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-basic-spinner-5.png",
@@ -4759,21 +4772,15 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-10T11:49:06.880Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "spinner",
-          "at": "2026-08-10T11:49:00.075Z"
         }
       ],
       "lastBonus": 1786362595072,
       "lastCaseAt": 1786362671413,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1786362731736,
       "totalEarned": 114950,
       "memoryGame": null,
       "username": "User10me",
-      "totalOpened": 17
+      "totalOpened": 18
     },
     "8575376409": {
       "name": "Влад",
