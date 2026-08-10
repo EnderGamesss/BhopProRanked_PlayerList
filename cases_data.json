@@ -246,7 +246,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 3582300,
+      "coins": 3581600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -429,12 +429,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 1000,
-          "caseType": "knife",
-          "at": "2026-08-10T11:02:20.947Z"
-        },
-        {
-          "kind": "coins",
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-10T11:02:15.282Z"
@@ -486,12 +480,19 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T11:01:21.025Z"
+        },
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T11:01:08.853Z"
         }
       ],
       "lastBonus": 1786272475133,
-      "lastCaseAt": 1786359740712,
+      "lastCaseAt": 1786359734722,
       "lastBoosterAt": 1786358727302,
-      "totalEarned": 3954600,
+      "totalEarned": 3953600,
       "memoryGame": {
         "board": [
           {
@@ -709,7 +710,7 @@
         "pendingHide": null
       },
       "username": "wfoee",
-      "totalOpened": 90
+      "totalOpened": 89
     },
     "1840807637": {
       "name": "𝑲𝒆𝒛𝒖𝒎𝒖 𝒏𝒆𝒕𝒓𝒐𝒍",
@@ -2085,7 +2086,7 @@
           false,
           false,
           false,
-          false
+          true
         ],
         "matched": [
           false,
@@ -2122,7 +2123,9 @@
         "attempts": 2,
         "status": "playing",
         "createdAt": 1786345423143,
-        "pendingHide": null
+        "pendingHide": null,
+        "flipStage": "wait_second",
+        "firstFlip": 24
       },
       "totalOpened": 181
     },
