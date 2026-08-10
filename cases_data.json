@@ -1601,7 +1601,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 15328850,
+      "coins": 15328400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1612,12 +1612,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-10T12:27:31.200Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1671,12 +1665,18 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-10T12:24:53.100Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-10T12:24:47.741Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786364850747,
+      "lastCaseAt": 1786364845367,
       "lastBoosterAt": 1786362982902,
-      "totalEarned": 16213550,
+      "totalEarned": 16212800,
       "memoryGame": {
         "board": [
           {
@@ -1897,7 +1897,7 @@
         "flipStage": "wait_second",
         "firstFlip": 24
       },
-      "totalOpened": 377
+      "totalOpened": 376
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -6388,7 +6388,7 @@
     },
     "7891569993": {
       "name": "delo",
-      "coins": 86550,
+      "coins": 86400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -6439,6 +6439,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "spinner",
+          "at": "2026-08-10T12:27:31.553Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -6493,18 +6499,12 @@
           "amount": 1000,
           "caseType": "spinner",
           "at": "2026-08-10T02:06:11.724Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-10T02:06:06.030Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786327841718,
+      "lastCaseAt": 1786364850990,
       "lastBoosterAt": 0,
-      "totalEarned": 109550,
+      "totalEarned": 109700,
       "memoryGame": {
         "board": [
           {
@@ -6714,7 +6714,8 @@
         "status": "playing",
         "createdAt": 1786321591705,
         "pendingHide": null
-      }
+      },
+      "totalOpened": 1
     },
     "6099107221": {
       "name": "aceki",
