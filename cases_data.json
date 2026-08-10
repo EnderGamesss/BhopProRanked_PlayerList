@@ -1755,7 +1755,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 16663500,
+      "coins": 16663700,
       "luck": 1.25,
       "boosts": [
         {
@@ -1771,6 +1771,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-08-10T13:05:20.086Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -1826,18 +1832,12 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T13:01:21.446Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-10T13:00:27.028Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786367113504,
+      "lastCaseAt": 1786367119688,
       "lastBoosterAt": 1786366999279,
-      "totalEarned": 18577300,
+      "totalEarned": 18577800,
       "memoryGame": {
         "board": [
           {
@@ -2058,7 +2058,7 @@
         "flipStage": "wait_second",
         "firstFlip": 24
       },
-      "totalOpened": 476
+      "totalOpened": 477
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -2851,7 +2851,7 @@
     },
     "8624452786": {
       "name": "ор щет",
-      "coins": 1452150,
+      "coins": 1452450,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2894,21 +2894,9 @@
           "file": "butdesert.png",
           "type": "knife",
           "at": "2026-08-10T13:04:26.369Z"
-        },
-        {
-          "file": "butdesert.png",
-          "type": "knife",
-          "at": "2026-08-10T13:05:20.603Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "butdesert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-10T13:05:20.603Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2965,15 +2953,22 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-10T13:03:28.541Z"
+        },
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T13:03:23.515Z"
         }
       ],
       "lastBonus": 1786281511849,
-      "lastCaseAt": 1786367119933,
+      "lastCaseAt": 1786367079398,
       "username": "orzett",
       "lastBoosterAt": 1786359890699,
       "totalEarned": 2136650,
       "memoryGame": null,
-      "totalOpened": 30
+      "totalOpened": 29
     },
     "5624673181": {
       "name": "⚜️",
