@@ -6406,11 +6406,17 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 19000,
+      "coins": 18900,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "spinner",
+          "at": "2026-08-10T08:17:47.707Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -6465,18 +6471,12 @@
           "chance": 7,
           "caseType": "glove",
           "at": "2026-08-10T07:51:18.884Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-10T07:51:00.616Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786349860909,
+      "lastCaseAt": 1786349867092,
       "lastBoosterAt": 0,
-      "totalEarned": 21600,
+      "totalEarned": 21800,
       "memoryGame": null,
       "username": "hatemytiredself"
     }
