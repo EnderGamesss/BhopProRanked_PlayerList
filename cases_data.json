@@ -3047,8 +3047,21 @@
       "coins": 9451850,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butsnake.png",
+          "type": "booster",
+          "at": "2026-08-10T11:20:52.780Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butsnake.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-10T11:20:52.780Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -3103,18 +3116,12 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T11:06:10.266Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-10T11:03:42.895Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786360848922,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1786358935177,
+      "lastBoosterAt": 1786360852351,
       "totalEarned": 9893850,
       "memoryGame": {
         "board": [
@@ -3355,7 +3362,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 176
+      "totalOpened": 177
     },
     "7886451818": {
       "name": "EnderGamesDev",
