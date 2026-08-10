@@ -2735,7 +2735,7 @@
     },
     "5624673181": {
       "name": "⚜️",
-      "coins": 132950,
+      "coins": 132650,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2743,9 +2743,21 @@
           "file": "butkoi.png",
           "type": "knife",
           "at": "2026-08-10T09:58:06.216Z"
+        },
+        {
+          "file": "butforest.png",
+          "type": "knife",
+          "at": "2026-08-10T10:01:56.487Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T10:01:56.487Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -2799,16 +2811,10 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T10:00:38.339Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T10:00:32.306Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786356108382,
+      "lastCaseAt": 1786356115866,
       "language": "ru",
       "lastBoosterAt": 0,
       "totalEarned": 147700,
@@ -6589,17 +6595,11 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 296350,
+      "coins": 296150,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-10T10:01:54.967Z"
-        },
         {
           "kind": "skin",
           "file": "m9desert.png",
@@ -6655,12 +6655,18 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-10T08:21:30.645Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T08:21:17.689Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786356114597,
+      "lastCaseAt": 1786356102258,
       "lastBoosterAt": 1786349948138,
-      "totalEarned": 306150,
+      "totalEarned": 305650,
       "memoryGame": null,
       "username": "hatemytiredself"
     },
