@@ -6704,11 +6704,24 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 15500,
+      "coins": 15200,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Swat.png",
+          "type": "glove",
+          "at": "2026-08-10T07:51:18.884Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Swat.png",
+          "chance": 7,
+          "caseType": "glove",
+          "at": "2026-08-10T07:51:18.884Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -6730,7 +6743,7 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786348260019,
+      "lastCaseAt": 1786348278552,
       "lastBoosterAt": 0,
       "totalEarned": 15400,
       "memoryGame": null,
