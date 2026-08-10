@@ -6415,8 +6415,21 @@
       "coins": 19450,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-bhopool.png",
+          "type": "booster",
+          "at": "2026-08-10T08:19:08.642Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-bhopool.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-10T08:19:08.642Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -6470,17 +6483,11 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-10T08:17:06.737Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-10T07:51:55.872Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786349915272,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1786349948138,
       "totalEarned": 23250,
       "memoryGame": null,
       "username": "hatemytiredself"
