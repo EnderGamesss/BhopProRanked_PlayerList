@@ -2970,7 +2970,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 8028450,
+      "coins": 8028300,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3016,6 +3016,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T10:23:03.028Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -3071,19 +3077,13 @@
           "amount": 1000,
           "caseType": "knife",
           "at": "2026-08-10T10:21:15.272Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T10:21:05.974Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786357375094,
+      "lastCaseAt": 1786357382782,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786357066448,
-      "totalEarned": 8422750,
+      "totalEarned": 8422900,
       "memoryGame": {
         "board": [
           {
@@ -3300,7 +3300,7 @@
         "createdAt": 1786347647381,
         "pendingHide": null
       },
-      "totalOpened": 16
+      "totalOpened": 17
     },
     "7886451818": {
       "name": "EnderGamesDev",
@@ -4163,10 +4163,16 @@
     },
     "7886091409": {
       "name": "33",
-      "coins": 1031500,
+      "coins": 971500,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9ruby.png",
+          "type": "knife",
+          "at": "2026-08-10T10:15:43.983Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -4236,7 +4242,7 @@
       "lastBonus": 1786355532795,
       "lastCaseAt": 1786356959574,
       "lastBoosterAt": 1786356836333,
-      "totalEarned": 1073400,
+      "totalEarned": 1013400,
       "memoryGame": null,
       "username": "torment33",
       "totalOpened": 0
@@ -6768,7 +6774,7 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 291900,
+      "coins": 291600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -6796,9 +6802,21 @@
           "file": "karambitsnake.png",
           "type": "knife",
           "at": "2026-08-10T10:20:00.348Z"
+        },
+        {
+          "file": "karambitkoi.png",
+          "type": "knife",
+          "at": "2026-08-10T10:23:00.336Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitkoi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-08-10T10:23:00.336Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -6854,21 +6872,15 @@
           "amount": 1000,
           "caseType": "knife",
           "at": "2026-08-10T10:18:47.461Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-10T10:18:40.975Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786357304017,
+      "lastCaseAt": 1786357379839,
       "lastBoosterAt": 1786349948138,
       "totalEarned": 313400,
       "memoryGame": null,
       "username": "hatemytiredself",
-      "totalOpened": 10
+      "totalOpened": 11
     },
     "8429840420": {
       "name": "дверной проём",
