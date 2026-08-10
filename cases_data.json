@@ -2118,7 +2118,7 @@
     },
     "6408582313": {
       "name": "Аналдо 💠",
-      "coins": 6081950,
+      "coins": 6082100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2246,12 +2246,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-10T00:31:04.891Z"
-        },
-        {
-          "kind": "coins",
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-10T00:30:56.429Z"
@@ -2304,13 +2298,19 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T00:28:55.596Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-10T00:28:47.307Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786321864461,
+      "lastCaseAt": 1786321856062,
       "username": "Pidor_play",
       "lastBoosterAt": 1786295872893,
-      "totalEarned": 6797450,
+      "totalEarned": 6797300,
       "memoryGame": {
         "board": [
           {
@@ -6050,11 +6050,24 @@
     },
     "7891569993": {
       "name": "delo",
-      "coins": 3500,
+      "coins": 3200,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-North.png",
+          "type": "glove",
+          "at": "2026-08-10T00:31:05.234Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-North.png",
+          "chance": 7.5,
+          "caseType": "glove",
+          "at": "2026-08-10T00:31:05.234Z"
+        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -6075,7 +6088,7 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786321848075,
+      "lastCaseAt": 1786321864756,
       "lastBoosterAt": 0,
       "totalEarned": 3400,
       "memoryGame": {
