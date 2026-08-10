@@ -1666,7 +1666,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 14027100,
+      "coins": 14026900,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1692,6 +1692,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T10:25:25.870Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -1746,18 +1752,12 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T10:22:41.297Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T10:22:35.853Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786357519332,
+      "lastCaseAt": 1786357525520,
       "lastBoosterAt": 1786357075985,
-      "totalEarned": 14905300,
+      "totalEarned": 14905400,
       "memoryGame": {
         "board": [
           {
@@ -1976,7 +1976,7 @@
         "createdAt": 1786345423143,
         "pendingHide": null
       },
-      "totalOpened": 20
+      "totalOpened": 21
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -2815,10 +2815,86 @@
     },
     "5624673181": {
       "name": "⚜️",
-      "coins": 937100,
+      "coins": 318600,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitkoi.png",
+          "type": "knife",
+          "at": "2026-08-10T10:09:57.781Z"
+        },
+        {
+          "file": "karambittiger.png",
+          "type": "knife",
+          "at": "2026-08-10T10:10:31.241Z"
+        },
+        {
+          "file": "karambitforest.png",
+          "type": "knife",
+          "at": "2026-08-10T10:10:48.060Z"
+        },
+        {
+          "file": "m9forest.png",
+          "type": "knife",
+          "at": "2026-08-10T10:10:57.467Z"
+        },
+        {
+          "file": "karambitsnake.png",
+          "type": "knife",
+          "at": "2026-08-10T10:11:43.895Z"
+        },
+        {
+          "file": "butruby.png",
+          "type": "knife",
+          "at": "2026-08-10T10:15:29.804Z"
+        },
+        {
+          "file": "m9desert.png",
+          "type": "knife",
+          "at": "2026-08-10T10:16:19.805Z"
+        },
+        {
+          "file": "karambitforest.png",
+          "type": "knife",
+          "at": "2026-08-10T10:16:51.912Z"
+        },
+        {
+          "file": "m9fire_0.png",
+          "type": "knife",
+          "at": "2026-08-10T10:17:21.785Z"
+        },
+        {
+          "file": "m9forest.png",
+          "type": "knife",
+          "at": "2026-08-10T10:18:27.635Z"
+        },
+        {
+          "file": "butsnake.png",
+          "type": "knife",
+          "at": "2026-08-10T10:19:07.559Z"
+        },
+        {
+          "file": "m9forest.png",
+          "type": "knife",
+          "at": "2026-08-10T10:19:14.480Z"
+        },
+        {
+          "file": "butforest.png",
+          "type": "knife",
+          "at": "2026-08-10T10:21:03.332Z"
+        },
+        {
+          "file": "m9ruby.png",
+          "type": "knife",
+          "at": "2026-08-10T10:22:23.467Z"
+        },
+        {
+          "file": "butforest.png",
+          "type": "knife",
+          "at": "2026-08-10T10:23:37.832Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -2887,7 +2963,7 @@
       "lastCaseAt": 1786357454210,
       "language": "ru",
       "lastBoosterAt": 0,
-      "totalEarned": 977350,
+      "totalEarned": 358850,
       "memoryGame": null,
       "totalOpened": 26
     },
@@ -6695,7 +6771,7 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 290800,
+      "coins": 300500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -6735,12 +6811,19 @@
           "at": "2026-08-10T10:24:07.263Z"
         },
         {
-          "file": "karambitsnake.png",
+          "file": "butemerand.png",
           "type": "knife",
-          "at": "2026-08-10T10:25:18.079Z"
+          "at": "2026-08-10T10:25:29.779Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butemerand.png",
+          "chance": 0.05,
+          "caseType": "knife",
+          "at": "2026-08-10T10:25:29.779Z"
+        },
         {
           "kind": "skin",
           "file": "karambitsnake.png",
@@ -6796,22 +6879,15 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T10:23:11.905Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitkoi.png",
-          "chance": 0.25,
-          "caseType": "knife",
-          "at": "2026-08-10T10:23:00.336Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786357517706,
+      "lastCaseAt": 1786357529248,
       "lastBoosterAt": 1786349948138,
-      "totalEarned": 315300,
+      "totalEarned": 325300,
       "memoryGame": null,
       "username": "hatemytiredself",
-      "totalOpened": 20
+      "totalOpened": 21
     },
     "8429840420": {
       "name": "дверной проём",
