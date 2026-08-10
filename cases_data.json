@@ -1179,7 +1179,7 @@
     },
     "7887063317": {
       "name": "b10xxx10",
-      "coins": 3244100,
+      "coins": 3244250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1210,12 +1210,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-10T11:12:53.267Z"
-        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -1270,13 +1264,19 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-08-10T11:11:13.652Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "spinner",
+          "at": "2026-08-10T11:10:25.044Z"
         }
       ],
       "lastBonus": 1786280843041,
       "username": "b10xxx10",
-      "lastCaseAt": 1786360372481,
+      "lastCaseAt": 1786360348072,
       "lastBoosterAt": 1786298272147,
-      "totalEarned": 1800500,
+      "totalEarned": 1800350,
       "memoryGame": {
         "board": [
           {
@@ -1500,7 +1500,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 30
+      "totalOpened": 29
     },
     "5117405936": {
       "name": "xGRI3Fx",
@@ -1794,7 +1794,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 14761800,
+      "coins": 14761500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1807,9 +1807,21 @@
           "file": "karambitdesert.png",
           "type": "knife",
           "at": "2026-08-10T11:06:57.996Z"
+        },
+        {
+          "file": "karambitsnake.png",
+          "type": "knife",
+          "at": "2026-08-10T11:12:53.715Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitsnake.png",
+          "chance": 0.3,
+          "caseType": "knife",
+          "at": "2026-08-10T11:12:53.715Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -1863,16 +1875,10 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T11:10:55.685Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-10T11:10:49.535Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786360367168,
+      "lastCaseAt": 1786360373218,
       "lastBoosterAt": 1786359976869,
       "totalEarned": 15696100,
       "memoryGame": {
@@ -2095,7 +2101,7 @@
         "flipStage": "wait_second",
         "firstFlip": 24
       },
-      "totalOpened": 208
+      "totalOpened": 209
     },
     "6703298995": {
       "name": "Aleksandyr",
