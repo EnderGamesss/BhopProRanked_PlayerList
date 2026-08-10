@@ -246,7 +246,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 3579900,
+      "coins": 3579700,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -439,12 +439,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-10T11:04:33.255Z"
-        },
-        {
-          "kind": "coins",
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T11:04:27.621Z"
@@ -496,12 +490,18 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-10T11:03:21.414Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T11:03:15.207Z"
         }
       ],
       "lastBonus": 1786272475133,
-      "lastCaseAt": 1786359873028,
+      "lastCaseAt": 1786359867043,
       "lastBoosterAt": 1786358727302,
-      "totalEarned": 3957300,
+      "totalEarned": 3956800,
       "memoryGame": {
         "board": [
           {
@@ -719,7 +719,7 @@
         "pendingHide": null
       },
       "username": "wfoee",
-      "totalOpened": 107
+      "totalOpened": 106
     },
     "1840807637": {
       "name": "𝑲𝒆𝒛𝒖𝒎𝒖 𝒏𝒆𝒕𝒓𝒐𝒍",
@@ -1472,15 +1472,10 @@
           false,
           false,
           false,
-          true,
           false,
           false,
-          true,
           false,
           true,
-          false,
-          false,
-          false,
           false,
           true,
           false,
@@ -1491,14 +1486,19 @@
           false,
           false,
           false,
-          true
+          false,
+          true,
+          false,
+          false,
+          false,
+          false
         ],
         "target": {
           "kind": "coins",
           "amount": 150,
           "weight": 20
         },
-        "attempts": 4,
+        "attempts": 2,
         "status": "playing",
         "createdAt": 1786359534207,
         "flipStage": "wait_first",
@@ -3138,6 +3138,11 @@
           "file": "prettyspinner.png",
           "type": "spinner",
           "at": "2026-08-10T11:04:16.560Z"
+        },
+        {
+          "file": "m9koi.png",
+          "type": "knife",
+          "at": "2026-08-10T11:04:34.740Z"
         }
       ],
       "history": [
@@ -3416,7 +3421,7 @@
           false,
           false,
           false,
-          false,
+          true,
           true,
           false,
           false,
@@ -3426,7 +3431,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
