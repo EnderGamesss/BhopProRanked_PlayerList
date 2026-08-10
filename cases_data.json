@@ -2785,7 +2785,7 @@
     },
     "5624673181": {
       "name": "⚜️",
-      "coins": 320000,
+      "coins": 319700,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2813,9 +2813,21 @@
           "file": "karambitsnake.png",
           "type": "knife",
           "at": "2026-08-10T10:11:43.895Z"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "knife",
+          "at": "2026-08-10T10:11:59.709Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T10:11:59.709Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2873,16 +2885,10 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T10:10:25.401Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-10T10:10:19.896Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786356714207,
+      "lastCaseAt": 1786356719281,
       "language": "ru",
       "lastBoosterAt": 0,
       "totalEarned": 346750,
