@@ -3339,9 +3339,21 @@
           "file": "m9desert.png",
           "type": "knife",
           "at": "2026-08-10T13:11:53.868Z"
+        },
+        {
+          "file": "m9tiger.png",
+          "type": "booster",
+          "at": "2026-08-10T13:12:13.747Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9tiger.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-10T13:12:13.747Z"
+        },
         {
           "kind": "skin",
           "file": "m9desert.png",
@@ -3401,18 +3413,12 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-10T13:07:43.015Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T13:07:24.474Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786367513040,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1786364996440,
+      "lastBoosterAt": 1786367533335,
       "totalEarned": 10895500,
       "memoryGame": {
         "board": [
@@ -3643,7 +3649,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 499
+      "totalOpened": 500
     },
     "7886451818": {
       "name": "EnderGamesDev",
