@@ -715,7 +715,7 @@
     },
     "7307808447": {
       "name": "EnderGamesDev",
-      "coins": 2051250,
+      "coins": 2050950,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -768,9 +768,21 @@
           "file": "butdesert.png",
           "type": "knife",
           "at": "2026-08-10T06:45:55.337Z"
+        },
+        {
+          "file": "m9desert.png",
+          "type": "knife",
+          "at": "2026-08-10T06:48:34.196Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T06:48:34.196Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -824,17 +836,11 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-10T06:46:51.808Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-10T06:46:39.337Z"
         }
       ],
       "lastBonus": 1786306623714,
       "username": "EnderGamesDev",
-      "lastCaseAt": 1786344502672,
+      "lastCaseAt": 1786344513840,
       "totalEarned": 1395700,
       "lastBoosterAt": 1786291067045,
       "memoryGame": {
