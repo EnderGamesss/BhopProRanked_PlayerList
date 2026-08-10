@@ -3936,11 +3936,24 @@
     },
     "7886091409": {
       "name": "33",
-      "coins": 115700,
+      "coins": 115400,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9forest.png",
+          "type": "knife",
+          "at": "2026-08-10T09:05:32.543Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9forest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T09:05:32.543Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -3995,17 +4008,10 @@
           "amount": 250,
           "caseType": "spinner",
           "at": "2026-08-09T12:04:38.673Z"
-        },
-        {
-          "kind": "skin",
-          "file": "thumb-basic-spinner-5.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-09T12:04:18.634Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786352723747,
+      "lastCaseAt": 1786352732179,
       "lastBoosterAt": 1786352678163,
       "totalEarned": 117100,
       "memoryGame": null,
