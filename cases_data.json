@@ -1173,11 +1173,24 @@
     },
     "7887063317": {
       "name": "b10xxx10",
-      "coins": 3246300,
+      "coins": 3246000,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9koi.png",
+          "type": "knife",
+          "at": "2026-08-10T11:06:06.524Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9koi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-08-10T11:06:06.524Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -1232,17 +1245,11 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-09T17:59:45.044Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-09T17:59:37.942Z"
         }
       ],
       "lastBonus": 1786280843041,
       "username": "b10xxx10",
-      "lastCaseAt": 1786298507421,
+      "lastCaseAt": 1786359966232,
       "lastBoosterAt": 1786298272147,
       "totalEarned": 1793700,
       "memoryGame": {
@@ -1468,7 +1475,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 0
+      "totalOpened": 1
     },
     "5117405936": {
       "name": "xGRI3Fx",
@@ -2986,7 +2993,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 8182650,
+      "coins": 8182450,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3129,6 +3136,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T11:06:10.266Z"
+        },
+        {
+          "kind": "coins",
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T11:03:42.895Z"
@@ -3183,19 +3196,13 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-10T10:58:54.908Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-10T10:58:41.384Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786359822594,
+      "lastCaseAt": 1786359969686,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786358935177,
-      "totalEarned": 8621950,
+      "totalEarned": 8622050,
       "memoryGame": {
         "board": [
           {
@@ -3435,7 +3442,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 167
+      "totalOpened": 168
     },
     "7886451818": {
       "name": "EnderGamesDev",
@@ -6110,7 +6117,7 @@
     },
     "5848447527": {
       "name": "Tenti good🗽",
-      "coins": 111150,
+      "coins": 111200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -6121,12 +6128,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-10T11:06:08.390Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -6181,15 +6182,21 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-09T21:14:35.338Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-09T21:14:23.492Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786359968075,
+      "lastCaseAt": 1786359952765,
       "lastBoosterAt": 0,
-      "totalEarned": 121850,
+      "totalEarned": 121600,
       "memoryGame": null,
       "username": "Tentigood",
-      "totalOpened": 7
+      "totalOpened": 6
     },
     "6724286333": {
       "name": "Vin1nd",
