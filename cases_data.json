@@ -2785,7 +2785,7 @@
     },
     "5624673181": {
       "name": "⚜️",
-      "coins": 319800,
+      "coins": 319500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2808,9 +2808,21 @@
           "file": "m9forest.png",
           "type": "knife",
           "at": "2026-08-10T10:10:57.467Z"
+        },
+        {
+          "file": "karambitsnake.png",
+          "type": "knife",
+          "at": "2026-08-10T10:11:43.895Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitsnake.png",
+          "chance": 0.3,
+          "caseType": "knife",
+          "at": "2026-08-10T10:11:43.895Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2869,16 +2881,10 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-10T10:08:50.309Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-10T10:08:37.451Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786356674123,
+      "lastCaseAt": 1786356703438,
       "language": "ru",
       "lastBoosterAt": 0,
       "totalEarned": 345650,
@@ -4062,17 +4068,11 @@
     },
     "7886091409": {
       "name": "33",
-      "coins": 845050,
+      "coins": 845200,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-10T10:11:43.375Z"
-        },
         {
           "kind": "coins",
           "amount": 250,
@@ -4127,12 +4127,18 @@
           "chance": 0.05,
           "caseType": "knife",
           "at": "2026-08-10T10:10:29.249Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T10:10:14.506Z"
         }
       ],
       "lastBonus": 1786355532795,
-      "lastCaseAt": 1786356703026,
+      "lastCaseAt": 1786356697453,
       "lastBoosterAt": 1786352678163,
-      "totalEarned": 882150,
+      "totalEarned": 882000,
       "memoryGame": null,
       "username": "torment33"
     },
