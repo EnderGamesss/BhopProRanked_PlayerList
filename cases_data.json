@@ -2789,8 +2789,21 @@
       "coins": 1200450,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "skullspinner.png",
+          "type": "booster",
+          "at": "2026-08-10T12:32:21.846Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "skullspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-10T12:32:21.846Z"
+        },
         {
           "kind": "skin",
           "file": "m9desert.png",
@@ -2846,21 +2859,15 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T10:36:17.238Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-10T10:36:09.989Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786358363713,
       "language": "ru",
-      "lastBoosterAt": 1786357638875,
+      "lastBoosterAt": 1786365141450,
       "totalEarned": 1253300,
       "memoryGame": null,
-      "totalOpened": 69
+      "totalOpened": 70
     },
     "6335884130": {
       "name": "Ром",
