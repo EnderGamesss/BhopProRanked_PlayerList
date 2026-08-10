@@ -246,7 +246,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 4692150,
+      "coins": 4692050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -257,6 +257,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-10T12:28:51.673Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -312,18 +318,12 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-10T11:58:01.893Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-10T11:57:55.723Z"
         }
       ],
       "lastBonus": 1786272475133,
-      "lastCaseAt": 1786364924762,
+      "lastCaseAt": 1786364931103,
       "lastBoosterAt": 1786363974529,
-      "totalEarned": 5138850,
+      "totalEarned": 5139050,
       "memoryGame": {
         "board": [
           {
@@ -540,7 +540,7 @@
         "createdAt": 1786363992821
       },
       "username": "wfoee",
-      "totalOpened": 339
+      "totalOpened": 340
     },
     "1840807637": {
       "name": "𝑲𝒆𝒛𝒖𝒎𝒖 𝒏𝒆𝒕𝒓𝒐𝒍",
@@ -1608,7 +1608,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 15327850,
+      "coins": 15327900,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1621,9 +1621,9 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 150,
+          "amount": 200,
           "caseType": "knife",
-          "at": "2026-08-10T12:28:53.493Z"
+          "at": "2026-08-10T12:28:47.534Z"
         },
         {
           "kind": "coins",
@@ -1681,9 +1681,9 @@
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786364933142,
+      "lastCaseAt": 1786364927248,
       "lastBoosterAt": 1786362982902,
-      "totalEarned": 16213150,
+      "totalEarned": 16213200,
       "memoryGame": {
         "board": [
           {
@@ -6401,7 +6401,7 @@
     },
     "7891569993": {
       "name": "delo",
-      "coins": 86400,
+      "coins": 85900,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -6454,14 +6454,20 @@
           "file": "firespinner.png",
           "type": "spinner",
           "at": "2026-08-10T12:28:07.006Z"
+        },
+        {
+          "file": "camospinner.png",
+          "type": "spinner",
+          "at": "2026-08-10T12:28:56.733Z"
         }
       ],
       "history": [
         {
-          "kind": "coins",
-          "amount": 500,
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 2.5,
           "caseType": "spinner",
-          "at": "2026-08-10T12:28:49.512Z"
+          "at": "2026-08-10T12:28:56.733Z"
         },
         {
           "kind": "coins",
@@ -6520,9 +6526,9 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786364929274,
+      "lastCaseAt": 1786364936403,
       "lastBoosterAt": 0,
-      "totalEarned": 112400,
+      "totalEarned": 111900,
       "memoryGame": {
         "board": [
           {
