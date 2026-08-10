@@ -2799,7 +2799,7 @@
     },
     "6408582313": {
       "name": "рАналдо 💠",
-      "coins": 13554700,
+      "coins": 13554500,
       "luck": 1.25,
       "boosts": [
         {
@@ -2809,12 +2809,6 @@
       ],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-10T21:36:01.012Z"
-        },
         {
           "kind": "coins",
           "amount": 150,
@@ -2869,13 +2863,19 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T21:34:46.265Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T21:34:38.354Z"
         }
       ],
       "lastBonus": 1786342792234,
-      "lastCaseAt": 1786397760743,
+      "lastCaseAt": 1786397752603,
       "username": "Pidor_play",
       "lastBoosterAt": 1786396511115,
-      "totalEarned": 15997400,
+      "totalEarned": 15996900,
       "memoryGame": {
         "board": [
           {
@@ -3096,7 +3096,7 @@
         "createdAt": 1786270970653,
         "pendingHide": null
       },
-      "totalOpened": 552
+      "totalOpened": 551
     },
     "8624452786": {
       "name": "ор щет",
@@ -5889,8 +5889,21 @@
       "coins": 126450,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butemerand.png",
+          "type": "booster",
+          "at": "2026-08-10T21:36:01.201Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butemerand.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-10T21:36:01.201Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -5944,17 +5957,11 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T06:43:35.946Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T06:43:30.113Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786397731868,
-      "lastBoosterAt": 1786304756991,
+      "lastBoosterAt": 1786397760570,
       "totalEarned": 141950,
       "memoryGame": {
         "board": [
@@ -6181,7 +6188,7 @@
         "pendingHide": null
       },
       "username": "L1M0N_111",
-      "totalOpened": 2
+      "totalOpened": 3
     },
     "5487365719": {
       "name": "buogar",
