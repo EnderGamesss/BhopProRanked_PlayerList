@@ -7208,11 +7208,24 @@
     },
     "5238025582": {
       "name": "Max",
-      "coins": 800,
+      "coins": 500,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Military.png",
+          "type": "glove",
+          "at": "2026-08-10T11:10:42.657Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Military.png",
+          "chance": 8,
+          "caseType": "glove",
+          "at": "2026-08-10T11:10:42.657Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -7245,10 +7258,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786360236821,
+      "lastCaseAt": 1786360242323,
       "lastBoosterAt": 0,
       "totalEarned": 1300,
-      "totalOpened": 5,
+      "totalOpened": 6,
       "memoryGame": null,
       "username": "nonamerz228"
     }
