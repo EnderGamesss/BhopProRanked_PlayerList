@@ -1768,7 +1768,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 17830300,
+      "coins": 17830000,
       "luck": 1.25,
       "boosts": [
         {
@@ -1776,8 +1776,21 @@
           "at": "2026-08-10T12:50:27.136Z"
         }
       ],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitforest.png",
+          "type": "knife",
+          "at": "2026-08-10T15:23:19.941Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T15:23:19.941Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -1834,16 +1847,10 @@
           "chance": 0.3,
           "caseType": "knife",
           "at": "2026-08-10T15:19:59.251Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T15:19:51.425Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786375388758,
+      "lastCaseAt": 1786375399414,
       "lastBoosterAt": 1786373535418,
       "totalEarned": 19814300,
       "memoryGame": {
@@ -2063,7 +2070,7 @@
         "flipStage": "wait_second",
         "firstFlip": 10
       },
-      "totalOpened": 713
+      "totalOpened": 714
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -6289,7 +6296,7 @@
     },
     "6724286333": {
       "name": "Vin1nd",
-      "coins": 622400,
+      "coins": 622550,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -6462,12 +6469,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-10T15:23:19.873Z"
-        },
-        {
-          "kind": "coins",
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T15:23:14.611Z"
@@ -6520,12 +6521,18 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T15:22:02.695Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-08-10T15:21:50.501Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786375399540,
+      "lastCaseAt": 1786375394121,
       "lastBoosterAt": 1786373994824,
-      "totalEarned": 904600,
+      "totalEarned": 904450,
       "memoryGame": {
         "board": [
           {
@@ -6754,7 +6761,7 @@
         "createdAt": 1786313083350,
         "pendingHide": null
       },
-      "totalOpened": 380
+      "totalOpened": 379
     },
     "7891569993": {
       "name": "delo",
