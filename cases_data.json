@@ -1612,11 +1612,17 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 13528550,
+      "coins": 13528450,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-10T08:23:09.687Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1670,19 +1676,12 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-10T08:20:32.217Z"
-        },
-        {
-          "kind": "skin",
-          "file": "skullspinner.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-10T08:20:19.127Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786350182835,
+      "lastCaseAt": 1786350189085,
       "lastBoosterAt": 1786350018903,
-      "totalEarned": 14204450,
+      "totalEarned": 14204650,
       "memoryGame": {
         "board": [
           {
