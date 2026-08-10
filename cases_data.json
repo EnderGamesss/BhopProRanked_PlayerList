@@ -1751,7 +1751,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 16233650,
+      "coins": 16233450,
       "luck": 1.25,
       "boosts": [
         {
@@ -1777,6 +1777,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T12:59:51.239Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -1833,18 +1839,12 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T12:57:15.678Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-10T12:57:00.456Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786366784115,
+      "lastCaseAt": 1786366790798,
       "lastBoosterAt": 1786365161261,
-      "totalEarned": 18144450,
+      "totalEarned": 18144550,
       "memoryGame": {
         "board": [
           {
@@ -2065,7 +2065,7 @@
         "flipStage": "wait_second",
         "firstFlip": 24
       },
-      "totalOpened": 465
+      "totalOpened": 466
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -2551,21 +2551,9 @@
           "file": "thumb-bluestar.png",
           "type": "booster",
           "at": "2026-08-10T12:29:44.994Z"
-        },
-        {
-          "file": "woodspinner.png",
-          "type": "booster",
-          "at": "2026-08-10T12:59:50.661Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "woodspinner.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-10T12:59:50.661Z"
-        },
         {
           "kind": "skin",
           "file": "thumb-bluestar.png",
@@ -2627,12 +2615,18 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-10T08:58:17.662Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T08:58:08.218Z"
         }
       ],
       "lastBonus": 1786342792234,
       "lastCaseAt": 1786352297121,
       "username": "Pidor_play",
-      "lastBoosterAt": 1786366790218,
+      "lastBoosterAt": 1786364984542,
       "totalEarned": 12845550,
       "memoryGame": {
         "board": [
@@ -2854,7 +2848,7 @@
         "createdAt": 1786270970653,
         "pendingHide": null
       },
-      "totalOpened": 6
+      "totalOpened": 5
     },
     "8624452786": {
       "name": "ор щет",
