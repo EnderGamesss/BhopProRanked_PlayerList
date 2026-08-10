@@ -2746,7 +2746,7 @@
     },
     "5624673181": {
       "name": "⚜️",
-      "coins": 130050,
+      "coins": 130250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2777,6 +2777,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-08-10T10:07:58.317Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -2831,19 +2837,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-10T10:06:34.074Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-10T10:06:28.296Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786356471135,
+      "lastCaseAt": 1786356477919,
       "language": "ru",
       "lastBoosterAt": 0,
-      "totalEarned": 151700,
+      "totalEarned": 152200,
       "memoryGame": null
     },
     "6335884130": {
@@ -5913,7 +5913,7 @@
     },
     "6724286333": {
       "name": "Vin1nd",
-      "coins": 453600,
+      "coins": 453900,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -6001,21 +6001,9 @@
           "file": "m9spitfire.png",
           "type": "knife",
           "at": "2026-08-10T10:07:40.871Z"
-        },
-        {
-          "file": "m9desert.png",
-          "type": "knife",
-          "at": "2026-08-10T10:07:57.471Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "m9desert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-10T10:07:57.471Z"
-        },
         {
           "kind": "skin",
           "file": "m9spitfire.png",
@@ -6072,10 +6060,16 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-10T10:04:34.974Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T10:04:29.418Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786356476902,
+      "lastCaseAt": 1786356460304,
       "lastBoosterAt": 0,
       "totalEarned": 614900,
       "memoryGame": {
