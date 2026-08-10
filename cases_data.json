@@ -3232,12 +3232,12 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "matched": [
           false,
@@ -3271,9 +3271,13 @@
           "amount": 200,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1786347606046
+        "createdAt": 1786347606046,
+        "pendingHide": [
+          19,
+          24
+        ]
       }
     },
     "7886451818": {
