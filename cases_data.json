@@ -6028,7 +6028,7 @@
     },
     "7891569993": {
       "name": "delo",
-      "coins": 850,
+      "coins": 1850,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -6043,7 +6043,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786321512582,
       "lastBoosterAt": 0,
-      "totalEarned": 150,
+      "totalEarned": 1150,
       "memoryGame": {
         "board": [
           {
@@ -6228,6 +6228,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -6236,8 +6237,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -6249,9 +6249,10 @@
           "amount": 1000,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1786321591705
+        "createdAt": 1786321591705,
+        "pendingHide": null
       }
     }
   },
