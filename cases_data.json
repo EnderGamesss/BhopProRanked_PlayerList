@@ -3174,6 +3174,11 @@
           "file": "m9skullskin.png",
           "type": "knife",
           "at": "2026-08-10T11:42:56.035Z"
+        },
+        {
+          "file": "thumb-bhopool.png",
+          "type": "glove",
+          "at": "2026-08-10T11:44:09.587Z"
         }
       ],
       "history": [
@@ -3425,6 +3430,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -3440,8 +3446,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -3455,9 +3460,11 @@
           "price": 70000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 2,
         "status": "playing",
-        "createdAt": 1786362195602
+        "createdAt": 1786362195602,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "totalOpened": 219
     },
