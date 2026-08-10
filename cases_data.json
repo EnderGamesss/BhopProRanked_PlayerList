@@ -1612,11 +1612,17 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 13898550,
+      "coins": 13898350,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T09:17:11.523Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -1671,18 +1677,12 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T09:14:58.921Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-10T09:14:46.457Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786353423506,
+      "lastCaseAt": 1786353431178,
       "lastBoosterAt": 1786350018903,
-      "totalEarned": 14647650,
+      "totalEarned": 14647750,
       "memoryGame": {
         "board": [
           {
@@ -3936,24 +3936,11 @@
     },
     "7886091409": {
       "name": "33",
-      "coins": 513450,
+      "coins": 513750,
       "luck": 1,
       "boosts": [],
-      "inventory": [
-        {
-          "file": "butdesert.png",
-          "type": "knife",
-          "at": "2026-08-10T09:17:11.136Z"
-        }
-      ],
+      "inventory": [],
       "history": [
-        {
-          "kind": "skin",
-          "file": "butdesert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-10T09:17:11.136Z"
-        },
         {
           "kind": "coins",
           "amount": 500,
@@ -4009,10 +3996,17 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-10T09:15:31.325Z"
+        },
+        {
+          "kind": "skin",
+          "file": "m9forest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T09:15:19.817Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786353430740,
+      "lastCaseAt": 1786353420423,
       "lastBoosterAt": 1786352678163,
       "totalEarned": 524150,
       "memoryGame": null,
