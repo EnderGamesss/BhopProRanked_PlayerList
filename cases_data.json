@@ -7169,11 +7169,24 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 492900,
+      "coins": 492600,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butsnake.png",
+          "type": "knife",
+          "at": "2026-08-10T13:11:30.227Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butsnake.png",
+          "chance": 0.3,
+          "caseType": "knife",
+          "at": "2026-08-10T13:11:30.227Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -7230,21 +7243,15 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-10T12:26:09.061Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-10T12:25:53.536Z"
         }
       ],
       "lastBonus": 1786367456877,
-      "lastCaseAt": 1786367393055,
+      "lastCaseAt": 1786367489900,
       "lastBoosterAt": 1786364320897,
       "totalEarned": 534500,
       "memoryGame": null,
       "username": "hatemytiredself",
-      "totalOpened": 78
+      "totalOpened": 79
     },
     "8429840420": {
       "name": "дверной проём",
