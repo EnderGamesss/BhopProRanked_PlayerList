@@ -6078,7 +6078,7 @@
     },
     "7891569993": {
       "name": "delo",
-      "coins": 83050,
+      "coins": 82750,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -6111,9 +6111,21 @@
           "file": "skullspinner.png",
           "type": "spinner",
           "at": "2026-08-10T00:41:09.663Z"
+        },
+        {
+          "file": "thumb-Mercenery.png",
+          "type": "glove",
+          "at": "2026-08-10T00:43:24.740Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Mercenery.png",
+          "chance": 8.5,
+          "caseType": "glove",
+          "at": "2026-08-10T00:43:24.740Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -6167,16 +6179,10 @@
           "amount": 250,
           "caseType": "spinner",
           "at": "2026-08-10T00:42:18.155Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "spinner",
-          "at": "2026-08-10T00:42:10.754Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786322597049,
+      "lastCaseAt": 1786322604127,
       "lastBoosterAt": 0,
       "totalEarned": 95250,
       "memoryGame": {
