@@ -1338,11 +1338,17 @@
     },
     "5117405936": {
       "name": "xGRI3Fx",
-      "coins": 1148800,
+      "coins": 1148600,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "spinner",
+          "at": "2026-08-10T12:35:14.142Z"
+        },
         {
           "kind": "skin",
           "file": "m9guardian.png",
@@ -1398,19 +1404,13 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-09T08:40:22.894Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-09T08:40:16.023Z"
         }
       ],
       "lastBonus": 1786270680645,
       "username": "ITZ_GRI3F",
-      "lastCaseAt": 1786264956559,
+      "lastCaseAt": 1786365313721,
       "lastBoosterAt": 1786271416604,
-      "totalEarned": 1120500,
+      "totalEarned": 1120600,
       "memoryGame": {
         "board": [
           {
@@ -1624,7 +1624,8 @@
         "status": "playing",
         "createdAt": 1786270861510,
         "pendingHide": null
-      }
+      },
+      "totalOpened": 1
     },
     "8708014655": {
       "name": "LÖX",
