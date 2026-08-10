@@ -3442,8 +3442,21 @@
           "at": "2026-08-10T12:48:52.996Z"
         }
       ],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "ironaquaspinner.png",
+          "type": "booster",
+          "at": "2026-08-10T17:16:25.606Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "ironaquaspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-10T17:16:25.606Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -3498,18 +3511,12 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T17:14:08.170Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-10T17:13:57.373Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786382167320,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1786375785629,
+      "lastBoosterAt": 1786382185282,
       "totalEarned": 13540250,
       "memoryGame": {
         "board": [
@@ -3740,7 +3747,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 857
+      "totalOpened": 858
     },
     "7886451818": {
       "name": "EnderGamesDev",
