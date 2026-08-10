@@ -1755,7 +1755,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 16662150,
+      "coins": 16661850,
       "luck": 1.25,
       "boosts": [
         {
@@ -1803,9 +1803,21 @@
           "file": "karambitsnake.png",
           "type": "knife",
           "at": "2026-08-10T13:09:30.803Z"
+        },
+        {
+          "file": "m9desert.png",
+          "type": "knife",
+          "at": "2026-08-10T13:10:30.750Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T13:10:30.750Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -1864,16 +1876,10 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T13:08:09.907Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "knife",
-          "at": "2026-08-10T13:07:38.487Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786367378292,
+      "lastCaseAt": 1786367430382,
       "lastBoosterAt": 1786366999279,
       "totalEarned": 18581050,
       "memoryGame": {
@@ -2096,7 +2102,7 @@
         "flipStage": "wait_second",
         "firstFlip": 24
       },
-      "totalOpened": 493
+      "totalOpened": 494
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -2889,7 +2895,7 @@
     },
     "8624452786": {
       "name": "ор щет",
-      "coins": 1450350,
+      "coins": 1450650,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2947,21 +2953,9 @@
           "file": "m9snake.png",
           "type": "knife",
           "at": "2026-08-10T13:10:09.733Z"
-        },
-        {
-          "file": "karambitemerand.png",
-          "type": "knife",
-          "at": "2026-08-10T13:10:30.056Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "karambitemerand.png",
-          "chance": 0.05,
-          "caseType": "knife",
-          "at": "2026-08-10T13:10:30.056Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -3017,15 +3011,21 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-10T13:06:39.331Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-10T13:06:22.358Z"
         }
       ],
       "lastBonus": 1786281511849,
-      "lastCaseAt": 1786367429493,
+      "lastCaseAt": 1786367418761,
       "username": "orzett",
       "lastBoosterAt": 1786359890699,
       "totalEarned": 2138750,
       "memoryGame": null,
-      "totalOpened": 43
+      "totalOpened": 42
     },
     "5624673181": {
       "name": "⚜️",
@@ -7131,41 +7131,10 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 380400,
+      "coins": 491400,
       "luck": 1,
       "boosts": [],
-      "inventory": [
-        {
-          "file": "m9forest.png",
-          "type": "knife",
-          "at": "2026-08-10T12:24:39.857Z"
-        },
-        {
-          "file": "karambitforest.png",
-          "type": "knife",
-          "at": "2026-08-10T12:24:58.708Z"
-        },
-        {
-          "file": "butdesert.png",
-          "type": "knife",
-          "at": "2026-08-10T12:25:37.719Z"
-        },
-        {
-          "file": "m9desert.png",
-          "type": "knife",
-          "at": "2026-08-10T13:07:12.051Z"
-        },
-        {
-          "file": "butforest.png",
-          "type": "knife",
-          "at": "2026-08-10T13:07:20.898Z"
-        },
-        {
-          "file": "m9guardian.png",
-          "type": "knife",
-          "at": "2026-08-10T13:07:32.520Z"
-        }
-      ],
+      "inventory": [],
       "history": [
         {
           "kind": "coins",
@@ -7234,7 +7203,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786367393055,
       "lastBoosterAt": 1786364320897,
-      "totalEarned": 422000,
+      "totalEarned": 533000,
       "memoryGame": null,
       "username": "hatemytiredself",
       "totalOpened": 78
