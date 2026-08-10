@@ -246,7 +246,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 3592850,
+      "coins": 3592650,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -329,6 +329,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-10T06:06:58.644Z"
+        },
+        {
+          "kind": "coins",
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-10T06:06:52.309Z"
@@ -381,18 +387,12 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T06:05:52.711Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-10T06:05:46.149Z"
         }
       ],
       "lastBonus": 1786272475133,
-      "lastCaseAt": 1786342012064,
+      "lastCaseAt": 1786342018072,
       "lastBoosterAt": 1786335906734,
-      "totalEarned": 3919550,
+      "totalEarned": 3919650,
       "memoryGame": {
         "board": [
           {
@@ -2234,7 +2234,7 @@
     },
     "6408582313": {
       "name": "РАналдо 💠",
-      "coins": 9267200,
+      "coins": 9267500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2407,21 +2407,9 @@
           "file": "karambitforest.png",
           "type": "knife",
           "at": "2026-08-10T06:04:50.423Z"
-        },
-        {
-          "file": "butkoi.png",
-          "type": "knife",
-          "at": "2026-08-10T06:06:56.810Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "butkoi.png",
-          "chance": 0.25,
-          "caseType": "knife",
-          "at": "2026-08-10T06:06:56.810Z"
-        },
         {
           "kind": "coins",
           "amount": 150,
@@ -2475,10 +2463,17 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-08-10T06:04:58.560Z"
+        },
+        {
+          "kind": "skin",
+          "file": "karambitforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T06:04:50.423Z"
         }
       ],
       "lastBonus": 1786226289859,
-      "lastCaseAt": 1786342016033,
+      "lastCaseAt": 1786342007881,
       "username": "Pidor_play",
       "lastBoosterAt": 1786295872893,
       "totalEarned": 10328000,
