@@ -246,7 +246,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 4692800,
+      "coins": 4693000,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -316,7 +316,7 @@
       "lastBonus": 1786272475133,
       "lastCaseAt": 1786363117401,
       "lastBoosterAt": 1786363974529,
-      "totalEarned": 5138600,
+      "totalEarned": 5138800,
       "memoryGame": {
         "board": [
           {
@@ -511,13 +511,13 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false
         ],
@@ -528,9 +528,11 @@
           "price": 150000,
           "weight": 2
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1786363992821
+        "createdAt": 1786363992821,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "wfoee",
       "totalOpened": 336
