@@ -1731,7 +1731,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 15744200,
+      "coins": 15744250,
       "luck": 1.25,
       "boosts": [
         {
@@ -1757,12 +1757,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-10T12:52:41.085Z"
-        },
         {
           "kind": "coins",
           "amount": 750,
@@ -1819,12 +1813,18 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-10T12:47:48.647Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-10T12:47:42.586Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786366360432,
+      "lastCaseAt": 1786366354643,
       "lastBoosterAt": 1786365161261,
-      "totalEarned": 17646600,
+      "totalEarned": 17646350,
       "memoryGame": {
         "board": [
           {
@@ -2045,7 +2045,7 @@
         "flipStage": "wait_second",
         "firstFlip": 24
       },
-      "totalOpened": 437
+      "totalOpened": 436
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -2995,7 +2995,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 9464850,
+      "coins": 9464550,
       "luck": 1.25,
       "boosts": [
         {
@@ -3093,9 +3093,21 @@
           "file": "butforest.png",
           "type": "knife",
           "at": "2026-08-10T12:52:25.811Z"
+        },
+        {
+          "file": "m9koi.png",
+          "type": "knife",
+          "at": "2026-08-10T12:52:41.460Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9koi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-08-10T12:52:41.460Z"
+        },
         {
           "kind": "skin",
           "file": "butforest.png",
@@ -3153,16 +3165,10 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-08-10T12:50:33.636Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-10T12:50:21.593Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786366345483,
+      "lastCaseAt": 1786366360829,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786364996440,
       "totalEarned": 10888450,
@@ -3395,7 +3401,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 451
+      "totalOpened": 452
     },
     "7886451818": {
       "name": "EnderGamesDev",
