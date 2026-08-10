@@ -1679,7 +1679,13 @@
           "at": "2026-08-10T12:50:27.136Z"
         }
       ],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-bhopool.png",
+          "type": "glove",
+          "at": "2026-08-10T13:26:05.317Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -1932,6 +1938,7 @@
         "matched": [
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -1951,8 +1958,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false
         ],
@@ -1961,7 +1967,7 @@
           "amount": 100,
           "weight": 20
         },
-        "attempts": 4,
+        "attempts": 5,
         "status": "playing",
         "createdAt": 1786368246832,
         "flipStage": "wait_first",
