@@ -253,7 +253,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 5509400,
+      "coins": 5509250,
       "luck": 1.25,
       "boosts": [
         {
@@ -401,6 +401,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T15:28:33.157Z"
+        },
+        {
+          "kind": "coins",
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T15:28:27.141Z"
@@ -452,18 +458,12 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-10T15:26:56.133Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T15:26:43.865Z"
         }
       ],
       "lastBonus": 1786368370516,
-      "lastCaseAt": 1786375706654,
+      "lastCaseAt": 1786375712718,
       "lastBoosterAt": 1786373660562,
-      "totalEarned": 7172100,
+      "totalEarned": 7172250,
       "memoryGame": {
         "board": [
           {
@@ -680,7 +680,7 @@
         "createdAt": 1786363992821
       },
       "username": "wfoee",
-      "totalOpened": 1062
+      "totalOpened": 1063
     },
     "1840807637": {
       "name": "𝑲𝒆𝒛𝒖𝒎𝒖 𝒏𝒆𝒕𝒓𝒐𝒍",
@@ -2131,7 +2131,7 @@
     },
     "5818384071": {
       "name": "Temp",
-      "coins": 109100,
+      "coins": 108950,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2213,7 +2213,7 @@
       "lastCaseAt": 1786375563394,
       "username": "lTemp",
       "lastBoosterAt": 0,
-      "totalEarned": 1150,
+      "totalEarned": 1000,
       "totalOpened": 3,
       "memoryGame": {
         "board": [
@@ -2393,13 +2393,16 @@
           false
         ],
         "matched": [
+          false,
+          false,
+          false,
+          false,
           true,
           false,
           false,
           false,
           false,
           false,
-          true,
           false,
           false,
           false,
@@ -2414,10 +2417,7 @@
           false,
           false,
           false,
-          false,
-          false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "skin",
@@ -2426,7 +2426,7 @@
           "price": 60000,
           "weight": 5
         },
-        "attempts": 4,
+        "attempts": 3,
         "status": "playing",
         "createdAt": 1786375626187,
         "flipStage": "wait_first",
@@ -6450,7 +6450,7 @@
     },
     "6724286333": {
       "name": "Vin1nd",
-      "coins": 619800,
+      "coins": 628800,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -6498,11 +6498,6 @@
           "file": "m9skullskin.png",
           "type": "knife",
           "at": "2026-08-10T14:02:07.603Z"
-        },
-        {
-          "file": "m9snake.png",
-          "type": "knife",
-          "at": "2026-08-10T14:09:46.980Z"
         },
         {
           "file": "butsaphire.png",
@@ -6701,7 +6696,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786375686688,
       "lastBoosterAt": 1786373994824,
-      "totalEarned": 909500,
+      "totalEarned": 918500,
       "memoryGame": {
         "board": [
           {
