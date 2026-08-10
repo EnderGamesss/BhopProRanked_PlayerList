@@ -1344,7 +1344,7 @@
     },
     "5117405936": {
       "name": "xGRI3Fx",
-      "coins": 1177550,
+      "coins": 1162250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1357,9 +1357,26 @@
           "file": "thumb-basic-spinner-5.png",
           "type": "spinner",
           "at": "2026-08-10T12:36:01.491Z"
+        },
+        {
+          "file": "thumb-basic-spinner-5.png",
+          "type": "spinner",
+          "at": "2026-08-10T12:37:23.655Z"
+        },
+        {
+          "file": "camospinner.png",
+          "type": "spinner",
+          "at": "2026-08-10T12:37:33.806Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 2.5,
+          "caseType": "spinner",
+          "at": "2026-08-10T12:37:33.806Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-basic-spinner-5.png",
@@ -1418,19 +1435,13 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-09T10:30:17.107Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "spinner",
-          "at": "2026-08-09T08:42:36.763Z"
         }
       ],
       "lastBonus": 1786270680645,
       "username": "ITZ_GRI3F",
-      "lastCaseAt": 1786365442899,
+      "lastCaseAt": 1786365453237,
       "lastBoosterAt": 1786271416604,
-      "totalEarned": 1151650,
+      "totalEarned": 1136650,
       "memoryGame": {
         "board": [
           {
@@ -1648,11 +1659,11 @@
         "status": "playing",
         "createdAt": 1786365337656
       },
-      "totalOpened": 8
+      "totalOpened": 9
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 16398700,
+      "coins": 16398900,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1670,20 +1681,14 @@
           "file": "m9snake.png",
           "type": "knife",
           "at": "2026-08-10T12:37:18.113Z"
-        },
-        {
-          "file": "m9desert.png",
-          "type": "knife",
-          "at": "2026-08-10T12:37:31.805Z"
         }
       ],
       "history": [
         {
-          "kind": "skin",
-          "file": "m9desert.png",
-          "chance": 0.9,
+          "kind": "coins",
+          "amount": 200,
           "caseType": "knife",
-          "at": "2026-08-10T12:37:31.805Z"
+          "at": "2026-08-10T12:37:26.894Z"
         },
         {
           "kind": "skin",
@@ -1746,9 +1751,9 @@
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786365451220,
+      "lastCaseAt": 1786365446049,
       "lastBoosterAt": 1786365161261,
-      "totalEarned": 17289400,
+      "totalEarned": 17289600,
       "memoryGame": {
         "board": [
           {
@@ -2942,7 +2947,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 10469950,
+      "coins": 10469650,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2970,9 +2975,21 @@
           "file": "karambitdesert.png",
           "type": "knife",
           "at": "2026-08-10T12:37:00.075Z"
+        },
+        {
+          "file": "m9koi.png",
+          "type": "knife",
+          "at": "2026-08-10T12:37:28.734Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9koi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-08-10T12:37:28.734Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -3029,16 +3046,10 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T12:34:38.748Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-10T12:34:32.387Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786365439933,
+      "lastCaseAt": 1786365448476,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786364996440,
       "totalEarned": 10878250,
@@ -3271,7 +3282,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 400
+      "totalOpened": 401
     },
     "7886451818": {
       "name": "EnderGamesDev",
