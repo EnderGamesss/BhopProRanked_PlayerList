@@ -246,7 +246,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 3569300,
+      "coins": 3569150,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -549,6 +549,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T11:52:12.877Z"
+        },
+        {
+          "kind": "coins",
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-10T11:37:03.070Z"
@@ -602,18 +608,12 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T11:36:15.106Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-10T11:36:09.124Z"
         }
       ],
       "lastBonus": 1786272475133,
-      "lastCaseAt": 1786361822714,
+      "lastCaseAt": 1786362732361,
       "lastBoosterAt": 1786358727302,
-      "totalEarned": 3999200,
+      "totalEarned": 3999350,
       "memoryGame": {
         "board": [
           {
@@ -831,7 +831,7 @@
         "pendingHide": null
       },
       "username": "wfoee",
-      "totalOpened": 282
+      "totalOpened": 283
     },
     "1840807637": {
       "name": "𝑲𝒆𝒛𝒖𝒎𝒖 𝒏𝒆𝒕𝒓𝒐𝒍",
@@ -4703,21 +4703,8 @@
       "coins": 110550,
       "luck": 1,
       "boosts": [],
-      "inventory": [
-        {
-          "file": "firespinner.png",
-          "type": "booster",
-          "at": "2026-08-10T11:52:12.170Z"
-        }
-      ],
+      "inventory": [],
       "history": [
-        {
-          "kind": "skin",
-          "file": "firespinner.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-10T11:52:12.170Z"
-        },
         {
           "kind": "skin",
           "file": "thumb-basic-spinner-5.png",
@@ -4772,15 +4759,21 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-10T11:49:06.880Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "spinner",
+          "at": "2026-08-10T11:49:00.075Z"
         }
       ],
       "lastBonus": 1786362595072,
       "lastCaseAt": 1786362671413,
-      "lastBoosterAt": 1786362731736,
+      "lastBoosterAt": 0,
       "totalEarned": 114950,
       "memoryGame": null,
       "username": "User10me",
-      "totalOpened": 18
+      "totalOpened": 17
     },
     "8575376409": {
       "name": "Влад",
