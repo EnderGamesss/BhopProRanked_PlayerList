@@ -1939,7 +1939,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 18013750,
+      "coins": 18013450,
       "luck": 1.25,
       "boosts": [
         {
@@ -1947,8 +1947,21 @@
           "at": "2026-08-10T12:50:27.136Z"
         }
       ],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9forest.png",
+          "type": "knife",
+          "at": "2026-08-10T17:19:46.153Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9forest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T17:19:46.153Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2003,16 +2016,10 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T15:41:13.925Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T15:41:07.443Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786382380288,
+      "lastCaseAt": 1786382385700,
       "lastBoosterAt": 1786376150148,
       "totalEarned": 20013950,
       "memoryGame": {
@@ -2232,7 +2239,7 @@
         "flipStage": "wait_second",
         "firstFlip": 10
       },
-      "totalOpened": 768
+      "totalOpened": 769
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -3434,7 +3441,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 12040550,
+      "coins": 12040600,
       "luck": 1.25,
       "boosts": [
         {
@@ -3450,12 +3457,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-10T17:19:45.943Z"
-        },
         {
           "kind": "coins",
           "amount": 250,
@@ -3510,13 +3511,20 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T17:16:41.596Z"
+        },
+        {
+          "kind": "skin",
+          "file": "ironaquaspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-10T17:16:25.606Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786382385518,
+      "lastCaseAt": 1786382353211,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786382185282,
-      "totalEarned": 13587450,
+      "totalEarned": 13587200,
       "memoryGame": {
         "board": [
           {
@@ -3746,7 +3754,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 868
+      "totalOpened": 867
     },
     "7886451818": {
       "name": "EnderGamesDev",
