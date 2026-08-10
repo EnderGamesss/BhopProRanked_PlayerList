@@ -3936,11 +3936,17 @@
     },
     "7886091409": {
       "name": "33",
-      "coins": 411100,
+      "coins": 411000,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-10T09:06:02.545Z"
+        },
         {
           "kind": "skin",
           "file": "butsuicide.png",
@@ -3997,18 +4003,12 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-10T09:02:46.237Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-09T12:06:13.781Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786352738803,
+      "lastCaseAt": 1786352761908,
       "lastBoosterAt": 1786352678163,
-      "totalEarned": 413100,
+      "totalEarned": 413300,
       "memoryGame": null,
       "username": "torment33"
     },
