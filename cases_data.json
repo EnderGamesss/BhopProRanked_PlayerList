@@ -2889,7 +2889,7 @@
     },
     "8624452786": {
       "name": "ор щет",
-      "coins": 1451050,
+      "coins": 1450750,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2942,9 +2942,21 @@
           "file": "m9forest.png",
           "type": "knife",
           "at": "2026-08-10T13:09:33.998Z"
+        },
+        {
+          "file": "m9snake.png",
+          "type": "knife",
+          "at": "2026-08-10T13:10:09.733Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9snake.png",
+          "chance": 0.35,
+          "caseType": "knife",
+          "at": "2026-08-10T13:10:09.733Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -2999,21 +3011,15 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-10T13:05:36.995Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T13:05:27.462Z"
         }
       ],
       "lastBonus": 1786281511849,
-      "lastCaseAt": 1786367401599,
+      "lastCaseAt": 1786367409258,
       "username": "orzett",
       "lastBoosterAt": 1786359890699,
       "totalEarned": 2138550,
       "memoryGame": null,
-      "totalOpened": 40
+      "totalOpened": 41
     },
     "5624673181": {
       "name": "⚜️",
@@ -3095,7 +3101,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 9458250,
+      "coins": 9458550,
       "luck": 1.25,
       "boosts": [
         {
@@ -3263,21 +3269,9 @@
           "file": "karambitkoi.png",
           "type": "knife",
           "at": "2026-08-10T13:08:46.179Z"
-        },
-        {
-          "file": "butforest.png",
-          "type": "knife",
-          "at": "2026-08-10T13:10:08.954Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "butforest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-10T13:10:08.954Z"
-        },
         {
           "kind": "skin",
           "file": "karambitkoi.png",
@@ -3334,10 +3328,16 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-10T13:06:45.712Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 1000,
+          "caseType": "knife",
+          "at": "2026-08-10T13:06:31.358Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786367408452,
+      "lastCaseAt": 1786367325746,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786364996440,
       "totalEarned": 10895350,
@@ -3570,7 +3570,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 496
+      "totalOpened": 495
     },
     "7886451818": {
       "name": "EnderGamesDev",
