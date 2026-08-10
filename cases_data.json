@@ -2146,7 +2146,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2185,9 +2185,11 @@
           "amount": 100,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1786389944163
+        "createdAt": 1786389944163,
+        "flipStage": "wait_second",
+        "firstFlip": 19
       },
       "totalOpened": 799
     },
