@@ -1612,11 +1612,17 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 13528850,
+      "coins": 13529050,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-08-10T08:20:55.269Z"
+        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -1672,18 +1678,12 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-08-10T07:02:58.862Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T07:02:51.118Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786350049464,
+      "lastCaseAt": 1786350054650,
       "lastBoosterAt": 1786350018903,
-      "totalEarned": 14202950,
+      "totalEarned": 14203450,
       "memoryGame": {
         "board": [
           {
@@ -6418,17 +6418,11 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 282650,
+      "coins": 282850,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T08:20:54.310Z"
-        },
         {
           "kind": "coins",
           "amount": 500,
@@ -6484,12 +6478,18 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-10T08:17:59.602Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 1000,
+          "caseType": "spinner",
+          "at": "2026-08-10T08:17:52.649Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786350054023,
+      "lastCaseAt": 1786350047852,
       "lastBoosterAt": 1786349948138,
-      "totalEarned": 288550,
+      "totalEarned": 288450,
       "memoryGame": null,
       "username": "hatemytiredself"
     }
