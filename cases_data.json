@@ -3079,9 +3079,21 @@
           "file": "karambitdesert.png",
           "type": "knife",
           "at": "2026-08-10T14:18:50.033Z"
+        },
+        {
+          "file": "karambitbreak.png",
+          "type": "booster",
+          "at": "2026-08-10T14:19:05.641Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitbreak.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-10T14:19:05.641Z"
+        },
         {
           "kind": "skin",
           "file": "karambitdesert.png",
@@ -3140,18 +3152,12 @@
           "chance": 0.07,
           "caseType": "knife",
           "at": "2026-08-10T14:17:07.983Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-10T14:16:53.540Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786371529670,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1786369440495,
+      "lastBoosterAt": 1786371545021,
       "totalEarned": 12331450,
       "memoryGame": {
         "board": [
@@ -3382,7 +3388,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 711
+      "totalOpened": 712
     },
     "7886451818": {
       "name": "EnderGamesDev",
