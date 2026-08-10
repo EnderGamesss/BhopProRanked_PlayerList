@@ -1801,8 +1801,21 @@
       "coins": 14763200,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-fairy.png",
+          "type": "booster",
+          "at": "2026-08-10T11:05:33.483Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-fairy.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-10T11:05:33.483Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1857,18 +1870,11 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T11:00:47.615Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9ruby.png",
-          "chance": 0.08,
-          "caseType": "knife",
-          "at": "2026-08-10T10:59:45.687Z"
         }
       ],
       "lastBonus": 1786259491073,
       "lastCaseAt": 1786359884930,
-      "lastBoosterAt": 1786357075985,
+      "lastBoosterAt": 1786359933287,
       "totalEarned": 15690600,
       "memoryGame": {
         "board": [
@@ -2090,7 +2096,7 @@
         "flipStage": "wait_second",
         "firstFlip": 24
       },
-      "totalOpened": 184
+      "totalOpened": 185
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -3022,7 +3028,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 8182450,
+      "coins": 8182650,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3145,20 +3151,9 @@
           "file": "m9koi.png",
           "type": "knife",
           "at": "2026-08-10T11:04:34.740Z"
-        },
-        {
-          "file": "royalspinner.png",
-          "type": "spinner",
-          "at": "2026-08-10T11:05:30.483Z"
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T11:05:34.092Z"
-        },
         {
           "kind": "coins",
           "amount": 150,
@@ -3215,13 +3210,19 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-10T10:58:54.908Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-10T10:58:41.384Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786359933638,
+      "lastCaseAt": 1786359822594,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786358935177,
-      "totalEarned": 8622050,
+      "totalEarned": 8621950,
       "memoryGame": {
         "board": [
           {
@@ -3437,9 +3438,9 @@
           true,
           false,
           false,
+          false,
           true,
-          true,
-          true,
+          false,
           false,
           false,
           false,
@@ -3455,13 +3456,13 @@
           "price": 60000,
           "weight": 5
         },
-        "attempts": 6,
+        "attempts": 7,
         "status": "playing",
         "createdAt": 1786359826093,
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 168
+      "totalOpened": 167
     },
     "7886451818": {
       "name": "EnderGamesDev",
@@ -6136,7 +6137,7 @@
     },
     "5848447527": {
       "name": "Tenti good🗽",
-      "coins": 108900,
+      "coins": 108750,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -6147,6 +6148,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-10T11:05:29.896Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -6200,21 +6207,15 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-09T21:13:57.627Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-09T21:12:34.843Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786359914400,
+      "lastCaseAt": 1786359929598,
       "lastBoosterAt": 0,
-      "totalEarned": 118400,
+      "totalEarned": 118550,
       "memoryGame": null,
       "username": "Tentigood",
-      "totalOpened": 3
+      "totalOpened": 4
     },
     "6724286333": {
       "name": "Vin1nd",
