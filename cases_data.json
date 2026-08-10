@@ -715,7 +715,7 @@
     },
     "7307808447": {
       "name": "EnderGamesDev",
-      "coins": 2490450,
+      "coins": 2490900,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -797,6 +797,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-10T10:13:57.749Z"
+        },
+        {
           "kind": "skin",
           "file": "karambitdesert.png",
           "chance": 0.9,
@@ -854,18 +860,12 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T10:12:00.296Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-10T10:11:28.370Z"
         }
       ],
       "lastBonus": 1786306623714,
       "username": "EnderGamesDev",
-      "lastCaseAt": 1786356801917,
-      "totalEarned": 1853200,
+      "lastCaseAt": 1786356837337,
+      "totalEarned": 1853950,
       "lastBoosterAt": 1786291067045,
       "memoryGame": {
         "board": [
@@ -4096,21 +4096,9 @@
           "file": "karambitforest.png",
           "type": "knife",
           "at": "2026-08-10T10:12:02.849Z"
-        },
-        {
-          "file": "karambitemerand.png",
-          "type": "booster",
-          "at": "2026-08-10T10:13:56.914Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "karambitemerand.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-10T10:13:56.914Z"
-        },
         {
           "kind": "skin",
           "file": "karambitforest.png",
@@ -4166,11 +4154,17 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-10T10:11:30.767Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-10T10:11:25.279Z"
         }
       ],
       "lastBonus": 1786355532795,
       "lastCaseAt": 1786356794180,
-      "lastBoosterAt": 1786356836333,
+      "lastBoosterAt": 1786352678163,
       "totalEarned": 885050,
       "memoryGame": null,
       "username": "torment33"
