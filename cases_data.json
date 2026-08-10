@@ -2230,11 +2230,24 @@
     },
     "6408582313": {
       "name": "РАналдо 💠",
-      "coins": 11579650,
+      "coins": 11579350,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butsnake.png",
+          "type": "knife",
+          "at": "2026-08-10T08:11:09.867Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butsnake.png",
+          "chance": 0.3,
+          "caseType": "knife",
+          "at": "2026-08-10T08:11:09.867Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -2289,16 +2302,10 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T08:09:48.230Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-10T08:09:40.102Z"
         }
       ],
       "lastBonus": 1786342792234,
-      "lastCaseAt": 1786349461172,
+      "lastCaseAt": 1786349469421,
       "username": "Pidor_play",
       "lastBoosterAt": 1786295872893,
       "totalEarned": 12797950,
