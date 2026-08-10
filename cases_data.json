@@ -1684,6 +1684,11 @@
           "file": "m9desert.png",
           "type": "knife",
           "at": "2026-08-10T06:59:37.530Z"
+        },
+        {
+          "file": "m9aura.png",
+          "type": "knife",
+          "at": "2026-08-10T07:04:21.156Z"
         }
       ],
       "history": [
@@ -1943,14 +1948,14 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1966,9 +1971,10 @@
           "amount": 1000,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 2,
         "status": "playing",
-        "createdAt": 1786345423143
+        "createdAt": 1786345423143,
+        "pendingHide": null
       }
     },
     "6703298995": {
