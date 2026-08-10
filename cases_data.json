@@ -2845,7 +2845,7 @@
     },
     "5624673181": {
       "name": "⚜️",
-      "coins": 938600,
+      "coins": 938300,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2888,9 +2888,21 @@
           "file": "butdesert.png",
           "type": "knife",
           "at": "2026-08-10T10:30:11.226Z"
+        },
+        {
+          "file": "butforest.png",
+          "type": "knife",
+          "at": "2026-08-10T10:31:22.034Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-10T10:31:22.034Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -2949,21 +2961,15 @@
           "chance": 0.25,
           "caseType": "knife",
           "at": "2026-08-10T10:29:33.137Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "knife",
-          "at": "2026-08-10T10:29:18.651Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786357869656,
+      "lastCaseAt": 1786357881699,
       "language": "ru",
       "lastBoosterAt": 1786357638875,
       "totalEarned": 983350,
       "memoryGame": null,
-      "totalOpened": 42
+      "totalOpened": 43
     },
     "6335884130": {
       "name": "Ром",
