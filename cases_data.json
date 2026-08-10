@@ -1904,7 +1904,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 19728600,
+      "coins": 19728300,
       "luck": 1.25,
       "boosts": [
         {
@@ -1912,8 +1912,21 @@
           "at": "2026-08-10T12:50:27.136Z"
         }
       ],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "prettyspinner.png",
+          "type": "spinner",
+          "at": "2026-08-10T20:01:51.866Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "prettyspinner.png",
+          "chance": 0.5,
+          "caseType": "spinner",
+          "at": "2026-08-10T20:01:51.866Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -1968,16 +1981,10 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-10T20:00:01.285Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "spinner",
-          "at": "2026-08-10T19:59:42.014Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786392104278,
+      "lastCaseAt": 1786392111509,
       "lastBoosterAt": 1786391838213,
       "totalEarned": 21763600,
       "memoryGame": {
@@ -2189,7 +2196,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 887
+      "totalOpened": 888
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -2720,7 +2727,7 @@
     },
     "6408582313": {
       "name": "РАналдо 💠",
-      "coins": 12598800,
+      "coins": 12599100,
       "luck": 1.25,
       "boosts": [
         {
@@ -2803,21 +2810,9 @@
           "file": "karambitdesert.png",
           "type": "knife",
           "at": "2026-08-10T20:01:14.354Z"
-        },
-        {
-          "file": "karambitforest.png",
-          "type": "knife",
-          "at": "2026-08-10T20:01:51.089Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "karambitforest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-10T20:01:51.089Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2873,10 +2868,16 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-10T20:00:04.682Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-10T19:59:57.432Z"
         }
       ],
       "lastBonus": 1786342792234,
-      "lastCaseAt": 1786392110683,
+      "lastCaseAt": 1786392095223,
       "username": "Pidor_play",
       "lastBoosterAt": 1786389418366,
       "totalEarned": 14969500,
@@ -3100,7 +3101,7 @@
         "createdAt": 1786270970653,
         "pendingHide": null
       },
-      "totalOpened": 311
+      "totalOpened": 310
     },
     "8624452786": {
       "name": "ор щет",
