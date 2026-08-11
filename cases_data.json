@@ -2564,7 +2564,7 @@
     },
     "6408582313": {
       "name": "рАналдо 💠",
-      "coins": 15296050,
+      "coins": 15296100,
       "luck": 1.25,
       "boosts": [
         {
@@ -2706,12 +2706,6 @@
       ],
       "history": [
         {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-11T10:06:48.576Z"
-        },
-        {
           "kind": "skin",
           "file": "m9fire_0.png",
           "chance": 0.05,
@@ -2770,13 +2764,19 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-11T10:05:18.767Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-11T10:05:10.737Z"
         }
       ],
       "lastBonus": 1786342792234,
-      "lastCaseAt": 1786442808151,
+      "lastCaseAt": 1786442800065,
       "username": "Pidor_play",
       "lastBoosterAt": 1786396511115,
-      "totalEarned": 17832350,
+      "totalEarned": 17832100,
       "memoryGame": {
         "board": [
           {
@@ -3004,7 +3004,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 864
+      "totalOpened": 863
     },
     "8624452786": {
       "name": "ор щет",
@@ -7150,6 +7150,11 @@
           "file": "m9tiger.png",
           "type": "knife",
           "at": "2026-08-11T10:06:45.494Z"
+        },
+        {
+          "file": "m9tiger.png",
+          "type": "knife",
+          "at": "2026-08-11T10:06:50.084Z"
         }
       ],
       "history": [
@@ -7411,7 +7416,6 @@
           false
         ],
         "matched": [
-          true,
           false,
           false,
           false,
@@ -7427,7 +7431,8 @@
           false,
           false,
           false,
-          true,
+          false,
+          false,
           false,
           true,
           false,
