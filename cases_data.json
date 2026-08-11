@@ -2050,7 +2050,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 22422900,
+      "coins": 22422450,
       "luck": 1.25,
       "boosts": [
         {
@@ -2066,12 +2066,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-11T11:20:10.041Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2125,12 +2119,18 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-11T11:18:38.678Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-11T10:31:37.645Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786447209510,
+      "lastCaseAt": 1786447202493,
       "lastBoosterAt": 1786444032261,
-      "totalEarned": 24626200,
+      "totalEarned": 24625450,
       "memoryGame": {
         "board": [
           {
@@ -2364,7 +2364,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 1458
+      "totalOpened": 1457
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -8126,11 +8126,17 @@
     },
     "6685165097": {
       "name": "saxin",
-      "coins": 900,
+      "coins": 700,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "spinner",
+          "at": "2026-08-11T11:20:10.867Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -8139,10 +8145,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786447118669,
+      "lastCaseAt": 1786447210258,
       "lastBoosterAt": 0,
-      "totalEarned": 200,
-      "totalOpened": 1,
+      "totalEarned": 300,
+      "totalOpened": 2,
       "memoryGame": null
     }
   },
