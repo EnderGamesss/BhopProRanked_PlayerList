@@ -3056,7 +3056,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 27190450,
+      "coins": 27190250,
       "luck": 1.25,
       "boosts": [
         {
@@ -3066,6 +3066,12 @@
       ],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-11T15:24:47.327Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -3121,18 +3127,12 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-11T15:23:32.073Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-11T15:23:16.559Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786461881191,
+      "lastCaseAt": 1786461886718,
       "lastBoosterAt": 1786460282647,
-      "totalEarned": 29606750,
+      "totalEarned": 29606850,
       "memoryGame": {
         "board": [
           {
@@ -3352,7 +3352,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 2173
+      "totalOpened": 2174
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -3956,21 +3956,9 @@
           "file": "butruby.png",
           "type": "booster",
           "at": "2026-08-11T14:54:50.560Z"
-        },
-        {
-          "file": "karambitscratch.png",
-          "type": "booster",
-          "at": "2026-08-11T15:24:52.940Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "karambitscratch.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-11T15:24:52.940Z"
-        },
         {
           "kind": "skin",
           "file": "butruby.png",
@@ -4029,12 +4017,18 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-11T13:51:03.822Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-11T13:50:23.819Z"
         }
       ],
       "lastBonus": 1786342792234,
       "lastCaseAt": 1786456369037,
       "username": "Pidor_play",
-      "lastBoosterAt": 1786461892379,
+      "lastBoosterAt": 1786460090139,
       "totalEarned": 19191200,
       "memoryGame": {
         "board": [
@@ -4263,7 +4257,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 1033
+      "totalOpened": 1032
     },
     "8624452786": {
       "name": "ор щет",
