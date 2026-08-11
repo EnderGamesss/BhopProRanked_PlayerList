@@ -1735,9 +1735,21 @@
           "file": "karambitforest.png",
           "type": "knife",
           "at": "2026-08-11T09:18:24.561Z"
+        },
+        {
+          "file": "karambitmonster.png",
+          "type": "booster",
+          "at": "2026-08-11T09:35:16.492Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitmonster.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-11T09:35:16.492Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1794,17 +1806,11 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-08-11T09:16:21.179Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-11T09:16:16.376Z"
         }
       ],
       "lastBonus": 1786259491073,
       "lastCaseAt": 1786440899620,
-      "lastBoosterAt": 1786438968072,
+      "lastBoosterAt": 1786440916121,
       "totalEarned": 23535100,
       "memoryGame": {
         "board": [
@@ -2021,7 +2027,7 @@
         "status": "playing",
         "createdAt": 1786432933404
       },
-      "totalOpened": 1324
+      "totalOpened": 1325
     },
     "6703298995": {
       "name": "Aleksandyr",
