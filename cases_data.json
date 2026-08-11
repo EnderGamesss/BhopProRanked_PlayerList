@@ -1992,6 +1992,11 @@
           "file": "butkoi.png",
           "type": "knife",
           "at": "2026-08-11T04:03:24.931Z"
+        },
+        {
+          "file": "thumb-fairy.png",
+          "type": "glove",
+          "at": "2026-08-11T04:04:46.667Z"
         }
       ],
       "history": [
@@ -2244,12 +2249,12 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2277,9 +2282,11 @@
           "price": 20000,
           "weight": 5
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1786421072701
+        "createdAt": 1786421072701,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "totalOpened": 1027
     },
