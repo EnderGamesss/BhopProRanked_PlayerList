@@ -180,11 +180,24 @@
     },
     "1007020192": {
       "name": "𝐒𝐥𝐚𝐯𝐚",
-      "coins": 16000,
+      "coins": 15700,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Mercenery.png",
+          "type": "glove",
+          "at": "2026-08-11T16:27:21.732Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Mercenery.png",
+          "chance": 8.5,
+          "caseType": "glove",
+          "at": "2026-08-11T16:27:21.732Z"
+        },
         {
           "kind": "skin",
           "file": "m9koi.png",
@@ -194,10 +207,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 0,
+      "lastCaseAt": 1786465641512,
       "lastBoosterAt": 1786465613557,
       "totalEarned": 15000,
-      "totalOpened": 1,
+      "totalOpened": 2,
       "memoryGame": null,
       "username": "heruluno"
     },
