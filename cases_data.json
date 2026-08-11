@@ -2069,7 +2069,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 22421750,
+      "coins": 22421700,
       "luck": 1.25,
       "boosts": [
         {
@@ -2095,6 +2095,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-11T11:23:40.143Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -2150,18 +2156,12 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-11T11:19:38.597Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-11T11:19:31.703Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786447414567,
+      "lastCaseAt": 1786447419722,
       "lastBoosterAt": 1786444032261,
-      "totalEarned": 24626550,
+      "totalEarned": 24626800,
       "memoryGame": {
         "board": [
           {
@@ -2395,7 +2395,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 1463
+      "totalOpened": 1464
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -8162,7 +8162,7 @@
     },
     "6685165097": {
       "name": "saxin",
-      "coins": 66050,
+      "coins": 65850,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -8173,12 +8173,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "spinner",
-          "at": "2026-08-11T11:23:39.656Z"
-        },
         {
           "kind": "skin",
           "file": "camospinner.png",
@@ -8237,10 +8231,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786447419112,
+      "lastCaseAt": 1786447399247,
       "lastBoosterAt": 0,
-      "totalEarned": 68050,
-      "totalOpened": 10,
+      "totalEarned": 67550,
+      "totalOpened": 9,
       "memoryGame": null
     }
   },
