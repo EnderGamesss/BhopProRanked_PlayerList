@@ -100,8 +100,21 @@
       "coins": 2198050,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9spitfire.png",
+          "type": "booster",
+          "at": "2026-08-11T18:26:18.095Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9spitfire.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-11T18:26:18.095Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-joke.png",
@@ -162,21 +175,15 @@
           "chance": 0.3,
           "caseType": "knife",
           "at": "2026-08-09T12:36:23.121Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-09T12:36:08.123Z"
         }
       ],
       "lastBonus": 1786452244857,
       "username": "cazuso",
       "lastCaseAt": 1786278993856,
-      "lastBoosterAt": 1786451355503,
+      "lastBoosterAt": 1786472777688,
       "totalEarned": 1871200,
       "memoryGame": null,
-      "totalOpened": 4
+      "totalOpened": 5
     },
     "1007020192": {
       "name": "𝐒𝐥𝐚𝐯𝐚",
