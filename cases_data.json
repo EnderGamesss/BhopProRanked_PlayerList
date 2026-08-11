@@ -273,7 +273,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 12636750,
+      "coins": 12637600,
       "luck": 1.25,
       "boosts": [
         {
@@ -686,9 +686,9 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 150,
+          "amount": 1000,
           "caseType": "knife",
-          "at": "2026-08-11T11:25:36.185Z"
+          "at": "2026-08-11T11:25:31.953Z"
         },
         {
           "kind": "coins",
@@ -747,9 +747,9 @@
         }
       ],
       "lastBonus": 1786368370516,
-      "lastCaseAt": 1786447535785,
+      "lastCaseAt": 1786447531530,
       "lastBoosterAt": 1786447207448,
-      "totalEarned": 14945650,
+      "totalEarned": 14946500,
       "memoryGame": {
         "board": [
           {
@@ -1426,7 +1426,7 @@
     },
     "7887063317": {
       "name": "b10xxx10",
-      "coins": 3302900,
+      "coins": 3303100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1457,12 +1457,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-08-11T11:25:40.525Z"
-        },
         {
           "kind": "coins",
           "amount": 500,
@@ -1517,13 +1511,19 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-11T11:17:18.878Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-11T11:17:08.295Z"
         }
       ],
       "lastBonus": 1786280843041,
       "username": "b10xxx10",
-      "lastCaseAt": 1786447539857,
+      "lastCaseAt": 1786447505899,
       "lastBoosterAt": 1786298272147,
-      "totalEarned": 1875500,
+      "totalEarned": 1875400,
       "memoryGame": {
         "board": [
           {
@@ -1747,7 +1747,7 @@
         "flipStage": "wait_second",
         "firstFlip": 19
       },
-      "totalOpened": 84
+      "totalOpened": 83
     },
     "5117405936": {
       "name": "xGRI3Fx",
@@ -2080,7 +2080,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 22421250,
+      "coins": 22420950,
       "luck": 1.25,
       "boosts": [
         {
@@ -2108,9 +2108,21 @@
           "file": "m9forest.png",
           "type": "knife",
           "at": "2026-08-11T11:23:57.022Z"
+        },
+        {
+          "file": "m9koi.png",
+          "type": "knife",
+          "at": "2026-08-11T11:25:35.847Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9koi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-08-11T11:25:35.847Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -2167,16 +2179,10 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-11T11:22:01.559Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-11T11:21:55.223Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786447524608,
+      "lastCaseAt": 1786447535575,
       "lastBoosterAt": 1786444032261,
       "totalEarned": 24627250,
       "memoryGame": {
@@ -2412,7 +2418,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 1467
+      "totalOpened": 1468
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -8175,11 +8181,29 @@
     },
     "6685165097": {
       "name": "saxin",
-      "coins": 75550,
+      "coins": 65550,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "camospinner.png",
+          "type": "spinner",
+          "at": "2026-08-11T11:23:20.014Z"
+        },
+        {
+          "file": "prettyspinner.png",
+          "type": "booster",
+          "at": "2026-08-11T11:25:41.898Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "prettyspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-11T11:25:41.898Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -8235,19 +8259,13 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-11T11:20:29.969Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-08-11T11:20:10.867Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786447461059,
-      "lastBoosterAt": 0,
-      "totalEarned": 77850,
-      "totalOpened": 11,
+      "lastBoosterAt": 1786447541691,
+      "totalEarned": 67850,
+      "totalOpened": 12,
       "memoryGame": null
     }
   },
