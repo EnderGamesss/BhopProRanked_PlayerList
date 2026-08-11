@@ -10741,7 +10741,7 @@
     },
     "5169712956": {
       "name": "-",
-      "coins": 1100,
+      "coins": 1600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -10823,7 +10823,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786483303803,
       "lastBoosterAt": 1786483110560,
-      "totalEarned": 2800,
+      "totalEarned": 3300,
       "totalOpened": 10,
       "memoryGame": {
         "board": [
@@ -11013,8 +11013,8 @@
         "matched": [
           false,
           false,
-          false,
-          false,
+          true,
+          true,
           false,
           false,
           false,
@@ -11042,9 +11042,11 @@
           "amount": 150,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1786483313369
+        "createdAt": 1786483313369,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Malaika220"
     }
