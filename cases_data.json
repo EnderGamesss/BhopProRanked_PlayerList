@@ -10741,7 +10741,7 @@
     },
     "5169712956": {
       "name": "-",
-      "coins": 1000,
+      "coins": 1200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -10753,6 +10753,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "spinner",
+          "at": "2026-08-11T21:19:27.763Z"
+        },
+        {
           "kind": "skin",
           "file": "butruby.png",
           "chance": 1,
@@ -10761,10 +10767,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 0,
+      "lastCaseAt": 1786483167385,
       "lastBoosterAt": 1786483110560,
-      "totalEarned": 0,
-      "totalOpened": 1,
+      "totalEarned": 500,
+      "totalOpened": 2,
       "memoryGame": null,
       "username": "Malaika220"
     }
