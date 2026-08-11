@@ -8214,7 +8214,7 @@
     },
     "6685165097": {
       "name": "saxin",
-      "coins": 321000,
+      "coins": 320700,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -8222,9 +8222,21 @@
           "file": "karambitsnake.png",
           "type": "knife",
           "at": "2026-08-11T11:29:21.995Z"
+        },
+        {
+          "file": "butsnake.png",
+          "type": "knife",
+          "at": "2026-08-11T11:29:36.586Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butsnake.png",
+          "chance": 0.3,
+          "caseType": "knife",
+          "at": "2026-08-11T11:29:36.586Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -8282,19 +8294,13 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-11T11:26:21.570Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-11T11:24:21.594Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786447769563,
+      "lastCaseAt": 1786447776009,
       "lastBoosterAt": 1786447580965,
       "totalEarned": 325700,
-      "totalOpened": 20,
+      "totalOpened": 21,
       "memoryGame": null
     },
     "8657351739": {
