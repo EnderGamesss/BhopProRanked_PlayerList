@@ -3365,7 +3365,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 28311100,
+      "coins": 28310900,
       "luck": 1.25,
       "boosts": [
         {
@@ -3386,6 +3386,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-11T16:49:11.124Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -3440,18 +3446,12 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-11T16:47:21.320Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-11T16:47:14.951Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786466943738,
+      "lastCaseAt": 1786466950356,
       "lastBoosterAt": 1786466930757,
-      "totalEarned": 30848000,
+      "totalEarned": 30848100,
       "memoryGame": {
         "board": [
           {
@@ -3671,7 +3671,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 2578
+      "totalOpened": 2579
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -9922,7 +9922,7 @@
     },
     "6889215813": {
       "name": "♛ 乡 ɪɴꜰɪᴇʀɴᴏ 乡 ♛ 👨‍✈️",
-      "coins": 30050,
+      "coins": 30100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -9933,12 +9933,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "spinner",
-          "at": "2026-08-11T16:49:08.794Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -9993,13 +9987,19 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-11T16:47:09.489Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "spinner",
+          "at": "2026-08-11T16:47:04.585Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786466948376,
+      "lastCaseAt": 1786466934243,
       "lastBoosterAt": 1786466334162,
-      "totalEarned": 37750,
-      "totalOpened": 30,
+      "totalEarned": 37500,
+      "totalOpened": 29,
       "memoryGame": null,
       "username": "apelsinka0442"
     }
