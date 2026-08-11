@@ -2050,7 +2050,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 22422400,
+      "coins": 22422450,
       "luck": 1.25,
       "boosts": [
         {
@@ -2066,12 +2066,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-11T11:20:15.450Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2125,12 +2119,18 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-11T11:18:38.678Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-11T10:31:37.645Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786447214585,
+      "lastCaseAt": 1786447202493,
       "lastBoosterAt": 1786444032261,
-      "totalEarned": 24625700,
+      "totalEarned": 24625450,
       "memoryGame": {
         "board": [
           {
@@ -2364,7 +2364,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 1458
+      "totalOpened": 1457
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -4582,8 +4582,21 @@
       "coins": 1184000,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9koi.png",
+          "type": "booster",
+          "at": "2026-08-11T11:20:16.165Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9koi.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-11T11:20:16.165Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -4640,22 +4653,15 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-10T10:15:19.941Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9snake.png",
-          "chance": 0.35,
-          "caseType": "knife",
-          "at": "2026-08-10T10:15:01.621Z"
         }
       ],
       "lastBonus": 1786355532795,
       "lastCaseAt": 1786446897247,
-      "lastBoosterAt": 1786356836333,
+      "lastBoosterAt": 1786447215956,
       "totalEarned": 1227100,
       "memoryGame": null,
       "username": "torment33",
-      "totalOpened": 4
+      "totalOpened": 5
     },
     "7231392817": {
       "name": "Нейрохам",
