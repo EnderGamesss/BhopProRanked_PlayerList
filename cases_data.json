@@ -11052,7 +11052,7 @@
     },
     "7838229973": {
       "name": "Лихаил Митвин",
-      "coins": 700,
+      "coins": 400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -11085,9 +11085,21 @@
           "file": "butforest.png",
           "type": "knife",
           "at": "2026-08-11T21:37:15.395Z"
+        },
+        {
+          "file": "karambitdesert.png",
+          "type": "knife",
+          "at": "2026-08-11T21:37:31.768Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-11T21:37:31.768Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -11144,19 +11156,13 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-11T21:36:29.401Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-11T21:36:22.887Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786484241995,
+      "lastCaseAt": 1786484250854,
       "lastBoosterAt": 1786484151431,
       "totalEarned": 8100,
-      "totalOpened": 29,
+      "totalOpened": 30,
       "memoryGame": {
         "board": [
           {
