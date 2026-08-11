@@ -273,7 +273,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 12639700,
+      "coins": 12639400,
       "luck": 1.25,
       "boosts": [
         {
@@ -651,9 +651,21 @@
           "file": "butsnake.png",
           "type": "booster",
           "at": "2026-08-11T11:20:07.842Z"
+        },
+        {
+          "file": "butforest.png",
+          "type": "knife",
+          "at": "2026-08-11T11:20:27.252Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-11T11:20:27.252Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -708,16 +720,10 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-11T11:19:23.712Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-11T11:19:05.210Z"
         }
       ],
       "lastBonus": 1786368370516,
-      "lastCaseAt": 1786447220617,
+      "lastCaseAt": 1786447226678,
       "lastBoosterAt": 1786447207448,
       "totalEarned": 14938700,
       "memoryGame": {
@@ -936,7 +942,7 @@
         "createdAt": 1786363992821
       },
       "username": "wfoee",
-      "totalOpened": 3192
+      "totalOpened": 3193
     },
     "1840807637": {
       "name": "𝑲𝒆𝒛𝒖𝒎𝒖 𝒏𝒆𝒕𝒓𝒐𝒍",
@@ -8132,17 +8138,11 @@
     },
     "6685165097": {
       "name": "saxin",
-      "coins": 1400,
+      "coins": 700,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "spinner",
-          "at": "2026-08-11T11:20:25.786Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -8157,10 +8157,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786447225110,
+      "lastCaseAt": 1786447210258,
       "lastBoosterAt": 0,
-      "totalEarned": 1300,
-      "totalOpened": 3,
+      "totalEarned": 300,
+      "totalOpened": 2,
       "memoryGame": null
     }
   },
