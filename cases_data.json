@@ -3392,7 +3392,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 30125650,
+      "coins": 30125950,
       "luck": 1.25,
       "boosts": [
         {
@@ -3455,21 +3455,9 @@
           "file": "butkoi.png",
           "type": "knife",
           "at": "2026-08-11T18:39:28.965Z"
-        },
-        {
-          "file": "karambitforest.png",
-          "type": "knife",
-          "at": "2026-08-11T18:40:10.341Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "karambitforest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-11T18:40:10.341Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -3525,10 +3513,16 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-11T18:39:10.002Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 1000,
+          "caseType": "knife",
+          "at": "2026-08-11T18:39:02.419Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786473608047,
+      "lastCaseAt": 1786473602318,
       "lastBoosterAt": 1786473064759,
       "totalEarned": 32782550,
       "memoryGame": {
@@ -3746,7 +3740,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 2980
+      "totalOpened": 2979
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -10384,7 +10378,7 @@
     },
     "8693463638": {
       "name": "VOTIX",
-      "coins": 850,
+      "coins": 1300,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -10395,6 +10389,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "spinner",
+          "at": "2026-08-11T18:40:11.020Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -10410,10 +10410,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786473604930,
+      "lastCaseAt": 1786473610348,
       "lastBoosterAt": 1786473559751,
-      "totalEarned": 150,
-      "totalOpened": 2,
+      "totalEarned": 900,
+      "totalOpened": 3,
       "memoryGame": null,
       "username": "votixtinni"
     }
