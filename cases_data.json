@@ -1525,7 +1525,7 @@
     },
     "7887063317": {
       "name": "b10xxx10",
-      "coins": 3302350,
+      "coins": 3302200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1571,6 +1571,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-11T11:46:15.649Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -1625,19 +1631,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-11T11:42:26.598Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-11T11:42:21.241Z"
         }
       ],
       "lastBonus": 1786280843041,
       "username": "b10xxx10",
-      "lastCaseAt": 1786448704233,
+      "lastCaseAt": 1786448775168,
       "lastBoosterAt": 1786298272147,
-      "totalEarned": 1888450,
+      "totalEarned": 1888600,
       "memoryGame": {
         "board": [
           {
@@ -1861,7 +1861,7 @@
         "flipStage": "wait_second",
         "firstFlip": 19
       },
-      "totalOpened": 129
+      "totalOpened": 130
     },
     "5117405936": {
       "name": "xGRI3Fx",
@@ -2194,7 +2194,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 22445000,
+      "coins": 22445200,
       "luck": 1.25,
       "boosts": [
         {
@@ -2210,12 +2210,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-11T11:46:14.527Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -2270,12 +2264,18 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-11T11:37:42.761Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-11T11:37:09.905Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786448774325,
+      "lastCaseAt": 1786448759821,
       "lastBoosterAt": 1786444032261,
-      "totalEarned": 24666000,
+      "totalEarned": 24665900,
       "memoryGame": {
         "board": [
           {
@@ -2491,7 +2491,7 @@
         "status": "playing",
         "createdAt": 1786448712647
       },
-      "totalOpened": 1517
+      "totalOpened": 1516
     },
     "6703298995": {
       "name": "Aleksandyr",
