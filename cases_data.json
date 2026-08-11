@@ -180,11 +180,24 @@
     },
     "1147464627": {
       "name": "Valen",
-      "coins": 500,
+      "coins": 200,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butsnake.png",
+          "type": "knife",
+          "at": "2026-08-11T15:51:48.971Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butsnake.png",
+          "chance": 0.3,
+          "caseType": "knife",
+          "at": "2026-08-11T15:51:48.971Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -205,10 +218,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786463503378,
+      "lastCaseAt": 1786463508703,
       "lastBoosterAt": 0,
       "totalEarned": 400,
-      "totalOpened": 3,
+      "totalOpened": 4,
       "memoryGame": null,
       "username": "CPcompanu"
     },
