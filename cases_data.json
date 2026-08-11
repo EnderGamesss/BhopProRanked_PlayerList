@@ -7169,7 +7169,7 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 1547600,
+      "coins": 1547300,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -7187,9 +7187,21 @@
           "file": "prettyspinner.png",
           "type": "spinner",
           "at": "2026-08-11T04:28:10.809Z"
+        },
+        {
+          "file": "woodspinner.png",
+          "type": "spinner",
+          "at": "2026-08-11T04:29:28.773Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "woodspinner.png",
+          "chance": 0.6,
+          "caseType": "spinner",
+          "at": "2026-08-11T04:29:28.773Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -7243,22 +7255,15 @@
           "amount": 500,
           "caseType": "spinner",
           "at": "2026-08-11T04:28:25.138Z"
-        },
-        {
-          "kind": "skin",
-          "file": "prettyspinner.png",
-          "chance": 0.5,
-          "caseType": "spinner",
-          "at": "2026-08-11T04:28:10.809Z"
         }
       ],
       "lastBonus": 1786367456877,
-      "lastCaseAt": 1786422561793,
+      "lastCaseAt": 1786422568314,
       "lastBoosterAt": 1786421849312,
       "totalEarned": 1639000,
       "memoryGame": null,
       "username": "hatemytiredself",
-      "totalOpened": 248
+      "totalOpened": 249
     },
     "8429840420": {
       "name": "дверной проём",
