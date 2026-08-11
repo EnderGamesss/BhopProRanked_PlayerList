@@ -4666,7 +4666,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 12895600,
+      "coins": 12895300,
       "luck": 1.25,
       "boosts": [
         {
@@ -4714,9 +4714,21 @@
           "file": "m9forest.png",
           "type": "booster",
           "at": "2026-08-11T17:59:00.890Z"
+        },
+        {
+          "file": "m9desert.png",
+          "type": "knife",
+          "at": "2026-08-11T17:59:08.183Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-11T17:59:08.183Z"
+        },
         {
           "kind": "skin",
           "file": "m9forest.png",
@@ -4773,17 +4785,10 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-11T16:14:30.537Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9faded.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-11T15:21:03.488Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786471138205,
+      "lastCaseAt": 1786471147789,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786471140404,
       "totalEarned": 14512100,
@@ -5016,7 +5021,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 1115
+      "totalOpened": 1116
     },
     "7886451818": {
       "name": "EnderGamesDev",
