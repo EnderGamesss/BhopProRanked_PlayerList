@@ -2743,8 +2743,21 @@
           "at": "2026-08-10T12:50:27.136Z"
         }
       ],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9aura.png",
+          "type": "booster",
+          "at": "2026-08-11T13:32:36.003Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9aura.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-11T13:32:36.003Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2798,17 +2811,11 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-11T13:30:29.436Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-11T13:30:21.762Z"
         }
       ],
       "lastBonus": 1786259491073,
       "lastCaseAt": 1786455102765,
-      "lastBoosterAt": 1786453035935,
+      "lastBoosterAt": 1786455155345,
       "totalEarned": 27259200,
       "memoryGame": {
         "board": [
@@ -3027,7 +3034,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 1739
+      "totalOpened": 1740
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -3558,7 +3565,7 @@
     },
     "6408582313": {
       "name": "рАналдо 💠",
-      "coins": 16610450,
+      "coins": 16610550,
       "luck": 1.25,
       "boosts": [
         {
@@ -3584,12 +3591,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-11T13:32:35.121Z"
-        },
         {
           "kind": "coins",
           "amount": 500,
@@ -3644,13 +3645,19 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-11T13:28:53.757Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-11T13:28:10.158Z"
         }
       ],
       "lastBonus": 1786342792234,
-      "lastCaseAt": 1786455154894,
+      "lastCaseAt": 1786455139649,
       "username": "Pidor_play",
       "lastBoosterAt": 1786443599618,
-      "totalEarned": 19182450,
+      "totalEarned": 19182250,
       "memoryGame": {
         "board": [
           {
@@ -3878,7 +3885,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 984
+      "totalOpened": 983
     },
     "8624452786": {
       "name": "ор щет",
