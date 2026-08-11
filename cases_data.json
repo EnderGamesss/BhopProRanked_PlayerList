@@ -7104,7 +7104,7 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 810400,
+      "coins": 810900,
       "luck": 1.25,
       "boosts": [
         {
@@ -7194,7 +7194,7 @@
       "lastBonus": 1786367456877,
       "lastCaseAt": 1786428183368,
       "lastBoosterAt": 1786439570613,
-      "totalEarned": 1907500,
+      "totalEarned": 1908000,
       "memoryGame": {
         "board": [
           {
@@ -7383,6 +7383,7 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
@@ -7398,8 +7399,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -7416,9 +7416,11 @@
           "price": 50000,
           "weight": 4
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1786442728092
+        "createdAt": 1786442728092,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "hatemytiredself",
       "totalOpened": 271
