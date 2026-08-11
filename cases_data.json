@@ -273,7 +273,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 12639300,
+      "coins": 12639000,
       "luck": 1.25,
       "boosts": [
         {
@@ -656,9 +656,21 @@
           "file": "butforest.png",
           "type": "knife",
           "at": "2026-08-11T11:20:27.252Z"
+        },
+        {
+          "file": "butforest.png",
+          "type": "knife",
+          "at": "2026-08-11T11:21:09.743Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-11T11:21:09.743Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -714,16 +726,10 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-11T11:20:00.066Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-11T11:19:53.647Z"
         }
       ],
       "lastBonus": 1786368370516,
-      "lastCaseAt": 1786447263431,
+      "lastCaseAt": 1786447269321,
       "lastBoosterAt": 1786447207448,
       "totalEarned": 14939800,
       "memoryGame": {
@@ -942,7 +948,7 @@
         "createdAt": 1786363992821
       },
       "username": "wfoee",
-      "totalOpened": 3197
+      "totalOpened": 3198
     },
     "1840807637": {
       "name": "𝑲𝒆𝒛𝒖𝒎𝒖 𝒏𝒆𝒕𝒓𝒐𝒍",
@@ -2069,21 +2075,9 @@
           "file": "butdesert.png",
           "type": "knife",
           "at": "2026-08-11T10:28:18.829Z"
-        },
-        {
-          "file": "m9ruby.png",
-          "type": "booster",
-          "at": "2026-08-11T11:21:09.275Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "m9ruby.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-11T11:21:09.275Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2137,11 +2131,17 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-11T11:18:38.678Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-11T10:31:37.645Z"
         }
       ],
       "lastBonus": 1786259491073,
       "lastCaseAt": 1786447202493,
-      "lastBoosterAt": 1786447268352,
+      "lastBoosterAt": 1786444032261,
       "totalEarned": 24625450,
       "memoryGame": {
         "board": [
@@ -2376,7 +2376,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 1458
+      "totalOpened": 1457
     },
     "6703298995": {
       "name": "Aleksandyr",
