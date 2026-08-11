@@ -8183,8 +8183,21 @@
       "coins": 75550,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "prettyspinner.png",
+          "type": "booster",
+          "at": "2026-08-11T11:26:21.570Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "prettyspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-11T11:26:21.570Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -8240,19 +8253,13 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-11T11:20:29.969Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-08-11T11:20:10.867Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786447461059,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1786447580965,
       "totalEarned": 77850,
-      "totalOpened": 11,
+      "totalOpened": 12,
       "memoryGame": null
     },
     "8657351739": {
