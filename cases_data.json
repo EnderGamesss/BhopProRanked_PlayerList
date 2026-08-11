@@ -3358,7 +3358,13 @@
           "at": "2026-08-10T12:50:27.136Z"
         }
       ],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-basic-spinner-5.png",
+          "type": "spinner",
+          "at": "2026-08-11T17:32:58.090Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -3604,6 +3610,7 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
@@ -3623,8 +3630,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -3637,7 +3643,9 @@
         },
         "attempts": 7,
         "status": "playing",
-        "createdAt": 1786469570828
+        "createdAt": 1786469570828,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "totalOpened": 2748
     },
