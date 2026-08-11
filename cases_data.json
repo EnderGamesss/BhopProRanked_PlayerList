@@ -8114,11 +8114,24 @@
     },
     "6685165097": {
       "name": "saxin",
-      "coins": 900,
+      "coins": 600,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Swat.png",
+          "type": "glove",
+          "at": "2026-08-11T11:18:46.542Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Swat.png",
+          "chance": 7,
+          "caseType": "glove",
+          "at": "2026-08-11T11:18:46.542Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -8127,10 +8140,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786447118669,
+      "lastCaseAt": 1786447126293,
       "lastBoosterAt": 0,
       "totalEarned": 200,
-      "totalOpened": 1,
+      "totalOpened": 2,
       "memoryGame": null
     }
   },
