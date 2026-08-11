@@ -11052,11 +11052,24 @@
     },
     "7838229973": {
       "name": "Лихаил Митвин",
-      "coins": 1450,
+      "coins": 1150,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9forest.png",
+          "type": "knife",
+          "at": "2026-08-11T21:33:39.561Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9forest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-11T21:33:39.561Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -11089,10 +11102,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786484013693,
+      "lastCaseAt": 1786484018883,
       "lastBoosterAt": 0,
       "totalEarned": 1950,
-      "totalOpened": 5,
+      "totalOpened": 6,
       "memoryGame": null,
       "username": "LixailMitvin"
     }
