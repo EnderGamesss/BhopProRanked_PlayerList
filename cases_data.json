@@ -2071,7 +2071,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 22421900,
+      "coins": 22421600,
       "luck": 1.25,
       "boosts": [
         {
@@ -2089,9 +2089,21 @@
           "file": "karambitdesert.png",
           "type": "knife",
           "at": "2026-08-11T11:22:33.799Z"
+        },
+        {
+          "file": "m9forest.png",
+          "type": "knife",
+          "at": "2026-08-11T11:22:45.856Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9forest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-11T11:22:45.856Z"
+        },
         {
           "kind": "skin",
           "file": "karambitdesert.png",
@@ -2146,16 +2158,10 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-11T11:19:19.813Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-11T11:19:12.573Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786447353249,
+      "lastCaseAt": 1786447365448,
       "lastBoosterAt": 1786444032261,
       "totalEarned": 24625800,
       "memoryGame": {
@@ -2391,7 +2397,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 1460
+      "totalOpened": 1461
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -8158,17 +8164,11 @@
     },
     "6685165097": {
       "name": "saxin",
-      "coins": 65050,
+      "coins": 65250,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-08-11T11:22:45.533Z"
-        },
         {
           "kind": "skin",
           "file": "woodspinner.png",
@@ -8196,10 +8196,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786447365218,
+      "lastCaseAt": 1786447236359,
       "lastBoosterAt": 0,
-      "totalEarned": 65550,
-      "totalOpened": 5,
+      "totalEarned": 65450,
+      "totalOpened": 4,
       "memoryGame": null
     }
   },
