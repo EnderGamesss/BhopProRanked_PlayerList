@@ -7851,11 +7851,24 @@
     },
     "8521765447": {
       "name": "never",
-      "coins": 79000,
+      "coins": 78700,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Mercenery.png",
+          "type": "glove",
+          "at": "2026-08-11T10:15:32.477Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Mercenery.png",
+          "chance": 8.5,
+          "caseType": "glove",
+          "at": "2026-08-11T10:15:32.477Z"
+        },
         {
           "kind": "skin",
           "file": "karambitsaphire.png",
@@ -7865,10 +7878,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 0,
+      "lastCaseAt": 1786443332087,
       "lastBoosterAt": 1786443304732,
       "totalEarned": 78000,
-      "totalOpened": 1,
+      "totalOpened": 2,
       "memoryGame": null
     }
   },
