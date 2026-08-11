@@ -1904,7 +1904,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 20149650,
+      "coins": 20149800,
       "luck": 1.25,
       "boosts": [
         {
@@ -1914,12 +1914,6 @@
       ],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-11T04:27:12.097Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1973,12 +1967,18 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-11T04:04:07.974Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-11T04:04:02.836Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786422431509,
+      "lastCaseAt": 1786422422517,
       "lastBoosterAt": 1786420953309,
-      "totalEarned": 22227850,
+      "totalEarned": 22227700,
       "memoryGame": {
         "board": [
           {
@@ -2202,7 +2202,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 1033
+      "totalOpened": 1032
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -7162,7 +7162,7 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 1549900,
+      "coins": 1549600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -7170,9 +7170,21 @@
           "file": "camospinner.png",
           "type": "spinner",
           "at": "2026-08-11T04:26:51.684Z"
+        },
+        {
+          "file": "thumb-basic-spinner-5.png",
+          "type": "spinner",
+          "at": "2026-08-11T04:27:12.251Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-basic-spinner-5.png",
+          "chance": 2,
+          "caseType": "spinner",
+          "at": "2026-08-11T04:27:12.251Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -7227,22 +7239,15 @@
           "amount": 500,
           "caseType": "glove",
           "at": "2026-08-11T04:25:45.939Z"
-        },
-        {
-          "kind": "skin",
-          "file": "thumb-Mercenery.png",
-          "chance": 8.5,
-          "caseType": "glove",
-          "at": "2026-08-11T04:25:39.200Z"
         }
       ],
       "lastBonus": 1786367456877,
-      "lastCaseAt": 1786422425725,
+      "lastCaseAt": 1786422431932,
       "lastBoosterAt": 1786421849312,
       "totalEarned": 1635900,
       "memoryGame": null,
       "username": "hatemytiredself",
-      "totalOpened": 230
+      "totalOpened": 231
     },
     "8429840420": {
       "name": "дверной проём",
