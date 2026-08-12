@@ -5197,8 +5197,21 @@
       "coins": 45777200,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "camospinner.png",
+          "type": "booster",
+          "at": "2026-08-12T19:33:09.905Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-12T19:33:09.905Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -5253,20 +5266,13 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-12T19:32:07.688Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitsnake.png",
-          "chance": 0.3,
-          "caseType": "knife",
-          "at": "2026-08-12T19:32:01.560Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786563182321,
-      "lastBoosterAt": 1786561344889,
+      "lastBoosterAt": 1786563189388,
       "totalEarned": 45854800,
-      "totalOpened": 263,
+      "totalOpened": 264,
       "memoryGame": null
     },
     "6703298995": {
