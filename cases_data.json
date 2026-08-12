@@ -4990,7 +4990,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 38136800,
+      "coins": 38136750,
       "luck": 1.25,
       "boosts": [
         {
@@ -5016,6 +5016,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-12T16:05:24.203Z"
+        },
         {
           "kind": "skin",
           "file": "m9desert.png",
@@ -5072,18 +5078,12 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-12T15:07:49.798Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-12T15:07:06.775Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786550696221,
+      "lastCaseAt": 1786550723770,
       "lastBoosterAt": 1786550601210,
-      "totalEarned": 41287500,
+      "totalEarned": 41287750,
       "memoryGame": {
         "board": [
           {
@@ -5313,7 +5313,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 4637
+      "totalOpened": 4638
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -7025,7 +7025,7 @@
     },
     "8347129286": {
       "name": "s10",
-      "coins": 326750,
+      "coins": 326800,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -7056,12 +7056,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-12T16:05:24.113Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -7115,15 +7109,22 @@
           "amount": 500,
           "caseType": "spinner",
           "at": "2026-08-12T16:03:16.540Z"
+        },
+        {
+          "kind": "skin",
+          "file": "thumb-basic-spinner-5.png",
+          "chance": 2,
+          "caseType": "spinner",
+          "at": "2026-08-12T16:03:09.665Z"
         }
       ],
       "lastBonus": 1786280838643,
-      "lastCaseAt": 1786550723525,
+      "lastCaseAt": 1786550717846,
       "username": "pastanal",
       "lastBoosterAt": 1786550520939,
-      "totalEarned": 8800,
+      "totalEarned": 8550,
       "memoryGame": null,
-      "totalOpened": 21
+      "totalOpened": 20
     },
     "6918450813": {
       "name": "Monyaosu",
