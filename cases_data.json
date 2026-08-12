@@ -12046,7 +12046,13 @@
       "coins": 257700,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-fairy.png",
+          "type": "glove",
+          "at": "2026-08-12T08:42:01.701Z"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -12301,8 +12307,8 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
+          true,
           false,
           false,
           false,
@@ -12329,9 +12335,11 @@
           "amount": 100,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1786524104217
+        "createdAt": 1786524104217,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "scrxdllla"
     },
