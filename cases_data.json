@@ -585,7 +585,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 12460650,
+      "coins": 12460450,
       "luck": 1.25,
       "boosts": [
         {
@@ -2523,6 +2523,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-12T13:24:49.835Z"
+        },
+        {
+          "kind": "coins",
           "amount": 1000,
           "caseType": "knife",
           "at": "2026-08-12T13:24:43.686Z"
@@ -2575,18 +2581,12 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-12T13:23:55.166Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-12T13:23:49.052Z"
         }
       ],
       "lastBonus": 1786368370516,
-      "lastCaseAt": 1786541083207,
+      "lastCaseAt": 1786541089266,
       "lastBoosterAt": 1786537520976,
-      "totalEarned": 15436750,
+      "totalEarned": 15436850,
       "memoryGame": {
         "board": [
           {
@@ -2803,7 +2803,7 @@
         "createdAt": 1786363992821
       },
       "username": "wfoee",
-      "totalOpened": 5454
+      "totalOpened": 5455
     },
     "1840807637": {
       "name": "𝑲𝒆𝒛𝒖𝒎𝒖 𝒏𝒆𝒕𝒓𝒐𝒍",
@@ -14295,21 +14295,9 @@
           "file": "thumb-Military.png",
           "type": "glove",
           "at": "2026-08-12T13:22:32.642Z"
-        },
-        {
-          "file": "butsaphire.png",
-          "type": "booster",
-          "at": "2026-08-12T13:24:47.977Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "butsaphire.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-12T13:24:47.977Z"
-        },
         {
           "kind": "coins",
           "amount": 250,
@@ -14332,9 +14320,9 @@
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786540996383,
-      "lastBoosterAt": 1786541087277,
+      "lastBoosterAt": 0,
       "totalEarned": 400,
-      "totalOpened": 4,
+      "totalOpened": 3,
       "memoryGame": null
     }
   },
