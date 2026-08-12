@@ -13263,8 +13263,21 @@
       "coins": 1700,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "woodspinner.png",
+          "type": "booster",
+          "at": "2026-08-12T19:19:55.168Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "woodspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-12T19:19:55.168Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -13280,9 +13293,9 @@
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786512789945,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1786562394711,
       "totalEarned": 1300,
-      "totalOpened": 2,
+      "totalOpened": 3,
       "memoryGame": {
         "board": [
           {
