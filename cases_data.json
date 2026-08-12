@@ -13106,7 +13106,7 @@
     },
     "7085796271": {
       "name": "Ikhsan",
-      "coins": 201650,
+      "coins": 201350,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -13119,9 +13119,21 @@
           "file": "m9koi.png",
           "type": "knife",
           "at": "2026-08-12T10:57:50.298Z"
+        },
+        {
+          "file": "thumb-basic-spinner-5.png",
+          "type": "spinner",
+          "at": "2026-08-12T10:59:03.620Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-basic-spinner-5.png",
+          "chance": 2,
+          "caseType": "spinner",
+          "at": "2026-08-12T10:59:03.620Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -13175,19 +13187,13 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-08-12T10:58:07.359Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-08-12T10:57:58.656Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786532336709,
+      "lastCaseAt": 1786532343250,
       "lastBoosterAt": 1786531916919,
       "totalEarned": 205450,
-      "totalOpened": 17,
+      "totalOpened": 18,
       "memoryGame": {
         "board": [
           {
