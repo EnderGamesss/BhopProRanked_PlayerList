@@ -4996,7 +4996,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 12891500,
+      "coins": 12891200,
       "luck": 1.25,
       "boosts": [
         {
@@ -5119,9 +5119,21 @@
           "file": "karambitsnake.png",
           "type": "knife",
           "at": "2026-08-12T10:31:44.181Z"
+        },
+        {
+          "file": "m9desert.png",
+          "type": "knife",
+          "at": "2026-08-12T10:45:54.428Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-12T10:45:54.428Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -5175,16 +5187,10 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-12T10:34:05.200Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-12T10:33:52.331Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786531541755,
+      "lastCaseAt": 1786531553961,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786530047253,
       "totalEarned": 14516100,
@@ -5407,7 +5413,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 1151
+      "totalOpened": 1152
     },
     "7886451818": {
       "name": "EnderGamesDev",
@@ -13017,7 +13023,7 @@
     },
     "8487861533": {
       "name": "Sw1zyx",
-      "coins": 12750,
+      "coins": 12900,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -13038,12 +13044,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-12T10:45:54.501Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -13099,13 +13099,19 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-12T10:44:36.767Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "spinner",
+          "at": "2026-08-12T10:44:28.693Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786531554034,
+      "lastCaseAt": 1786531546000,
       "lastBoosterAt": 1786531182144,
-      "totalEarned": 22550,
-      "totalOpened": 37,
+      "totalEarned": 22400,
+      "totalOpened": 36,
       "memoryGame": null,
       "username": "Sw1zyxpeek"
     }
