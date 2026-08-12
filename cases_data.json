@@ -5098,6 +5098,11 @@
           "file": "karambitdesert.png",
           "type": "knife",
           "at": "2026-08-12T09:24:04.494Z"
+        },
+        {
+          "file": "m9razor.png",
+          "type": "knife",
+          "at": "2026-08-12T09:24:31.331Z"
         }
       ],
       "history": [
@@ -5358,8 +5363,8 @@
         "matched": [
           false,
           false,
-          false,
-          false,
+          true,
+          true,
           false,
           false,
           false,
@@ -5387,9 +5392,11 @@
           "amount": 750,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 2,
         "status": "playing",
-        "createdAt": 1786526654802
+        "createdAt": 1786526654802,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "totalOpened": 1131
     },
