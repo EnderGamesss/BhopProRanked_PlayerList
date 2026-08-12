@@ -12701,11 +12701,24 @@
     },
     "8444359862": {
       "name": "︎ ︎ ᅠ ︎ ︎ ︎ ︎ ᅠ ︎ ︎ ︎ ︎ ᅠ",
-      "coins": 270550,
+      "coins": 270250,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "prettyspinner.png",
+          "type": "spinner",
+          "at": "2026-08-12T08:46:48.548Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "prettyspinner.png",
+          "chance": 0.5,
+          "caseType": "spinner",
+          "at": "2026-08-12T08:46:48.548Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -12745,10 +12758,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786524402788,
+      "lastCaseAt": 1786524408126,
       "lastBoosterAt": 1786524325247,
       "totalEarned": 271050,
-      "totalOpened": 6,
+      "totalOpened": 7,
       "memoryGame": {
         "board": [
           {
