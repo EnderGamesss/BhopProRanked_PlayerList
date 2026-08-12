@@ -13023,7 +13023,7 @@
     },
     "8487861533": {
       "name": "Sw1zyx",
-      "coins": 11350,
+      "coins": 11050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -13046,9 +13046,21 @@
           "file": "camospinner.png",
           "type": "spinner",
           "at": "2026-08-12T10:46:20.825Z"
+        },
+        {
+          "file": "butsnake.png",
+          "type": "knife",
+          "at": "2026-08-12T10:49:30.271Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butsnake.png",
+          "chance": 0.3,
+          "caseType": "knife",
+          "at": "2026-08-12T10:49:30.271Z"
+        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -13102,19 +13114,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-12T10:48:14.103Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-12T10:48:08.330Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786531763193,
+      "lastCaseAt": 1786531770024,
       "lastBoosterAt": 1786531182144,
       "totalEarned": 29250,
-      "totalOpened": 64,
+      "totalOpened": 65,
       "memoryGame": null,
       "username": "Sw1zyxpeek"
     }
