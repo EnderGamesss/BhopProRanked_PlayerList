@@ -12043,11 +12043,24 @@
     },
     "5839075768": {
       "name": ".",
-      "coins": 180700,
+      "coins": 180400,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9desert.png",
+          "type": "knife",
+          "at": "2026-08-12T08:36:31.971Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-12T08:36:31.971Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -12101,10 +12114,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786523785069,
+      "lastCaseAt": 1786523791714,
       "lastBoosterAt": 1786523646556,
       "totalEarned": 181500,
-      "totalOpened": 8,
+      "totalOpened": 9,
       "memoryGame": null,
       "username": "scrxdllla"
     },
