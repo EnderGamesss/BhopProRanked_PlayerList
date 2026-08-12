@@ -5202,7 +5202,13 @@
           "at": "2026-08-12T19:33:29.103Z"
         }
       ],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitmonster.png",
+          "type": "knife",
+          "at": "2026-08-12T19:38:01.845Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -5473,8 +5479,8 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
+          true,
           false,
           false,
           false,
@@ -5489,9 +5495,11 @@
           "amount": 100,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1786563453420
+        "createdAt": 1786563453420,
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     },
     "6703298995": {
