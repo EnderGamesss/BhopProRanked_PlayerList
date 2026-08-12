@@ -5194,24 +5194,11 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 45096050,
+      "coins": 45096350,
       "luck": 1,
       "boosts": [],
-      "inventory": [
-        {
-          "file": "m9forest.png",
-          "type": "knife",
-          "at": "2026-08-12T18:43:28.712Z"
-        }
-      ],
+      "inventory": [],
       "history": [
-        {
-          "kind": "skin",
-          "file": "m9forest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-12T18:43:28.712Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -5267,13 +5254,19 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-12T18:40:47.308Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-12T18:40:17.683Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786560208122,
+      "lastCaseAt": 1786560166227,
       "lastBoosterAt": 0,
       "totalEarned": 45107050,
-      "totalOpened": 40,
+      "totalOpened": 39,
       "memoryGame": null
     },
     "6703298995": {
@@ -15537,13 +15530,14 @@
     "duel_1786560198077_6099107221": {
       "challenger": "6099107221",
       "opponent": "8624452786",
-      "status": "bet_propose",
+      "status": "bet_confirm",
       "createdAt": 1786560198077,
       "choices": {
         "6099107221": "knife",
         "8624452786": "knife"
       },
-      "chosenType": "knife"
+      "chosenType": "knife",
+      "bet": 1000000
     }
   },
   "trades": {}
