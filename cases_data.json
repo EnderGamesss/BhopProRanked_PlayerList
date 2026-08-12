@@ -11729,11 +11729,24 @@
     },
     "8515322594": {
       "name": "Moxi",
-      "coins": 900,
+      "coins": 600,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-bluestar.png",
+          "type": "glove",
+          "at": "2026-08-12T02:53:28.123Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-bluestar.png",
+          "chance": 2.5,
+          "caseType": "glove",
+          "at": "2026-08-12T02:53:28.123Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -11742,10 +11755,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786503200140,
+      "lastCaseAt": 1786503207435,
       "lastBoosterAt": 0,
       "totalEarned": 200,
-      "totalOpened": 1,
+      "totalOpened": 2,
       "memoryGame": null,
       "username": "Epstein_14888"
     }
