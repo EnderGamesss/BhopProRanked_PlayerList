@@ -6420,8 +6420,21 @@
       "coins": 2089250,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butsuicide.png",
+          "type": "booster",
+          "at": "2026-08-12T18:15:57.351Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butsuicide.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-12T18:15:57.351Z"
+        },
         {
           "kind": "skin",
           "file": "m9forest.png",
@@ -6484,21 +6497,15 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-10T13:13:08.177Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T13:12:44.180Z"
         }
       ],
       "lastBonus": 1786281511849,
       "lastCaseAt": 1786367622067,
       "username": "orzett",
-      "lastBoosterAt": 1786546892723,
+      "lastBoosterAt": 1786558556960,
       "totalEarned": 2779450,
       "memoryGame": null,
-      "totalOpened": 55
+      "totalOpened": 56
     },
     "5624673181": {
       "name": "⚜️",
