@@ -6161,7 +6161,7 @@
     },
     "8624452786": {
       "name": "Örzet",
-      "coins": 2789900,
+      "coins": 1789900,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -10502,7 +10502,7 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 1822000,
+      "coins": 822000,
       "luck": 1.25,
       "boosts": [
         {
@@ -15524,14 +15524,20 @@
     "duel_1786559987085_6099107221": {
       "challenger": "6099107221",
       "opponent": "8624452786",
-      "status": "bet_confirm",
+      "status": "active",
       "createdAt": 1786559987085,
       "choices": {
         "8624452786": "knife",
         "6099107221": "knife"
       },
       "chosenType": "knife",
-      "bet": 1000000
+      "bet": 1000000,
+      "turn": "6099107221",
+      "challengerOpens": 0,
+      "opponentOpens": 0,
+      "challengerTotal": 0,
+      "opponentTotal": 0,
+      "results": []
     }
   },
   "trades": {}
