@@ -585,7 +585,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 12460850,
+      "coins": 12461300,
       "luck": 1.25,
       "boosts": [
         {
@@ -2512,6 +2512,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-12T13:23:37.184Z"
+        },
+        {
           "kind": "skin",
           "file": "m9desert.png",
           "chance": 0.9,
@@ -2569,18 +2575,12 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-12T13:22:42.663Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-12T13:22:36.572Z"
         }
       ],
       "lastBonus": 1786368370516,
-      "lastCaseAt": 1786541010512,
+      "lastCaseAt": 1786541016567,
       "lastBoosterAt": 1786537520976,
-      "totalEarned": 15433350,
+      "totalEarned": 15434100,
       "memoryGame": {
         "board": [
           {
@@ -2797,7 +2797,7 @@
         "createdAt": 1786363992821
       },
       "username": "wfoee",
-      "totalOpened": 5442
+      "totalOpened": 5443
     },
     "1840807637": {
       "name": "𝑲𝒆𝒛𝒖𝒎𝒖 𝒏𝒆𝒕𝒓𝒐𝒍",
@@ -14281,10 +14281,16 @@
     },
     "7781046438": {
       "name": "♤ 𝕸𝖗 𝖕𝖎𝖟𝖉𝖆 ♧",
-      "coins": 3500,
+      "coins": 500,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Military.png",
+          "type": "glove",
+          "at": "2026-08-12T13:22:32.642Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -14309,7 +14315,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786540996383,
       "lastBoosterAt": 0,
-      "totalEarned": 3400,
+      "totalEarned": 400,
       "totalOpened": 3,
       "memoryGame": null
     }
