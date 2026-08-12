@@ -5194,7 +5194,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 45623250,
+      "coins": 45623700,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -5215,6 +5215,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-12T19:28:44.823Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -5268,19 +5274,13 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-12T19:26:12.853Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-12T19:25:12.389Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786562877253,
+      "lastCaseAt": 1786562924317,
       "lastBoosterAt": 1786561344889,
-      "totalEarned": 45689750,
-      "totalOpened": 226,
+      "totalEarned": 45690500,
+      "totalOpened": 227,
       "memoryGame": null
     },
     "6703298995": {
@@ -13580,21 +13580,9 @@
           "file": "thumb-Military.png",
           "type": "booster",
           "at": "2026-08-12T18:27:21.388Z"
-        },
-        {
-          "file": "buttiger.png",
-          "type": "booster",
-          "at": "2026-08-12T19:28:43.565Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "buttiger.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-12T19:28:43.565Z"
-        },
         {
           "kind": "skin",
           "file": "thumb-Military.png",
@@ -13654,13 +13642,19 @@
           "amount": 1000,
           "caseType": "knife",
           "at": "2026-08-12T11:08:09.529Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-12T11:08:02.427Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786547374582,
-      "lastBoosterAt": 1786562923070,
+      "lastBoosterAt": 1786559241076,
       "totalEarned": 388750,
-      "totalOpened": 48,
+      "totalOpened": 47,
       "memoryGame": {
         "board": [
           {
