@@ -12697,8 +12697,21 @@
       "coins": 80650,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "royalspinner.png",
+          "type": "booster",
+          "at": "2026-08-12T08:45:26.070Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "royalspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-12T08:45:26.070Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -12714,9 +12727,9 @@
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786524189676,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1786524325247,
       "totalEarned": 80250,
-      "totalOpened": 2,
+      "totalOpened": 3,
       "memoryGame": {
         "board": [
           {
