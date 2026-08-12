@@ -13106,11 +13106,24 @@
     },
     "7085796271": {
       "name": "Ikhsan",
-      "coins": 203050,
+      "coins": 202750,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Swat.png",
+          "type": "glove",
+          "at": "2026-08-12T10:57:45.068Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Swat.png",
+          "chance": 7,
+          "caseType": "glove",
+          "at": "2026-08-12T10:57:45.068Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -13144,10 +13157,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786532255581,
+      "lastCaseAt": 1786532264592,
       "lastBoosterAt": 1786531916919,
       "totalEarned": 203250,
-      "totalOpened": 5,
+      "totalOpened": 6,
       "memoryGame": {
         "board": [
           {
