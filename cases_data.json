@@ -10392,11 +10392,24 @@
     },
     "8657351739": {
       "name": "Rana",
-      "coins": 299500,
+      "coins": 299200,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9desert.png",
+          "type": "knife",
+          "at": "2026-08-12T13:10:51.837Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-12T13:10:51.837Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -10450,19 +10463,13 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-12T13:08:00.098Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-12T13:07:53.361Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786540225817,
+      "lastCaseAt": 1786540251423,
       "lastBoosterAt": 1786539904373,
       "totalEarned": 303000,
-      "totalOpened": 17,
+      "totalOpened": 18,
       "memoryGame": null,
       "username": "Rana202311"
     },
