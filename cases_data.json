@@ -13260,7 +13260,7 @@
     },
     "6969164987": {
       "name": "007",
-      "coins": 700,
+      "coins": 1200,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -13281,7 +13281,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786512789945,
       "lastBoosterAt": 0,
-      "totalEarned": 300,
+      "totalEarned": 800,
       "totalOpened": 2,
       "memoryGame": {
         "board": [
@@ -13469,13 +13469,13 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -13500,9 +13500,11 @@
           "amount": 500,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1786562295060
+        "createdAt": 1786562295060,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "dark00600"
     },
