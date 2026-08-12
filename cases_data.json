@@ -3628,7 +3628,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 32012950,
+      "coins": 32012900,
       "luck": 1.25,
       "boosts": [
         {
@@ -3868,6 +3868,12 @@
           "kind": "coins",
           "amount": 250,
           "caseType": "knife",
+          "at": "2026-08-12T05:54:03.915Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
           "at": "2026-08-12T05:53:58.507Z"
         },
         {
@@ -3919,18 +3925,12 @@
           "chance": 0.25,
           "caseType": "knife",
           "at": "2026-08-12T05:51:44.359Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-12T05:51:34.068Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786514038077,
+      "lastCaseAt": 1786514043433,
       "lastBoosterAt": 1786514026820,
-      "totalEarned": 34959050,
+      "totalEarned": 34959300,
       "memoryGame": {
         "board": [
           {
@@ -4150,7 +4150,7 @@
         "flipStage": "wait_second",
         "firstFlip": 15
       },
-      "totalOpened": 3948
+      "totalOpened": 3949
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -12267,21 +12267,9 @@
           "file": "camospinner.png",
           "type": "spinner",
           "at": "2026-08-12T05:53:33.992Z"
-        },
-        {
-          "file": "ironaquaspinner.png",
-          "type": "booster",
-          "at": "2026-08-12T05:54:03.643Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "ironaquaspinner.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-12T05:54:03.643Z"
-        },
         {
           "kind": "coins",
           "amount": 250,
@@ -12298,9 +12286,9 @@
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786514019991,
-      "lastBoosterAt": 1786514043357,
+      "lastBoosterAt": 0,
       "totalEarned": 250,
-      "totalOpened": 3,
+      "totalOpened": 2,
       "memoryGame": null,
       "username": "scrxdllla"
     }
