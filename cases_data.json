@@ -9359,8 +9359,21 @@
           "at": "2026-08-11T09:44:14.146Z"
         }
       ],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9razor.png",
+          "type": "booster",
+          "at": "2026-08-12T06:01:42.122Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9razor.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-12T06:01:42.122Z"
+        },
         {
           "kind": "skin",
           "file": "m9razor.png",
@@ -9420,17 +9433,11 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-08-11T10:29:42.069Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "spinner",
-          "at": "2026-08-11T10:29:33.323Z"
         }
       ],
       "lastBonus": 1786367456877,
       "lastCaseAt": 1786464597106,
-      "lastBoosterAt": 1786509432246,
+      "lastBoosterAt": 1786514501912,
       "totalEarned": 2672900,
       "memoryGame": {
         "board": [
@@ -9660,7 +9667,7 @@
         "firstFlip": null
       },
       "username": "hatemytiredself",
-      "totalOpened": 288
+      "totalOpened": 289
     },
     "8429840420": {
       "name": "дверной проём",
