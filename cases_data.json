@@ -585,7 +585,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 12464850,
+      "coins": 12464550,
       "luck": 1.25,
       "boosts": [
         {
@@ -2428,9 +2428,21 @@
           "file": "karambittiger.png",
           "type": "knife",
           "at": "2026-08-12T13:15:48.512Z"
+        },
+        {
+          "file": "m9snake.png",
+          "type": "knife",
+          "at": "2026-08-12T13:16:30.588Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9snake.png",
+          "chance": 0.35,
+          "caseType": "knife",
+          "at": "2026-08-12T13:16:30.588Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -2485,16 +2497,10 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-12T13:14:30.121Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-12T13:14:23.935Z"
         }
       ],
       "lastBonus": 1786368370516,
-      "lastCaseAt": 1786540559994,
+      "lastCaseAt": 1786540590201,
       "lastBoosterAt": 1786537520976,
       "totalEarned": 15419350,
       "memoryGame": {
@@ -2713,7 +2719,7 @@
         "createdAt": 1786363992821
       },
       "username": "wfoee",
-      "totalOpened": 5382
+      "totalOpened": 5383
     },
     "1840807637": {
       "name": "𝑲𝒆𝒛𝒖𝒎𝒖 𝒏𝒆𝒕𝒓𝒐𝒍",
@@ -2789,7 +2795,7 @@
     },
     "2080177555": {
       "name": "ауука",
-      "coins": 241900,
+      "coins": 242050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2800,12 +2806,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-12T13:16:30.144Z"
-        },
         {
           "kind": "skin",
           "file": "thumb-basic-spinner-5.png",
@@ -2862,13 +2862,19 @@
           "amount": 500,
           "caseType": "spinner",
           "at": "2026-08-12T13:14:44.494Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "spinner",
+          "at": "2026-08-12T13:14:36.898Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786540589645,
+      "lastCaseAt": 1786540567145,
       "lastBoosterAt": 0,
-      "totalEarned": 255600,
-      "totalOpened": 49,
+      "totalEarned": 255450,
+      "totalOpened": 48,
       "memoryGame": null,
       "username": "auuku"
     },
