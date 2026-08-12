@@ -585,7 +585,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 12470100,
+      "coins": 12470200,
       "luck": 1.25,
       "boosts": [
         {
@@ -2398,9 +2398,9 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 150,
+          "amount": 250,
           "caseType": "knife",
-          "at": "2026-08-12T13:09:33.437Z"
+          "at": "2026-08-12T13:09:39.268Z"
         },
         {
           "kind": "coins",
@@ -2460,9 +2460,9 @@
         }
       ],
       "lastBonus": 1786368370516,
-      "lastCaseAt": 1786540172917,
+      "lastCaseAt": 1786540178936,
       "lastBoosterAt": 1786537520976,
-      "totalEarned": 15410200,
+      "totalEarned": 15410300,
       "memoryGame": {
         "board": [
           {
@@ -10382,17 +10382,11 @@
     },
     "8657351739": {
       "name": "Rana",
-      "coins": 299000,
+      "coins": 299200,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-12T13:09:36.962Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -10446,13 +10440,19 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-08-12T13:07:11.601Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-12T13:06:43.796Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786540176446,
+      "lastCaseAt": 1786540161631,
       "lastBoosterAt": 1786539904373,
-      "totalEarned": 301900,
-      "totalOpened": 15,
+      "totalEarned": 301800,
+      "totalOpened": 14,
       "memoryGame": null,
       "username": "Rana202311"
     },
@@ -14097,11 +14097,24 @@
     },
     "6217176305": {
       "name": "Maksym Igorovicn",
-      "coins": 17000,
+      "coins": 16700,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9guardian.png",
+          "type": "knife",
+          "at": "2026-08-12T13:09:35.350Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9guardian.png",
+          "chance": 0.05,
+          "caseType": "knife",
+          "at": "2026-08-12T13:09:35.350Z"
+        },
         {
           "kind": "skin",
           "file": "karambitkoi.png",
@@ -14111,10 +14124,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 0,
+      "lastCaseAt": 1786540174994,
       "lastBoosterAt": 1786540109652,
       "totalEarned": 16000,
-      "totalOpened": 1,
+      "totalOpened": 2,
       "memoryGame": null,
       "username": "Maksym_Igorovicn"
     }
