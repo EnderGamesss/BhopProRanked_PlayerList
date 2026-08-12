@@ -585,7 +585,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 12330800,
+      "coins": 12330500,
       "luck": 1.25,
       "boosts": [
         {
@@ -3608,6 +3608,18 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-12T16:52:16.498Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-12T16:52:10.947Z"
+        },
+        {
+          "kind": "coins",
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-12T16:45:14.680Z"
@@ -3655,24 +3667,12 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-12T16:40:45.061Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-12T16:40:39.260Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-12T16:40:26.952Z"
         }
       ],
       "lastBonus": 1786368370516,
-      "lastCaseAt": 1786553114016,
+      "lastCaseAt": 1786553536148,
       "lastBoosterAt": 1786553004058,
-      "totalEarned": 15792600,
+      "totalEarned": 15792900,
       "memoryGame": {
         "board": [
           {
@@ -3889,7 +3889,7 @@
         "createdAt": 1786363992821
       },
       "username": "wfoee",
-      "totalOpened": 7076
+      "totalOpened": 7078
     },
     "1840807637": {
       "name": "𝑲𝒆𝒛𝒖𝒎𝒖 𝒏𝒆𝒕𝒓𝒐𝒍",
@@ -5158,13 +5158,7 @@
           "at": "2026-08-10T12:50:27.136Z"
         }
       ],
-      "inventory": [
-        {
-          "file": "ironaquaspinner.png",
-          "type": "spinner",
-          "at": "2026-08-12T16:52:12.453Z"
-        }
-      ],
+      "inventory": [],
       "history": [
         {
           "kind": "coins",
@@ -5418,8 +5412,8 @@
           false
         ],
         "matched": [
-          true,
-          true,
+          false,
+          false,
           false,
           false,
           false,
@@ -5449,11 +5443,9 @@
           "amount": 150,
           "weight": 20
         },
-        "attempts": 4,
+        "attempts": 7,
         "status": "playing",
-        "createdAt": 1786553509473,
-        "flipStage": "wait_first",
-        "firstFlip": null
+        "createdAt": 1786553509473
       },
       "totalOpened": 4664
     },
