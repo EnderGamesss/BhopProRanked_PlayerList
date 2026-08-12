@@ -13106,7 +13106,7 @@
     },
     "7085796271": {
       "name": "Ikhsan",
-      "coins": 200700,
+      "coins": 200850,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -13134,7 +13134,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786531948732,
       "lastBoosterAt": 1786531916919,
-      "totalEarned": 200300,
+      "totalEarned": 200450,
       "totalOpened": 3,
       "memoryGame": {
         "board": [
@@ -13308,6 +13308,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -13316,8 +13317,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -13335,9 +13335,11 @@
           "amount": 750,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1786532075111
+        "createdAt": 1786532075111,
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     }
   },
