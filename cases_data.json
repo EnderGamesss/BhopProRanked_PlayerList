@@ -12701,11 +12701,24 @@
     },
     "8444359862": {
       "name": "︎ ︎ ᅠ ︎ ︎ ︎ ︎ ᅠ ︎ ︎ ︎ ︎ ᅠ",
-      "coins": 458300,
+      "coins": 458000,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-North.png",
+          "type": "glove",
+          "at": "2026-08-12T08:53:35.063Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-North.png",
+          "chance": 7.5,
+          "caseType": "glove",
+          "at": "2026-08-12T08:53:35.063Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -12760,19 +12773,13 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-08-12T08:52:19.151Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "spinner",
-          "at": "2026-08-12T08:52:12.341Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786524800055,
+      "lastCaseAt": 1786524814828,
       "lastBoosterAt": 1786524325247,
       "totalEarned": 472900,
-      "totalOpened": 53,
+      "totalOpened": 54,
       "memoryGame": {
         "board": [
           {
