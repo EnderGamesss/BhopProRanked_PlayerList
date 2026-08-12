@@ -13017,7 +13017,7 @@
     },
     "8487861533": {
       "name": "Sw1zyx",
-      "coins": 13500,
+      "coins": 13200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -13025,9 +13025,21 @@
           "file": "camospinner.png",
           "type": "spinner",
           "at": "2026-08-12T10:43:26.593Z"
+        },
+        {
+          "file": "ironaquaspinner.png",
+          "type": "spinner",
+          "at": "2026-08-12T10:44:54.942Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "ironaquaspinner.png",
+          "chance": 1,
+          "caseType": "spinner",
+          "at": "2026-08-12T10:44:54.942Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -13081,19 +13093,13 @@
           "amount": 500,
           "caseType": "spinner",
           "at": "2026-08-12T10:43:39.756Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-12T10:43:33.034Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786531488867,
+      "lastCaseAt": 1786531494543,
       "lastBoosterAt": 1786531182144,
       "totalEarned": 21200,
-      "totalOpened": 30,
+      "totalOpened": 31,
       "memoryGame": null,
       "username": "Sw1zyxpeek"
     }
