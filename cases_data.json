@@ -12261,8 +12261,21 @@
       "coins": 10650,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9guardian.png",
+          "type": "booster",
+          "at": "2026-08-12T05:54:19.354Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9guardian.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-12T05:54:19.354Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -12279,9 +12292,9 @@
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786514019991,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1786514058841,
       "totalEarned": 10250,
-      "totalOpened": 2,
+      "totalOpened": 3,
       "memoryGame": null,
       "username": "scrxdllla"
     }
