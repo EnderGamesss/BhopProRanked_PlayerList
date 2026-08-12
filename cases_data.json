@@ -4597,6 +4597,11 @@
           "file": "m9koi.png",
           "type": "knife",
           "at": "2026-08-12T14:55:54.175Z"
+        },
+        {
+          "file": "m9koi.png",
+          "type": "knife",
+          "at": "2026-08-12T14:56:00.929Z"
         }
       ],
       "history": [
@@ -4860,21 +4865,21 @@
           false
         ],
         "matched": [
-          true,
-          true,
-          true,
+          false,
+          false,
           true,
           false,
           false,
           false,
           false,
           false,
-          true,
+          false,
           true,
           false,
           false,
-          true,
-          true,
+          false,
+          false,
+          false,
           false,
           false,
           false,
@@ -4893,7 +4898,7 @@
           "price": 2500,
           "weight": 3
         },
-        "attempts": 2,
+        "attempts": 1,
         "status": "playing",
         "createdAt": 1786546471665,
         "flipStage": "wait_first",
