@@ -6363,11 +6363,24 @@
     },
     "7886091409": {
       "name": "33",
-      "coins": 1442650,
+      "coins": 1442350,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butdesert.png",
+          "type": "knife",
+          "at": "2026-08-12T03:53:07.929Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-12T03:53:07.929Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -6422,21 +6435,15 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-12T03:51:32.586Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-12T03:51:20.448Z"
         }
       ],
       "lastBonus": 1786355532795,
-      "lastCaseAt": 1786506781554,
+      "lastCaseAt": 1786506787519,
       "lastBoosterAt": 1786506692281,
       "totalEarned": 1489050,
       "memoryGame": null,
       "username": "torment33",
-      "totalOpened": 17
+      "totalOpened": 18
     },
     "7231392817": {
       "name": "Нейрохам",
