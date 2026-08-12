@@ -10490,7 +10490,7 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 1820400,
+      "coins": 1820500,
       "luck": 1.25,
       "boosts": [
         {
@@ -10506,6 +10506,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-12T18:36:16.223Z"
+        },
         {
           "kind": "skin",
           "file": "butforest.png",
@@ -10561,18 +10567,12 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-08-12T16:46:17.515Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "spinner",
-          "at": "2026-08-12T16:46:11.520Z"
         }
       ],
       "lastBonus": 1786367456877,
-      "lastCaseAt": 1786553290757,
+      "lastCaseAt": 1786559776223,
       "lastBoosterAt": 1786558067383,
-      "totalEarned": 2925000,
+      "totalEarned": 2925100,
       "memoryGame": {
         "board": [
           {
@@ -10801,7 +10801,7 @@
         "firstFlip": null
       },
       "username": "hatemytiredself",
-      "totalOpened": 305
+      "totalOpened": 306
     },
     "8429840420": {
       "name": "дверной проём",
@@ -15414,11 +15414,21 @@
       "chosenType": "knife",
       "bet": 100000,
       "turn": "6099107221",
-      "challengerOpens": 0,
+      "challengerOpens": 1,
       "opponentOpens": 0,
-      "challengerTotal": 0,
+      "challengerTotal": 100,
       "opponentTotal": 0,
-      "results": []
+      "results": [
+        {
+          "uid": "6099107221",
+          "result": {
+            "kind": "coins",
+            "amount": 100
+          },
+          "earnings": 100
+        }
+      ],
+      "lastAction": 1786559776223
     }
   },
   "trades": {}
