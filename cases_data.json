@@ -2575,11 +2575,17 @@
     },
     "2080177555": {
       "name": "ауука",
-      "coins": 114700,
+      "coins": 114600,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "spinner",
+          "at": "2026-08-12T12:36:40.438Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2634,19 +2640,13 @@
           "chance": 0.6,
           "caseType": "spinner",
           "at": "2026-08-12T12:32:54.068Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "spinner",
-          "at": "2026-08-12T12:32:47.335Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786538168248,
+      "lastCaseAt": 1786538200020,
       "lastBoosterAt": 0,
-      "totalEarned": 122700,
-      "totalOpened": 30,
+      "totalEarned": 122900,
+      "totalOpened": 31,
       "memoryGame": null,
       "username": "auuku"
     },
