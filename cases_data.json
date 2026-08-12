@@ -3628,7 +3628,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 32013000,
+      "coins": 32012950,
       "luck": 1.25,
       "boosts": [
         {
@@ -3865,6 +3865,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-12T05:53:58.507Z"
+        },
+        {
           "kind": "skin",
           "file": "thumb-North.png",
           "chance": 1,
@@ -3919,18 +3925,12 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-12T05:51:34.068Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-12T05:51:20.981Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786513996886,
+      "lastCaseAt": 1786514038077,
       "lastBoosterAt": 1786514026820,
-      "totalEarned": 34958800,
+      "totalEarned": 34959050,
       "memoryGame": {
         "board": [
           {
@@ -4150,7 +4150,7 @@
         "flipStage": "wait_second",
         "firstFlip": 15
       },
-      "totalOpened": 3947
+      "totalOpened": 3948
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -12259,10 +12259,16 @@
     },
     "5839075768": {
       "name": ".",
-      "coins": 10650,
+      "coins": 650,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "camospinner.png",
+          "type": "spinner",
+          "at": "2026-08-12T05:53:33.992Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -12281,7 +12287,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786514019991,
       "lastBoosterAt": 0,
-      "totalEarned": 10250,
+      "totalEarned": 250,
       "totalOpened": 2,
       "memoryGame": null,
       "username": "scrxdllla"
