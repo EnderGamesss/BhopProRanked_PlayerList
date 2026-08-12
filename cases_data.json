@@ -5194,7 +5194,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 45000200,
+      "coins": 45000000,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -5220,12 +5220,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-12T18:40:40.813Z"
-        },
         {
           "kind": "coins",
           "amount": 150,
@@ -5281,13 +5275,20 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-12T18:39:11.581Z"
+        },
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-12T18:36:04.490Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786560040336,
+      "lastCaseAt": 1786560016906,
       "lastBoosterAt": 0,
-      "totalEarned": 45008500,
-      "totalOpened": 31,
+      "totalEarned": 45008000,
+      "totalOpened": 30,
       "memoryGame": null
     },
     "6703298995": {
@@ -10501,7 +10502,7 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 822000,
+      "coins": 822250,
       "luck": 1.25,
       "boosts": [
         {
@@ -10522,6 +10523,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-12T18:40:42.500Z"
+        },
         {
           "kind": "skin",
           "file": "butkoi.png",
@@ -10578,18 +10585,12 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-08-12T16:48:01.752Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "spinner",
-          "at": "2026-08-12T16:47:55.174Z"
         }
       ],
       "lastBonus": 1786367456877,
-      "lastCaseAt": 1786559851707,
+      "lastCaseAt": 1786560042500,
       "lastBoosterAt": 1786559957981,
-      "totalEarned": 2926600,
+      "totalEarned": 2926850,
       "memoryGame": {
         "board": [
           {
@@ -10818,7 +10819,7 @@
         "firstFlip": null
       },
       "username": "hatemytiredself",
-      "totalOpened": 311
+      "totalOpened": 312
     },
     "8429840420": {
       "name": "дверной проём",
@@ -15532,11 +15533,21 @@
       "chosenType": "knife",
       "bet": 1000000,
       "turn": "6099107221",
-      "challengerOpens": 0,
+      "challengerOpens": 1,
       "opponentOpens": 0,
-      "challengerTotal": 0,
+      "challengerTotal": 250,
       "opponentTotal": 0,
-      "results": []
+      "results": [
+        {
+          "uid": "6099107221",
+          "result": {
+            "kind": "coins",
+            "amount": 250
+          },
+          "earnings": 250
+        }
+      ],
+      "lastAction": 1786560042500
     }
   },
   "trades": {}
