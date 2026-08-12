@@ -5194,7 +5194,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 45621600,
+      "coins": 45621300,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -5222,9 +5222,21 @@
           "file": "butemerand.png",
           "type": "knife",
           "at": "2026-08-12T19:30:39.298Z"
+        },
+        {
+          "file": "m9snake.png",
+          "type": "knife",
+          "at": "2026-08-12T19:31:45.957Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9snake.png",
+          "chance": 0.35,
+          "caseType": "knife",
+          "at": "2026-08-12T19:31:45.957Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -5278,19 +5290,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-12T19:30:52.054Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-12T19:30:45.976Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786563100269,
+      "lastCaseAt": 1786563105480,
       "lastBoosterAt": 1786561344889,
       "totalEarned": 45695600,
-      "totalOpened": 251,
+      "totalOpened": 252,
       "memoryGame": null
     },
     "6703298995": {
