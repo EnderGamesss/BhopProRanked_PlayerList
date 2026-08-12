@@ -585,7 +585,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 12462850,
+      "coins": 12463300,
       "luck": 1.25,
       "boosts": [
         {
@@ -2463,6 +2463,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-12T13:19:20.271Z"
+        },
+        {
+          "kind": "coins",
           "amount": 1000,
           "caseType": "knife",
           "at": "2026-08-12T13:19:14.876Z"
@@ -2517,18 +2523,12 @@
           "amount": 1000,
           "caseType": "knife",
           "at": "2026-08-12T13:18:07.594Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-12T13:18:01.776Z"
         }
       ],
       "lastBonus": 1786368370516,
-      "lastCaseAt": 1786540754440,
+      "lastCaseAt": 1786540759781,
       "lastBoosterAt": 1786537520976,
-      "totalEarned": 15423650,
+      "totalEarned": 15424400,
       "memoryGame": {
         "board": [
           {
@@ -2745,7 +2745,7 @@
         "createdAt": 1786363992821
       },
       "username": "wfoee",
-      "totalOpened": 5403
+      "totalOpened": 5404
     },
     "1840807637": {
       "name": "𝑲𝒆𝒛𝒖𝒎𝒖 𝒏𝒆𝒕𝒓𝒐𝒍",
@@ -2821,24 +2821,11 @@
     },
     "2080177555": {
       "name": "ауука",
-      "coins": 255450,
+      "coins": 255750,
       "luck": 1,
       "boosts": [],
-      "inventory": [
-        {
-          "file": "skullspinner.png",
-          "type": "spinner",
-          "at": "2026-08-12T13:19:19.520Z"
-        }
-      ],
+      "inventory": [],
       "history": [
-        {
-          "kind": "skin",
-          "file": "skullspinner.png",
-          "chance": 0.4,
-          "caseType": "spinner",
-          "at": "2026-08-12T13:19:19.520Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2892,13 +2879,20 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-08-12T13:16:37.834Z"
+        },
+        {
+          "kind": "skin",
+          "file": "thumb-basic-spinner-5.png",
+          "chance": 2,
+          "caseType": "spinner",
+          "at": "2026-08-12T13:16:07.584Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786540759183,
+      "lastCaseAt": 1786540741193,
       "lastBoosterAt": 0,
       "totalEarned": 271850,
-      "totalOpened": 58,
+      "totalOpened": 57,
       "memoryGame": null,
       "username": "auuku"
     },
