@@ -12205,7 +12205,7 @@
     },
     "5769326718": {
       "name": "Хамстер",
-      "coins": 700,
+      "coins": 200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -12213,14 +12213,20 @@
           "file": "thumb-Mercenery.png",
           "type": "glove",
           "at": "2026-08-12T07:18:00.843Z"
+        },
+        {
+          "file": "thumb-Swat.png",
+          "type": "glove",
+          "at": "2026-08-12T07:18:08.218Z"
         }
       ],
       "history": [
         {
-          "kind": "coins",
-          "amount": 500,
+          "kind": "skin",
+          "file": "thumb-Swat.png",
+          "chance": 7,
           "caseType": "glove",
-          "at": "2026-08-12T07:18:06.455Z"
+          "at": "2026-08-12T07:18:08.218Z"
         },
         {
           "kind": "skin",
@@ -12237,9 +12243,9 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786519086085,
+      "lastCaseAt": 1786519087683,
       "lastBoosterAt": 0,
-      "totalEarned": 600,
+      "totalEarned": 100,
       "totalOpened": 3,
       "memoryGame": null,
       "username": "arbyziku_k"
