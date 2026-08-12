@@ -2801,7 +2801,7 @@
     },
     "2080177555": {
       "name": "ауука",
-      "coins": 241750,
+      "coins": 241700,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -2812,6 +2812,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "spinner",
+          "at": "2026-08-12T13:16:54.294Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -2867,20 +2873,13 @@
           "amount": 250,
           "caseType": "spinner",
           "at": "2026-08-12T13:15:04.085Z"
-        },
-        {
-          "kind": "skin",
-          "file": "woodspinner.png",
-          "chance": 0.6,
-          "caseType": "spinner",
-          "at": "2026-08-12T13:14:49.952Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786540605379,
+      "lastCaseAt": 1786540613795,
       "lastBoosterAt": 0,
-      "totalEarned": 255750,
-      "totalOpened": 50,
+      "totalEarned": 256000,
+      "totalOpened": 51,
       "memoryGame": null,
       "username": "auuku"
     },
@@ -3994,7 +3993,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 37528300,
+      "coins": 37528500,
       "luck": 1.25,
       "boosts": [
         {
@@ -4004,12 +4003,6 @@
       ],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-12T13:16:54.084Z"
-        },
         {
           "kind": "coins",
           "amount": 200,
@@ -4064,12 +4057,18 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-12T08:01:55.667Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-12T08:01:48.346Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786540613375,
+      "lastCaseAt": 1786540583146,
       "lastBoosterAt": 1786538782835,
-      "totalEarned": 40666100,
+      "totalEarned": 40666000,
       "memoryGame": {
         "board": [
           {
@@ -4289,7 +4288,7 @@
         "flipStage": "wait_second",
         "firstFlip": 15
       },
-      "totalOpened": 4591
+      "totalOpened": 4590
     },
     "6703298995": {
       "name": "Aleksandyr",
