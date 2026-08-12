@@ -3628,7 +3628,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 31928850,
+      "coins": 31929150,
       "luck": 1.25,
       "boosts": [
         {
@@ -3741,21 +3741,9 @@
           "file": "m9forest.png",
           "type": "knife",
           "at": "2026-08-12T05:17:05.627Z"
-        },
-        {
-          "file": "karambitforest.png",
-          "type": "knife",
-          "at": "2026-08-12T05:18:15.679Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "karambitforest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-12T05:18:15.679Z"
-        },
         {
           "kind": "coins",
           "amount": 150,
@@ -3810,10 +3798,17 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-12T05:16:25.717Z"
+        },
+        {
+          "kind": "skin",
+          "file": "m9forest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-12T05:15:55.193Z"
         }
       ],
       "lastBonus": 1786259491073,
-      "lastCaseAt": 1786511895263,
+      "lastCaseAt": 1786511887513,
       "lastBoosterAt": 1786510395463,
       "totalEarned": 34807150,
       "memoryGame": {
@@ -4035,7 +4030,7 @@
         "flipStage": "wait_second",
         "firstFlip": 15
       },
-      "totalOpened": 3721
+      "totalOpened": 3720
     },
     "6703298995": {
       "name": "Aleksandyr",
@@ -11837,16 +11832,10 @@
     },
     "7721758803": {
       "name": "Delly",
-      "coins": 1000,
+      "coins": 66000,
       "luck": 1,
       "boosts": [],
-      "inventory": [
-        {
-          "file": "woodspinner.png",
-          "type": "booster",
-          "at": "2026-08-12T05:18:03.192Z"
-        }
-      ],
+      "inventory": [],
       "history": [
         {
           "kind": "skin",
@@ -11859,7 +11848,7 @@
       "lastBonus": 0,
       "lastCaseAt": 0,
       "lastBoosterAt": 1786511882625,
-      "totalEarned": 0,
+      "totalEarned": 65000,
       "totalOpened": 1,
       "memoryGame": null,
       "username": "delly4"
