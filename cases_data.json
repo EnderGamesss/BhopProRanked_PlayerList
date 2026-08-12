@@ -585,7 +585,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 12493100,
+      "coins": 12492400,
       "luck": 1.25,
       "boosts": [
         {
@@ -2198,12 +2198,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 1000,
-          "caseType": "knife",
-          "at": "2026-08-12T12:33:45.580Z"
-        },
-        {
-          "kind": "coins",
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-12T12:33:39.784Z"
@@ -2255,12 +2249,18 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-12T12:32:51.263Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-12T12:32:45.317Z"
         }
       ],
       "lastBonus": 1786368370516,
-      "lastCaseAt": 1786538025274,
+      "lastCaseAt": 1786538019245,
       "lastBoosterAt": 1786537520976,
-      "totalEarned": 15341100,
+      "totalEarned": 15340100,
       "memoryGame": {
         "board": [
           {
@@ -2477,7 +2477,7 @@
         "createdAt": 1786363992821
       },
       "username": "wfoee",
-      "totalOpened": 5027
+      "totalOpened": 5026
     },
     "1840807637": {
       "name": "𝑲𝒆𝒛𝒖𝒎𝒖 𝒏𝒆𝒕𝒓𝒐𝒍",
@@ -12203,8 +12203,21 @@
       "coins": 373950,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Swat.png",
+          "type": "booster",
+          "at": "2026-08-12T12:33:46.517Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Swat.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-12T12:33:46.517Z"
+        },
         {
           "kind": "skin",
           "file": "m9koi.png",
@@ -12260,20 +12273,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-12T10:29:44.793Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitbreak.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-12T10:28:30.409Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786532895858,
-      "lastBoosterAt": 1786532905591,
+      "lastBoosterAt": 1786538026209,
       "totalEarned": 384050,
-      "totalOpened": 41,
+      "totalOpened": 42,
       "memoryGame": {
         "board": [
           {
