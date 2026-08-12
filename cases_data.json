@@ -5207,6 +5207,11 @@
           "file": "butkoi.png",
           "type": "knife",
           "at": "2026-08-12T17:59:34.301Z"
+        },
+        {
+          "file": "ironaquaspinner.png",
+          "type": "spinner",
+          "at": "2026-08-12T18:00:11.445Z"
         }
       ],
       "history": [
@@ -5479,12 +5484,12 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -5507,9 +5512,11 @@
           "price": 12000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1786557579154
+        "createdAt": 1786557579154,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "totalOpened": 5039
     },
