@@ -585,7 +585,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 12468550,
+      "coins": 12469000,
       "luck": 1.25,
       "boosts": [
         {
@@ -2408,6 +2408,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-12T13:10:58.262Z"
+        },
+        {
+          "kind": "coins",
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-12T13:10:46.321Z"
@@ -2461,18 +2467,12 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-12T13:09:45.976Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-12T13:09:39.268Z"
         }
       ],
       "lastBonus": 1786368370516,
-      "lastCaseAt": 1786540245588,
+      "lastCaseAt": 1786540257684,
       "lastBoosterAt": 1786537520976,
-      "totalEarned": 15411350,
+      "totalEarned": 15412100,
       "memoryGame": {
         "board": [
           {
@@ -2689,7 +2689,7 @@
         "createdAt": 1786363992821
       },
       "username": "wfoee",
-      "totalOpened": 5343
+      "totalOpened": 5344
     },
     "1840807637": {
       "name": "𝑲𝒆𝒛𝒖𝒎𝒖 𝒏𝒆𝒕𝒓𝒐𝒍",
@@ -10392,7 +10392,7 @@
     },
     "8657351739": {
       "name": "Rana",
-      "coins": 299050,
+      "coins": 299200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -10403,12 +10403,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-12T13:10:56.840Z"
-        },
         {
           "kind": "skin",
           "file": "m9desert.png",
@@ -10463,13 +10457,19 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-12T13:08:06.657Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-12T13:08:00.098Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786540256571,
+      "lastCaseAt": 1786540251423,
       "lastBoosterAt": 1786539904373,
-      "totalEarned": 303150,
-      "totalOpened": 19,
+      "totalEarned": 303000,
+      "totalOpened": 18,
       "memoryGame": null,
       "username": "Rana202311"
     },
