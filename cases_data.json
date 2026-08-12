@@ -585,7 +585,7 @@
     },
     "1721484630": {
       "name": "zqxas",
-      "coins": 12486550,
+      "coins": 12485850,
       "luck": 1.25,
       "boosts": [
         {
@@ -2277,12 +2277,6 @@
       ],
       "history": [
         {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "knife",
-          "at": "2026-08-12T12:46:21.699Z"
-        },
-        {
           "kind": "skin",
           "file": "karambitforest.png",
           "chance": 0.9,
@@ -2336,12 +2330,18 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-12T12:45:27.008Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-12T12:45:21.441Z"
         }
       ],
       "lastBonus": 1786368370516,
-      "lastCaseAt": 1786538781083,
+      "lastCaseAt": 1786538775125,
       "lastBoosterAt": 1786537520976,
-      "totalEarned": 15368750,
+      "totalEarned": 15367750,
       "memoryGame": {
         "board": [
           {
@@ -2558,7 +2558,7 @@
         "createdAt": 1786363992821
       },
       "username": "wfoee",
-      "totalOpened": 5141
+      "totalOpened": 5140
     },
     "1840807637": {
       "name": "𝑲𝒆𝒛𝒖𝒎𝒖 𝒏𝒆𝒕𝒓𝒐𝒍",
@@ -3827,8 +3827,21 @@
           "at": "2026-08-10T12:50:27.136Z"
         }
       ],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9skullskin.png",
+          "type": "booster",
+          "at": "2026-08-12T12:46:23.510Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9skullskin.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-12T12:46:23.510Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -3884,17 +3897,11 @@
           "chance": 0.3,
           "caseType": "knife",
           "at": "2026-08-12T08:01:17.034Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-12T08:01:09.186Z"
         }
       ],
       "lastBonus": 1786259491073,
       "lastCaseAt": 1786521747043,
-      "lastBoosterAt": 1786521696894,
+      "lastBoosterAt": 1786538782835,
       "totalEarned": 40370500,
       "memoryGame": {
         "board": [
@@ -4115,7 +4122,7 @@
         "flipStage": "wait_second",
         "firstFlip": 15
       },
-      "totalOpened": 4586
+      "totalOpened": 4587
     },
     "6703298995": {
       "name": "Aleksandyr",
