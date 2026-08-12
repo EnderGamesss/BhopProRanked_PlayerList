@@ -6150,7 +6150,7 @@
     },
     "8624452786": {
       "name": "Örzet",
-      "coins": 2589650,
+      "coins": 2589750,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -6161,6 +6161,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-12T18:37:10.155Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -6221,22 +6227,15 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-10T17:36:10.029Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9desert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-10T13:13:42.505Z"
         }
       ],
       "lastBonus": 1786281511849,
-      "lastCaseAt": 1786559812794,
+      "lastCaseAt": 1786559830155,
       "username": "orzett",
       "lastBoosterAt": 1786558556960,
-      "totalEarned": 2779850,
+      "totalEarned": 2779950,
       "memoryGame": null,
-      "totalOpened": 58
+      "totalOpened": 59
     },
     "5624673181": {
       "name": "⚜️",
@@ -15413,9 +15412,9 @@
       "bet": 100000,
       "turn": "8624452786",
       "challengerOpens": 3,
-      "opponentOpens": 2,
+      "opponentOpens": 3,
       "challengerTotal": 450,
-      "opponentTotal": 400,
+      "opponentTotal": 500,
       "results": [
         {
           "uid": "6099107221",
@@ -15456,9 +15455,17 @@
             "amount": 100
           },
           "earnings": 100
+        },
+        {
+          "uid": "8624452786",
+          "result": {
+            "kind": "coins",
+            "amount": 100
+          },
+          "earnings": 100
         }
       ],
-      "lastAction": 1786559822928
+      "lastAction": 1786559830155
     }
   },
   "trades": {}
