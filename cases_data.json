@@ -3636,8 +3636,21 @@
           "at": "2026-08-10T12:50:27.136Z"
         }
       ],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "arrowspinner.png",
+          "type": "booster",
+          "at": "2026-08-12T08:01:37.470Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "arrowspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-12T08:01:37.470Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -3692,17 +3705,11 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-12T08:00:31.118Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-12T08:00:24.100Z"
         }
       ],
       "lastBonus": 1786259491073,
       "lastCaseAt": 1786521682815,
-      "lastBoosterAt": 1786519707832,
+      "lastBoosterAt": 1786521696894,
       "totalEarned": 40319450,
       "memoryGame": {
         "board": [
@@ -3923,7 +3930,7 @@
         "flipStage": "wait_second",
         "firstFlip": 15
       },
-      "totalOpened": 4579
+      "totalOpened": 4580
     },
     "6703298995": {
       "name": "Aleksandyr",
