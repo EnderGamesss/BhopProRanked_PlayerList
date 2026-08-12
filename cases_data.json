@@ -13445,11 +13445,24 @@
     },
     "8662649995": {
       "name": "Lumma MM",
-      "coins": 1001000,
+      "coins": 1000700,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butforest.png",
+          "type": "knife",
+          "at": "2026-08-12T11:41:45.178Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-12T11:41:45.178Z"
+        },
         {
           "kind": "skin",
           "file": "m9aura.png",
@@ -13459,10 +13472,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 0,
+      "lastCaseAt": 1786534904974,
       "lastBoosterAt": 1786534844765,
       "totalEarned": 1000000,
-      "totalOpened": 1,
+      "totalOpened": 2,
       "memoryGame": null,
       "username": "LummaMM"
     }
