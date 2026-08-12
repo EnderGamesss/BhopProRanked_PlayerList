@@ -10376,11 +10376,24 @@
     },
     "8657351739": {
       "name": "Rana",
-      "coins": 299650,
+      "coins": 299350,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9koi.png",
+          "type": "knife",
+          "at": "2026-08-12T13:08:47.440Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9koi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-08-12T13:08:47.440Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -10435,20 +10448,13 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-12T13:05:04.896Z"
-        },
-        {
-          "kind": "skin",
-          "file": "thumb-Military.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-11T11:25:59.872Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786540086270,
+      "lastCaseAt": 1786540127199,
       "lastBoosterAt": 1786539904373,
       "totalEarned": 301050,
-      "totalOpened": 10,
+      "totalOpened": 11,
       "memoryGame": null,
       "username": "Rana202311"
     },
@@ -14093,10 +14099,16 @@
     },
     "6217176305": {
       "name": "Maksym Igorovicn",
-      "coins": 17000,
+      "coins": 1000,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitkoi.png",
+          "type": "booster",
+          "at": "2026-08-12T13:08:29.992Z"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -14109,7 +14121,7 @@
       "lastBonus": 0,
       "lastCaseAt": 0,
       "lastBoosterAt": 1786540109652,
-      "totalEarned": 16000,
+      "totalEarned": 0,
       "totalOpened": 1,
       "memoryGame": null,
       "username": "Maksym_Igorovicn"
