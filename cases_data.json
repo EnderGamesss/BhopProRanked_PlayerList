@@ -15838,11 +15838,24 @@
     },
     "6614471926": {
       "name": "Саша",
-      "coins": 45850,
+      "coins": 45550,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "ironaquaspinner.png",
+          "type": "spinner",
+          "at": "2026-08-13T10:32:00.090Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "ironaquaspinner.png",
+          "chance": 1,
+          "caseType": "spinner",
+          "at": "2026-08-13T10:32:00.090Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -15896,19 +15909,13 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-13T10:30:07.168Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "spinner",
-          "at": "2026-08-13T10:30:00.894Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786617105931,
+      "lastCaseAt": 1786617119533,
       "lastBoosterAt": 0,
       "totalEarned": 52650,
-      "totalOpened": 26,
+      "totalOpened": 27,
       "memoryGame": null,
       "username": "Casha159357"
     },
