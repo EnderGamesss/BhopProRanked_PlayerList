@@ -14122,7 +14122,7 @@
     },
     "5839075768": {
       "name": ".",
-      "coins": 493400,
+      "coins": 493100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -14145,9 +14145,21 @@
           "file": "m9ruby.png",
           "type": "booster",
           "at": "2026-08-13T13:44:49.347Z"
+        },
+        {
+          "file": "butforest.png",
+          "type": "knife",
+          "at": "2026-08-13T13:47:15.010Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-13T13:47:15.010Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -14202,20 +14214,13 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-13T13:44:49.347Z"
-        },
-        {
-          "kind": "skin",
-          "file": "arrowspinner.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-13T10:45:49.591Z"
         }
       ],
       "lastBonus": 1786628731937,
-      "lastCaseAt": 1786628826661,
+      "lastCaseAt": 1786628834276,
       "lastBoosterAt": 1786628688657,
       "totalEarned": 508300,
-      "totalOpened": 68,
+      "totalOpened": 69,
       "memoryGame": {
         "board": [
           {
