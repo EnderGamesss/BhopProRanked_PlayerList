@@ -16024,8 +16024,21 @@
       "coins": 950,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9faded.png",
+          "type": "booster",
+          "at": "2026-08-13T16:09:58.389Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9faded.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-13T16:09:58.389Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -16035,9 +16048,9 @@
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786637376593,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1786637398051,
       "totalEarned": 250,
-      "totalOpened": 1,
+      "totalOpened": 2,
       "memoryGame": null,
       "username": "raregod2"
     }
