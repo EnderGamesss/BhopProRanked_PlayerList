@@ -5782,7 +5782,7 @@
           false,
           false,
           false,
-          true,
+          false,
           false,
           false,
           false,
@@ -5833,11 +5833,11 @@
           "price": 4000,
           "weight": 5
         },
-        "attempts": 5,
+        "attempts": 2,
         "status": "playing",
         "createdAt": 1786633697688,
-        "flipStage": "wait_second",
-        "firstFlip": 9
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     },
     "6703298995": {
@@ -16382,16 +16382,10 @@
     },
     "6713115510": {
       "name": "#swejict L1nxs🩸",
-      "coins": 1000,
+      "coins": 191000,
       "luck": 1,
       "boosts": [],
-      "inventory": [
-        {
-          "file": "royalspinner.png",
-          "type": "booster",
-          "at": "2026-08-13T15:06:27.744Z"
-        }
-      ],
+      "inventory": [],
       "history": [
         {
           "kind": "coins",
@@ -16458,7 +16452,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786633708277,
       "lastBoosterAt": 1786633587382,
-      "totalEarned": 2700,
+      "totalEarned": 192700,
       "totalOpened": 10,
       "memoryGame": null,
       "username": "ZloyDonk666"
