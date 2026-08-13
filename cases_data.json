@@ -4490,7 +4490,7 @@
     },
     "7887063317": {
       "name": "b10xxx10",
-      "coins": 2558250,
+      "coins": 2558450,
       "luck": 1.25,
       "boosts": [
         {
@@ -4500,6 +4500,12 @@
       ],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-13T15:41:14.410Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -4554,19 +4560,13 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-08-13T15:20:43.517Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-13T15:20:36.491Z"
         }
       ],
       "lastBonus": 1786634680484,
       "username": "b10xxx10",
-      "lastCaseAt": 1786634554343,
+      "lastCaseAt": 1786635674410,
       "lastBoosterAt": 1786633813909,
-      "totalEarned": 2441150,
+      "totalEarned": 2441350,
       "memoryGame": {
         "board": [
           {
@@ -4790,7 +4790,7 @@
         "flipStage": "wait_second",
         "firstFlip": 19
       },
-      "totalOpened": 286
+      "totalOpened": 287
     },
     "5117405936": {
       "name": "xGRI3Fx",
@@ -16804,9 +16804,9 @@
       "bet": 250000,
       "turn": "7887063317",
       "challengerOpens": 1,
-      "opponentOpens": 0,
+      "opponentOpens": 1,
       "challengerTotal": 250,
-      "opponentTotal": 0,
+      "opponentTotal": 200,
       "results": [
         {
           "uid": "8708014655",
@@ -16815,9 +16815,17 @@
             "amount": 250
           },
           "earnings": 250
+        },
+        {
+          "uid": "7887063317",
+          "result": {
+            "kind": "coins",
+            "amount": 200
+          },
+          "earnings": 200
         }
       ],
-      "lastAction": 1786635660656
+      "lastAction": 1786635674410
     }
   },
   "trades": {}
