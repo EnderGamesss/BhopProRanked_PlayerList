@@ -5222,6 +5222,11 @@
           "file": "m9guardian.png",
           "type": "knife",
           "at": "2026-08-13T05:33:13.469Z"
+        },
+        {
+          "file": "thumb-crown.png",
+          "type": "glove",
+          "at": "2026-08-13T05:34:51.636Z"
         }
       ],
       "history": [
@@ -5477,6 +5482,7 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
@@ -5500,8 +5506,7 @@
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "coins",
@@ -5510,7 +5515,9 @@
         },
         "attempts": 7,
         "status": "playing",
-        "createdAt": 1786599286980
+        "createdAt": 1786599286980,
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     },
     "6703298995": {
