@@ -5194,7 +5194,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 45730100,
+      "coins": 45730300,
       "luck": 1.25,
       "boosts": [
         {
@@ -5436,12 +5436,6 @@
       ],
       "history": [
         {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-13T10:34:53.586Z"
-        },
-        {
           "kind": "skin",
           "file": "m9forest.png",
           "chance": 0.9,
@@ -5496,13 +5490,19 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-13T10:31:22.906Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-13T08:59:24.362Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786617292930,
+      "lastCaseAt": 1786617286790,
       "lastBoosterAt": 1786617082566,
-      "totalEarned": 46943300,
-      "totalOpened": 724,
+      "totalEarned": 46943200,
+      "totalOpened": 723,
       "memoryGame": {
         "board": [
           {
@@ -15844,11 +15844,24 @@
     },
     "6614471926": {
       "name": "Саша",
-      "coins": 45650,
+      "coins": 45350,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "arrowspinner.png",
+          "type": "spinner",
+          "at": "2026-08-13T10:34:54.569Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "arrowspinner.png",
+          "chance": 0.6,
+          "caseType": "spinner",
+          "at": "2026-08-13T10:34:54.569Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -15902,19 +15915,13 @@
           "amount": 750,
           "caseType": "spinner",
           "at": "2026-08-13T10:31:32.375Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-08-13T10:31:01.382Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786617284693,
+      "lastCaseAt": 1786617294335,
       "lastBoosterAt": 0,
       "totalEarned": 54250,
-      "totalOpened": 32,
+      "totalOpened": 33,
       "memoryGame": {
         "board": [
           {
