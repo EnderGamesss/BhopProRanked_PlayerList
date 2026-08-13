@@ -11082,8 +11082,21 @@
           "at": "2026-08-11T09:44:14.146Z"
         }
       ],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butforest.png",
+          "type": "booster",
+          "at": "2026-08-13T14:52:54.322Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butforest.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-13T14:52:54.322Z"
+        },
         {
           "kind": "skin",
           "file": "butsnake.png",
@@ -11141,17 +11154,11 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-12T18:39:18.424Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "knife",
-          "at": "2026-08-12T18:37:31.707Z"
         }
       ],
       "lastBonus": 1786367456877,
       "lastCaseAt": 1786560542718,
-      "lastBoosterAt": 1786626935499,
+      "lastBoosterAt": 1786632773612,
       "totalEarned": 3115850,
       "memoryGame": {
         "board": [
@@ -11381,7 +11388,7 @@
         "firstFlip": null
       },
       "username": "hatemytiredself",
-      "totalOpened": 319
+      "totalOpened": 320
     },
     "8429840420": {
       "name": "дверной проём",
