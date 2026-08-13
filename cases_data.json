@@ -5337,6 +5337,11 @@
           "file": "m9saphire.png",
           "type": "booster",
           "at": "2026-08-13T08:10:18.603Z"
+        },
+        {
+          "file": "m9ruby.png",
+          "type": "knife",
+          "at": "2026-08-13T08:18:11.864Z"
         }
       ],
       "history": [
@@ -5597,9 +5602,9 @@
           false,
           false,
           false,
+          true,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -5615,9 +5620,11 @@
           "amount": 750,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 1,
         "status": "playing",
-        "createdAt": 1786609073026
+        "createdAt": 1786609073026,
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     },
     "6703298995": {
