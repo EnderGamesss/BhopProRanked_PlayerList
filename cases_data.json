@@ -5352,6 +5352,11 @@
           "file": "karambitkoi.png",
           "type": "booster",
           "at": "2026-08-13T08:41:36.142Z"
+        },
+        {
+          "file": "dangerspinner.png",
+          "type": "spinner",
+          "at": "2026-08-13T08:44:04.631Z"
         }
       ],
       "history": [
@@ -5610,6 +5615,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -5624,8 +5630,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -5636,9 +5641,11 @@
           "amount": 100,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1786610631668
+        "createdAt": 1786610631668,
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     },
     "6703298995": {
