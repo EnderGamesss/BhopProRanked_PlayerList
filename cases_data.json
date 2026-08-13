@@ -5309,8 +5309,21 @@
           "at": "2026-08-12T19:33:29.103Z"
         }
       ],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9snake.png",
+          "type": "booster",
+          "at": "2026-08-13T20:22:17.914Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9snake.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-13T20:22:17.914Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -5368,19 +5381,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-13T16:00:22.689Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-13T16:00:15.764Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786646820066,
-      "lastBoosterAt": 1786646806337,
+      "lastBoosterAt": 1786652537693,
       "totalEarned": 50419000,
-      "totalOpened": 1130,
+      "totalOpened": 1131,
       "memoryGame": {
         "board": [
           {
