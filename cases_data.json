@@ -4490,7 +4490,7 @@
     },
     "7887063317": {
       "name": "b10xxx10",
-      "coins": 3294500,
+      "coins": 3294200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -4588,9 +4588,21 @@
           "file": "karambitdesert.png",
           "type": "booster",
           "at": "2026-08-13T15:10:14.154Z"
+        },
+        {
+          "file": "m9desert.png",
+          "type": "knife",
+          "at": "2026-08-13T15:14:46.855Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-13T15:14:46.855Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -4644,17 +4656,11 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-13T15:13:24.184Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-13T15:13:15.777Z"
         }
       ],
       "lastBonus": 1786280843041,
       "username": "b10xxx10",
-      "lastCaseAt": 1786634080597,
+      "lastCaseAt": 1786634086442,
       "lastBoosterAt": 1786633813909,
       "totalEarned": 1918400,
       "memoryGame": {
@@ -4880,7 +4886,7 @@
         "flipStage": "wait_second",
         "firstFlip": 19
       },
-      "totalOpened": 256
+      "totalOpened": 257
     },
     "5117405936": {
       "name": "xGRI3Fx",
