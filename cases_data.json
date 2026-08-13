@@ -16526,11 +16526,24 @@
     },
     "8029376747": {
       "name": "E❄️a☃️sPOrTS☃️",
-      "coins": 350,
+      "coins": 50,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9tiger.png",
+          "type": "knife",
+          "at": "2026-08-13T17:37:47.399Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9tiger.png",
+          "chance": 0.05,
+          "caseType": "knife",
+          "at": "2026-08-13T17:37:47.399Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -16584,19 +16597,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-13T17:36:45.339Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-13T17:36:38.108Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786642660795,
+      "lastCaseAt": 1786642666983,
       "lastBoosterAt": 0,
       "totalEarned": 8650,
-      "totalOpened": 31,
+      "totalOpened": 32,
       "memoryGame": null,
       "username": "Absolutelykkk"
     }
