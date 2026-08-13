@@ -5194,7 +5194,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 45739550,
+      "coins": 45739350,
       "luck": 1.25,
       "boosts": [
         {
@@ -5327,6 +5327,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-13T05:50:58.860Z"
+        },
+        {
+          "kind": "coins",
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-13T05:50:50.164Z"
@@ -5379,19 +5385,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-13T05:49:21.765Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-13T05:49:14.543Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786600249639,
+      "lastCaseAt": 1786600258407,
       "lastBoosterAt": 1786599051958,
-      "totalEarned": 46899350,
-      "totalOpened": 542,
+      "totalEarned": 46899450,
+      "totalOpened": 543,
       "memoryGame": {
         "board": [
           {
@@ -6837,21 +6837,9 @@
           "file": "m9emerand.png",
           "type": "booster",
           "at": "2026-08-13T01:36:26.662Z"
-        },
-        {
-          "file": "camospinner.png",
-          "type": "booster",
-          "at": "2026-08-13T05:50:57.203Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "camospinner.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-13T05:50:57.203Z"
-        },
         {
           "kind": "skin",
           "file": "m9emerand.png",
@@ -6913,12 +6901,18 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-12T12:47:25.925Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-12T12:42:05.750Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786539853173,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1786600256745,
+      "lastBoosterAt": 1786584986455,
       "totalEarned": 14519750,
       "memoryGame": {
         "board": [
@@ -7139,7 +7133,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 1180
+      "totalOpened": 1179
     },
     "7886451818": {
       "name": "EnderGamesDev",
