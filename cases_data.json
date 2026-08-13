@@ -5194,7 +5194,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 45730950,
+      "coins": 45731000,
       "luck": 1.25,
       "boosts": [
         {
@@ -5432,12 +5432,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-13T10:33:48.639Z"
-        },
-        {
-          "kind": "coins",
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-13T10:33:43.095Z"
@@ -5490,13 +5484,19 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-13T08:58:39.103Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-13T08:58:31.644Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786617228385,
+      "lastCaseAt": 1786617222700,
       "lastBoosterAt": 1786617082566,
-      "totalEarned": 46942050,
-      "totalOpened": 717,
+      "totalEarned": 46941800,
+      "totalOpened": 716,
       "memoryGame": {
         "board": [
           {
@@ -15838,7 +15838,7 @@
     },
     "6614471926": {
       "name": "Саша",
-      "coins": 45350,
+      "coins": 45550,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -15907,7 +15907,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786617138697,
       "lastBoosterAt": 0,
-      "totalEarned": 53050,
+      "totalEarned": 53250,
       "totalOpened": 29,
       "memoryGame": {
         "board": [
@@ -16120,8 +16120,8 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
+          true,
           false,
           false,
           false,
@@ -16136,7 +16136,7 @@
           "price": 120000,
           "weight": 5
         },
-        "attempts": 3,
+        "attempts": 1,
         "status": "playing",
         "createdAt": 1786617175930,
         "flipStage": "wait_first",
