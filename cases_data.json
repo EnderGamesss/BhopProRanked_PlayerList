@@ -5123,7 +5123,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 45456550,
+      "coins": 45456750,
       "luck": 1.25,
       "boosts": [
         {
@@ -5606,6 +5606,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-13T15:41:39.694Z"
+        },
+        {
+          "kind": "coins",
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-13T15:41:00.656Z"
@@ -5660,19 +5666,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-13T15:33:19.760Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-13T15:33:13.424Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786635660656,
+      "lastCaseAt": 1786635699694,
       "lastBoosterAt": 1786632306765,
-      "totalEarned": 47008550,
-      "totalOpened": 1023,
+      "totalEarned": 47008750,
+      "totalOpened": 1024,
       "memoryGame": {
         "board": [
           {
@@ -16803,9 +16803,9 @@
       "chosenType": "knife",
       "bet": 250000,
       "turn": "8708014655",
-      "challengerOpens": 1,
+      "challengerOpens": 2,
       "opponentOpens": 2,
-      "challengerTotal": 250,
+      "challengerTotal": 450,
       "opponentTotal": 350,
       "results": [
         {
@@ -16831,9 +16831,17 @@
             "amount": 150
           },
           "earnings": 150
+        },
+        {
+          "uid": "8708014655",
+          "result": {
+            "kind": "coins",
+            "amount": 200
+          },
+          "earnings": 200
         }
       ],
-      "lastAction": 1786635683827
+      "lastAction": 1786635699694
     }
   },
   "trades": {}
