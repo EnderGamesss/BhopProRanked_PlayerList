@@ -5227,6 +5227,11 @@
           "file": "thumb-crown.png",
           "type": "glove",
           "at": "2026-08-13T05:34:51.636Z"
+        },
+        {
+          "file": "thumb-North.png",
+          "type": "glove",
+          "at": "2026-08-13T05:35:09.220Z"
         }
       ],
       "history": [
@@ -5496,12 +5501,12 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -5513,7 +5518,7 @@
           "amount": 200,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
         "createdAt": 1786599286980,
         "flipStage": "wait_first",
