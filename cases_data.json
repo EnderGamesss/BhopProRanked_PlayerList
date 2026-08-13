@@ -16255,7 +16255,7 @@
     },
     "5758203994": {
       "name": "Termporament",
-      "coins": 1000,
+      "coins": 1500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -16277,7 +16277,7 @@
       "lastBonus": 0,
       "lastCaseAt": 0,
       "lastBoosterAt": 1786642223350,
-      "totalEarned": 0,
+      "totalEarned": 500,
       "totalOpened": 1,
       "memoryGame": {
         "board": [
@@ -16466,14 +16466,14 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -16490,9 +16490,11 @@
           "amount": 750,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1786642254655
+        "createdAt": 1786642254655,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Termporament"
     }
