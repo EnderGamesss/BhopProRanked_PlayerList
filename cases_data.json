@@ -585,11 +585,24 @@
     },
     "1607290793": {
       "name": "Deejai",
-      "coins": 60900,
+      "coins": 60600,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitforest.png",
+          "type": "knife",
+          "at": "2026-08-13T17:40:38.542Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-13T17:40:38.542Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -617,10 +630,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786642815908,
+      "lastCaseAt": 1786642837916,
       "lastBoosterAt": 1786642767762,
       "totalEarned": 60800,
-      "totalOpened": 4,
+      "totalOpened": 5,
       "memoryGame": null,
       "username": "Deejai_D"
     },
