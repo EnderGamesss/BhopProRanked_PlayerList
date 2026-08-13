@@ -5547,6 +5547,11 @@
           "file": "karambitbreak.png",
           "type": "booster",
           "at": "2026-08-13T14:45:07.191Z"
+        },
+        {
+          "file": "thumb-North.png",
+          "type": "glove",
+          "at": "2026-08-13T15:08:40.649Z"
         }
       ],
       "history": [
@@ -5800,6 +5805,7 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
@@ -5808,8 +5814,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -5835,7 +5840,9 @@
         },
         "attempts": 7,
         "status": "playing",
-        "createdAt": 1786633697688
+        "createdAt": 1786633697688,
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     },
     "6703298995": {
