@@ -5782,7 +5782,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -5833,11 +5833,11 @@
           "price": 4000,
           "weight": 5
         },
-        "attempts": 2,
+        "attempts": 5,
         "status": "playing",
         "createdAt": 1786633697688,
-        "flipStage": "wait_first",
-        "firstFlip": null
+        "flipStage": "wait_second",
+        "firstFlip": 9
       }
     },
     "6703298995": {
