@@ -13907,8 +13907,21 @@
       "coins": 493050,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Military.png",
+          "type": "booster",
+          "at": "2026-08-13T07:32:35.873Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Military.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-13T07:32:35.873Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -13965,20 +13978,13 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-12T19:29:06.821Z"
-        },
-        {
-          "kind": "skin",
-          "file": "thumb-Military.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-12T18:27:21.388Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786600685308,
-      "lastBoosterAt": 1786599847507,
+      "lastBoosterAt": 1786606355459,
       "totalEarned": 505550,
-      "totalOpened": 56,
+      "totalOpened": 57,
       "memoryGame": {
         "board": [
           {
