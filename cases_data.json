@@ -4490,7 +4490,7 @@
     },
     "7887063317": {
       "name": "b10xxx10",
-      "coins": 3295450,
+      "coins": 3295400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -4588,6 +4588,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-13T15:08:38.534Z"
+        },
+        {
+          "kind": "coins",
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-13T15:08:16.117Z"
@@ -4640,19 +4646,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-13T15:06:48.114Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-13T15:06:38.230Z"
         }
       ],
       "lastBonus": 1786280843041,
       "username": "b10xxx10",
-      "lastCaseAt": 1786633695791,
+      "lastCaseAt": 1786633717866,
       "lastBoosterAt": 1786298272147,
-      "totalEarned": 1910950,
+      "totalEarned": 1911200,
       "memoryGame": {
         "board": [
           {
@@ -4876,7 +4876,7 @@
         "flipStage": "wait_second",
         "firstFlip": 19
       },
-      "totalOpened": 227
+      "totalOpened": 228
     },
     "5117405936": {
       "name": "xGRI3Fx",
@@ -5547,11 +5547,6 @@
           "file": "karambitbreak.png",
           "type": "booster",
           "at": "2026-08-13T14:45:07.191Z"
-        },
-        {
-          "file": "thumb-North.png",
-          "type": "glove",
-          "at": "2026-08-13T15:08:40.649Z"
         }
       ],
       "history": [
@@ -5805,7 +5800,6 @@
           false
         ],
         "matched": [
-          true,
           false,
           false,
           false,
@@ -5814,7 +5808,8 @@
           false,
           false,
           false,
-          true,
+          false,
+          false,
           false,
           false,
           false,
@@ -5840,9 +5835,7 @@
         },
         "attempts": 7,
         "status": "playing",
-        "createdAt": 1786633697688,
-        "flipStage": "wait_first",
-        "firstFlip": null
+        "createdAt": 1786633697688
       }
     },
     "6703298995": {
@@ -16387,7 +16380,7 @@
     },
     "6713115510": {
       "name": "#swejict L1nxs🩸",
-      "coins": 800,
+      "coins": 1000,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -16398,12 +16391,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-13T15:08:37.656Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -16458,13 +16445,19 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-13T15:05:18.204Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-13T15:05:11.312Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786633717314,
+      "lastCaseAt": 1786633708277,
       "lastBoosterAt": 1786633587382,
-      "totalEarned": 2800,
-      "totalOpened": 11,
+      "totalEarned": 2700,
+      "totalOpened": 10,
       "memoryGame": null,
       "username": "ZloyDonk666"
     }
