@@ -16392,11 +16392,24 @@
     },
     "6713115510": {
       "name": "#swejict L1nxs🩸",
-      "coins": 190600,
+      "coins": 190300,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butdesert.png",
+          "type": "knife",
+          "at": "2026-08-13T15:11:26.126Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-13T15:11:26.126Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -16451,19 +16464,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-13T15:05:56.750Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-13T15:05:50.027Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786633859246,
+      "lastCaseAt": 1786633885776,
       "lastBoosterAt": 1786633587382,
       "totalEarned": 193800,
-      "totalOpened": 15,
+      "totalOpened": 16,
       "memoryGame": null,
       "username": "ZloyDonk666"
     }
