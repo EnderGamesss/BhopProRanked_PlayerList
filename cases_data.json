@@ -16255,11 +16255,24 @@
     },
     "5758203994": {
       "name": "Termporament",
-      "coins": 52600,
+      "coins": 52300,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-basic-spinner-5.png",
+          "type": "spinner",
+          "at": "2026-08-13T17:32:58.541Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-basic-spinner-5.png",
+          "chance": 2,
+          "caseType": "spinner",
+          "at": "2026-08-13T17:32:58.541Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -16287,10 +16300,10 @@
         }
       ],
       "lastBonus": 1786642328030,
-      "lastCaseAt": 1786642373077,
+      "lastCaseAt": 1786642378105,
       "lastBoosterAt": 1786642223350,
       "totalEarned": 52500,
-      "totalOpened": 4,
+      "totalOpened": 5,
       "memoryGame": {
         "board": [
           {
