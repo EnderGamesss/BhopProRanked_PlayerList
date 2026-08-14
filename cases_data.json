@@ -5348,6 +5348,11 @@
           "file": "m9tiger.png",
           "type": "knife",
           "at": "2026-08-14T10:52:21.760Z"
+        },
+        {
+          "file": "m9guardian.png",
+          "type": "knife",
+          "at": "2026-08-14T10:52:31.200Z"
         }
       ],
       "history": [
@@ -5612,9 +5617,9 @@
         ],
         "matched": [
           true,
+          true,
           false,
-          false,
-          false,
+          true,
           true,
           false,
           false,
@@ -5644,7 +5649,7 @@
           "price": 95000,
           "weight": 4
         },
-        "attempts": 4,
+        "attempts": 3,
         "status": "playing",
         "createdAt": 1786704727700,
         "flipStage": "wait_first",
