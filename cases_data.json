@@ -5343,7 +5343,13 @@
           "at": "2026-08-12T19:33:29.103Z"
         }
       ],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9tiger.png",
+          "type": "knife",
+          "at": "2026-08-14T10:52:21.760Z"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -5605,11 +5611,11 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -5638,9 +5644,11 @@
           "price": 95000,
           "weight": 4
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1786704727700
+        "createdAt": 1786704727700,
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     },
     "6703298995": {
