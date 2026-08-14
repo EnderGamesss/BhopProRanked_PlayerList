@@ -5363,6 +5363,11 @@
           "file": "butforest.png",
           "type": "knife",
           "at": "2026-08-14T09:36:12.101Z"
+        },
+        {
+          "file": "ironaquaspinner.png",
+          "type": "spinner",
+          "at": "2026-08-14T09:45:07.232Z"
         }
       ],
       "history": [
@@ -5612,7 +5617,7 @@
           false,
           false,
           false,
-          true,
+          false,
           false,
           false,
           false,
@@ -5641,20 +5646,20 @@
           false,
           false,
           false,
+          true,
           false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "coins",
           "amount": 100,
           "weight": 20
         },
-        "attempts": 4,
+        "attempts": 2,
         "status": "playing",
         "createdAt": 1786700689257,
-        "flipStage": "wait_second",
-        "firstFlip": 20
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     },
     "6703298995": {
