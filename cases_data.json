@@ -17592,11 +17592,24 @@
     },
     "6653531242": {
       "name": "Миша",
-      "coins": 300,
+      "coins": 0,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Swat.png",
+          "type": "glove",
+          "at": "2026-08-14T09:00:44.029Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Swat.png",
+          "chance": 7,
+          "caseType": "glove",
+          "at": "2026-08-14T09:00:44.029Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -17650,19 +17663,13 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-14T08:59:08.800Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-14T08:59:02.696Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786698013303,
+      "lastCaseAt": 1786698043275,
       "lastBoosterAt": 0,
       "totalEarned": 5600,
-      "totalOpened": 21,
+      "totalOpened": 22,
       "memoryGame": null,
       "username": "Misha_Pro_standof2"
     }
