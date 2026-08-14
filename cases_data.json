@@ -14069,8 +14069,21 @@
       "coins": 726600,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butforest.png",
+          "type": "booster",
+          "at": "2026-08-14T09:09:19.330Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butforest.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-14T09:09:19.330Z"
+        },
         {
           "kind": "skin",
           "file": "ironaquaspinner.png",
@@ -14128,19 +14141,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-13T13:46:09.401Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-13T13:46:03.667Z"
         }
       ],
       "lastBonus": 1786628731937,
       "lastCaseAt": 1786628834276,
-      "lastBoosterAt": 1786694927814,
+      "lastBoosterAt": 1786698559016,
       "totalEarned": 741800,
-      "totalOpened": 72,
+      "totalOpened": 73,
       "memoryGame": {
         "board": [
           {
