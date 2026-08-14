@@ -17595,8 +17595,21 @@
       "coins": 4300,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9desert.png",
+          "type": "booster",
+          "at": "2026-08-14T09:02:04.353Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-14T09:02:04.353Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -17651,19 +17664,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-14T08:59:32.705Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-14T08:59:27.615Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786698104214,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1786698123749,
       "totalEarned": 10200,
-      "totalOpened": 23,
+      "totalOpened": 24,
       "memoryGame": null,
       "username": "Misha_Pro_standof2"
     }
