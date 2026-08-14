@@ -8359,8 +8359,21 @@
       "coins": 820350,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "dangerspinner.png",
+          "type": "booster",
+          "at": "2026-08-14T14:30:42.889Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "dangerspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-14T14:30:42.889Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -8416,17 +8429,11 @@
           "chance": 0.35,
           "caseType": "knife",
           "at": "2026-08-09T12:48:48.543Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-09T12:48:33.526Z"
         }
       ],
       "lastBonus": 1786278200045,
       "lastCaseAt": 1786717786241,
-      "lastBoosterAt": 1786278307471,
+      "lastBoosterAt": 1786717842439,
       "totalEarned": 835850,
       "memoryGame": {
         "board": [
@@ -8657,7 +8664,7 @@
         "pendingHide": null
       },
       "username": "APECTOBAH_3A_BENZIH",
-      "totalOpened": 2
+      "totalOpened": 3
     },
     "8305455890": {
       "name": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🛴🛴🛴",
