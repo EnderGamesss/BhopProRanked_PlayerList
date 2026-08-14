@@ -17688,7 +17688,7 @@
     },
     "8819229812": {
       "name": "Manworse",
-      "coins": 78700,
+      "coins": 78500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -17709,6 +17709,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-14T09:58:29.501Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -17763,20 +17769,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-14T09:54:51.925Z"
-        },
-        {
-          "kind": "skin",
-          "file": "butdesert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-14T09:54:42.260Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786701503742,
+      "lastCaseAt": 1786701508902,
       "lastBoosterAt": 1786701018883,
-      "totalEarned": 84000,
-      "totalOpened": 22,
+      "totalEarned": 84100,
+      "totalOpened": 23,
       "memoryGame": null,
       "username": "manworse"
     }
