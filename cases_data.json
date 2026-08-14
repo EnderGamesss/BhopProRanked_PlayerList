@@ -6987,9 +6987,21 @@
           "file": "butsnake.png",
           "type": "booster",
           "at": "2026-08-14T08:43:53.243Z"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "booster",
+          "at": "2026-08-14T09:23:18.070Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-14T09:23:18.070Z"
+        },
         {
           "kind": "skin",
           "file": "butsnake.png",
@@ -7052,19 +7064,12 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-13T18:07:57.114Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9spitfire.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-13T17:24:17.661Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786539853173,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1786697032768,
+      "lastBoosterAt": 1786699397302,
       "totalEarned": 14519750,
       "memoryGame": {
         "board": [
@@ -7285,7 +7290,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 1200
+      "totalOpened": 1201
     },
     "7886451818": {
       "name": "EnderGamesDev",
@@ -17177,21 +17182,8 @@
       "coins": 494150,
       "luck": 1,
       "boosts": [],
-      "inventory": [
-        {
-          "file": "butsaphire.png",
-          "type": "booster",
-          "at": "2026-08-14T09:23:15.590Z"
-        }
-      ],
+      "inventory": [],
       "history": [
-        {
-          "kind": "skin",
-          "file": "butsaphire.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-14T09:23:15.590Z"
-        },
         {
           "kind": "skin",
           "file": "camospinner.png",
@@ -17246,13 +17238,19 @@
           "amount": 500,
           "caseType": "spinner",
           "at": "2026-08-14T08:14:52.713Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "spinner",
+          "at": "2026-08-14T08:14:47.537Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786699357066,
-      "lastBoosterAt": 1786699394936,
+      "lastBoosterAt": 1786695103931,
       "totalEarned": 507250,
-      "totalOpened": 50,
+      "totalOpened": 49,
       "memoryGame": null,
       "username": "GGxxxw"
     },
