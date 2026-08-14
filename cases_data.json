@@ -17275,7 +17275,7 @@
     },
     "6423615254": {
       "name": "Bao",
-      "coins": 11500,
+      "coins": 11650,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -17317,7 +17317,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786693004391,
       "lastBoosterAt": 0,
-      "totalEarned": 12000,
+      "totalEarned": 12150,
       "totalOpened": 5,
       "memoryGame": {
         "board": [
@@ -17507,14 +17507,14 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -17542,7 +17542,9 @@
         },
         "attempts": 7,
         "status": "playing",
-        "createdAt": 1786693031603
+        "createdAt": 1786693031603,
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     }
   },
