@@ -15789,11 +15789,24 @@
     },
     "7781046438": {
       "name": "♤ 𝕸𝖗 𝖕𝖎𝖟𝖉𝖆 ♧",
-      "coins": 218900,
+      "coins": 218600,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9koi.png",
+          "type": "knife",
+          "at": "2026-08-14T11:54:44.310Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9koi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-08-14T11:54:44.310Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -15848,20 +15861,13 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-12T14:16:45.543Z"
-        },
-        {
-          "kind": "skin",
-          "file": "butruby.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-12T14:10:22.878Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786708474592,
+      "lastCaseAt": 1786708483599,
       "lastBoosterAt": 1786708408846,
       "totalEarned": 221200,
-      "totalOpened": 13,
+      "totalOpened": 14,
       "memoryGame": null
     },
     "5563153415": {
