@@ -17688,17 +17688,11 @@
     },
     "8819229812": {
       "name": "Manworse",
-      "coins": 179600,
+      "coins": 179800,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-14T09:59:40.853Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -17753,13 +17747,19 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-14T09:55:05.347Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-14T09:54:57.854Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786701580144,
+      "lastCaseAt": 1786701573996,
       "lastBoosterAt": 1786701018883,
-      "totalEarned": 185800,
-      "totalOpened": 25,
+      "totalEarned": 185700,
+      "totalOpened": 24,
       "memoryGame": null,
       "username": "manworse"
     }
@@ -18127,6 +18127,12 @@
         }
       ],
       "lastAction": 1786635710437
+    },
+    "duel_1786701581429_6099107221": {
+      "challenger": "6099107221",
+      "opponent": "8819229812",
+      "status": "pending",
+      "createdAt": 1786701581429
     }
   },
   "trades": {}
