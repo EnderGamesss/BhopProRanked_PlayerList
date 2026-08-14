@@ -5612,7 +5612,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -5650,9 +5650,11 @@
           "amount": 100,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1786700689257
+        "createdAt": 1786700689257,
+        "flipStage": "wait_second",
+        "firstFlip": 20
       }
     },
     "6703298995": {
