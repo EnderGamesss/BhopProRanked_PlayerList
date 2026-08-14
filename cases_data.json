@@ -17083,8 +17083,21 @@
       "coins": 60400,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9saphire.png",
+          "type": "booster",
+          "at": "2026-08-14T06:56:56.796Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9saphire.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-14T06:56:56.796Z"
+        },
         {
           "kind": "skin",
           "file": "camospinner.png",
@@ -17102,25 +17115,19 @@
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786690571442,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1786690616324,
       "totalEarned": 60000,
-      "totalOpened": 2,
+      "totalOpened": 3,
       "memoryGame": null,
       "username": "GGxxxw"
     },
     "8093859683": {
       "name": "золотистый петух",
-      "coins": 450,
+      "coins": 600,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-14T06:56:54.723Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -17135,10 +17142,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786690614278,
+      "lastCaseAt": 1786690608837,
       "lastBoosterAt": 0,
-      "totalEarned": 350,
-      "totalOpened": 3,
+      "totalEarned": 200,
+      "totalOpened": 2,
       "memoryGame": null,
       "username": "thepetuh"
     }
