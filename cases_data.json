@@ -17177,8 +17177,21 @@
       "coins": 494150,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butsaphire.png",
+          "type": "booster",
+          "at": "2026-08-14T09:23:15.590Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butsaphire.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-14T09:23:15.590Z"
+        },
         {
           "kind": "skin",
           "file": "camospinner.png",
@@ -17233,19 +17246,13 @@
           "amount": 500,
           "caseType": "spinner",
           "at": "2026-08-14T08:14:52.713Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-14T08:14:47.537Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786699357066,
-      "lastBoosterAt": 1786695103931,
+      "lastBoosterAt": 1786699394936,
       "totalEarned": 507250,
-      "totalOpened": 49,
+      "totalOpened": 50,
       "memoryGame": null,
       "username": "GGxxxw"
     },
