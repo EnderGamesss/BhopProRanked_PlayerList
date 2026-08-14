@@ -17126,8 +17126,21 @@
       "coins": 600,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitmonster.png",
+          "type": "booster",
+          "at": "2026-08-14T06:57:04.379Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitmonster.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-14T06:57:04.379Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -17143,9 +17156,9 @@
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786690608837,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1786690623726,
       "totalEarned": 200,
-      "totalOpened": 2,
+      "totalOpened": 3,
       "memoryGame": null,
       "username": "thepetuh"
     }
