@@ -17156,11 +17156,24 @@
     },
     "8987506438": {
       "name": "Рома",
-      "coins": 245200,
+      "coins": 244900,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "camospinner.png",
+          "type": "spinner",
+          "at": "2026-08-14T08:10:19.707Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 2.5,
+          "caseType": "spinner",
+          "at": "2026-08-14T08:10:19.707Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -17217,20 +17230,13 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-14T06:56:56.796Z"
-        },
-        {
-          "kind": "skin",
-          "file": "camospinner.png",
-          "chance": 2.5,
-          "caseType": "spinner",
-          "at": "2026-08-14T06:56:12.151Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786695012134,
+      "lastCaseAt": 1786695019250,
       "lastBoosterAt": 1786690616324,
       "totalEarned": 247200,
-      "totalOpened": 11,
+      "totalOpened": 12,
       "memoryGame": null,
       "username": "GGxxxw"
     },
