@@ -17695,9 +17695,21 @@
           "file": "buttiger.png",
           "type": "knife",
           "at": "2026-08-14T10:01:22.245Z"
+        },
+        {
+          "file": "m9desert.png",
+          "type": "knife",
+          "at": "2026-08-14T10:01:58.381Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-14T10:01:58.381Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -17752,19 +17764,13 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-14T09:56:11.172Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "knife",
-          "at": "2026-08-14T09:56:04.249Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786701704525,
+      "lastCaseAt": 1786701718381,
       "lastBoosterAt": 1786701018883,
       "totalEarned": 186650,
-      "totalOpened": 28,
+      "totalOpened": 29,
       "memoryGame": null,
       "username": "manworse"
     }
@@ -18146,9 +18152,9 @@
       "bet": 25000,
       "turn": "8819229812",
       "challengerOpens": 5,
-      "opponentOpens": 4,
+      "opponentOpens": 5,
       "challengerTotal": 1550,
-      "opponentTotal": 180950,
+      "opponentTotal": 183450,
       "results": [
         {
           "uid": "6099107221",
@@ -18222,9 +18228,18 @@
             "amount": 150
           },
           "earnings": 150
+        },
+        {
+          "uid": "8819229812",
+          "result": {
+            "kind": "skin",
+            "file": "m9desert.png",
+            "chance": 0.9
+          },
+          "earnings": 2500
         }
       ],
-      "lastAction": 1786701711541
+      "lastAction": 1786701718381
     }
   },
   "trades": {}
