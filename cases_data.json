@@ -18823,11 +18823,17 @@
     },
     "6209426760": {
       "name": "Гриша",
-      "coins": 27250,
+      "coins": 27150,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-14T19:32:55.202Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -18882,19 +18888,13 @@
           "chance": 2.5,
           "caseType": "spinner",
           "at": "2026-08-14T19:31:26.891Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-14T19:31:20.189Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786735968947,
+      "lastCaseAt": 1786735974647,
       "lastBoosterAt": 1786735700706,
-      "totalEarned": 34950,
-      "totalOpened": 30,
+      "totalEarned": 35150,
+      "totalOpened": 31,
       "memoryGame": null,
       "username": "Grigorianchick"
     }
