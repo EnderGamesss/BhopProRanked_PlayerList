@@ -18829,7 +18829,7 @@
     },
     "6209426760": {
       "name": "Гриша",
-      "coins": 70500,
+      "coins": 70200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -18842,9 +18842,21 @@
           "file": "karambitruby.png",
           "type": "knife",
           "at": "2026-08-14T19:40:58.288Z"
+        },
+        {
+          "file": "karambitforest.png",
+          "type": "knife",
+          "at": "2026-08-14T19:42:52.333Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-14T19:42:52.333Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -18900,19 +18912,13 @@
           "amount": 200,
           "caseType": "glove",
           "at": "2026-08-14T19:40:21.100Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "glove",
-          "at": "2026-08-14T19:40:14.625Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786736565329,
+      "lastCaseAt": 1786736571681,
       "lastBoosterAt": 1786735700706,
       "totalEarned": 93800,
-      "totalOpened": 82,
+      "totalOpened": 83,
       "memoryGame": null,
       "username": "Grigorianchick"
     }
