@@ -18823,11 +18823,24 @@
     },
     "6209426760": {
       "name": "Гриша",
-      "coins": 4850,
+      "coins": 4550,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-basic-spinner-5.png",
+          "type": "spinner",
+          "at": "2026-08-14T19:29:51.216Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-basic-spinner-5.png",
+          "chance": 2,
+          "caseType": "spinner",
+          "at": "2026-08-14T19:29:51.216Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -18881,19 +18894,13 @@
           "amount": 500,
           "caseType": "spinner",
           "at": "2026-08-14T19:28:49.865Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "spinner",
-          "at": "2026-08-14T19:28:41.467Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786735784031,
+      "lastCaseAt": 1786735790616,
       "lastBoosterAt": 1786735700706,
       "totalEarned": 6850,
-      "totalOpened": 11,
+      "totalOpened": 12,
       "memoryGame": null,
       "username": "Grigorianchick"
     }
