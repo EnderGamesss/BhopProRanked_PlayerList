@@ -18823,11 +18823,17 @@
     },
     "6209426760": {
       "name": "Гриша",
-      "coins": 5050,
+      "coins": 4850,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "spinner",
+          "at": "2026-08-14T19:29:44.353Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -18881,20 +18887,13 @@
           "amount": 1000,
           "caseType": "spinner",
           "at": "2026-08-14T19:28:41.467Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitdesert.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-14T19:28:21.194Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786735777462,
+      "lastCaseAt": 1786735784031,
       "lastBoosterAt": 1786735700706,
-      "totalEarned": 6750,
-      "totalOpened": 10,
+      "totalEarned": 6850,
+      "totalOpened": 11,
       "memoryGame": null,
       "username": "Grigorianchick"
     }
