@@ -16624,16 +16624,23 @@
     },
     "7158888326": {
       "name": "мурасакибара",
-      "coins": 1450,
+      "coins": 1200,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9forest.png",
+          "type": "knife",
+          "at": "2026-08-14T16:34:15.268Z"
+        }
+      ],
       "history": [
         {
-          "kind": "coins",
-          "amount": 250,
+          "kind": "skin",
+          "file": "m9forest.png",
+          "chance": 0.9,
           "caseType": "knife",
-          "at": "2026-08-14T16:34:12.765Z"
+          "at": "2026-08-14T16:34:15.268Z"
         },
         {
           "kind": "coins",
@@ -16673,9 +16680,9 @@
         }
       ],
       "lastBonus": 1786617120918,
-      "lastCaseAt": 1786725250939,
+      "lastCaseAt": 1786725254544,
       "lastBoosterAt": 0,
-      "totalEarned": 2550,
+      "totalEarned": 2300,
       "totalOpened": 7,
       "memoryGame": null,
       "username": "Rbslilo"
