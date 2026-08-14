@@ -10987,7 +10987,7 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 2615600,
+      "coins": 2615850,
       "luck": 1.25,
       "boosts": [
         {
@@ -11062,7 +11062,7 @@
       "lastBonus": 1786367456877,
       "lastCaseAt": 1786701453399,
       "lastBoosterAt": 1786699953006,
-      "totalEarned": 3723800,
+      "totalEarned": 3724050,
       "memoryGame": {
         "board": [
           {
@@ -11224,7 +11224,7 @@
           false,
           false,
           false,
-          true,
+          false,
           false,
           false,
           false,
@@ -11251,13 +11251,13 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -11276,11 +11276,11 @@
           "amount": 750,
           "weight": 20
         },
-        "attempts": 3,
+        "attempts": 2,
         "status": "playing",
         "createdAt": 1786701457539,
-        "flipStage": "wait_second",
-        "firstFlip": 6
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "hatemytiredself",
       "totalOpened": 334
@@ -17688,7 +17688,7 @@
     },
     "8819229812": {
       "name": "Manworse",
-      "coins": 79550,
+      "coins": 78850,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -17709,12 +17709,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "knife",
-          "at": "2026-08-14T09:58:16.413Z"
-        },
         {
           "kind": "coins",
           "amount": 250,
@@ -17770,13 +17764,19 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-14T09:54:42.260Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-14T09:54:35.501Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786701495980,
+      "lastCaseAt": 1786701486175,
       "lastBoosterAt": 1786701018883,
-      "totalEarned": 84850,
-      "totalOpened": 22,
+      "totalEarned": 83850,
+      "totalOpened": 21,
       "memoryGame": null,
       "username": "manworse"
     }
