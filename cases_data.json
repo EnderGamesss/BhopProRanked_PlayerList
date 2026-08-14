@@ -17592,7 +17592,7 @@
     },
     "6653531242": {
       "name": "Миша",
-      "coins": 3300,
+      "coins": 3250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -17603,6 +17603,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-14T09:03:14.958Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -17657,19 +17663,13 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-14T09:02:04.353Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-14T09:01:44.715Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786698189218,
+      "lastCaseAt": 1786698194446,
       "lastBoosterAt": 1786698123749,
-      "totalEarned": 11600,
-      "totalOpened": 32,
+      "totalEarned": 11850,
+      "totalOpened": 33,
       "memoryGame": null,
       "username": "Misha_Pro_standof2"
     }
