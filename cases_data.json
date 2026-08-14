@@ -14042,8 +14042,21 @@
       "coins": 614600,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitruby.png",
+          "type": "booster",
+          "at": "2026-08-14T06:59:33.830Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitruby.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-14T06:59:33.830Z"
+        },
         {
           "kind": "skin",
           "file": "karambitdesert.png",
@@ -14099,19 +14112,13 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-08-13T13:45:58.036Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-13T13:45:51.651Z"
         }
       ],
       "lastBonus": 1786628731937,
       "lastCaseAt": 1786628834276,
-      "lastBoosterAt": 1786633803108,
+      "lastBoosterAt": 1786690773122,
       "totalEarned": 629800,
-      "totalOpened": 70,
+      "totalOpened": 71,
       "memoryGame": {
         "board": [
           {
