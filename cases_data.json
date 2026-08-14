@@ -16627,8 +16627,21 @@
       "coins": 4150,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "buttiger.png",
+          "type": "booster",
+          "at": "2026-08-14T16:35:23.286Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "buttiger.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-14T16:35:23.286Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -16684,19 +16697,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-13T10:30:51.976Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-13T10:30:34.228Z"
         }
       ],
       "lastBonus": 1786617120918,
       "lastCaseAt": 1786725297468,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1786725322667,
       "totalEarned": 7050,
-      "totalOpened": 13,
+      "totalOpened": 14,
       "memoryGame": null,
       "username": "Rbslilo"
     },
