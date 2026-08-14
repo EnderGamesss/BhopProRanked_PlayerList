@@ -15805,7 +15805,7 @@
     },
     "7781046438": {
       "name": "♤ 𝕸𝖗 𝖕𝖎𝖟𝖉𝖆 ♧",
-      "coins": 218900,
+      "coins": 219100,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -15876,7 +15876,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786708474592,
       "lastBoosterAt": 1786708408846,
-      "totalEarned": 221200,
+      "totalEarned": 221400,
       "totalOpened": 13,
       "memoryGame": {
         "board": [
@@ -16084,11 +16084,11 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -16103,9 +16103,11 @@
           "price": 15000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
-        "createdAt": 1786708527837
+        "createdAt": 1786708527837,
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     },
     "5563153415": {
