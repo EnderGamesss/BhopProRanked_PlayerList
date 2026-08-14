@@ -11224,7 +11224,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -11276,9 +11276,11 @@
           "amount": 750,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1786701457539
+        "createdAt": 1786701457539,
+        "flipStage": "wait_second",
+        "firstFlip": 6
       },
       "username": "hatemytiredself",
       "totalOpened": 334
@@ -17686,7 +17688,7 @@
     },
     "8819229812": {
       "name": "Manworse",
-      "coins": 79300,
+      "coins": 78850,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -17707,12 +17709,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-14T09:58:11.936Z"
-        },
         {
           "kind": "coins",
           "amount": 250,
@@ -17768,13 +17764,19 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-14T09:54:42.260Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-14T09:54:35.501Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786701491422,
+      "lastCaseAt": 1786701486175,
       "lastBoosterAt": 1786701018883,
-      "totalEarned": 84600,
-      "totalOpened": 22,
+      "totalEarned": 83850,
+      "totalOpened": 21,
       "memoryGame": null,
       "username": "manworse"
     }
