@@ -17275,7 +17275,7 @@
     },
     "6423615254": {
       "name": "Bao",
-      "coins": 400,
+      "coins": 350,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -17292,6 +17292,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "glove",
+          "at": "2026-08-14T07:36:12.504Z"
+        },
+        {
           "kind": "skin",
           "file": "thumb-Mercenery.png",
           "chance": 8.5,
@@ -17307,10 +17313,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786692965655,
+      "lastCaseAt": 1786692971772,
       "lastBoosterAt": 0,
-      "totalEarned": 0,
-      "totalOpened": 2,
+      "totalEarned": 250,
+      "totalOpened": 3,
       "memoryGame": null
     }
   },
