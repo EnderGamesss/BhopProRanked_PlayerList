@@ -17912,7 +17912,7 @@
     },
     "6653531242": {
       "name": "Миша",
-      "coins": 2800,
+      "coins": 2500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -17930,9 +17930,21 @@
           "file": "m9forest.png",
           "type": "knife",
           "at": "2026-08-14T12:41:02.071Z"
+        },
+        {
+          "file": "karambitsnake.png",
+          "type": "knife",
+          "at": "2026-08-14T12:41:22.542Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitsnake.png",
+          "chance": 0.3,
+          "caseType": "knife",
+          "at": "2026-08-14T12:41:22.542Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -17987,19 +17999,13 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-14T12:40:11.062Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-14T12:40:03.605Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786711273601,
+      "lastCaseAt": 1786711281965,
       "lastBoosterAt": 1786698123749,
       "totalEarned": 18000,
-      "totalOpened": 55,
+      "totalOpened": 56,
       "memoryGame": null,
       "username": "Misha_Pro_standof2"
     },
