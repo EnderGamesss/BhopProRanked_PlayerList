@@ -5374,6 +5374,11 @@
           "file": "m9faded.png",
           "type": "booster",
           "at": "2026-08-14T14:18:15.311Z"
+        },
+        {
+          "file": "woodspinner.png",
+          "type": "spinner",
+          "at": "2026-08-14T14:21:41.723Z"
         }
       ],
       "history": [
@@ -5637,12 +5642,12 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -5670,7 +5675,9 @@
         },
         "attempts": 7,
         "status": "playing",
-        "createdAt": 1786717294662
+        "createdAt": 1786717294662,
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     },
     "6703298995": {
