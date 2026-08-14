@@ -16781,8 +16781,21 @@
       "coins": 150450,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Swat.png",
+          "type": "booster",
+          "at": "2026-08-14T06:55:16.441Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Swat.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-14T06:55:16.441Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -16837,19 +16850,13 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-13T17:37:33.735Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-13T17:37:25.768Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786690494974,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1786690515734,
       "totalEarned": 160850,
-      "totalOpened": 38,
+      "totalOpened": 39,
       "memoryGame": {
         "board": [
           {
