@@ -3052,7 +3052,7 @@
     },
     "7307808447": {
       "name": "EnderGamesDev",
-      "coins": 3143900,
+      "coins": 3143850,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3093,6 +3093,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-15T20:09:37.690Z"
+        },
+        {
+          "kind": "coins",
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-15T20:09:12.936Z"
@@ -3115,21 +3121,15 @@
           "amount": 1000,
           "caseType": "knife",
           "at": "2026-08-15T20:08:54.936Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-15T20:07:47.183Z"
         }
       ],
       "lastBonus": 1786306623714,
       "username": "EnderGamesDev",
-      "lastCaseAt": 1786824552453,
-      "totalEarned": 2640450,
+      "lastCaseAt": 1786824577394,
+      "totalEarned": 2640700,
       "lastBoosterAt": 1786811039085,
       "language": "en",
-      "totalOpened": 111,
+      "totalOpened": 112,
       "unknownUntil": 1786824820340,
       "achievements": [
         "earn_100k",
@@ -3263,7 +3263,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 48372800,
+      "coins": 48373100,
       "luck": 1.25,
       "boosts": [
         {
@@ -3335,20 +3335,9 @@
         {
           "file": "butkoi.png",
           "type": "knife"
-        },
-        {
-          "file": "m9ruby.png",
-          "type": "knife"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "m9ruby.png",
-          "chance": 0.08,
-          "caseType": "knife",
-          "at": "2026-08-15T20:09:36.375Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -3372,13 +3361,20 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-15T20:08:53.358Z"
+        },
+        {
+          "kind": "skin",
+          "file": "butkoi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-08-15T20:08:48.068Z"
         }
       ],
       "lastBonus": 1786811344190,
-      "lastCaseAt": 1786824575876,
+      "lastCaseAt": 1786824569828,
       "lastBoosterAt": 1786822856968,
       "totalEarned": 63505700,
-      "totalOpened": 2188,
+      "totalOpened": 2187,
       "unknownUntil": 1786825165934,
       "achievements": [
         "open_100",
