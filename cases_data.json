@@ -19190,7 +19190,13 @@
       "coins": 100,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butsaphire.png",
+          "type": "knife",
+          "at": "2026-08-15T08:29:13.567Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -19421,6 +19427,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -19441,8 +19448,7 @@
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "skin",
@@ -19451,9 +19457,11 @@
           "price": 2000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1786782540748
+        "createdAt": 1786782540748,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "fen1xs"
     }
