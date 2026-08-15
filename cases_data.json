@@ -2974,11 +2974,17 @@
     },
     "2080177555": {
       "name": "ауука",
-      "coins": 447150,
+      "coins": 447000,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "spinner",
+          "at": "2026-08-15T20:18:30.906Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -3002,20 +3008,17 @@
           "amount": 250,
           "caseType": "spinner",
           "at": "2026-08-14T22:47:39.691Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "spinner",
-          "at": "2026-08-14T22:47:33.289Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786747727550,
+      "lastCaseAt": 1786825110423,
       "lastBoosterAt": 0,
-      "totalEarned": 487250,
-      "totalOpened": 137,
-      "username": "auuku"
+      "totalEarned": 487400,
+      "totalOpened": 138,
+      "username": "auuku",
+      "unknownUntil": 0,
+      "memoryGame": null,
+      "achievements": []
     },
     "2135640800": {
       "name": "Wor6i",
@@ -3272,7 +3275,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 49036850,
+      "coins": 49037050,
       "luck": 1.25,
       "boosts": [
         {
@@ -3316,12 +3319,6 @@
       ],
       "history": [
         {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-15T20:18:35.713Z"
-        },
-        {
           "kind": "skin",
           "file": "m9desert.png",
           "chance": 0.9,
@@ -3348,13 +3345,19 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-15T20:16:28.854Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-15T20:15:55.904Z"
         }
       ],
       "lastBonus": 1786811344190,
-      "lastCaseAt": 1786825115389,
+      "lastCaseAt": 1786825094748,
       "lastBoosterAt": 1786824866650,
-      "totalEarned": 64178750,
-      "totalOpened": 2219,
+      "totalEarned": 64178650,
+      "totalOpened": 2218,
       "unknownUntil": 1786825165934,
       "achievements": [
         "open_100",
@@ -5415,8 +5418,7 @@
         },
         {
           "file": "m9skullskin.png",
-          "type": "knife",
-          "locked": true
+          "type": "knife"
         }
       ],
       "history": [
