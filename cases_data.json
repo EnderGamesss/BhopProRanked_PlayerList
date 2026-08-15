@@ -5404,7 +5404,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 50171350,
+      "coins": 50171450,
       "luck": 1.25,
       "boosts": [
         {
@@ -6239,6 +6239,12 @@
           "kind": "coins",
           "amount": 100,
           "caseType": "knife",
+          "at": "2026-08-15T17:51:47.754Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
           "at": "2026-08-15T17:51:05.899Z"
         },
         {
@@ -6290,20 +6296,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-15T17:46:04.864Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9snake.png",
-          "chance": 0.35,
-          "caseType": "knife",
-          "at": "2026-08-15T17:45:53.141Z"
         }
       ],
       "lastBonus": 1786811344190,
-      "lastCaseAt": 1786816265561,
+      "lastCaseAt": 1786816307754,
       "lastBoosterAt": 1786813568959,
-      "totalEarned": 52255950,
-      "totalOpened": 2016,
+      "totalEarned": 52256050,
+      "totalOpened": 2017,
       "memoryGame": {
         "board": [
           {
@@ -20937,9 +20936,9 @@
       "bet": 1000000,
       "turn": "8708014655",
       "challengerOpens": 1,
-      "opponentOpens": 0,
+      "opponentOpens": 1,
       "challengerTotal": 150,
-      "opponentTotal": 0,
+      "opponentTotal": 100,
       "results": [
         {
           "uid": "5897985265",
@@ -20948,9 +20947,17 @@
             "amount": 150
           },
           "earnings": 150
+        },
+        {
+          "uid": "8708014655",
+          "result": {
+            "kind": "coins",
+            "amount": 100
+          },
+          "earnings": 100
         }
       ],
-      "lastAction": 1786816300133
+      "lastAction": 1786816307754
     }
   },
   "trades": {}
