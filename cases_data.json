@@ -5858,6 +5858,11 @@
           "file": "butkoi.png",
           "type": "knife",
           "at": "2026-08-15T10:41:26.498Z"
+        },
+        {
+          "file": "camospinner.png",
+          "type": "spinner",
+          "at": "2026-08-15T10:42:35.139Z"
         }
       ],
       "history": [
@@ -6120,6 +6125,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -6136,8 +6142,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false
@@ -6149,7 +6154,7 @@
           "price": 124000,
           "weight": 2
         },
-        "attempts": 3,
+        "attempts": 4,
         "status": "playing",
         "createdAt": 1786790517262,
         "flipStage": "wait_first",
