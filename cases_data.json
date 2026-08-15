@@ -5422,6 +5422,11 @@
           "file": "karambitsnake.png",
           "type": "knife",
           "at": "2026-08-15T18:40:37.768Z"
+        },
+        {
+          "file": "thumb-crown.png",
+          "type": "glove",
+          "at": "2026-08-15T18:41:47.642Z"
         }
       ],
       "history": [
@@ -5690,13 +5695,13 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -5709,9 +5714,11 @@
           "price": 10000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1786819291941
+        "createdAt": 1786819291941,
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     },
     "6703298995": {
