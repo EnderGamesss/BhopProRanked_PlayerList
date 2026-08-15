@@ -5365,7 +5365,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 50704450,
+      "coins": 50704350,
       "luck": 1.25,
       "boosts": [
         {
@@ -5748,6 +5748,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-15T09:11:02.160Z"
+        },
+        {
+          "kind": "coins",
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-15T09:10:55.011Z"
@@ -5800,19 +5806,13 @@
           "amount": 1000,
           "caseType": "knife",
           "at": "2026-08-15T09:05:21.678Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-15T09:05:16.069Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786785054523,
+      "lastCaseAt": 1786785061787,
       "lastBoosterAt": 1786784475581,
-      "totalEarned": 52125550,
-      "totalOpened": 1451,
+      "totalEarned": 52125750,
+      "totalOpened": 1452,
       "memoryGame": {
         "board": [
           {
@@ -19342,11 +19342,6 @@
           "file": "thumb-fairy.png",
           "type": "glove",
           "at": "2026-08-15T09:09:26.340Z"
-        },
-        {
-          "file": "karambitbreak.png",
-          "type": "knife",
-          "at": "2026-08-15T09:11:02.138Z"
         }
       ],
       "history": [
@@ -19606,14 +19601,14 @@
           false,
           false,
           true,
-          true,
           false,
           false,
           false,
           false,
           false,
           false,
-          true,
+          false,
+          false,
           false,
           false,
           false,
@@ -19629,7 +19624,7 @@
           "price": 2000,
           "weight": 3
         },
-        "attempts": 6,
+        "attempts": 7,
         "status": "playing",
         "createdAt": 1786785026300,
         "flipStage": "wait_first",
