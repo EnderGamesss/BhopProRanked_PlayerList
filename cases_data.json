@@ -5370,7 +5370,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 50699000,
+      "coins": 50698900,
       "luck": 1.25,
       "boosts": [
         {
@@ -5852,6 +5852,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-15T10:36:45.102Z"
+        },
+        {
           "kind": "skin",
           "file": "karambitsnake.png",
           "chance": 0.3,
@@ -5907,19 +5913,13 @@
           "amount": 1000,
           "caseType": "knife",
           "at": "2026-08-15T10:34:27.316Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-15T10:34:19.833Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786790198192,
+      "lastCaseAt": 1786790204682,
       "lastBoosterAt": 1786789923247,
-      "totalEarned": 52152800,
-      "totalOpened": 1563,
+      "totalEarned": 52153000,
+      "totalOpened": 1564,
       "memoryGame": {
         "board": [
           {
@@ -19416,7 +19416,7 @@
     },
     "5897985265": {
       "name": "tonxi",
-      "coins": 1096550,
+      "coins": 1096700,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -19452,12 +19452,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-15T10:36:45.076Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -19511,13 +19505,19 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-15T10:35:20.757Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-15T10:35:14.012Z"
         }
       ],
       "lastBonus": 1786785202775,
-      "lastCaseAt": 1786790204549,
+      "lastCaseAt": 1786790192554,
       "lastBoosterAt": 1786789372462,
-      "totalEarned": 1153150,
-      "totalOpened": 195,
+      "totalEarned": 1153000,
+      "totalOpened": 194,
       "memoryGame": {
         "board": [
           {
