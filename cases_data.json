@@ -5863,6 +5863,11 @@
           "file": "camospinner.png",
           "type": "spinner",
           "at": "2026-08-15T10:42:35.139Z"
+        },
+        {
+          "file": "butemerand.png",
+          "type": "knife",
+          "at": "2026-08-15T10:42:56.940Z"
         }
       ],
       "history": [
@@ -6123,7 +6128,7 @@
         "matched": [
           false,
           false,
-          false,
+          true,
           false,
           true,
           false,
@@ -6144,7 +6149,7 @@
           false,
           true,
           false,
-          false,
+          true,
           false
         ],
         "target": {
@@ -6154,7 +6159,7 @@
           "price": 124000,
           "weight": 2
         },
-        "attempts": 4,
+        "attempts": 3,
         "status": "playing",
         "createdAt": 1786790517262,
         "flipStage": "wait_first",
