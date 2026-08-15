@@ -16573,11 +16573,17 @@
     },
     "6614471926": {
       "name": "Саша",
-      "coins": 103300,
+      "coins": 103100,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "spinner",
+          "at": "2026-08-15T07:45:09.296Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -16631,20 +16637,13 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-08-14T11:00:23.428Z"
-        },
-        {
-          "kind": "skin",
-          "file": "camospinner.png",
-          "chance": 2.5,
-          "caseType": "spinner",
-          "at": "2026-08-14T11:00:17.995Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786779902815,
+      "lastCaseAt": 1786779908557,
       "lastBoosterAt": 0,
-      "totalEarned": 123000,
-      "totalOpened": 69,
+      "totalEarned": 123100,
+      "totalOpened": 70,
       "memoryGame": {
         "board": [
           {
