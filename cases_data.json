@@ -19346,6 +19346,11 @@
           "file": "m9forest.png",
           "type": "knife",
           "at": "2026-08-15T09:11:07.335Z"
+        },
+        {
+          "file": "m9guardian.png",
+          "type": "knife",
+          "at": "2026-08-15T09:11:28.521Z"
         }
       ],
       "history": [
@@ -19609,7 +19614,7 @@
           true,
           false,
           false,
-          false,
+          true,
           false,
           false,
           true,
@@ -19619,7 +19624,7 @@
           false,
           false,
           false,
-          false
+          true
         ],
         "target": {
           "kind": "skin",
@@ -19628,7 +19633,7 @@
           "price": 2000,
           "weight": 3
         },
-        "attempts": 6,
+        "attempts": 5,
         "status": "playing",
         "createdAt": 1786785026300,
         "flipStage": "wait_first",
