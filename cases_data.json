@@ -6105,7 +6105,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -6149,9 +6149,11 @@
           "price": 124000,
           "weight": 2
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1786790517262
+        "createdAt": 1786790517262,
+        "flipStage": "wait_second",
+        "firstFlip": 16
       }
     },
     "6703298995": {
