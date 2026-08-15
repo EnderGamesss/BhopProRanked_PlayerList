@@ -2974,17 +2974,11 @@
     },
     "2080177555": {
       "name": "ауука",
-      "coins": 447000,
+      "coins": 447150,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-15T20:18:30.906Z"
-        },
         {
           "kind": "coins",
           "amount": 250,
@@ -3008,17 +3002,20 @@
           "amount": 250,
           "caseType": "spinner",
           "at": "2026-08-14T22:47:39.691Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "spinner",
+          "at": "2026-08-14T22:47:33.289Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786825110423,
+      "lastCaseAt": 1786747727550,
       "lastBoosterAt": 0,
-      "totalEarned": 487400,
-      "totalOpened": 138,
-      "username": "auuku",
-      "unknownUntil": 0,
-      "memoryGame": null,
-      "achievements": []
+      "totalEarned": 487250,
+      "totalOpened": 137,
+      "username": "auuku"
     },
     "2135640800": {
       "name": "Wor6i",
@@ -5418,7 +5415,8 @@
         },
         {
           "file": "m9skullskin.png",
-          "type": "knife"
+          "type": "knife",
+          "locked": true
         }
       ],
       "history": [
