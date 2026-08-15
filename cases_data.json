@@ -19953,9 +19953,21 @@
           "file": "karambitsnake.png",
           "type": "knife",
           "at": "2026-08-15T17:47:34.344Z"
+        },
+        {
+          "file": "karambitruby.png",
+          "type": "knife",
+          "at": "2026-08-15T17:49:13.612Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitruby.png",
+          "chance": 0.065,
+          "caseType": "knife",
+          "at": "2026-08-15T17:49:13.612Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -20010,19 +20022,13 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-15T17:46:52.326Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-15T17:46:36.098Z"
         }
       ],
       "lastBonus": 1786785202775,
-      "lastCaseAt": 1786816134649,
+      "lastCaseAt": 1786816153612,
       "lastBoosterAt": 1786814778524,
       "totalEarned": 4514850,
-      "totalOpened": 697,
+      "totalOpened": 698,
       "memoryGame": {
         "board": [
           {
@@ -20822,9 +20828,9 @@
       "chosenType": "knife",
       "bet": 500000,
       "turn": "5897985265",
-      "challengerOpens": 2,
+      "challengerOpens": 3,
       "opponentOpens": 2,
-      "challengerTotal": 650,
+      "challengerTotal": 67650,
       "opponentTotal": 850,
       "results": [
         {
@@ -20858,9 +20864,18 @@
             "amount": 750
           },
           "earnings": 750
+        },
+        {
+          "uid": "5897985265",
+          "result": {
+            "kind": "skin",
+            "file": "karambitruby.png",
+            "chance": 0.065
+          },
+          "earnings": 67000
         }
       ],
-      "lastAction": 1786816143124
+      "lastAction": 1786816153612
     }
   },
   "trades": {}
