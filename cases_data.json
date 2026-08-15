@@ -19549,7 +19549,7 @@
     },
     "5897985265": {
       "name": "tonxi",
-      "coins": 833050,
+      "coins": 833200,
       "luck": 1.25,
       "boosts": [
         {
@@ -19634,7 +19634,7 @@
       "lastBonus": 1786785202775,
       "lastCaseAt": 1786796367021,
       "lastBoosterAt": 1786794733576,
-      "totalEarned": 1933750,
+      "totalEarned": 1933900,
       "totalOpened": 345,
       "memoryGame": {
         "board": [
@@ -19843,12 +19843,12 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "skin",
@@ -19859,7 +19859,9 @@
         },
         "attempts": 7,
         "status": "playing",
-        "createdAt": 1786796404990
+        "createdAt": 1786796404990,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "fen1xs"
     },
