@@ -5192,7 +5192,7 @@
     },
     "7692376723": {
       "name": "Типа клютой ыыыы",
-      "coins": 346700,
+      "coins": 346400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -5203,9 +5203,20 @@
         {
           "file": "butforest.png",
           "type": "knife"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-15T20:59:44.697Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -5229,20 +5240,14 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-15T20:59:08.227Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-15T20:59:03.113Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786827572538,
+      "lastCaseAt": 1786827584197,
       "lastBoosterAt": 1786827412193,
       "totalEarned": 369400,
       "username": "L1M0N_111",
-      "totalOpened": 29,
+      "totalOpened": 30,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
