@@ -5668,6 +5668,11 @@
           "file": "karambittiger.png",
           "type": "knife",
           "at": "2026-08-15T08:58:38.206Z"
+        },
+        {
+          "file": "m9snake.png",
+          "type": "knife",
+          "at": "2026-08-15T08:59:30.648Z"
         }
       ],
       "history": [
@@ -5941,6 +5946,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -5954,8 +5960,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -5969,9 +5974,11 @@
           "price": 100000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 2,
         "status": "playing",
-        "createdAt": 1786784337923
+        "createdAt": 1786784337923,
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     },
     "6703298995": {
