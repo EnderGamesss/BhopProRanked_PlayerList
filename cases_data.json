@@ -19202,8 +19202,21 @@
       "coins": 86100,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butsuicide.png",
+          "type": "booster",
+          "at": "2026-08-15T08:31:29.596Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butsuicide.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-15T08:31:29.596Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -19237,9 +19250,9 @@
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786782462673,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1786782689222,
       "totalEarned": 86600,
-      "totalOpened": 5,
+      "totalOpened": 6,
       "memoryGame": {
         "board": [
           {
