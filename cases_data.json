@@ -3258,7 +3258,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 48373800,
+      "coins": 48373500,
       "luck": 1.25,
       "boosts": [
         {
@@ -3318,9 +3318,20 @@
         {
           "file": "butdesert.png",
           "type": "knife"
+        },
+        {
+          "file": "m9forest.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9forest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-15T20:08:19.282Z"
+        },
         {
           "kind": "skin",
           "file": "butdesert.png",
@@ -3346,19 +3357,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-15T20:07:53.758Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-15T20:07:24.601Z"
         }
       ],
       "lastBonus": 1786811344190,
-      "lastCaseAt": 1786824492163,
+      "lastCaseAt": 1786824498899,
       "lastBoosterAt": 1786822856968,
       "totalEarned": 63504000,
-      "totalOpened": 2179,
+      "totalOpened": 2180,
       "unknownUntil": 1786824674196,
       "achievements": [
         "open_100",
@@ -3416,7 +3421,7 @@
     },
     "5818384071": {
       "name": "Temp",
-      "coins": 120000,
+      "coins": 120050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3444,12 +3449,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-15T20:08:17.581Z"
-        },
-        {
-          "kind": "coins",
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-15T20:08:03.766Z"
@@ -3473,14 +3472,21 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-15T20:07:03.556Z"
+        },
+        {
+          "kind": "skin",
+          "file": "thumb-Mercenery.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-15T17:17:38.699Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786824497298,
+      "lastCaseAt": 1786824483457,
       "username": "lTemp",
       "lastBoosterAt": 1786824423097,
-      "totalEarned": 13250,
-      "totalOpened": 11,
+      "totalEarned": 13000,
+      "totalOpened": 10,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": []
