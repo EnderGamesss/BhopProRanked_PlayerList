@@ -5308,12 +5308,16 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 63020150,
+      "coins": 48020150,
       "luck": 1.25,
       "boosts": [
         {
           "id": "lucky_charm",
           "at": "2026-08-12T19:33:29.103Z"
+        },
+        {
+          "id": "mythical_charm",
+          "at": "2026-08-15T19:40:07.829Z"
         }
       ],
       "inventory": [],
@@ -5608,7 +5612,10 @@
         "createdAt": 1786819291941,
         "flipStage": "wait_first",
         "firstFlip": null
-      }
+      },
+      "unknownUntil": 0,
+      "achievements": [],
+      "equippedCharm": "mythical_charm"
     },
     "6703298995": {
       "name": "Aleksandyr",
