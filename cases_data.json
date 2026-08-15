@@ -6406,7 +6406,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -6439,11 +6439,11 @@
           false,
           false,
           false,
-          true,
           false,
           false,
           false,
-          true
+          false,
+          false
         ],
         "target": {
           "kind": "skin",
@@ -6455,8 +6455,8 @@
         "attempts": 6,
         "status": "playing",
         "createdAt": 1786813737078,
-        "flipStage": "wait_first",
-        "firstFlip": null
+        "flipStage": "wait_second",
+        "firstFlip": 14
       }
     },
     "6703298995": {
