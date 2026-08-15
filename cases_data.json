@@ -19339,7 +19339,7 @@
     },
     "5897985265": {
       "name": "tonxi",
-      "coins": 621650,
+      "coins": 621350,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -19357,9 +19357,21 @@
           "file": "butforest.png",
           "type": "knife",
           "at": "2026-08-15T09:20:25.810Z"
+        },
+        {
+          "file": "thumb-basic-spinner-5.png",
+          "type": "spinner",
+          "at": "2026-08-15T09:20:53.974Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-basic-spinner-5.png",
+          "chance": 2,
+          "caseType": "spinner",
+          "at": "2026-08-15T09:20:53.974Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -19414,20 +19426,13 @@
           "amount": 250,
           "caseType": "spinner",
           "at": "2026-08-15T09:19:34.043Z"
-        },
-        {
-          "kind": "skin",
-          "file": "camospinner.png",
-          "chance": 2.5,
-          "caseType": "spinner",
-          "at": "2026-08-15T09:19:26.937Z"
         }
       ],
       "lastBonus": 1786785202775,
-      "lastCaseAt": 1786785646024,
+      "lastCaseAt": 1786785653534,
       "lastBoosterAt": 1786785324592,
       "totalEarned": 643750,
-      "totalOpened": 79,
+      "totalOpened": 80,
       "memoryGame": {
         "board": [
           {
