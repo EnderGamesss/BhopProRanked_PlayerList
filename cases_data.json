@@ -19895,7 +19895,7 @@
     },
     "5897985265": {
       "name": "tonxi",
-      "coins": 1811750,
+      "coins": 1812500,
       "luck": 1.25,
       "boosts": [
         {
@@ -19968,6 +19968,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-15T17:52:15.838Z"
+        },
+        {
+          "kind": "coins",
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-15T17:51:56.509Z"
@@ -20020,20 +20026,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-15T17:48:02.237Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitsnake.png",
-          "chance": 0.3,
-          "caseType": "knife",
-          "at": "2026-08-15T17:47:34.344Z"
         }
       ],
       "lastBonus": 1786785202775,
-      "lastCaseAt": 1786816316509,
+      "lastCaseAt": 1786816335838,
       "lastBoosterAt": 1786814778524,
-      "totalEarned": 4516250,
-      "totalOpened": 703,
+      "totalEarned": 4517000,
+      "totalOpened": 704,
       "memoryGame": {
         "board": [
           {
@@ -20935,9 +20934,9 @@
       "chosenType": "knife",
       "bet": 1000000,
       "turn": "5897985265",
-      "challengerOpens": 2,
+      "challengerOpens": 3,
       "opponentOpens": 2,
-      "challengerTotal": 250,
+      "challengerTotal": 1000,
       "opponentTotal": 300,
       "results": [
         {
@@ -20971,9 +20970,17 @@
             "amount": 200
           },
           "earnings": 200
+        },
+        {
+          "uid": "5897985265",
+          "result": {
+            "kind": "coins",
+            "amount": 750
+          },
+          "earnings": 750
         }
       ],
-      "lastAction": 1786816325799
+      "lastAction": 1786816335838
     }
   },
   "trades": {}
