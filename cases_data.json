@@ -8436,7 +8436,7 @@
     },
     "6595612039": {
       "name": "Tulen",
-      "coins": 3500,
+      "coins": 3200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -8451,9 +8451,20 @@
         {
           "file": "thumb-Swat.png",
           "type": "glove"
+        },
+        {
+          "file": "thumb-Mercenery.png",
+          "type": "glove"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Mercenery.png",
+          "chance": 8.5,
+          "caseType": "glove",
+          "at": "2026-08-15T22:35:34.373Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-Swat.png",
@@ -8478,20 +8489,13 @@
           "amount": 100,
           "caseType": "glove",
           "at": "2026-08-15T22:34:25.315Z"
-        },
-        {
-          "kind": "skin",
-          "file": "thumb-Swat.png",
-          "chance": 7,
-          "caseType": "glove",
-          "at": "2026-08-15T22:33:36.016Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786833296359,
+      "lastCaseAt": 1786833333800,
       "lastBoosterAt": 1786833034567,
       "totalEarned": 6400,
-      "totalOpened": 14,
+      "totalOpened": 15,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
