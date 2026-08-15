@@ -19494,7 +19494,13 @@
           "at": "2026-08-15T11:03:41.244Z"
         }
       ],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-bluestar.png",
+          "type": "glove",
+          "at": "2026-08-15T11:54:00.474Z"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -19749,6 +19755,7 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
@@ -19759,8 +19766,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -19780,9 +19786,11 @@
           "amount": 100,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1786794818558
+        "createdAt": 1786794818558,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "fen1xs"
     }
