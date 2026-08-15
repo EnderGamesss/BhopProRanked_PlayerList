@@ -6407,7 +6407,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -6439,11 +6439,11 @@
           false,
           false,
           false,
-          true,
           false,
           false,
           false,
-          true
+          false,
+          false
         ],
         "target": {
           "kind": "skin",
@@ -6452,11 +6452,11 @@
           "price": 112000,
           "weight": 2
         },
-        "attempts": 4,
+        "attempts": 5,
         "status": "playing",
         "createdAt": 1786813737078,
-        "flipStage": "wait_first",
-        "firstFlip": null
+        "flipStage": "wait_second",
+        "firstFlip": 15
       }
     },
     "6703298995": {
@@ -19794,7 +19794,7 @@
     },
     "5897985265": {
       "name": "tonxi",
-      "coins": 1438900,
+      "coins": 1438750,
       "luck": 1.25,
       "boosts": [
         {
@@ -19927,6 +19927,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-15T17:11:19.715Z"
+        },
+        {
+          "kind": "coins",
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-15T17:10:55.710Z"
@@ -19979,19 +19985,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-15T17:07:29.636Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-15T17:07:23.897Z"
         }
       ],
       "lastBonus": 1786785202775,
-      "lastCaseAt": 1786813854981,
+      "lastCaseAt": 1786813879145,
       "lastBoosterAt": 1786811488699,
-      "totalEarned": 2603200,
-      "totalOpened": 561,
+      "totalEarned": 2603350,
+      "totalOpened": 562,
       "memoryGame": {
         "board": [
           {
