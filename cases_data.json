@@ -3278,7 +3278,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 49035350,
+      "coins": 49035500,
       "luck": 1.25,
       "boosts": [
         {
@@ -3335,12 +3335,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-15T20:21:25.232Z"
-        },
-        {
-          "kind": "coins",
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-15T20:20:50.810Z"
@@ -3363,13 +3357,19 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-15T20:20:27.972Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-15T20:20:17.137Z"
         }
       ],
       "lastBonus": 1786811344190,
-      "lastCaseAt": 1786825284636,
+      "lastCaseAt": 1786825250501,
       "lastBoosterAt": 1786824866650,
-      "totalEarned": 64180850,
-      "totalOpened": 2231,
+      "totalEarned": 64180700,
+      "totalOpened": 2230,
       "unknownUntil": 1786825165934,
       "achievements": [
         "open_100",
@@ -5387,7 +5387,8 @@
         },
         {
           "file": "karambitkoi.png",
-          "type": "booster"
+          "type": "booster",
+          "locked": true
         },
         {
           "file": "m9snake.png",
@@ -5413,7 +5414,8 @@
         },
         {
           "file": "m9koi.png",
-          "type": "knife"
+          "type": "knife",
+          "locked": true
         },
         {
           "file": "butforest.png",
