@@ -19656,7 +19656,7 @@
     },
     "5897985265": {
       "name": "tonxi",
-      "coins": 1451200,
+      "coins": 1451100,
       "luck": 1.25,
       "boosts": [
         {
@@ -19677,6 +19677,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "spinner",
+          "at": "2026-08-15T15:26:10.024Z"
+        },
         {
           "kind": "skin",
           "file": "woodspinner.png",
@@ -19732,20 +19738,13 @@
           "chance": 2.5,
           "caseType": "spinner",
           "at": "2026-08-15T15:23:59.199Z"
-        },
-        {
-          "kind": "skin",
-          "file": "woodspinner.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-15T15:13:09.165Z"
         }
       ],
       "lastBonus": 1786785202775,
-      "lastCaseAt": 1786807562582,
+      "lastCaseAt": 1786807569338,
       "lastBoosterAt": 1786806788687,
-      "totalEarned": 2573800,
-      "totalOpened": 420,
+      "totalEarned": 2574000,
+      "totalOpened": 421,
       "memoryGame": {
         "board": [
           {
