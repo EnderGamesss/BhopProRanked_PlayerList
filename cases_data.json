@@ -5404,7 +5404,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 50669550,
+      "coins": 50169550,
       "luck": 1.25,
       "boosts": [
         {
@@ -19890,7 +19890,7 @@
     },
     "5897985265": {
       "name": "tonxi",
-      "coins": 3310000,
+      "coins": 2810000,
       "luck": 1.25,
       "boosts": [
         {
@@ -20813,14 +20813,20 @@
     "duel_1786816065975_5897985265": {
       "challenger": "5897985265",
       "opponent": "8708014655",
-      "status": "bet_confirm",
+      "status": "active",
       "createdAt": 1786816065975,
       "choices": {
         "5897985265": "knife",
         "8708014655": "knife"
       },
       "chosenType": "knife",
-      "bet": 500000
+      "bet": 500000,
+      "turn": "5897985265",
+      "challengerOpens": 0,
+      "opponentOpens": 0,
+      "challengerTotal": 0,
+      "opponentTotal": 0,
+      "results": []
     }
   },
   "trades": {}
