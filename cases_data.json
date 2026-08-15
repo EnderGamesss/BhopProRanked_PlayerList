@@ -3336,7 +3336,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 50909550,
+      "coins": 50909800,
       "luck": 1.25,
       "boosts": [
         {
@@ -3431,6 +3431,18 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-15T21:10:22.167Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-15T21:10:16.197Z"
+        },
+        {
           "kind": "skin",
           "file": "m9koi.png",
           "chance": 0.25,
@@ -3450,26 +3462,13 @@
           "chance": 0.08,
           "caseType": "knife",
           "at": "2026-08-15T21:08:49.227Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-15T21:08:43.782Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9forest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-15T21:08:38.250Z"
         }
       ],
       "lastBonus": 1786811344190,
-      "lastCaseAt": 1786828209388,
+      "lastCaseAt": 1786828221398,
       "lastBoosterAt": 1786826685737,
-      "totalEarned": 66136050,
-      "totalOpened": 2502,
+      "totalEarned": 66136900,
+      "totalOpened": 2504,
       "unknownUntil": 1786825165934,
       "achievements": [
         "open_100",
@@ -5240,10 +5239,15 @@
     },
     "7692376723": {
       "name": "Типа клютой ыыыы",
-      "coins": 426750,
+      "coins": 408750,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butkoi.png",
+          "type": "knife"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -5280,7 +5284,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786828134845,
       "lastBoosterAt": 1786827412193,
-      "totalEarned": 460850,
+      "totalEarned": 442850,
       "username": "L1M0N_111",
       "totalOpened": 67,
       "unknownUntil": 1786827961056,
