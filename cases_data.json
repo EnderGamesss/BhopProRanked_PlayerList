@@ -19389,6 +19389,11 @@
           "file": "karambitforest.png",
           "type": "knife",
           "at": "2026-08-15T09:54:35.496Z"
+        },
+        {
+          "file": "karambitemerand.png",
+          "type": "knife",
+          "at": "2026-08-15T10:21:48.378Z"
         }
       ],
       "history": [
@@ -19653,12 +19658,12 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -19679,9 +19684,11 @@
           "price": 2000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1786789295613
+        "createdAt": 1786789295613,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "fen1xs"
     }
