@@ -19675,7 +19675,7 @@
     },
     "5897985265": {
       "name": "tonxi",
-      "coins": 973500,
+      "coins": 973750,
       "luck": 1.25,
       "boosts": [
         {
@@ -19756,7 +19756,7 @@
       "lastBonus": 1786785202775,
       "lastCaseAt": 1786806347079,
       "lastBoosterAt": 1786804871185,
-      "totalEarned": 2093400,
+      "totalEarned": 2093650,
       "totalOpened": 410,
       "memoryGame": {
         "board": [
@@ -19948,6 +19948,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -19959,15 +19960,14 @@
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "coins",
           "amount": 500,
           "weight": 20
         },
-        "attempts": 5,
+        "attempts": 6,
         "status": "playing",
         "createdAt": 1786806407958,
         "flipStage": "wait_first",
