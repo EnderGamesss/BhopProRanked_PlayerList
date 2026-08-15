@@ -6278,7 +6278,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -6311,21 +6311,21 @@
           false,
           false,
           false,
-          true,
           false,
           false,
-          true
+          false,
+          false
         ],
         "target": {
           "kind": "coins",
           "amount": 750,
           "weight": 20
         },
-        "attempts": 3,
+        "attempts": 1,
         "status": "playing",
         "createdAt": 1786806426593,
-        "flipStage": "wait_first",
-        "firstFlip": null
+        "flipStage": "wait_second",
+        "firstFlip": 15
       }
     },
     "6703298995": {
