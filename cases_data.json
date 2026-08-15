@@ -6149,11 +6149,9 @@
           "price": 124000,
           "weight": 2
         },
-        "attempts": 5,
+        "attempts": 7,
         "status": "playing",
-        "createdAt": 1786790517262,
-        "flipStage": "wait_first",
-        "firstFlip": null
+        "createdAt": 1786790517262
       }
     },
     "6703298995": {
@@ -19417,7 +19415,13 @@
       "coins": 1219150,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "arrowspinner.png",
+          "type": "spinner",
+          "at": "2026-08-15T10:42:13.677Z"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -19671,6 +19675,7 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
@@ -19680,8 +19685,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -19704,7 +19708,9 @@
         },
         "attempts": 7,
         "status": "playing",
-        "createdAt": 1786790507988
+        "createdAt": 1786790507988,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "fen1xs"
     }
