@@ -5365,7 +5365,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 50700850,
+      "coins": 50701150,
       "luck": 1.25,
       "boosts": [
         {
@@ -5778,21 +5778,9 @@
           "file": "m9forest.png",
           "type": "knife",
           "at": "2026-08-15T09:16:47.010Z"
-        },
-        {
-          "file": "m9desert.png",
-          "type": "knife",
-          "at": "2026-08-15T09:17:47.635Z"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "m9desert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-15T09:17:47.635Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -5847,13 +5835,20 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-15T09:16:47.010Z"
+        },
+        {
+          "kind": "skin",
+          "file": "karambitsnake.png",
+          "chance": 0.3,
+          "caseType": "knife",
+          "at": "2026-08-15T09:16:41.153Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786785467235,
+      "lastCaseAt": 1786785460155,
       "lastBoosterAt": 1786784475581,
       "totalEarned": 52136950,
-      "totalOpened": 1501,
+      "totalOpened": 1500,
       "memoryGame": {
         "board": [
           {
@@ -19340,11 +19335,17 @@
     },
     "5897985265": {
       "name": "tonxi",
-      "coins": 622600,
+      "coins": 622450,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-15T09:17:48.431Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -19399,19 +19400,13 @@
           "amount": 250,
           "caseType": "glove",
           "at": "2026-08-15T09:10:17.356Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "glove",
-          "at": "2026-08-15T09:10:10.831Z"
         }
       ],
       "lastBonus": 1786785202775,
-      "lastCaseAt": 1786785462006,
+      "lastCaseAt": 1786785468191,
       "lastBoosterAt": 1786785324592,
-      "totalEarned": 639300,
-      "totalOpened": 61,
+      "totalEarned": 639450,
+      "totalOpened": 62,
       "memoryGame": {
         "board": [
           {
