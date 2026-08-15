@@ -8436,7 +8436,7 @@
     },
     "6595612039": {
       "name": "Tulen",
-      "coins": 9300,
+      "coins": 9100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -8454,6 +8454,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "spinner",
+          "at": "2026-08-15T22:37:44.048Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -8478,19 +8484,13 @@
           "amount": 100,
           "caseType": "glove",
           "at": "2026-08-15T22:36:44.107Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "glove",
-          "at": "2026-08-15T22:36:36.278Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786833454559,
+      "lastCaseAt": 1786833463608,
       "lastBoosterAt": 1786833034567,
-      "totalEarned": 15200,
-      "totalOpened": 24,
+      "totalEarned": 15300,
+      "totalOpened": 25,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
