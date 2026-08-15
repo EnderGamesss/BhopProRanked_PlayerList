@@ -19506,6 +19506,11 @@
           "file": "thumb-bluestar.png",
           "type": "glove",
           "at": "2026-08-15T11:54:00.474Z"
+        },
+        {
+          "file": "thumb-bluestar.png",
+          "type": "glove",
+          "at": "2026-08-15T11:55:24.310Z"
         }
       ],
       "history": [
@@ -19735,34 +19740,6 @@
           }
         ],
         "revealed": [
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true
-        ],
-        "matched": [
-          true,
           false,
           false,
           false,
@@ -19773,7 +19750,8 @@
           false,
           false,
           false,
-          true,
+          false,
+          false,
           false,
           false,
           false,
@@ -19788,17 +19766,43 @@
           false,
           false
         ],
+        "matched": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
         "target": {
           "kind": "coins",
           "amount": 100,
           "weight": 20
         },
-        "attempts": 0,
-        "status": "lost",
+        "attempts": 1,
+        "status": "playing",
         "createdAt": 1786794818558,
         "flipStage": "wait_first",
-        "firstFlip": null,
-        "endedAt": 1786794917741
+        "firstFlip": null
       },
       "username": "fen1xs"
     }
