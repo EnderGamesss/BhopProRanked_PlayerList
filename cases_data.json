@@ -5365,7 +5365,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 50701050,
+      "coins": 50700600,
       "luck": 1.25,
       "boosts": [
         {
@@ -5813,12 +5813,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-15T10:29:54.353Z"
-        },
-        {
-          "kind": "coins",
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-15T10:29:47.627Z"
@@ -5870,13 +5864,19 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-08-15T10:27:54.468Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-15T10:27:47.835Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786789793633,
+      "lastCaseAt": 1786789787176,
       "lastBoosterAt": 1786788091619,
-      "totalEarned": 52147350,
-      "totalOpened": 1537,
+      "totalEarned": 52146600,
+      "totalOpened": 1536,
       "memoryGame": {
         "board": [
           {
@@ -19373,7 +19373,7 @@
     },
     "5897985265": {
       "name": "tonxi",
-      "coins": 1099750,
+      "coins": 1099450,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -19391,9 +19391,21 @@
           "file": "karambitforest.png",
           "type": "knife",
           "at": "2026-08-15T10:28:59.772Z"
+        },
+        {
+          "file": "m9snake.png",
+          "type": "knife",
+          "at": "2026-08-15T10:29:56.109Z"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9snake.png",
+          "chance": 0.35,
+          "caseType": "knife",
+          "at": "2026-08-15T10:29:56.109Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -19449,19 +19461,13 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-15T10:28:26.237Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-15T10:28:18.677Z"
         }
       ],
       "lastBonus": 1786785202775,
-      "lastCaseAt": 1786789789580,
+      "lastCaseAt": 1786789795465,
       "lastBoosterAt": 1786789372462,
       "totalEarned": 1144650,
-      "totalOpened": 156,
+      "totalOpened": 157,
       "memoryGame": {
         "board": [
           {
