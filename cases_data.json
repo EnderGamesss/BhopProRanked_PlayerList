@@ -2974,11 +2974,23 @@
     },
     "1861937835": {
       "name": "︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎ ︎",
-      "coins": 800,
+      "coins": 500,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-North.png",
+          "type": "glove"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-North.png",
+          "chance": 7.5,
+          "caseType": "glove",
+          "at": "2026-08-15T20:26:15.740Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2987,10 +2999,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786825299535,
+      "lastCaseAt": 1786825575135,
       "lastBoosterAt": 0,
       "totalEarned": 100,
-      "totalOpened": 1,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": []
@@ -3301,7 +3313,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 49078800,
+      "coins": 49078950,
       "luck": 1.25,
       "boosts": [
         {
@@ -3338,12 +3350,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-15T20:26:15.884Z"
-        },
-        {
-          "kind": "coins",
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-15T20:26:09.706Z"
@@ -3367,13 +3373,19 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-15T20:25:51.852Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-15T20:25:45.961Z"
         }
       ],
       "lastBonus": 1786811344190,
-      "lastCaseAt": 1786825575317,
+      "lastCaseAt": 1786825569388,
       "lastBoosterAt": 1786824866650,
-      "totalEarned": 64232400,
-      "totalOpened": 2258,
+      "totalEarned": 64232250,
+      "totalOpened": 2257,
       "unknownUntil": 1786825165934,
       "achievements": [
         "open_100",
