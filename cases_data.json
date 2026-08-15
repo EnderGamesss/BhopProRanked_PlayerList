@@ -3368,9 +3368,20 @@
         {
           "file": "butforest.png",
           "type": "knife"
+        },
+        {
+          "file": "butsuicide.png",
+          "type": "booster"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butsuicide.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-15T20:14:27.092Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -3396,20 +3407,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-15T20:13:15.019Z"
-        },
-        {
-          "kind": "skin",
-          "file": "butruby.png",
-          "chance": 0.06,
-          "caseType": "knife",
-          "at": "2026-08-15T20:12:57.105Z"
         }
       ],
       "lastBonus": 1786811344190,
       "lastCaseAt": 1786824827037,
-      "lastBoosterAt": 1786822856968,
+      "lastBoosterAt": 1786824866650,
       "totalEarned": 63510100,
-      "totalOpened": 2207,
+      "totalOpened": 2208,
       "unknownUntil": 1786825165934,
       "achievements": [
         "open_100",
