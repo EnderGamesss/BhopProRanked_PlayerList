@@ -6143,7 +6143,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -6199,9 +6199,11 @@
           "price": 67000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
-        "createdAt": 1786794837452
+        "createdAt": 1786794837452,
+        "flipStage": "wait_second",
+        "firstFlip": 4
       }
     },
     "6703298995": {
