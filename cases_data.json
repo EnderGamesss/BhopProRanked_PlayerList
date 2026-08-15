@@ -19452,11 +19452,17 @@
     },
     "5897985265": {
       "name": "tonxi",
-      "coins": 1187200,
+      "coins": 1187350,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-15T10:51:48.279Z"
+        },
         {
           "kind": "skin",
           "file": "m9forest.png",
@@ -19511,19 +19517,13 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-15T10:46:09.737Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-15T10:46:02.138Z"
         }
       ],
       "lastBonus": 1786785202775,
-      "lastCaseAt": 1786790924495,
+      "lastCaseAt": 1786791108279,
       "lastBoosterAt": 1786789372462,
-      "totalEarned": 1354000,
-      "totalOpened": 229,
+      "totalEarned": 1354150,
+      "totalOpened": 230,
       "memoryGame": {
         "board": [
           {
@@ -20226,11 +20226,21 @@
       "chosenType": "knife",
       "bet": 100000,
       "turn": "5897985265",
-      "challengerOpens": 0,
+      "challengerOpens": 1,
       "opponentOpens": 0,
-      "challengerTotal": 0,
+      "challengerTotal": 150,
       "opponentTotal": 0,
-      "results": []
+      "results": [
+        {
+          "uid": "5897985265",
+          "result": {
+            "kind": "coins",
+            "amount": 150
+          },
+          "earnings": 150
+        }
+      ],
+      "lastAction": 1786791108279
     }
   },
   "trades": {}
