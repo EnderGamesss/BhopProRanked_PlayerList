@@ -6407,7 +6407,7 @@
           false,
           false,
           false,
-          true,
+          false,
           false,
           false,
           false,
@@ -6439,11 +6439,11 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "skin",
@@ -6452,11 +6452,11 @@
           "price": 112000,
           "weight": 2
         },
-        "attempts": 5,
+        "attempts": 4,
         "status": "playing",
         "createdAt": 1786813737078,
-        "flipStage": "wait_second",
-        "firstFlip": 15
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     },
     "6703298995": {
