@@ -19455,8 +19455,21 @@
       "coins": 1287350,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-joke.png",
+          "type": "booster",
+          "at": "2026-08-15T10:56:47.068Z"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-joke.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-15T10:56:47.068Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -19511,19 +19524,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-15T10:46:14.615Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-15T10:46:09.737Z"
         }
       ],
       "lastBonus": 1786785202775,
       "lastCaseAt": 1786791108279,
-      "lastBoosterAt": 1786789372462,
+      "lastBoosterAt": 1786791406423,
       "totalEarned": 1354150,
-      "totalOpened": 230,
+      "totalOpened": 231,
       "memoryGame": {
         "board": [
           {
