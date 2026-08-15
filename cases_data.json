@@ -3052,7 +3052,7 @@
     },
     "7307808447": {
       "name": "EnderGamesDev",
-      "coins": 3143350,
+      "coins": 3143850,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3084,19 +3084,14 @@
         {
           "file": "karambitforest.png",
           "type": "knife"
-        },
-        {
-          "file": "butforest.png",
-          "type": "knife"
         }
       ],
       "history": [
         {
-          "kind": "skin",
-          "file": "butforest.png",
-          "chance": 0.9,
+          "kind": "coins",
+          "amount": 500,
           "caseType": "knife",
-          "at": "2026-08-15T20:07:52.338Z"
+          "at": "2026-08-15T20:07:47.183Z"
         },
         {
           "kind": "coins",
@@ -3125,8 +3120,8 @@
       ],
       "lastBonus": 1786306623714,
       "username": "EnderGamesDev",
-      "lastCaseAt": 1786824472036,
-      "totalEarned": 2638700,
+      "lastCaseAt": 1786824466631,
+      "totalEarned": 2639200,
       "lastBoosterAt": 1786811039085,
       "language": "en",
       "totalOpened": 107,
@@ -3322,7 +3317,7 @@
           "kind": "coins",
           "amount": 100,
           "caseType": "knife",
-          "at": "2026-08-15T20:07:48.114Z"
+          "at": "2026-08-15T20:07:53.758Z"
         },
         {
           "kind": "coins",
@@ -3352,7 +3347,7 @@
         }
       ],
       "lastBonus": 1786811344190,
-      "lastCaseAt": 1786824467833,
+      "lastCaseAt": 1786824473347,
       "lastBoosterAt": 1786822856968,
       "totalEarned": 63503800,
       "totalOpened": 2176,
@@ -3413,7 +3408,7 @@
     },
     "5818384071": {
       "name": "Temp",
-      "coins": 120600,
+      "coins": 120300,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3432,9 +3427,20 @@
         {
           "file": "butsnake.png",
           "type": "booster"
+        },
+        {
+          "file": "karambitdesert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-15T20:07:49.964Z"
+        },
         {
           "kind": "skin",
           "file": "butsnake.png",
@@ -3462,20 +3468,14 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-11T18:42:22.974Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-10T15:26:03.791Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786375563394,
+      "lastCaseAt": 1786824469692,
       "username": "lTemp",
       "lastBoosterAt": 1786824423097,
       "totalEarned": 12650,
-      "totalOpened": 7,
+      "totalOpened": 8,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": []
