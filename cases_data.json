@@ -3325,7 +3325,7 @@
           "kind": "coins",
           "amount": 150,
           "caseType": "knife",
-          "at": "2026-08-15T20:18:56.642Z"
+          "at": "2026-08-15T20:19:05.284Z"
         },
         {
           "kind": "skin",
@@ -3357,7 +3357,7 @@
         }
       ],
       "lastBonus": 1786811344190,
-      "lastCaseAt": 1786825136057,
+      "lastCaseAt": 1786825144884,
       "lastBoosterAt": 1786824866650,
       "totalEarned": 64178800,
       "totalOpened": 2219,
@@ -5338,12 +5338,11 @@
         {
           "file": "m9fire_0.png",
           "type": "knife",
-          "locked": false
+          "locked": true
         },
         {
           "file": "buttiger.png",
-          "type": "knife",
-          "locked": true
+          "type": "knife"
         },
         {
           "file": "m9spitfire.png",
@@ -5423,7 +5422,8 @@
         },
         {
           "file": "m9skullskin.png",
-          "type": "knife"
+          "type": "knife",
+          "locked": true
         }
       ],
       "history": [
