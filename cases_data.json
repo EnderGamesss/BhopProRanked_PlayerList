@@ -5898,6 +5898,11 @@
           "file": "butsuicide.png",
           "type": "booster",
           "at": "2026-08-15T11:51:49.764Z"
+        },
+        {
+          "file": "karambitforest.png",
+          "type": "knife",
+          "at": "2026-08-15T11:54:36.835Z"
         }
       ],
       "history": [
@@ -6149,7 +6154,7 @@
           false,
           false,
           false,
-          true,
+          false,
           false,
           false,
           false,
@@ -6177,11 +6182,11 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -6199,11 +6204,11 @@
           "price": 67000,
           "weight": 3
         },
-        "attempts": 4,
+        "attempts": 2,
         "status": "playing",
         "createdAt": 1786794837452,
-        "flipStage": "wait_second",
-        "firstFlip": 10
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     },
     "6703298995": {
