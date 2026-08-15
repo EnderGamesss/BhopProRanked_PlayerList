@@ -8436,7 +8436,7 @@
     },
     "6595612039": {
       "name": "Tulen",
-      "coins": 300,
+      "coins": 0,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -8447,9 +8447,20 @@
         {
           "file": "karambitforest.png",
           "type": "knife"
+        },
+        {
+          "file": "m9desert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-15T22:32:20.587Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -8478,10 +8489,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786833129463,
+      "lastCaseAt": 1786833139985,
       "lastBoosterAt": 1786833034567,
       "totalEarned": 200,
-      "totalOpened": 4,
+      "totalOpened": 5,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
