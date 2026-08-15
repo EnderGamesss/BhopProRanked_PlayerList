@@ -3267,7 +3267,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 48372100,
+      "coins": 48371900,
       "luck": 1.25,
       "boosts": [
         {
@@ -3359,6 +3359,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-15T20:13:15.019Z"
+        },
+        {
           "kind": "skin",
           "file": "butruby.png",
           "chance": 0.06,
@@ -3383,19 +3389,13 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-15T20:11:45.323Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-15T20:11:39.196Z"
         }
       ],
       "lastBonus": 1786811344190,
-      "lastCaseAt": 1786824776551,
+      "lastCaseAt": 1786824794474,
       "lastBoosterAt": 1786822856968,
-      "totalEarned": 63509500,
-      "totalOpened": 2203,
+      "totalEarned": 63509600,
+      "totalOpened": 2204,
       "unknownUntil": 1786825165934,
       "achievements": [
         "open_100",
@@ -5505,7 +5505,12 @@
       "totalOpened": 509,
       "unknownUntil": 0,
       "memoryGame": null,
-      "achievements": [],
+      "achievements": [
+        "open_100",
+        "open_500",
+        "earn_100k",
+        "earn_1m"
+      ],
       "username": "Vin1nD"
     },
     "7891569993": {
