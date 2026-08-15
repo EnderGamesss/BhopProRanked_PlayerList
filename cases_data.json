@@ -179,9 +179,20 @@
         {
           "file": "m9spitfire.png",
           "type": "booster"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "booster"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-15T20:49:22.429Z"
+        },
         {
           "kind": "skin",
           "file": "m9spitfire.png",
@@ -209,21 +220,17 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-11T21:12:19.438Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9spitfire.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-11T18:26:18.095Z"
         }
       ],
       "lastBonus": 1786452244857,
       "username": "cazuso",
       "lastCaseAt": 1786278993856,
-      "lastBoosterAt": 1786790009896,
+      "lastBoosterAt": 1786826962032,
       "totalEarned": 2145700,
-      "totalOpened": 9
+      "totalOpened": 10,
+      "unknownUntil": 0,
+      "memoryGame": null,
+      "achievements": []
     },
     "1007020192": {
       "name": "𝐒𝐥𝐚𝐯𝐚",
@@ -3330,7 +3337,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 49478850,
+      "coins": 49479150,
       "luck": 1.25,
       "boosts": [
         {
@@ -3368,20 +3375,9 @@
         {
           "file": "m9tiger.png",
           "type": "knife"
-        },
-        {
-          "file": "karambitdesert.png",
-          "type": "knife"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "karambitdesert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-15T20:49:21.043Z"
-        },
         {
           "kind": "skin",
           "file": "m9tiger.png",
@@ -3406,13 +3402,19 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-15T20:47:59.026Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-15T20:47:51.619Z"
         }
       ],
       "lastBonus": 1786811344190,
-      "lastCaseAt": 1786826960660,
+      "lastCaseAt": 1786826948737,
       "lastBoosterAt": 1786826685737,
       "totalEarned": 64678050,
-      "totalOpened": 2411,
+      "totalOpened": 2410,
       "unknownUntil": 1786825165934,
       "achievements": [
         "open_100",
