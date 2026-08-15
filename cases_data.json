@@ -3052,7 +3052,7 @@
     },
     "7307808447": {
       "name": "EnderGamesDev",
-      "coins": 3142700,
+      "coins": 3142850,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3092,19 +3092,14 @@
         {
           "file": "M9Galactic.jpg",
           "type": "knife"
-        },
-        {
-          "file": "butforest.png",
-          "type": "knife"
         }
       ],
       "history": [
         {
-          "kind": "skin",
-          "file": "butforest.png",
-          "chance": 0.9,
+          "kind": "coins",
+          "amount": 150,
           "caseType": "knife",
-          "at": "2026-08-15T20:13:07.946Z"
+          "at": "2026-08-15T20:13:00.760Z"
         },
         {
           "kind": "coins",
@@ -3133,8 +3128,8 @@
       ],
       "lastBonus": 1786306623714,
       "username": "EnderGamesDev",
-      "lastCaseAt": 1786824787449,
-      "totalEarned": 2641950,
+      "lastCaseAt": 1786824780438,
+      "totalEarned": 2642100,
       "lastBoosterAt": 1786811039085,
       "language": "en",
       "totalOpened": 120,
@@ -3272,7 +3267,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 48372400,
+      "coins": 48372100,
       "luck": 1.25,
       "boosts": [
         {
@@ -3356,9 +3351,20 @@
         {
           "file": "butforest.png",
           "type": "knife"
+        },
+        {
+          "file": "butruby.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butruby.png",
+          "chance": 0.06,
+          "caseType": "knife",
+          "at": "2026-08-15T20:12:57.105Z"
+        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -3383,19 +3389,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-15T20:11:39.196Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-15T20:11:32.773Z"
         }
       ],
       "lastBonus": 1786811344190,
-      "lastCaseAt": 1786824741494,
+      "lastCaseAt": 1786824776551,
       "lastBoosterAt": 1786822856968,
       "totalEarned": 63509500,
-      "totalOpened": 2202,
+      "totalOpened": 2203,
       "unknownUntil": 1786825165934,
       "achievements": [
         "open_100",
@@ -5361,7 +5361,7 @@
     },
     "6724286333": {
       "name": "Vin1nd",
-      "coins": 717150,
+      "coins": 717350,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -5469,6 +5469,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-08-15T20:13:04.173Z"
+        },
+        {
+          "kind": "coins",
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-12T19:28:37.758Z"
@@ -5490,19 +5496,22 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-12T19:28:10.882Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-11T00:06:47.197Z"
         }
       ],
       "lastBonus": 1786376060067,
-      "lastCaseAt": 1786562917372,
+      "lastCaseAt": 1786824783608,
       "lastBoosterAt": 1786373994824,
-      "totalEarned": 1037450,
-      "totalOpened": 508
+      "totalEarned": 1037950,
+      "totalOpened": 509,
+      "unknownUntil": 0,
+      "memoryGame": null,
+      "achievements": [
+        "open_100",
+        "open_500",
+        "earn_100k",
+        "earn_1m"
+      ],
+      "username": "Vin1nD"
     },
     "7891569993": {
       "name": "delo",
