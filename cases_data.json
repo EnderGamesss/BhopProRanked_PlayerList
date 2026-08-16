@@ -8118,8 +8118,20 @@
       "coins": 5250,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9aura.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9aura.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-16T17:39:52.349Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -8143,19 +8155,13 @@
           "amount": 100,
           "caseType": "glove",
           "at": "2026-08-16T17:38:58.972Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "glove",
-          "at": "2026-08-16T17:38:50.155Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786901956027,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1786901992066,
       "totalEarned": 7250,
-      "totalOpened": 10,
+      "totalOpened": 11,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
