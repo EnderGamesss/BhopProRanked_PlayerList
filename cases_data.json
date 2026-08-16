@@ -3385,7 +3385,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 56826550,
+      "coins": 56826250,
       "luck": 1.25,
       "boosts": [
         {
@@ -3438,9 +3438,20 @@
         {
           "file": "karambitdesert.png",
           "type": "knife"
+        },
+        {
+          "file": "m9snake.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9snake.png",
+          "chance": 0.35,
+          "caseType": "knife",
+          "at": "2026-08-16T06:52:28.214Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -3464,19 +3475,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-16T06:52:00.707Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-16T06:51:53.532Z"
         }
       ],
       "lastBonus": 1786811344190,
-      "lastCaseAt": 1786863141373,
+      "lastCaseAt": 1786863147822,
       "lastBoosterAt": 1786861930396,
       "totalEarned": 72286150,
-      "totalOpened": 3284,
+      "totalOpened": 3285,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
