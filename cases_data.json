@@ -1840,8 +1840,7 @@
         },
         {
           "file": "m9aura.png",
-          "type": "booster",
-          "locked": true
+          "type": "booster"
         },
         {
           "file": "karambitforest.png",
@@ -1953,13 +1952,11 @@
         },
         {
           "file": "m9aura.png",
-          "type": "booster",
-          "locked": true
+          "type": "booster"
         },
         {
           "file": "m9aura.png",
-          "type": "booster",
-          "locked": true
+          "type": "booster"
         },
         {
           "file": "karambitmonster.png",
@@ -2059,8 +2056,7 @@
         },
         {
           "file": "m9aura.png",
-          "type": "booster",
-          "locked": true
+          "type": "booster"
         },
         {
           "file": "m9emerand.png",
@@ -2212,8 +2208,7 @@
         },
         {
           "file": "m9aura.png",
-          "type": "knife",
-          "locked": true
+          "type": "knife"
         },
         {
           "file": "butsuicide.png",
@@ -2401,8 +2396,7 @@
         },
         {
           "file": "m9aura.png",
-          "type": "knife",
-          "locked": true
+          "type": "knife"
         },
         {
           "file": "karambitforest.png",
@@ -8124,7 +8118,7 @@
     },
     "7948563397": {
       "name": "merlin",
-      "coins": 2862650,
+      "coins": 2862350,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -8139,9 +8133,20 @@
         {
           "file": "butsnake.png",
           "type": "knife"
+        },
+        {
+          "file": "m9emerand.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9emerand.png",
+          "chance": 0.05,
+          "caseType": "knife",
+          "at": "2026-08-16T18:23:36.196Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -8166,19 +8171,13 @@
           "chance": 0.3,
           "caseType": "knife",
           "at": "2026-08-16T18:23:05.644Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-16T18:22:59.167Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786904609738,
+      "lastCaseAt": 1786904615928,
       "lastBoosterAt": 1786903796036,
       "totalEarned": 1920150,
-      "totalOpened": 197,
+      "totalOpened": 198,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
