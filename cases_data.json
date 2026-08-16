@@ -8115,11 +8115,23 @@
     },
     "7948563397": {
       "name": "merlin",
-      "coins": 800,
+      "coins": 500,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Swat.png",
+          "type": "glove"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Swat.png",
+          "chance": 7,
+          "caseType": "glove",
+          "at": "2026-08-16T17:38:22.784Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -8128,10 +8140,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786901894639,
+      "lastCaseAt": 1786901902303,
       "lastBoosterAt": 0,
       "totalEarned": 100,
-      "totalOpened": 1,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
