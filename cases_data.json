@@ -7723,7 +7723,12 @@
       "coins": 18000,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "firespinner.png",
+          "type": "spinner"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -7928,8 +7933,8 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
+          true,
           false,
           false,
           false,
@@ -7954,7 +7959,7 @@
           "price": 140000,
           "weight": 4
         },
-        "attempts": 3,
+        "attempts": 5,
         "status": "playing",
         "createdAt": 1786884564252,
         "flipStage": "wait_first",
