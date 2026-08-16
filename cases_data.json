@@ -3385,7 +3385,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 59910950,
+      "coins": 59910800,
       "luck": 1.25,
       "boosts": [
         {
@@ -3471,6 +3471,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-16T07:55:25.053Z"
+        },
+        {
+          "kind": "coins",
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-16T07:55:08.165Z"
@@ -3492,19 +3498,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-16T07:54:02.976Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-16T07:53:42.308Z"
         }
       ],
       "lastBonus": 1786811344190,
-      "lastCaseAt": 1786866907868,
+      "lastCaseAt": 1786866924570,
       "lastBoosterAt": 1786865553318,
-      "totalEarned": 75470150,
-      "totalOpened": 3618,
+      "totalEarned": 75470300,
+      "totalOpened": 3619,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
@@ -4188,7 +4188,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 4853000,
+      "coins": 4853300,
       "luck": 1.25,
       "boosts": [
         {
@@ -4884,20 +4884,9 @@
         {
           "file": "butsnake.png",
           "type": "knife"
-        },
-        {
-          "file": "karambitdesert.png",
-          "type": "knife"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "karambitdesert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-16T07:55:23.665Z"
-        },
         {
           "kind": "coins",
           "amount": 250,
@@ -4922,14 +4911,21 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-16T07:54:36.731Z"
+        },
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-16T07:54:31.269Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786866923160,
+      "lastCaseAt": 1786866916676,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786866834298,
       "totalEarned": 14589200,
-      "totalOpened": 1595,
+      "totalOpened": 1594,
       "unknownUntil": 1786850066900,
       "memoryGame": {
         "board": [
