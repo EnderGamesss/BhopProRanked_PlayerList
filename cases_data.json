@@ -8120,6 +8120,10 @@
         {
           "file": "m9aura.png",
           "type": "booster"
+        },
+        {
+          "file": "m9guardian.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -8344,9 +8348,9 @@
         ],
         "matched": [
           false,
+          true,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -8374,7 +8378,7 @@
           "amount": 100,
           "weight": 20
         },
-        "attempts": 2,
+        "attempts": 1,
         "status": "playing",
         "createdAt": 1786902056724,
         "flipStage": "wait_first",
