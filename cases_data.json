@@ -7806,8 +7806,20 @@
       "coins": 1062850,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambittiger.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambittiger.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-16T09:07:34.811Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-crown.png",
@@ -7834,19 +7846,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-14T09:12:16.336Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-14T09:12:04.668Z"
         }
       ],
       "lastBonus": 1786628731937,
       "lastCaseAt": 1786698736037,
-      "lastBoosterAt": 1786856053687,
+      "lastBoosterAt": 1786871254327,
       "totalEarned": 1078950,
-      "totalOpened": 79,
+      "totalOpened": 80,
       "username": "scrxdllla",
       "unknownUntil": 0,
       "memoryGame": {
