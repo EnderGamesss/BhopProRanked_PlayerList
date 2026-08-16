@@ -971,7 +971,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 65073050,
+      "coins": 65073200,
       "luck": 1.25,
       "boosts": [
         {
@@ -1048,12 +1048,6 @@
           "kind": "coins",
           "amount": 150,
           "caseType": "knife",
-          "at": "2026-08-16T14:34:00.736Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
           "at": "2026-08-16T14:33:51.462Z"
         },
         {
@@ -1073,13 +1067,20 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-16T14:33:28.908Z"
+        },
+        {
+          "kind": "skin",
+          "file": "karambitsnake.png",
+          "chance": 0.3,
+          "caseType": "knife",
+          "at": "2026-08-16T14:33:19.801Z"
         }
       ],
       "lastBonus": 1786811344190,
-      "lastCaseAt": 1786890840361,
+      "lastCaseAt": 1786890831046,
       "lastBoosterAt": 1786889093080,
-      "totalEarned": 80804450,
-      "totalOpened": 4202,
+      "totalEarned": 80804300,
+      "totalOpened": 4201,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
@@ -1357,7 +1358,7 @@
     },
     "5818384071": {
       "name": "Temp",
-      "coins": 576150,
+      "coins": 575850,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1369,9 +1370,20 @@
           "file": "M9Crimson_Web.jpg",
           "type": "booster",
           "locked": true
+        },
+        {
+          "file": "m9forest.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9forest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-16T14:34:00.824Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1398,20 +1410,14 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-16T09:40:19.200Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-16T09:10:06.819Z"
         }
       ],
       "lastBonus": 1786873189693,
-      "lastCaseAt": 1786890820498,
+      "lastCaseAt": 1786890840347,
       "username": "lTemp",
       "lastBoosterAt": 1786890631529,
       "totalEarned": 488600,
-      "totalOpened": 79,
+      "totalOpened": 80,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
