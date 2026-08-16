@@ -3442,6 +3442,10 @@
         {
           "file": "ironaquaspinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "karambit-hotline.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -3686,12 +3690,6 @@
           false,
           false,
           false,
-          false,
-          true,
-          false,
-          false,
-          false,
-          false,
           true,
           false,
           false,
@@ -3700,6 +3698,12 @@
           false,
           false,
           false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
           false,
           false,
           false,
@@ -3710,7 +3714,7 @@
           "amount": 150,
           "weight": 20
         },
-        "attempts": 4,
+        "attempts": 3,
         "status": "playing",
         "createdAt": 1786865440086,
         "flipStage": "wait_first",
