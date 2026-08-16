@@ -3388,7 +3388,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 60171600,
+      "coins": 60171300,
       "luck": 1.25,
       "boosts": [
         {
@@ -3497,9 +3497,20 @@
         {
           "file": "butdesert.png",
           "type": "knife"
+        },
+        {
+          "file": "butsnake.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butsnake.png",
+          "chance": 0.3,
+          "caseType": "knife",
+          "at": "2026-08-16T09:23:46.299Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -3524,20 +3535,13 @@
           "amount": 1000,
           "caseType": "knife",
           "at": "2026-08-16T09:23:16.597Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitforest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-16T09:23:09.240Z"
         }
       ],
       "lastBonus": 1786811344190,
-      "lastCaseAt": 1786872218827,
+      "lastCaseAt": 1786872225985,
       "lastBoosterAt": 1786871394022,
       "totalEarned": 75749100,
-      "totalOpened": 3681,
+      "totalOpened": 3682,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
@@ -4250,7 +4254,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 4826150,
+      "coins": 4826350,
       "luck": 1.25,
       "boosts": [
         {
@@ -5131,12 +5135,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-16T09:23:45.684Z"
-        },
-        {
-          "kind": "coins",
           "amount": 1000,
           "caseType": "knife",
           "at": "2026-08-16T09:23:22.979Z"
@@ -5159,14 +5157,20 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-16T09:22:41.987Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-16T09:22:35.907Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786872225085,
+      "lastCaseAt": 1786872202578,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786871503923,
-      "totalEarned": 14635250,
-      "totalOpened": 1840,
+      "totalEarned": 14635150,
+      "totalOpened": 1839,
       "unknownUntil": 1786868248450,
       "memoryGame": {
         "board": [
