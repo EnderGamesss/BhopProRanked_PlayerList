@@ -6299,7 +6299,7 @@
     },
     "5897985265": {
       "name": "tonxi",
-      "coins": 2598400,
+      "coins": 2598100,
       "luck": 1.25,
       "boosts": [
         {
@@ -6315,9 +6315,20 @@
         {
           "file": "null.png",
           "type": "charm"
+        },
+        {
+          "file": "butkoi.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butkoi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-08-16T18:58:12.021Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -6341,20 +6352,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-16T18:56:18.195Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitdesert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-16T18:56:03.173Z"
         }
       ],
       "lastBonus": 1786891938857,
-      "lastCaseAt": 1786906675455,
+      "lastCaseAt": 1786906691727,
       "lastBoosterAt": 1786898046985,
       "totalEarned": 9553700,
-      "totalOpened": 1558,
+      "totalOpened": 1559,
       "username": "fen1xs",
       "unknownUntil": 1786858995175,
       "memoryGame": null,
@@ -7105,7 +7109,7 @@
     },
     "7948563397": {
       "name": "merlin",
-      "coins": 2232750,
+      "coins": 2232950,
       "luck": 1,
       "boosts": [
         {
@@ -7145,12 +7149,6 @@
       ],
       "history": [
         {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-16T18:58:11.631Z"
-        },
-        {
           "kind": "skin",
           "file": "karambitdesert.png",
           "chance": 0.9,
@@ -7174,13 +7172,19 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-16T18:57:41.245Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-08-16T18:57:34.622Z"
         }
       ],
       "lastBonus": 1786904944332,
-      "lastCaseAt": 1786906691180,
+      "lastCaseAt": 1786906682922,
       "lastBoosterAt": 1786903796036,
-      "totalEarned": 2358050,
-      "totalOpened": 423,
+      "totalEarned": 2357950,
+      "totalOpened": 422,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
