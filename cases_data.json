@@ -3434,6 +3434,10 @@
         {
           "file": "null.png",
           "type": "charm"
+        },
+        {
+          "file": "m9razor.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -3671,11 +3675,11 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -3704,7 +3708,9 @@
         },
         "attempts": 7,
         "status": "playing",
-        "createdAt": 1786865440086
+        "createdAt": 1786865440086,
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     },
     "6703298995": {
