@@ -1751,7 +1751,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 4800400,
+      "coins": 4800200,
       "luck": 1.25,
       "boosts": [
         {
@@ -2856,6 +2856,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-16T17:41:35.880Z"
+        },
+        {
+          "kind": "coins",
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-16T17:41:29.835Z"
@@ -2877,20 +2883,14 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-16T17:41:12.456Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-16T17:41:06.216Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786902089386,
+      "lastCaseAt": 1786902095589,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786900461736,
-      "totalEarned": 14675800,
-      "totalOpened": 2072,
+      "totalEarned": 14675900,
+      "totalOpened": 2073,
       "unknownUntil": 1786900544020,
       "memoryGame": {
         "board": [
@@ -8120,10 +8120,6 @@
         {
           "file": "m9aura.png",
           "type": "booster"
-        },
-        {
-          "file": "m9guardian.png",
-          "type": "knife"
         }
       ],
       "history": [
@@ -8348,7 +8344,6 @@
         ],
         "matched": [
           false,
-          true,
           false,
           false,
           false,
@@ -8365,7 +8360,8 @@
           false,
           false,
           false,
-          true,
+          false,
+          false,
           false,
           false,
           false,
@@ -8378,11 +8374,9 @@
           "amount": 100,
           "weight": 20
         },
-        "attempts": 3,
+        "attempts": 7,
         "status": "playing",
-        "createdAt": 1786902056724,
-        "flipStage": "wait_first",
-        "firstFlip": null
+        "createdAt": 1786902056724
       },
       "achievements": [
         "drop_aura"
