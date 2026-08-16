@@ -8120,6 +8120,10 @@
         {
           "file": "m9aura.png",
           "type": "booster"
+        },
+        {
+          "file": "m9guardian.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -8344,6 +8348,7 @@
         ],
         "matched": [
           false,
+          true,
           false,
           false,
           false,
@@ -8360,8 +8365,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -8374,9 +8378,11 @@
           "amount": 100,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1786902056724
+        "createdAt": 1786902056724,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [
         "drop_aura"
