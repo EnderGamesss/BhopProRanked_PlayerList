@@ -3887,7 +3887,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 4884000,
+      "coins": 4883700,
       "luck": 1.25,
       "boosts": [
         {
@@ -4339,9 +4339,20 @@
         {
           "file": "m9aura.png",
           "type": "knife"
+        },
+        {
+          "file": "butsuicide.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butsuicide.png",
+          "chance": 0.05,
+          "caseType": "knife",
+          "at": "2026-08-16T03:10:46.154Z"
+        },
         {
           "kind": "skin",
           "file": "m9aura.png",
@@ -4368,20 +4379,14 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-16T03:09:26.082Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-16T03:09:20.636Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786849790836,
+      "lastCaseAt": 1786849845835,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786849234180,
       "totalEarned": 14529000,
-      "totalOpened": 1286,
+      "totalOpened": 1287,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
