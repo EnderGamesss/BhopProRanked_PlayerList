@@ -7288,7 +7288,7 @@
     },
     "5897985265": {
       "name": "tonxi",
-      "coins": 719850,
+      "coins": 719550,
       "luck": 1.25,
       "boosts": [
         {
@@ -7380,9 +7380,20 @@
         {
           "file": "arrowspinner.png",
           "type": "booster"
+        },
+        {
+          "file": "butsnake.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butsnake.png",
+          "chance": 0.3,
+          "caseType": "knife",
+          "at": "2026-08-16T16:40:53.807Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -7407,19 +7418,13 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-16T16:34:07.575Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-16T16:06:02.892Z"
         }
       ],
       "lastBonus": 1786891938857,
-      "lastCaseAt": 1786898448090,
+      "lastCaseAt": 1786898453371,
       "lastBoosterAt": 1786898046985,
       "totalEarned": 6623550,
-      "totalOpened": 1386,
+      "totalOpened": 1387,
       "username": "fen1xs",
       "unknownUntil": 1786858995175,
       "memoryGame": null,
