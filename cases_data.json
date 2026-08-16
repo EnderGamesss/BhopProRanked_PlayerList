@@ -7290,8 +7290,20 @@
       "coins": 1002000,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-crown.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-crown.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-16T04:54:13.972Z"
+        },
         {
           "kind": "skin",
           "file": "m9fire_0.png",
@@ -7317,20 +7329,17 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-14T09:12:04.668Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-14T09:11:54.551Z"
         }
       ],
       "lastBonus": 1786628731937,
       "lastCaseAt": 1786698736037,
-      "lastBoosterAt": 1786730501395,
+      "lastBoosterAt": 1786856053687,
       "totalEarned": 1018100,
-      "totalOpened": 78,
-      "username": "scrxdllla"
+      "totalOpened": 79,
+      "username": "scrxdllla",
+      "unknownUntil": 0,
+      "memoryGame": null,
+      "achievements": []
     },
     "5769326718": {
       "name": "Хамстер",
