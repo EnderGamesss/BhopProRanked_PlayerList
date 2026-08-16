@@ -3385,7 +3385,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 54634700,
+      "coins": 54634550,
       "luck": 1.25,
       "boosts": [
         {
@@ -3443,6 +3443,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-16T05:35:37.523Z"
+        },
+        {
+          "kind": "coins",
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-16T05:35:06.322Z"
@@ -3464,19 +3470,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-16T05:34:20.745Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-16T05:34:04.225Z"
         }
       ],
       "lastBonus": 1786811344190,
-      "lastCaseAt": 1786858506015,
+      "lastCaseAt": 1786858537123,
       "lastBoosterAt": 1786858310530,
-      "totalEarned": 70003700,
-      "totalOpened": 2980,
+      "totalEarned": 70003850,
+      "totalOpened": 2981,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
@@ -9130,10 +9130,15 @@
     },
     "5848702782": {
       "name": "Kraizi",
-      "coins": 79300,
+      "coins": 69300,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-bluestar.png",
+          "type": "glove"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -9169,7 +9174,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786858349030,
       "lastBoosterAt": 1786858227758,
-      "totalEarned": 83100,
+      "totalEarned": 73100,
       "totalOpened": 17,
       "username": "HeSubo",
       "unknownUntil": 0,
