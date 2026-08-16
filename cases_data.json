@@ -3450,6 +3450,10 @@
         {
           "file": "karambit-hotline.png",
           "type": "knife"
+        },
+        {
+          "file": "thumb-North.png",
+          "type": "glove"
         }
       ],
       "history": [
@@ -3688,8 +3692,14 @@
         ],
         "matched": [
           false,
+          true,
           false,
           false,
+          false,
+          false,
+          false,
+          true,
+          true,
           false,
           false,
           false,
@@ -3697,13 +3707,7 @@
           true,
           false,
           false,
-          false,
           true,
-          false,
-          false,
-          false,
-          true,
-          false,
           false,
           false,
           false,
@@ -3718,7 +3722,7 @@
           "amount": 150,
           "weight": 20
         },
-        "attempts": 3,
+        "attempts": 2,
         "status": "playing",
         "createdAt": 1786865440086,
         "flipStage": "wait_first",
