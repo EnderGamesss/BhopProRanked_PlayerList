@@ -3441,9 +3441,20 @@
         {
           "file": "null.png",
           "type": "charm"
+        },
+        {
+          "file": "m9skullskin.png",
+          "type": "booster"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9skullskin.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-16T09:09:54.418Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -3470,19 +3481,13 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-16T08:04:33.861Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-16T08:04:26.880Z"
         }
       ],
       "lastBonus": 1786811344190,
       "lastCaseAt": 1786867534746,
-      "lastBoosterAt": 1786867506131,
+      "lastBoosterAt": 1786871394022,
       "totalEarned": 75741850,
-      "totalOpened": 3641,
+      "totalOpened": 3642,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
