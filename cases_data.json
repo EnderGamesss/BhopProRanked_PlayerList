@@ -6307,6 +6307,10 @@
         {
           "file": "m9snake.png",
           "type": "knife"
+        },
+        {
+          "file": "null.png",
+          "type": "charm"
         }
       ],
       "history": [
@@ -6349,7 +6353,7 @@
       "totalEarned": 9510500,
       "totalOpened": 1524,
       "username": "fen1xs",
-      "unknownUntil": 1786906444157,
+      "unknownUntil": 1786858995175,
       "memoryGame": null,
       "achievements": [
         "open_100",
@@ -7098,7 +7102,7 @@
     },
     "7948563397": {
       "name": "merlin",
-      "coins": 2236400,
+      "coins": 2236250,
       "luck": 1,
       "boosts": [
         {
@@ -7113,6 +7117,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-08-16T18:51:04.081Z"
+        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -7137,19 +7147,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-16T18:50:39.787Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-16T18:50:33.091Z"
         }
       ],
       "lastBonus": 1786904944332,
-      "lastCaseAt": 1786906258539,
+      "lastCaseAt": 1786906263675,
       "lastBoosterAt": 1786903796036,
-      "totalEarned": 2348500,
-      "totalOpened": 379,
+      "totalEarned": 2348650,
+      "totalOpened": 380,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
