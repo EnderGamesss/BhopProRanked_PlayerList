@@ -9474,8 +9474,20 @@
           "at": "2026-08-16T06:02:56.495Z"
         }
       ],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9emerand.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9emerand.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-16T09:05:32.178Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -9499,19 +9511,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-16T06:15:39.667Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-16T06:15:22.346Z"
         }
       ],
       "lastBonus": 1786785202775,
       "lastCaseAt": 1786871121826,
-      "lastBoosterAt": 1786860324070,
+      "lastBoosterAt": 1786871131781,
       "totalEarned": 6064200,
-      "totalOpened": 959,
+      "totalOpened": 960,
       "username": "fen1xs",
       "unknownUntil": 1786858995175,
       "memoryGame": null,
