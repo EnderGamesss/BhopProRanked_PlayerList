@@ -8115,7 +8115,7 @@
     },
     "7948563397": {
       "name": "merlin",
-      "coins": 700,
+      "coins": 500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -8125,6 +8125,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "glove",
+          "at": "2026-08-16T17:39:04.675Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -8148,19 +8154,13 @@
           "amount": 750,
           "caseType": "glove",
           "at": "2026-08-16T17:38:39.345Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "glove",
-          "at": "2026-08-16T17:38:32.346Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786901938745,
+      "lastCaseAt": 1786901944372,
       "lastBoosterAt": 0,
-      "totalEarned": 1800,
-      "totalOpened": 7,
+      "totalEarned": 1900,
+      "totalOpened": 8,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
