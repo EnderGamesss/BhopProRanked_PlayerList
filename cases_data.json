@@ -7287,7 +7287,7 @@
     },
     "5839075768": {
       "name": ".",
-      "coins": 1062000,
+      "coins": 1062100,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -7329,7 +7329,7 @@
       "lastBonus": 1786628731937,
       "lastCaseAt": 1786698736037,
       "lastBoosterAt": 1786856053687,
-      "totalEarned": 1078100,
+      "totalEarned": 1078200,
       "totalOpened": 79,
       "username": "scrxdllla",
       "unknownUntil": 0,
@@ -7513,11 +7513,11 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -7546,9 +7546,11 @@
           "price": 86000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
-        "createdAt": 1786856085222
+        "createdAt": 1786856085222,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [
         "earn_100k",
