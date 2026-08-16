@@ -7091,9 +7091,14 @@
     },
     "7948563397": {
       "name": "merlin",
-      "coins": 3005700,
+      "coins": 2005700,
       "luck": 1,
-      "boosts": [],
+      "boosts": [
+        {
+          "id": "lucky_charm",
+          "at": "2026-08-16T18:32:33.214Z"
+        }
+      ],
       "inventory": [
         {
           "file": "karambitruby.png",
@@ -7380,7 +7385,8 @@
         "earn_100k",
         "earn_1m"
       ],
-      "username": "merlinbaba"
+      "username": "merlinbaba",
+      "equippedCharm": "lucky_charm"
     }
   },
   "chatLuck": {
