@@ -6647,7 +6647,7 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 5792500,
+      "coins": 5792200,
       "luck": 1.25,
       "boosts": [
         {
@@ -6671,9 +6671,20 @@
         {
           "file": "butkoi.png",
           "type": "knife"
+        },
+        {
+          "file": "karambitforest.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-16T08:48:01.616Z"
+        },
         {
           "kind": "skin",
           "file": "butkoi.png",
@@ -6699,20 +6710,14 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-16T08:47:25.294Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-16T08:47:19.469Z"
         }
       ],
       "lastBonus": 1786864849394,
-      "lastCaseAt": 1786870073250,
+      "lastCaseAt": 1786870080996,
       "lastBoosterAt": 1786864587203,
       "totalEarned": 6941900,
       "username": "hatemytiredself",
-      "totalOpened": 408,
+      "totalOpened": 409,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
