@@ -7090,7 +7090,7 @@
     },
     "7948563397": {
       "name": "merlin",
-      "coins": 2004200,
+      "coins": 2003900,
       "luck": 1,
       "boosts": [
         {
@@ -7134,9 +7134,20 @@
         {
           "file": "m9desert.png",
           "type": "knife"
+        },
+        {
+          "file": "karambitforest.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-16T18:37:06.234Z"
+        },
         {
           "kind": "skin",
           "file": "m9desert.png",
@@ -7162,19 +7173,13 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-16T18:36:41.295Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-16T18:36:34.357Z"
         }
       ],
       "lastBonus": 1786904944332,
-      "lastCaseAt": 1786905419856,
+      "lastCaseAt": 1786905425793,
       "lastBoosterAt": 1786903796036,
       "totalEarned": 2091400,
-      "totalOpened": 296,
+      "totalOpened": 297,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
