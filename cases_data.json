@@ -1788,7 +1788,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 4807850,
+      "coins": 4807550,
       "luck": 1.25,
       "boosts": [
         {
@@ -2836,9 +2836,20 @@
         {
           "file": "m9snake.png",
           "type": "knife"
+        },
+        {
+          "file": "karambitkoi.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitkoi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-08-16T17:04:23.601Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -2863,20 +2874,14 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-16T16:59:55.335Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-16T16:59:50.607Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786899840871,
+      "lastCaseAt": 1786899863167,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786898266535,
       "totalEarned": 14667050,
-      "totalOpened": 2017,
+      "totalOpened": 2018,
       "unknownUntil": 1786868248450,
       "memoryGame": {
         "board": [
@@ -7280,7 +7285,7 @@
     },
     "5897985265": {
       "name": "tonxi",
-      "coins": 3174500,
+      "coins": 3174700,
       "luck": 1.25,
       "boosts": [
         {
@@ -7299,12 +7304,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-16T17:04:23.064Z"
-        },
         {
           "kind": "coins",
           "amount": 250,
@@ -7328,13 +7327,19 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-16T17:03:45.236Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-16T16:59:36.885Z"
         }
       ],
       "lastBonus": 1786891938857,
-      "lastCaseAt": 1786899862724,
+      "lastCaseAt": 1786899854831,
       "lastBoosterAt": 1786898046985,
-      "totalEarned": 9096800,
-      "totalOpened": 1448,
+      "totalEarned": 9096700,
+      "totalOpened": 1447,
       "username": "fen1xs",
       "unknownUntil": 1786858995175,
       "memoryGame": null,
