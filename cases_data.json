@@ -9113,8 +9113,20 @@
       "coins": 250,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9saphire.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9saphire.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-16T05:30:28.139Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -9138,19 +9150,13 @@
           "amount": 500,
           "caseType": "spinner",
           "at": "2026-08-15T17:39:49.942Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-08-15T17:39:26.744Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786858206892,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1786858227758,
       "totalEarned": 1350,
-      "totalOpened": 7,
+      "totalOpened": 8,
       "username": "HeSubo",
       "unknownUntil": 0,
       "memoryGame": null,
