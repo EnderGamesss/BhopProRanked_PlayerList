@@ -3438,6 +3438,10 @@
         {
           "file": "m9razor.png",
           "type": "knife"
+        },
+        {
+          "file": "ironaquaspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
@@ -3675,20 +3679,20 @@
           false
         ],
         "matched": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
           true,
           false,
           false,
           false,
+          false,
           true,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
           false,
           false,
           false,
@@ -3706,7 +3710,7 @@
           "amount": 150,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
         "createdAt": 1786865440086,
         "flipStage": "wait_first",
