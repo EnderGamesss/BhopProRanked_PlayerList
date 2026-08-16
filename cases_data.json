@@ -3900,10 +3900,7 @@
       "totalEarned": 3666000,
       "totalOpened": 79,
       "unknownUntil": 0,
-      "achievements": [
-        "earn_100k",
-        "earn_1m"
-      ],
+      "achievements": [],
       "memoryGame": null
     },
     "5624673181": {
@@ -9563,11 +9560,17 @@
     },
     "6027973751": {
       "name": "Sakura",
-      "coins": 850,
+      "coins": 800,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "spinner",
+          "at": "2026-08-16T07:16:58.457Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -9576,10 +9579,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786864603761,
+      "lastCaseAt": 1786864617628,
       "lastBoosterAt": 0,
-      "totalEarned": 150,
-      "totalOpened": 1,
+      "totalEarned": 400,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
