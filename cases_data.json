@@ -8113,7 +8113,7 @@
     },
     "7948563397": {
       "name": "merlin",
-      "coins": 5250,
+      "coins": 5500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -8158,7 +8158,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786901956027,
       "lastBoosterAt": 1786901992066,
-      "totalEarned": 7250,
+      "totalEarned": 7500,
       "totalOpened": 11,
       "unknownUntil": 0,
       "memoryGame": {
@@ -8352,6 +8352,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -8365,8 +8366,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false
         ],
         "target": {
@@ -8374,9 +8374,11 @@
           "amount": 100,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 2,
         "status": "playing",
-        "createdAt": 1786902056724
+        "createdAt": 1786902056724,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [
         "drop_aura"
