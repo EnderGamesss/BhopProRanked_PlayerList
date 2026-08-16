@@ -7408,16 +7408,27 @@
     },
     "8153945733": {
       "name": "Ehoka 🩸",
-      "coins": 1000,
+      "coins": 700,
       "luck": 1,
       "boosts": [],
       "inventory": [
         {
           "file": "firespinner.png",
           "type": "booster"
+        },
+        {
+          "file": "m9desert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-16T20:12:52.918Z"
+        },
         {
           "kind": "skin",
           "file": "firespinner.png",
@@ -7427,10 +7438,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 0,
+      "lastCaseAt": 1786911172444,
       "lastBoosterAt": 1786911094449,
       "totalEarned": 0,
-      "totalOpened": 1,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
