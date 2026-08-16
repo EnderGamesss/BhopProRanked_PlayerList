@@ -971,7 +971,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 65074700,
+      "coins": 65074400,
       "luck": 1.25,
       "boosts": [
         {
@@ -1029,9 +1029,20 @@
           "file": "m9aura.png",
           "type": "knife",
           "locked": true
+        },
+        {
+          "file": "m9forest.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9forest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-16T14:31:53.707Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -1056,19 +1067,13 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-16T14:24:29.982Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-16T14:24:23.271Z"
         }
       ],
       "lastBonus": 1786811344190,
-      "lastCaseAt": 1786890325307,
+      "lastCaseAt": 1786890713073,
       "lastBoosterAt": 1786889093080,
       "totalEarned": 80802200,
-      "totalOpened": 4189,
+      "totalOpened": 4190,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
