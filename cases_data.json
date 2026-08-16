@@ -458,8 +458,20 @@
           "at": "2026-08-16T10:59:59.704Z"
         }
       ],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butsuicide.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butsuicide.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-16T11:00:23.157Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -484,20 +496,14 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-08-12T17:00:46.183Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-12T17:00:39.762Z"
         }
       ],
       "lastBonus": 1786368370516,
       "lastCaseAt": 1786554105211,
-      "lastBoosterAt": 1786553004058,
+      "lastBoosterAt": 1786878022698,
       "totalEarned": 35936900,
       "username": "wfoee",
-      "totalOpened": 7149,
+      "totalOpened": 7150,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
