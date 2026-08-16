@@ -1352,8 +1352,20 @@
       "coins": 576350,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "skullspinner.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "skullspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-16T11:19:16.739Z"
+        },
         {
           "kind": "skin",
           "file": "m9saphire.png",
@@ -1378,20 +1390,14 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-16T09:09:44.081Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-16T09:09:36.934Z"
         }
       ],
       "lastBonus": 1786873189693,
       "lastCaseAt": 1786871406250,
       "username": "lTemp",
-      "lastBoosterAt": 1786873218820,
+      "lastBoosterAt": 1786879156167,
       "totalEarned": 488500,
-      "totalOpened": 76,
+      "totalOpened": 77,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": []
