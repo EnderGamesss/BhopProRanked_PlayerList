@@ -4524,7 +4524,7 @@
     },
     "8306609508": {
       "name": ".",
-      "coins": 141200,
+      "coins": 140900,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -4539,9 +4539,20 @@
         {
           "file": "m9desert.png",
           "type": "knife"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-17T13:50:32.817Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -4565,20 +4576,13 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-17T13:49:37.964Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9desert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-17T13:49:25.607Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786974623499,
+      "lastCaseAt": 1786974631488,
       "lastBoosterAt": 1786974494108,
       "totalEarned": 145000,
-      "totalOpened": 17,
+      "totalOpened": 18,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
