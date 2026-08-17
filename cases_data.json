@@ -6485,6 +6485,10 @@
         {
           "file": "butdesert.png",
           "type": "knife"
+        },
+        {
+          "file": "camospinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
@@ -6711,22 +6715,22 @@
         "matched": [
           false,
           false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
           true,
           false,
           false,
           false,
           false,
+          false,
+          false,
           true,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
           false,
           false,
           false,
@@ -6740,7 +6744,7 @@
           "amount": 100,
           "weight": 20
         },
-        "attempts": 2,
+        "attempts": 3,
         "status": "playing",
         "createdAt": 1786957923216,
         "flipStage": "wait_first",
