@@ -108,11 +108,23 @@
     },
     "870191675": {
       "name": "sdpqww",
-      "coins": 1050,
+      "coins": 750,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitdesert.png",
+          "type": "knife"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-17T03:28:29.995Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -136,19 +148,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-17T03:27:55.463Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-17T03:27:49.352Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786937302143,
+      "lastCaseAt": 1786937309698,
       "lastBoosterAt": 0,
       "totalEarned": 2450,
-      "totalOpened": 8,
+      "totalOpened": 9,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
