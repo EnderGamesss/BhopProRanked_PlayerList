@@ -491,7 +491,7 @@
     },
     "1716077172": {
       "name": "Кxyl1k",
-      "coins": 16100,
+      "coins": 15800,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -502,9 +502,20 @@
         {
           "file": "butforest.png",
           "type": "knife"
+        },
+        {
+          "file": "m9snake.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9snake.png",
+          "chance": 0.35,
+          "caseType": "knife",
+          "at": "2026-08-17T13:32:44.494Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -530,19 +541,13 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-17T13:32:13.151Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-17T13:32:04.777Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786973554451,
+      "lastCaseAt": 1786973563120,
       "lastBoosterAt": 1786973469979,
       "totalEarned": 16900,
-      "totalOpened": 7,
+      "totalOpened": 8,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
