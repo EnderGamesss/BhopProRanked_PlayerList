@@ -8112,8 +8112,20 @@
       "coins": 850,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9saphire.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9saphire.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-17T13:37:33.985Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -8123,9 +8135,9 @@
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786973684650,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1786973852771,
       "totalEarned": 150,
-      "totalOpened": 1,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
