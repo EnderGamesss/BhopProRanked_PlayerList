@@ -7502,7 +7502,7 @@
     },
     "8153945733": {
       "name": "Ehoka 🩸",
-      "coins": 1650,
+      "coins": 1350,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -7529,9 +7529,20 @@
         {
           "file": "prettyspinner.png",
           "type": "booster"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-17T06:40:29.502Z"
+        },
         {
           "kind": "skin",
           "file": "prettyspinner.png",
@@ -7558,19 +7569,13 @@
           "amount": 200,
           "caseType": "glove",
           "at": "2026-08-16T20:21:43.118Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-16T20:21:22.674Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786948713214,
+      "lastCaseAt": 1786948829292,
       "lastBoosterAt": 1786948731786,
       "totalEarned": 4550,
-      "totalOpened": 15,
+      "totalOpened": 16,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
