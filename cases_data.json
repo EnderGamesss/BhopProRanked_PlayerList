@@ -494,7 +494,12 @@
       "coins": 43500,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butsuicide.png",
+          "type": "knife"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -720,10 +725,10 @@
           false,
           false,
           false,
+          true,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -751,7 +756,9 @@
         },
         "attempts": 7,
         "status": "playing",
-        "createdAt": 1786973646782
+        "createdAt": 1786973646782,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [],
       "username": "POPATIKAH1"
