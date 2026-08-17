@@ -7611,7 +7611,12 @@
       "coins": 78250,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9emerand.png",
+          "type": "knife"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -7844,8 +7849,8 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
+          true,
           false,
           false,
           false,
@@ -7859,9 +7864,11 @@
           "amount": 100,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 1,
         "status": "playing",
-        "createdAt": 1786952116130
+        "createdAt": 1786952116130,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [],
       "username": "ldkmb"
