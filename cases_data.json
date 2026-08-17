@@ -491,11 +491,23 @@
     },
     "1716077172": {
       "name": "Кxyl1k",
-      "coins": 16800,
+      "coins": 16500,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitdesert.png",
+          "type": "knife"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-17T13:32:13.151Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -517,10 +529,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786973523460,
+      "lastCaseAt": 1786973531996,
       "lastBoosterAt": 1786973469979,
       "totalEarned": 16400,
-      "totalOpened": 3,
+      "totalOpened": 4,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
