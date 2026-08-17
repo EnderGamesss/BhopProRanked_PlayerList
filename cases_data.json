@@ -1688,7 +1688,7 @@
     },
     "5818384071": {
       "name": "Temp",
-      "coins": 3024750,
+      "coins": 3024450,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1712,9 +1712,20 @@
         {
           "file": "m9desert.png",
           "type": "knife"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-17T14:56:37.896Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -1738,20 +1749,14 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-17T14:56:13.930Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-17T14:55:57.172Z"
         }
       ],
       "lastBonus": 1786873189693,
-      "lastCaseAt": 1786978590624,
+      "lastCaseAt": 1786978596218,
       "username": "lTemp",
       "lastBoosterAt": 1786976918540,
       "totalEarned": 3022100,
-      "totalOpened": 369,
+      "totalOpened": 370,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
