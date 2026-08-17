@@ -4540,7 +4540,7 @@
     },
     "8306609508": {
       "name": ".",
-      "coins": 145950,
+      "coins": 145850,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -4563,9 +4563,19 @@
         {
           "file": "ironaquaspinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "null.png",
+          "type": "charm"
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "spinner",
+          "at": "2026-08-17T14:00:45.316Z"
+        },
         {
           "kind": "skin",
           "file": "ironaquaspinner.png",
@@ -4590,20 +4600,13 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-17T13:59:33.793Z"
-        },
-        {
-          "kind": "skin",
-          "file": "skullspinner.png",
-          "chance": 0.4,
-          "caseType": "spinner",
-          "at": "2026-08-17T13:58:50.258Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786975224916,
+      "lastCaseAt": 1786975243805,
       "lastBoosterAt": 1786974494108,
-      "totalEarned": 165650,
-      "totalOpened": 70,
+      "totalEarned": 165850,
+      "totalOpened": 71,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
