@@ -6427,7 +6427,7 @@
     },
     "5897985265": {
       "name": "tonxi",
-      "coins": 3006150,
+      "coins": 3005950,
       "luck": 1.25,
       "boosts": [
         {
@@ -6450,6 +6450,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-17T11:56:04.242Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -6475,19 +6481,13 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-17T11:54:21.922Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-17T10:36:39.989Z"
         }
       ],
       "lastBonus": 1786891938857,
-      "lastCaseAt": 1786967752278,
+      "lastCaseAt": 1786967763665,
       "lastBoosterAt": 1786967661520,
-      "totalEarned": 10010350,
-      "totalOpened": 1724,
+      "totalEarned": 10010450,
+      "totalOpened": 1725,
       "username": "fen1xs",
       "unknownUntil": 1786958741891,
       "memoryGame": {
@@ -7084,24 +7084,9 @@
         {
           "file": "thumb-Military.png",
           "type": "glove"
-        },
-        {
-          "file": "karambitemerand.png",
-          "type": "booster"
-        },
-        {
-          "file": "null.png",
-          "type": "charm"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "karambitemerand.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-17T11:56:03.357Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -7126,13 +7111,19 @@
           "chance": 8,
           "caseType": "glove",
           "at": "2026-08-15T22:36:50.805Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "glove",
+          "at": "2026-08-15T22:36:44.107Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786833463608,
-      "lastBoosterAt": 1786967763041,
+      "lastBoosterAt": 1786833034567,
       "totalEarned": 15300,
-      "totalOpened": 26,
+      "totalOpened": 25,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
