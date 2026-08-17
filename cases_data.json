@@ -1820,7 +1820,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 2610100,
+      "coins": 2609800,
       "luck": 1.25,
       "boosts": [
         {
@@ -1931,9 +1931,20 @@
         {
           "file": "karambitkoi.png",
           "type": "booster"
+        },
+        {
+          "file": "m9desert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-17T08:04:31.777Z"
+        },
         {
           "kind": "skin",
           "file": "karambitkoi.png",
@@ -1959,20 +1970,14 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-17T07:45:19.173Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-17T07:45:07.647Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786952734754,
+      "lastCaseAt": 1786953871377,
       "username": "Bonnifacay",
       "lastBoosterAt": 1786953863075,
       "totalEarned": 27496000,
-      "totalOpened": 2115,
+      "totalOpened": 2116,
       "unknownUntil": 1786900544020,
       "memoryGame": {
         "board": [
@@ -7246,7 +7251,7 @@
     },
     "7948563397": {
       "name": "merlin",
-      "coins": 3488700,
+      "coins": 3489000,
       "luck": 1,
       "boosts": [
         {
@@ -7258,20 +7263,9 @@
         {
           "file": "null.png",
           "type": "charm"
-        },
-        {
-          "file": "karambitmonster.png",
-          "type": "knife"
         }
       ],
       "history": [
-        {
-          "kind": "skin",
-          "file": "karambitmonster.png",
-          "chance": 0.05,
-          "caseType": "knife",
-          "at": "2026-08-17T08:04:30.419Z"
-        },
         {
           "kind": "coins",
           "amount": 150,
@@ -7295,13 +7289,20 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-17T08:03:57.710Z"
+        },
+        {
+          "kind": "skin",
+          "file": "m9razor.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-17T08:02:28.754Z"
         }
       ],
       "lastBonus": 1786904944332,
-      "lastCaseAt": 1786953870121,
+      "lastCaseAt": 1786953855650,
       "lastBoosterAt": 1786953748374,
       "totalEarned": 3661100,
-      "totalOpened": 583,
+      "totalOpened": 582,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
