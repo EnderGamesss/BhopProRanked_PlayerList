@@ -7521,6 +7521,10 @@
         {
           "file": "karambitdesert.png",
           "type": "knife"
+        },
+        {
+          "file": "m9desert.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -7760,6 +7764,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -7770,8 +7775,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -7789,9 +7793,11 @@
           "price": 50000,
           "weight": 4
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1786966795738
+        "createdAt": 1786966795738,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [
         "drop_aura",
