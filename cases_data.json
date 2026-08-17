@@ -1402,9 +1402,20 @@
         {
           "file": "buttiger.png",
           "type": "knife"
+        },
+        {
+          "file": "camospinner.png",
+          "type": "booster"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-17T18:35:07.011Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -1428,19 +1439,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-17T17:54:19.350Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-17T17:54:11.998Z"
         }
       ],
       "lastBonus": 1786977883266,
       "lastCaseAt": 1786991669379,
-      "lastBoosterAt": 1786988850385,
+      "lastBoosterAt": 1786991705517,
       "totalEarned": 83510850,
-      "totalOpened": 4432,
+      "totalOpened": 4433,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
