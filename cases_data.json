@@ -4523,7 +4523,7 @@
     },
     "8306609508": {
       "name": ".",
-      "coins": 698700,
+      "coins": 698400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -4538,9 +4538,20 @@
         {
           "file": "m9tiger.png",
           "type": "booster"
+        },
+        {
+          "file": "thumb-basic-spinner-5.png",
+          "type": "spinner"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-basic-spinner-5.png",
+          "chance": 2,
+          "caseType": "spinner",
+          "at": "2026-08-17T14:42:12.006Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -4565,19 +4576,13 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-17T14:41:21.008Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-17T14:24:23.479Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786977724671,
+      "lastCaseAt": 1786977730811,
       "lastBoosterAt": 1786977679818,
       "totalEarned": 756500,
-      "totalOpened": 198,
+      "totalOpened": 199,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
