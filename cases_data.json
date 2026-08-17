@@ -1083,9 +1083,20 @@
           "file": "m9aura.png",
           "type": "knife",
           "locked": true
+        },
+        {
+          "file": "m9forest.png",
+          "type": "booster"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9forest.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-17T07:05:24.306Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1111,19 +1122,13 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-08-16T19:09:35.252Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-16T19:09:27.574Z"
         }
       ],
       "lastBonus": 1786811344190,
       "lastCaseAt": 1786948441342,
-      "lastBoosterAt": 1786948425251,
+      "lastBoosterAt": 1786950323831,
       "totalEarned": 82465550,
-      "totalOpened": 4395,
+      "totalOpened": 4396,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
