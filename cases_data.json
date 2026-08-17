@@ -4748,6 +4748,10 @@
         {
           "file": "m9spitfire.png",
           "type": "booster"
+        },
+        {
+          "file": "thumb-Swat.png",
+          "type": "glove"
         }
       ],
       "history": [
@@ -4980,6 +4984,7 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
@@ -4991,14 +4996,13 @@
           false,
           false,
           false,
+          true,
+          true,
           false,
           false,
           false,
           false,
-          false,
-          false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -5013,9 +5017,11 @@
           "price": 100000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 2,
         "status": "playing",
-        "createdAt": 1786957882359
+        "createdAt": 1786957882359,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [
         "earn_100k",
