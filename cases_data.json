@@ -4522,7 +4522,7 @@
     },
     "8306609508": {
       "name": ".",
-      "coins": 359250,
+      "coins": 359350,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -4536,12 +4536,6 @@
         }
       ],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-17T14:13:25.725Z"
-        },
         {
           "kind": "skin",
           "file": "ironaquaspinner.png",
@@ -4566,13 +4560,19 @@
           "amount": 750,
           "caseType": "spinner",
           "at": "2026-08-17T14:12:18.710Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "spinner",
+          "at": "2026-08-17T14:12:13.020Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786976004063,
+      "lastCaseAt": 1786975984902,
       "lastBoosterAt": 1786974494108,
-      "totalEarned": 384350,
-      "totalOpened": 88,
+      "totalEarned": 384150,
+      "totalOpened": 87,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
@@ -7140,9 +7140,20 @@
         {
           "file": "butkoi.png",
           "type": "knife"
+        },
+        {
+          "file": "thumb-Mercenery.png",
+          "type": "booster"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Mercenery.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-17T14:13:26.985Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -7166,20 +7177,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-17T12:07:04.004Z"
-        },
-        {
-          "kind": "skin",
-          "file": "butkoi.png",
-          "chance": 0.25,
-          "caseType": "knife",
-          "at": "2026-08-17T12:06:58.132Z"
         }
       ],
       "lastBonus": 1786891938857,
       "lastCaseAt": 1786975990381,
-      "lastBoosterAt": 1786967661520,
+      "lastBoosterAt": 1786976005528,
       "totalEarned": 10019050,
-      "totalOpened": 1775,
+      "totalOpened": 1776,
       "username": "fen1xs",
       "unknownUntil": 1786958741891,
       "memoryGame": {
