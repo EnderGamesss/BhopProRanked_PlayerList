@@ -7817,9 +7817,20 @@
         {
           "file": "prettyspinner.png",
           "type": "booster"
+        },
+        {
+          "file": "woodspinner.png",
+          "type": "booster"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "woodspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-17T09:39:21.020Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -7844,19 +7855,13 @@
           "amount": 100,
           "caseType": "glove",
           "at": "2026-08-17T09:14:42.317Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "glove",
-          "at": "2026-08-17T09:14:35.173Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786959523768,
-      "lastBoosterAt": 1786948731786,
+      "lastBoosterAt": 1786959560454,
       "totalEarned": 15950,
-      "totalOpened": 24,
+      "totalOpened": 25,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
