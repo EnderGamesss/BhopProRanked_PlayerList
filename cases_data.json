@@ -4536,7 +4536,7 @@
     },
     "8306609508": {
       "name": ".",
-      "coins": 147650,
+      "coins": 147350,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -4547,9 +4547,20 @@
         {
           "file": "arrowspinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "camospinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 2.5,
+          "caseType": "spinner",
+          "at": "2026-08-17T13:57:25.855Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -4573,19 +4584,13 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-17T13:56:34.799Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "spinner",
-          "at": "2026-08-17T13:56:24.938Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786975023613,
+      "lastCaseAt": 1786975044696,
       "lastBoosterAt": 1786974494108,
       "totalEarned": 164350,
-      "totalOpened": 60,
+      "totalOpened": 61,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
