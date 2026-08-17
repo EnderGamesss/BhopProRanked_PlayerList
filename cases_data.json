@@ -7494,9 +7494,20 @@
         {
           "file": "butkoi.png",
           "type": "knife"
+        },
+        {
+          "file": "butsuicide.png",
+          "type": "booster"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butsuicide.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-17T11:34:08.371Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -7520,19 +7531,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-17T11:33:33.851Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-17T11:33:26.842Z"
         }
       ],
       "lastBonus": 1786904944332,
       "lastCaseAt": 1786966433306,
-      "lastBoosterAt": 1786964510369,
+      "lastBoosterAt": 1786966447892,
       "totalEarned": 5515750,
-      "totalOpened": 960,
+      "totalOpened": 961,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
