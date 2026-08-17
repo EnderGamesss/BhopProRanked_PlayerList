@@ -498,6 +498,10 @@
         {
           "file": "butsuicide.png",
           "type": "knife"
+        },
+        {
+          "file": "m9saphire.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -733,8 +737,8 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
+          true,
           false,
           false,
           false,
@@ -754,7 +758,7 @@
           "price": 294000,
           "weight": 2
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
         "createdAt": 1786973646782,
         "flipStage": "wait_first",
