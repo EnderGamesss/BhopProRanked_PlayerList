@@ -4992,10 +4992,10 @@
           false,
           false,
           false,
+          true,
           false,
           false,
-          false,
-          false,
+          true,
           true,
           true,
           false,
@@ -5017,7 +5017,7 @@
           "price": 100000,
           "weight": 3
         },
-        "attempts": 1,
+        "attempts": 2,
         "status": "playing",
         "createdAt": 1786957882359,
         "flipStage": "wait_first",
@@ -7495,7 +7495,7 @@
     },
     "7948563397": {
       "name": "merlin",
-      "coins": 829900,
+      "coins": 830350,
       "luck": 1,
       "boosts": [
         {
@@ -7564,6 +7564,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-08-17T09:12:19.812Z"
+        },
+        {
+          "kind": "coins",
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-17T09:11:48.987Z"
@@ -7586,19 +7592,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-17T09:10:57.789Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-17T09:08:05.625Z"
         }
       ],
       "lastBonus": 1786904944332,
-      "lastCaseAt": 1786957908414,
+      "lastCaseAt": 1786957939571,
       "lastBoosterAt": 1786956102629,
-      "totalEarned": 4062900,
-      "totalOpened": 786,
+      "totalEarned": 4063650,
+      "totalOpened": 787,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
