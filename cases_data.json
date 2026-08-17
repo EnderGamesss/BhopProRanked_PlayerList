@@ -7857,7 +7857,7 @@
     },
     "8153945733": {
       "name": "Ehøka 🩸",
-      "coins": 7750,
+      "coins": 7450,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -7884,9 +7884,20 @@
         {
           "file": "prettyspinner.png",
           "type": "booster"
+        },
+        {
+          "file": "thumb-Military.png",
+          "type": "glove"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Military.png",
+          "chance": 8,
+          "caseType": "glove",
+          "at": "2026-08-17T09:14:55.328Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -7911,20 +7922,13 @@
           "chance": 8,
           "caseType": "glove",
           "at": "2026-08-17T08:31:42.209Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitforest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-08-17T06:41:00.395Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786958088058,
+      "lastCaseAt": 1786958094887,
       "lastBoosterAt": 1786948731786,
       "totalEarned": 12750,
-      "totalOpened": 22,
+      "totalOpened": 23,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
