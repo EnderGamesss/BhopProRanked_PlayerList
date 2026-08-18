@@ -10084,7 +10084,7 @@
     },
     "8202233931": {
       "name": "Merlin",
-      "coins": 1000,
+      "coins": 900,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -10095,6 +10095,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-18T15:02:54.044Z"
+        },
+        {
           "kind": "skin",
           "file": "karambitbreak.png",
           "chance": 1,
@@ -10103,10 +10109,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 0,
+      "lastCaseAt": 1787065373647,
       "lastBoosterAt": 1787065358532,
-      "totalEarned": 0,
-      "totalOpened": 1,
+      "totalEarned": 200,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
