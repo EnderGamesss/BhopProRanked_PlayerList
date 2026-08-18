@@ -5653,7 +5653,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false
         ],
@@ -5691,9 +5691,11 @@
           "price": 4500,
           "weight": 5
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1787035547154
+        "createdAt": 1787035547154,
+        "flipStage": "wait_second",
+        "firstFlip": 22
       },
       "achievements": [
         "earn_100k",
