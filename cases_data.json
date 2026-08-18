@@ -954,17 +954,11 @@
     },
     "2080177555": {
       "name": "ауука",
-      "coins": 1141600,
+      "coins": 1141750,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-18T10:16:22.377Z"
-        },
         {
           "kind": "coins",
           "amount": 750,
@@ -988,13 +982,19 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-18T10:15:58.139Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-18T10:15:53.033Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1787048181784,
+      "lastCaseAt": 1787048176076,
       "lastBoosterAt": 1787047980310,
-      "totalEarned": 1210500,
-      "totalOpened": 235,
+      "totalEarned": 1210350,
+      "totalOpened": 234,
       "username": "auuku",
       "unknownUntil": 1786951057974,
       "memoryGame": null,
@@ -2659,9 +2659,20 @@
         {
           "file": "karambitbreak.png",
           "type": "booster"
+        },
+        {
+          "file": "skullspinner.png",
+          "type": "booster"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "skullspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-18T10:16:23.077Z"
+        },
         {
           "kind": "skin",
           "file": "karambitbreak.png",
@@ -2689,19 +2700,12 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-18T06:58:43.818Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9emerand.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-18T06:15:56.369Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786539853173,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1787045261126,
+      "lastBoosterAt": 1787048182702,
       "totalEarned": 44519750,
       "memoryGame": {
         "board": [
@@ -2922,7 +2926,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 3708,
+      "totalOpened": 3709,
       "unknownUntil": 0,
       "achievements": [
         "open_100",
