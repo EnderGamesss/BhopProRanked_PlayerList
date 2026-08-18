@@ -8724,9 +8724,20 @@
         {
           "file": "null.png",
           "type": "charm"
+        },
+        {
+          "file": "arrowspinner.png",
+          "type": "booster"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "arrowspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-18T12:25:43.123Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-joke.png",
@@ -8753,19 +8764,13 @@
           "chance": 0.3,
           "caseType": "knife",
           "at": "2026-08-18T10:58:41.309Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-18T10:58:34.353Z"
         }
       ],
       "lastBonus": 1786904944332,
       "lastCaseAt": 1787050726165,
-      "lastBoosterAt": 1787053955548,
+      "lastBoosterAt": 1787055942629,
       "totalEarned": 7502450,
-      "totalOpened": 1353,
+      "totalOpened": 1354,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
