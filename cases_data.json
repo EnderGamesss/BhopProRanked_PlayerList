@@ -10084,7 +10084,7 @@
     },
     "8202233931": {
       "name": "Merlin",
-      "coins": 2000,
+      "coins": 1700,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -10095,9 +10095,20 @@
         {
           "file": "karambitkoi.png",
           "type": "knife"
+        },
+        {
+          "file": "M9Galactic.jpg",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "M9Galactic.jpg",
+          "chance": 0.08,
+          "caseType": "knife",
+          "at": "2026-08-18T15:05:33.653Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -10121,19 +10132,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-18T15:04:58.283Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-18T15:04:51.523Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1787065526931,
+      "lastCaseAt": 1787065533398,
       "lastBoosterAt": 1787065358532,
       "totalEarned": 7900,
-      "totalOpened": 24,
+      "totalOpened": 25,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
