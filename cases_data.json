@@ -5985,8 +5985,20 @@
       "coins": 3657400,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "dangerspinner.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "dangerspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-18T13:54:17.248Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -6010,19 +6022,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-18T06:47:54.073Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-08-18T06:47:47.520Z"
         }
       ],
       "lastBonus": 1786628731937,
       "lastCaseAt": 1787035694228,
-      "lastBoosterAt": 1787035527263,
+      "lastBoosterAt": 1787061256615,
       "totalEarned": 3678900,
-      "totalOpened": 103,
+      "totalOpened": 104,
       "username": "scrxdllla",
       "unknownUntil": 0,
       "memoryGame": {
