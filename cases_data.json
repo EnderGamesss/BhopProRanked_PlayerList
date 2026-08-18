@@ -10537,7 +10537,7 @@
     },
     "7389367383": {
       "name": "✡️",
-      "coins": 300,
+      "coins": 0,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -10548,9 +10548,20 @@
         {
           "file": "skullspinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "camospinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 2.5,
+          "caseType": "spinner",
+          "at": "2026-08-18T16:21:20.832Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -10575,20 +10586,13 @@
           "chance": 0.4,
           "caseType": "spinner",
           "at": "2026-08-18T16:20:52.683Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9aura.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-18T16:20:18.781Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1787070073427,
+      "lastCaseAt": 1787070080594,
       "lastBoosterAt": 1787070018301,
       "totalEarned": 500,
-      "totalOpened": 5,
+      "totalOpened": 6,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
