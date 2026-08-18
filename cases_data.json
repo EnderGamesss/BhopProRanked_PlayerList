@@ -8708,6 +8708,10 @@
         {
           "file": "woodspinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "dangerspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
@@ -8945,12 +8949,12 @@
           false,
           false,
           true,
+          true,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -8974,7 +8978,7 @@
           "price": 65000,
           "weight": 4
         },
-        "attempts": 2,
+        "attempts": 1,
         "status": "playing",
         "createdAt": 1787049107844,
         "flipStage": "wait_first",
