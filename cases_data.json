@@ -8178,9 +8178,14 @@
     },
     "5848702782": {
       "name": "Kraizi",
-      "coins": 1688500,
+      "coins": 688500,
       "luck": 1,
-      "boosts": [],
+      "boosts": [
+        {
+          "id": "lucky_charm",
+          "at": "2026-08-18T18:34:02.729Z"
+        }
+      ],
       "inventory": [
         {
           "file": "m9snake.png",
@@ -8458,7 +8463,8 @@
         "earn_100k",
         "open_100",
         "earn_1m"
-      ]
+      ],
+      "equippedCharm": "lucky_charm"
     },
     "6393789306": {
       "name": "Скалероз",
