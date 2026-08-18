@@ -5431,8 +5431,20 @@
       "coins": 3405500,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "buttiger.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "buttiger.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-18T06:45:27.692Z"
+        },
         {
           "kind": "skin",
           "file": "m9spitfire.png",
@@ -5460,20 +5472,13 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-16T15:40:59.494Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambittiger.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-16T09:07:34.811Z"
         }
       ],
       "lastBonus": 1786628731937,
       "lastCaseAt": 1786698736037,
-      "lastBoosterAt": 1786955003701,
+      "lastBoosterAt": 1787035527263,
       "totalEarned": 3421600,
-      "totalOpened": 84,
+      "totalOpened": 85,
       "username": "scrxdllla",
       "unknownUntil": 0,
       "memoryGame": {
