@@ -8716,9 +8716,20 @@
         {
           "file": "null.png",
           "type": "charm"
+        },
+        {
+          "file": "m9desert.png",
+          "type": "booster"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-18T11:00:08.573Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -8743,19 +8754,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-18T10:58:28.937Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-18T10:58:23.912Z"
         }
       ],
       "lastBonus": 1786904944332,
       "lastCaseAt": 1787050726165,
-      "lastBoosterAt": 1787048879119,
+      "lastBoosterAt": 1787050808114,
       "totalEarned": 7379950,
-      "totalOpened": 1351,
+      "totalOpened": 1352,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
