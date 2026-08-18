@@ -8178,7 +8178,7 @@
     },
     "5848702782": {
       "name": "Kraizi",
-      "coins": 1458500,
+      "coins": 1458200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -8189,9 +8189,20 @@
         {
           "file": "ironaquaspinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "camospinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 2.5,
+          "caseType": "spinner",
+          "at": "2026-08-18T18:27:34.938Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -8216,19 +8227,13 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-18T18:26:47.642Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "spinner",
-          "at": "2026-08-18T18:26:42.076Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1787077626810,
+      "lastCaseAt": 1787077654585,
       "lastBoosterAt": 1787076294270,
       "totalEarned": 1016600,
-      "totalOpened": 200,
+      "totalOpened": 201,
       "username": "HeSubo",
       "unknownUntil": 0,
       "memoryGame": {
