@@ -10537,7 +10537,7 @@
     },
     "7389367383": {
       "name": "✡️",
-      "coins": 1105350,
+      "coins": 1106100,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -10577,7 +10577,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1787070143028,
       "lastBoosterAt": 1787070018301,
-      "totalEarned": 1106450,
+      "totalEarned": 1107200,
       "totalOpened": 8,
       "unknownUntil": 0,
       "memoryGame": {
@@ -10768,6 +10768,7 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
@@ -10780,8 +10781,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -10801,9 +10801,11 @@
           "price": 65000,
           "weight": 4
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
-        "createdAt": 1787070173074
+        "createdAt": 1787070173074,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [
         "drop_aura",
