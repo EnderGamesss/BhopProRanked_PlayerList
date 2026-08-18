@@ -4592,16 +4592,27 @@
     },
     "8306609508": {
       "name": "Mne Poxui",
-      "coins": 2015900,
+      "coins": 2015600,
       "luck": 1,
       "boosts": [],
       "inventory": [
         {
           "file": "null.png",
           "type": "charm"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-18T07:50:59.985Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -4625,19 +4636,13 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-17T15:12:53.834Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-17T15:12:46.025Z"
         }
       ],
       "lastBonus": 1786977869391,
-      "lastCaseAt": 1787039443145,
+      "lastCaseAt": 1787039459487,
       "lastBoosterAt": 1786977679818,
       "totalEarned": 1102800,
-      "totalOpened": 295,
+      "totalOpened": 296,
       "unknownUntil": 1786979215457,
       "memoryGame": null,
       "achievements": [
