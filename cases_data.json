@@ -8723,7 +8723,7 @@
     },
     "7948563397": {
       "name": "merlin",
-      "coins": 1098250,
+      "coins": 1098500,
       "luck": 1,
       "boosts": [
         {
@@ -8853,7 +8853,7 @@
       "lastBonus": 1787062499246,
       "lastCaseAt": 1787065021904,
       "lastBoosterAt": 1787064982491,
-      "totalEarned": 7624450,
+      "totalEarned": 7624700,
       "totalOpened": 1442,
       "unknownUntil": 0,
       "memoryGame": {
@@ -9036,6 +9036,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -9055,8 +9056,7 @@
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "skin",
@@ -9067,7 +9067,9 @@
         },
         "attempts": 7,
         "status": "playing",
-        "createdAt": 1787065028334
+        "createdAt": 1787065028334,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [
         "drop_aura",
