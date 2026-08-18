@@ -8178,11 +8178,23 @@
     },
     "5848702782": {
       "name": "Kraizi",
-      "coins": 1333800,
+      "coins": 1333500,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitkoi.png",
+          "type": "knife"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitkoi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-08-18T18:18:06.745Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -8206,19 +8218,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-18T18:17:07.995Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-18T18:17:00.432Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1787077078945,
+      "lastCaseAt": 1787077086403,
       "lastBoosterAt": 1787076294270,
       "totalEarned": 870600,
-      "totalOpened": 129,
+      "totalOpened": 130,
       "username": "HeSubo",
       "unknownUntil": 0,
       "memoryGame": {
