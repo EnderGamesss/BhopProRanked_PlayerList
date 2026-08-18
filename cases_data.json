@@ -3103,6 +3103,10 @@
         {
           "file": "dangerspinner.png",
           "type": "booster"
+        },
+        {
+          "file": "karambitruby.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -3352,9 +3356,9 @@
           false,
           false,
           false,
+          true,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -3369,9 +3373,11 @@
           "price": 67000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1787069596977
+        "createdAt": 1787069596977,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "totalOpened": 3868,
       "unknownUntil": 1787056155135,
