@@ -10084,7 +10084,7 @@
     },
     "8202233931": {
       "name": "Merlin",
-      "coins": 2400,
+      "coins": 2350,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -10098,6 +10098,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-08-18T15:05:03.892Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -10122,19 +10128,13 @@
           "chance": 0.25,
           "caseType": "knife",
           "at": "2026-08-18T15:04:39.336Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-18T15:04:32.792Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1787065497740,
+      "lastCaseAt": 1787065503504,
       "lastBoosterAt": 1787065358532,
-      "totalEarned": 7400,
-      "totalOpened": 21,
+      "totalEarned": 7650,
+      "totalOpened": 22,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
