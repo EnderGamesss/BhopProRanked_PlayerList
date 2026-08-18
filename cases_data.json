@@ -957,8 +957,20 @@
       "coins": 1161000,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butsaphire.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butsaphire.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-18T21:15:42.870Z"
+        },
         {
           "kind": "skin",
           "file": "m9forest.png",
@@ -983,19 +995,13 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-18T10:19:56.683Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-18T10:19:50.849Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1787048415763,
-      "lastBoosterAt": 1787047980310,
+      "lastBoosterAt": 1787087742486,
       "totalEarned": 1231700,
-      "totalOpened": 241,
+      "totalOpened": 242,
       "username": "auuku",
       "unknownUntil": 1786951057974,
       "memoryGame": {
