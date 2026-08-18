@@ -957,7 +957,12 @@
       "coins": 1143000,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butkoi.png",
+          "type": "knife"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -1190,6 +1195,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -1209,17 +1215,18 @@
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "coins",
           "amount": 750,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1787048464619
+        "createdAt": 1787048464619,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [
         "open_100",
