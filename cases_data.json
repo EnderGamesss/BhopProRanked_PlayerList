@@ -7835,7 +7835,7 @@
     },
     "5897985265": {
       "name": "tonxi",
-      "coins": 1392750,
+      "coins": 1392450,
       "luck": 1.25,
       "boosts": [
         {
@@ -7879,9 +7879,20 @@
         {
           "file": "ironaquaspinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "woodspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "woodspinner.png",
+          "chance": 0.6,
+          "caseType": "spinner",
+          "at": "2026-08-18T17:03:18.903Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -7905,20 +7916,13 @@
           "amount": 500,
           "caseType": "spinner",
           "at": "2026-08-18T17:02:43.014Z"
-        },
-        {
-          "kind": "skin",
-          "file": "ironaquaspinner.png",
-          "chance": 1,
-          "caseType": "spinner",
-          "at": "2026-08-18T17:02:35.412Z"
         }
       ],
       "lastBonus": 1786985446184,
-      "lastCaseAt": 1787072592564,
+      "lastCaseAt": 1787072598207,
       "lastBoosterAt": 1787072515722,
       "totalEarned": 14419650,
-      "totalOpened": 2145,
+      "totalOpened": 2146,
       "username": "fen1xs",
       "unknownUntil": 1787055178340,
       "memoryGame": {
