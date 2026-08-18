@@ -8696,6 +8696,10 @@
         {
           "file": "butdesert.png",
           "type": "knife"
+        },
+        {
+          "file": "woodspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
@@ -8932,6 +8936,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -8945,8 +8950,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -8962,9 +8966,11 @@
           "price": 65000,
           "weight": 4
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
-        "createdAt": 1787049107844
+        "createdAt": 1787049107844,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [
         "drop_aura",
