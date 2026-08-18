@@ -8819,6 +8819,10 @@
         {
           "file": "m9snake.png",
           "type": "knife"
+        },
+        {
+          "file": "thumb-fairy.png",
+          "type": "glove"
         }
       ],
       "history": [
@@ -9036,13 +9040,6 @@
           false
         ],
         "matched": [
-          true,
-          false,
-          false,
-          false,
-          true,
-          true,
-          false,
           false,
           false,
           false,
@@ -9051,6 +9048,9 @@
           true,
           false,
           false,
+          true,
+          false,
+          true,
           false,
           false,
           false,
@@ -9060,7 +9060,11 @@
           false,
           false,
           false,
-          true
+          false,
+          false,
+          false,
+          false,
+          false
         ],
         "target": {
           "kind": "skin",
@@ -9069,7 +9073,7 @@
           "price": 20000,
           "weight": 5
         },
-        "attempts": 4,
+        "attempts": 2,
         "status": "playing",
         "createdAt": 1787065028334,
         "flipStage": "wait_first",
