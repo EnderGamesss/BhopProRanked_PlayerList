@@ -6262,8 +6262,20 @@
       "coins": 3923900,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambit-hotline.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambit-hotline.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-19T09:42:43.350Z"
+        },
         {
           "kind": "skin",
           "file": "m9fire_0.png",
@@ -6289,19 +6301,13 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-08-18T06:48:09.203Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-18T06:48:03.481Z"
         }
       ],
       "lastBonus": 1787062463894,
       "lastCaseAt": 1787035694228,
-      "lastBoosterAt": 1787064366278,
+      "lastBoosterAt": 1787132563048,
       "totalEarned": 5945400,
-      "totalOpened": 105,
+      "totalOpened": 106,
       "username": "scrxdllla",
       "unknownUntil": 0,
       "memoryGame": {
