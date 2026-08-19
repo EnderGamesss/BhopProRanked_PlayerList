@@ -6262,7 +6262,12 @@
       "coins": 4163900,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitmonster.png",
+          "type": "knife"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -6498,6 +6503,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -6507,8 +6513,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -6528,9 +6533,11 @@
           "price": 45000,
           "weight": 4
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1787132588658
+        "createdAt": 1787132588658,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [
         "earn_100k",
