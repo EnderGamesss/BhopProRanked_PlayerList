@@ -11734,7 +11734,7 @@
     },
     "8116701727": {
       "name": "SIMPLE",
-      "coins": 19250,
+      "coins": 19050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -11762,6 +11762,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-08-20T16:09:58.064Z"
+        },
+        {
+          "kind": "coins",
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-20T16:09:51.652Z"
@@ -11785,20 +11791,13 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-20T13:01:57.225Z"
-        },
-        {
-          "kind": "skin",
-          "file": "skullspinner.png",
-          "chance": 0.4,
-          "caseType": "spinner",
-          "at": "2026-08-20T12:28:57.236Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1787242191131,
+      "lastCaseAt": 1787242197454,
       "lastBoosterAt": 1787242163838,
-      "totalEarned": 25450,
-      "totalOpened": 27,
+      "totalEarned": 25550,
+      "totalOpened": 28,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
