@@ -11454,9 +11454,20 @@
         {
           "file": "skullspinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "arrowspinner.png",
+          "type": "booster"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "arrowspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-20T13:01:45.597Z"
+        },
         {
           "kind": "skin",
           "file": "skullspinner.png",
@@ -11481,19 +11492,13 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-08-20T12:28:38.782Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-08-20T12:28:32.885Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1787228936610,
-      "lastBoosterAt": 1787228741169,
+      "lastBoosterAt": 1787230904994,
       "totalEarned": 24250,
-      "totalOpened": 23,
+      "totalOpened": 24,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
