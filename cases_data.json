@@ -11392,16 +11392,27 @@
     },
     "8779183292": {
       "name": "... ...",
-      "coins": 1000,
+      "coins": 700,
       "luck": 1,
       "boosts": [],
       "inventory": [
         {
           "file": "thumb-Mercenery.png",
           "type": "booster"
+        },
+        {
+          "file": "thumb-Mercenery.png",
+          "type": "glove"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Mercenery.png",
+          "chance": 8.5,
+          "caseType": "glove",
+          "at": "2026-08-20T07:34:50.080Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-Mercenery.png",
@@ -11411,10 +11422,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 0,
+      "lastCaseAt": 1787211289604,
       "lastBoosterAt": 1787211261387,
       "totalEarned": 0,
-      "totalOpened": 1,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
