@@ -11432,7 +11432,7 @@
     },
     "8116701727": {
       "name": "SIMPLE",
-      "coins": 19200,
+      "coins": 19000,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -11442,6 +11442,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "spinner",
+          "at": "2026-08-20T12:28:44.685Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -11465,19 +11471,13 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-20T12:28:20.515Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-08-20T12:28:13.858Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1787228918293,
+      "lastCaseAt": 1787228924065,
       "lastBoosterAt": 1787228741169,
-      "totalEarned": 23900,
-      "totalOpened": 20,
+      "totalEarned": 24000,
+      "totalOpened": 21,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
