@@ -2269,8 +2269,20 @@
       "coins": 6907750,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Military.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Military.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-20T15:57:31.372Z"
+        },
         {
           "kind": "skin",
           "file": "royalspinner.png",
@@ -2298,21 +2310,14 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-20T06:22:40.909Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitmonster.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-20T04:10:47.465Z"
         }
       ],
       "lastBonus": 1786281511849,
       "lastCaseAt": 1787083052552,
       "username": "orzett",
-      "lastBoosterAt": 1787236858817,
+      "lastBoosterAt": 1787241450892,
       "totalEarned": 6901550,
-      "totalOpened": 103,
+      "totalOpened": 104,
       "unknownUntil": 0,
       "achievements": [
         "earn_100k",
