@@ -5363,6 +5363,10 @@
         {
           "file": "butforest.png",
           "type": "knife"
+        },
+        {
+          "file": "firespinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
@@ -5583,10 +5587,10 @@
           false,
           false,
           false,
+          true,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -5609,9 +5613,11 @@
           "price": 300000,
           "weight": 4
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
-        "createdAt": 1787239456786
+        "createdAt": 1787239456786,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [
         "open_100",
