@@ -11794,40 +11794,11 @@
       "memoryGame": {
         "board": [
           {
-            "kind": "coins",
-            "amount": 1000,
-            "weight": 20
-          },
-          {
-            "kind": "coins",
-            "amount": 200,
-            "weight": 20
-          },
-          {
             "kind": "skin",
-            "file": "m9koi.png",
-            "type": "knife",
-            "price": 15000,
-            "weight": 3
-          },
-          {
-            "kind": "skin",
-            "file": "royalspinner.png",
+            "file": "firespinner.png",
             "type": "spinner",
-            "price": 190000,
+            "price": 300000,
             "weight": 4
-          },
-          {
-            "kind": "skin",
-            "file": "karambitruby.png",
-            "type": "knife",
-            "price": 67000,
-            "weight": 3
-          },
-          {
-            "kind": "coins",
-            "amount": 200,
-            "weight": 20
           },
           {
             "kind": "skin",
@@ -11838,40 +11809,16 @@
           },
           {
             "kind": "skin",
-            "file": "royalspinner.png",
-            "type": "spinner",
-            "price": 190000,
-            "weight": 4
-          },
-          {
-            "kind": "coins",
-            "amount": 250,
-            "weight": 20
-          },
-          {
-            "kind": "skin",
-            "file": "thumb-Military.png",
+            "file": "thumb-fairy.png",
             "type": "glove",
-            "price": 3000,
+            "price": 20000,
             "weight": 5
           },
           {
-            "kind": "coins",
-            "amount": 100,
-            "weight": 20
-          },
-          {
             "kind": "skin",
-            "file": "m9koi.png",
+            "file": "butkoi.png",
             "type": "knife",
-            "price": 15000,
-            "weight": 3
-          },
-          {
-            "kind": "skin",
-            "file": "karambitruby.png",
-            "type": "knife",
-            "price": 67000,
+            "price": 18000,
             "weight": 3
           },
           {
@@ -11880,26 +11827,23 @@
             "weight": 20
           },
           {
-            "kind": "skin",
-            "file": "thumb-Military.png",
-            "type": "glove",
-            "price": 3000,
-            "weight": 5
-          },
-          {
-            "kind": "coins",
-            "amount": 250,
-            "weight": 20
-          },
-          {
             "kind": "coins",
             "amount": 200,
             "weight": 20
           },
           {
-            "kind": "coins",
-            "amount": 1000,
-            "weight": 20
+            "kind": "skin",
+            "file": "m9emerand.png",
+            "type": "knife",
+            "price": 100000,
+            "weight": 3
+          },
+          {
+            "kind": "skin",
+            "file": "m9emerand.png",
+            "type": "knife",
+            "price": 100000,
+            "weight": 3
           },
           {
             "kind": "skin",
@@ -11910,6 +11854,81 @@
           },
           {
             "kind": "coins",
+            "amount": 250,
+            "weight": 20
+          },
+          {
+            "kind": "skin",
+            "file": "karambitkoi.png",
+            "type": "knife",
+            "price": 16000,
+            "weight": 3
+          },
+          {
+            "kind": "coins",
+            "amount": 100,
+            "weight": 20
+          },
+          {
+            "kind": "skin",
+            "file": "thumb-fairy.png",
+            "type": "glove",
+            "price": 20000,
+            "weight": 5
+          },
+          {
+            "kind": "coins",
+            "amount": 250,
+            "weight": 20
+          },
+          {
+            "kind": "coins",
+            "amount": 100,
+            "weight": 20
+          },
+          {
+            "kind": "skin",
+            "file": "karambitkoi.png",
+            "type": "knife",
+            "price": 16000,
+            "weight": 3
+          },
+          {
+            "kind": "coins",
+            "amount": 100,
+            "weight": 20
+          },
+          {
+            "kind": "coins",
+            "amount": 200,
+            "weight": 20
+          },
+          {
+            "kind": "skin",
+            "file": "firespinner.png",
+            "type": "spinner",
+            "price": 300000,
+            "weight": 4
+          },
+          {
+            "kind": "coins",
+            "amount": 250,
+            "weight": 20
+          },
+          {
+            "kind": "coins",
+            "amount": 250,
+            "weight": 20
+          },
+          {
+            "kind": "skin",
+            "file": "woodspinner.png",
+            "type": "spinner",
+            "price": 65000,
+            "weight": 4
+          },
+          {
+            "kind": "coins",
             "amount": 200,
             "weight": 20
           },
@@ -11920,27 +11939,10 @@
           },
           {
             "kind": "skin",
-            "file": "thumb-joke.png",
-            "type": "glove",
-            "price": 120000,
-            "weight": 5
-          },
-          {
-            "kind": "skin",
-            "file": "thumb-joke.png",
-            "type": "glove",
-            "price": 120000,
-            "weight": 5
-          },
-          {
-            "kind": "coins",
-            "amount": 250,
-            "weight": 20
-          },
-          {
-            "kind": "coins",
-            "amount": 200,
-            "weight": 20
+            "file": "butkoi.png",
+            "type": "knife",
+            "price": 18000,
+            "weight": 3
           }
         ],
         "revealed": [
@@ -11999,14 +12001,14 @@
         ],
         "target": {
           "kind": "skin",
-          "file": "royalspinner.png",
-          "type": "spinner",
-          "price": 190000,
-          "weight": 4
+          "file": "butkoi.png",
+          "type": "knife",
+          "price": 18000,
+          "weight": 3
         },
         "attempts": 7,
         "status": "playing",
-        "createdAt": 1787230947650
+        "createdAt": 1787242078139
       },
       "achievements": [
         "drop_aura"
