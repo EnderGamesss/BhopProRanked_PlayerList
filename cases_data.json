@@ -11109,7 +11109,7 @@
     },
     "8202233931": {
       "name": "Merlin",
-      "coins": 100900,
+      "coins": 101050,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -11153,7 +11153,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1787065606161,
       "lastBoosterAt": 1787258887628,
-      "totalEarned": 1100700,
+      "totalEarned": 1100850,
       "totalOpened": 46,
       "unknownUntil": 0,
       "memoryGame": {
@@ -11342,6 +11342,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -11355,8 +11356,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -11371,9 +11371,11 @@
           "price": 10000,
           "weight": 5
         },
-        "attempts": 7,
+        "attempts": 1,
         "status": "playing",
-        "createdAt": 1787258942244
+        "createdAt": 1787258942244,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [
         "drop_galactic"
