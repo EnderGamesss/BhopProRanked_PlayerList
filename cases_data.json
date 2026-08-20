@@ -11734,7 +11734,7 @@
     },
     "8116701727": {
       "name": "SIMPLE",
-      "coins": 19050,
+      "coins": 18750,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -11757,9 +11757,20 @@
         {
           "file": "karambitruby.png",
           "type": "booster"
+        },
+        {
+          "file": "karambitkoi.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitkoi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-08-20T16:17:21.833Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -11784,20 +11795,13 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-20T16:09:24.048Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9desert.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-20T13:01:57.225Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1787242197454,
+      "lastCaseAt": 1787242641169,
       "lastBoosterAt": 1787242163838,
       "totalEarned": 25550,
-      "totalOpened": 28,
+      "totalOpened": 29,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
