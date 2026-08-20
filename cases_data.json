@@ -11425,8 +11425,20 @@
       "coins": 20400,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9aura.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9aura.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-20T12:25:41.644Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-fairy.png",
@@ -11455,9 +11467,9 @@
       ],
       "lastBonus": 0,
       "lastCaseAt": 1787228713397,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1787228741169,
       "totalEarned": 20600,
-      "totalOpened": 4,
+      "totalOpened": 5,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": []
