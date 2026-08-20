@@ -5389,7 +5389,7 @@
     },
     "6099107221": {
       "name": "aceki",
-      "coins": 5763200,
+      "coins": 5762900,
       "luck": 1.25,
       "boosts": [
         {
@@ -5417,9 +5417,20 @@
         {
           "file": "ironaquaspinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "thumb-basic-spinner-5.png",
+          "type": "spinner"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-basic-spinner-5.png",
+          "chance": 2,
+          "caseType": "spinner",
+          "at": "2026-08-20T19:32:34.366Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -5445,20 +5456,14 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-20T19:31:17.094Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-20T19:31:03.730Z"
         }
       ],
       "lastBonus": 1787239889691,
-      "lastCaseAt": 1787254295929,
+      "lastCaseAt": 1787254353641,
       "lastBoosterAt": 1787254163135,
       "totalEarned": 9973200,
       "username": "hatemytiredself",
-      "totalOpened": 634,
+      "totalOpened": 635,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
