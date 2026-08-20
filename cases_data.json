@@ -11423,11 +11423,23 @@
     },
     "8116701727": {
       "name": "SIMPLE",
-      "coins": 700,
+      "coins": 400,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-fairy.png",
+          "type": "glove"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-fairy.png",
+          "chance": 1.4,
+          "caseType": "glove",
+          "at": "2026-08-20T12:25:13.946Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -11448,10 +11460,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1787228706591,
+      "lastCaseAt": 1787228713397,
       "lastBoosterAt": 0,
       "totalEarned": 600,
-      "totalOpened": 3,
+      "totalOpened": 4,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": []
