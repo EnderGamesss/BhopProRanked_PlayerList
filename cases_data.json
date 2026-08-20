@@ -3693,9 +3693,20 @@
         {
           "file": "buttiger.png",
           "type": "knife"
+        },
+        {
+          "file": "skullspinner.png",
+          "type": "booster"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "skullspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-20T17:10:05.778Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -3720,19 +3731,12 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-20T16:26:21.147Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitkoi.png",
-          "chance": 0.25,
-          "caseType": "knife",
-          "at": "2026-08-20T16:25:57.297Z"
         }
       ],
       "lastBonus": 1787159670682,
       "lastCaseAt": 1787245800367,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1787243115784,
+      "lastBoosterAt": 1787245805271,
       "totalEarned": 44648600,
       "memoryGame": {
         "board": [
@@ -3967,7 +3971,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 4369,
+      "totalOpened": 4370,
       "unknownUntil": 1787160898765,
       "achievements": [
         "open_100",
