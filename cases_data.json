@@ -11656,7 +11656,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -11707,9 +11707,11 @@
           "price": 2500,
           "weight": 5
         },
-        "attempts": 7,
+        "attempts": 1,
         "status": "playing",
-        "createdAt": 1787228950619
+        "createdAt": 1787228950619,
+        "flipStage": "wait_second",
+        "firstFlip": 9
       },
       "achievements": [
         "drop_aura"
