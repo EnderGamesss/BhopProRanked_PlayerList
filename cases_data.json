@@ -2261,8 +2261,20 @@
       "coins": 6717750,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "royalspinner.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "royalspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-20T14:40:59.309Z"
+        },
         {
           "kind": "skin",
           "file": "camospinner.png",
@@ -2290,21 +2302,14 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-20T04:10:47.465Z"
-        },
-        {
-          "kind": "skin",
-          "file": "thumb-North.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-19T13:20:47.154Z"
         }
       ],
       "lastBonus": 1786281511849,
       "lastCaseAt": 1787083052552,
       "username": "orzett",
-      "lastBoosterAt": 1787224069552,
+      "lastBoosterAt": 1787236858817,
       "totalEarned": 6711550,
-      "totalOpened": 102,
+      "totalOpened": 103,
       "unknownUntil": 0,
       "achievements": [
         "earn_100k",
