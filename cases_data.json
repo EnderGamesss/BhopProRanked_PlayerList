@@ -1649,9 +1649,20 @@
         {
           "file": "m9desert.png",
           "type": "booster"
+        },
+        {
+          "file": "m9spitfire.png",
+          "type": "booster"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9spitfire.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-20T12:35:10.726Z"
+        },
         {
           "kind": "skin",
           "file": "m9desert.png",
@@ -1679,20 +1690,13 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-19T14:02:30.454Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9forest.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-19T13:27:16.501Z"
         }
       ],
       "lastBonus": 1787222102560,
       "lastCaseAt": 1787134897491,
-      "lastBoosterAt": 1787165255051,
+      "lastBoosterAt": 1787229310324,
       "totalEarned": 86458800,
-      "totalOpened": 4710,
+      "totalOpened": 4711,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
@@ -2368,7 +2372,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 27842650,
+      "coins": 27842700,
       "luck": 1.25,
       "boosts": [
         {
@@ -3602,12 +3606,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-20T12:35:09.738Z"
-        },
-        {
-          "kind": "coins",
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-20T12:34:53.006Z"
@@ -3630,13 +3628,19 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-20T12:33:22.535Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-08-20T12:33:06.574Z"
         }
       ],
       "lastBonus": 1787159670682,
-      "lastCaseAt": 1787229309042,
+      "lastCaseAt": 1787229292295,
       "username": "Bonnifacay",
       "lastBoosterAt": 1787228380530,
-      "totalEarned": 44640650,
+      "totalEarned": 44640400,
       "memoryGame": {
         "board": [
           {
@@ -3870,7 +3874,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 4310,
+      "totalOpened": 4309,
       "unknownUntil": 1787160898765,
       "achievements": [
         "open_100",
