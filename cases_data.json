@@ -11749,6 +11749,10 @@
         {
           "file": "m9desert.png",
           "type": "booster"
+        },
+        {
+          "file": "butkoi.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -11976,6 +11980,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -11996,8 +12001,7 @@
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "skin",
@@ -12006,9 +12010,11 @@
           "price": 18000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1787242078139
+        "createdAt": 1787242078139,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [
         "drop_aura"
