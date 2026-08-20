@@ -2440,7 +2440,7 @@
     },
     "6335884130": {
       "name": "Ром",
-      "coins": 27851050,
+      "coins": 27850750,
       "luck": 1.25,
       "boosts": [
         {
@@ -3564,9 +3564,20 @@
         {
           "file": "karambitforest.png",
           "type": "knife"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-20T06:34:36.608Z"
+        },
         {
           "kind": "skin",
           "file": "karambitforest.png",
@@ -3592,17 +3603,10 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-20T06:16:31.884Z"
-        },
-        {
-          "kind": "skin",
-          "file": "thumb-joke.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-20T06:16:25.514Z"
         }
       ],
       "lastBonus": 1787159670682,
-      "lastCaseAt": 1787207668193,
+      "lastCaseAt": 1787207676390,
       "username": "Bonnifacay",
       "lastBoosterAt": 1787206584736,
       "totalEarned": 44616350,
@@ -3839,7 +3843,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 4194,
+      "totalOpened": 4195,
       "unknownUntil": 1787160898765,
       "achievements": [
         "open_100",
