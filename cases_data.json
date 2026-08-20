@@ -8371,6 +8371,10 @@
         {
           "file": "m9koi.png",
           "type": "knife"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -8609,14 +8613,14 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -8636,9 +8640,11 @@
           "price": 2500,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1787229536444
+        "createdAt": 1787229536444,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [
         "open_100",
