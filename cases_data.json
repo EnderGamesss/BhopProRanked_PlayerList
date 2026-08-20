@@ -5405,8 +5405,20 @@
           "at": "2026-08-18T14:01:14.735Z"
         }
       ],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "prettyspinner.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "prettyspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-20T21:56:43.768Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -5431,21 +5443,14 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-20T19:31:36.305Z"
-        },
-        {
-          "kind": "skin",
-          "file": "ironaquaspinner.png",
-          "chance": 1,
-          "caseType": "spinner",
-          "at": "2026-08-20T19:31:30.574Z"
         }
       ],
       "lastBonus": 1787239889691,
       "lastCaseAt": 1787254368248,
-      "lastBoosterAt": 1787254163135,
+      "lastBoosterAt": 1787263003143,
       "totalEarned": 10133900,
       "username": "hatemytiredself",
-      "totalOpened": 637,
+      "totalOpened": 638,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
