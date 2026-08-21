@@ -9872,8 +9872,20 @@
       "coins": 181050,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitruby.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitruby.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-21T17:34:30.999Z"
+        },
         {
           "kind": "skin",
           "file": "karambitbreak.png",
@@ -9901,20 +9913,13 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-19T19:11:21.254Z"
-        },
-        {
-          "kind": "skin",
-          "file": "ironaquaspinner.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-19T16:09:02.282Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1787065606161,
-      "lastBoosterAt": 1787296985740,
+      "lastBoosterAt": 1787333670464,
       "totalEarned": 1180850,
-      "totalOpened": 47,
+      "totalOpened": 48,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
