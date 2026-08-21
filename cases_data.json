@@ -10920,6 +10920,10 @@
         {
           "file": "thumb-fairy.png",
           "type": "glove"
+        },
+        {
+          "file": "thumb-fairy.png",
+          "type": "glove"
         }
       ],
       "history": [
@@ -11136,9 +11140,9 @@
           false,
           false,
           false,
+          true,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           true,
@@ -11163,7 +11167,7 @@
           "price": 9000,
           "weight": 3
         },
-        "attempts": 3,
+        "attempts": 2,
         "status": "playing",
         "createdAt": 1787341703069,
         "flipStage": "wait_first",
