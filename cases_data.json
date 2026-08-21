@@ -11127,8 +11127,20 @@
       "coins": 101050,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitbreak.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitbreak.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-21T07:23:06.174Z"
+        },
         {
           "kind": "skin",
           "file": "butruby.png",
@@ -11156,20 +11168,13 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-19T16:09:02.282Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitdesert.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-19T09:10:03.531Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1787065606161,
-      "lastBoosterAt": 1787258887628,
+      "lastBoosterAt": 1787296985740,
       "totalEarned": 1100850,
-      "totalOpened": 46,
+      "totalOpened": 47,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
