@@ -11169,11 +11169,23 @@
     },
     "8784193297": {
       "name": "щитолкер",
-      "coins": 1100,
+      "coins": 800,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitmonster.png",
+          "type": "knife"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitmonster.png",
+          "chance": 0.05,
+          "caseType": "knife",
+          "at": "2026-08-21T20:14:04.158Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -11194,10 +11206,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1787343237852,
+      "lastCaseAt": 1787343243721,
       "lastBoosterAt": 0,
       "totalEarned": 1000,
-      "totalOpened": 3,
+      "totalOpened": 4,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
