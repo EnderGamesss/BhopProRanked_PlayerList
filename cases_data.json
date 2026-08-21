@@ -2272,8 +2272,20 @@
       "coins": 7598250,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-crown.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-crown.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-21T18:16:16.311Z"
+        },
         {
           "kind": "skin",
           "file": "buttiger.png",
@@ -2301,21 +2313,14 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-21T08:48:30.066Z"
-        },
-        {
-          "kind": "skin",
-          "file": "thumb-bhopool.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-20T21:33:44.409Z"
         }
       ],
       "lastBonus": 1786281511849,
       "lastCaseAt": 1787083052552,
       "username": "orzett",
-      "lastBoosterAt": 1787322260911,
+      "lastBoosterAt": 1787336175774,
       "totalEarned": 7592050,
-      "totalOpened": 111,
+      "totalOpened": 112,
       "unknownUntil": 0,
       "achievements": [
         "earn_100k",
