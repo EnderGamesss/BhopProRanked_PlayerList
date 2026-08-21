@@ -11867,7 +11867,7 @@
     },
     "8116701727": {
       "name": "SIMPLE",
-      "coins": 18750,
+      "coins": 19500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -11933,7 +11933,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1787242641169,
       "lastBoosterAt": 1787242163838,
-      "totalEarned": 25550,
+      "totalEarned": 26300,
       "totalOpened": 29,
       "unknownUntil": 0,
       "memoryGame": {
@@ -12115,14 +12115,14 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -12139,9 +12139,11 @@
           "price": 4000,
           "weight": 5
         },
-        "attempts": 7,
+        "attempts": 1,
         "status": "playing",
-        "createdAt": 1787292907599
+        "createdAt": 1787292907599,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [
         "drop_aura"
