@@ -3774,9 +3774,20 @@
         {
           "file": "dangerspinner.png",
           "type": "booster"
+        },
+        {
+          "file": "royalspinner.png",
+          "type": "booster"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "royalspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-21T06:11:10.070Z"
+        },
         {
           "kind": "skin",
           "file": "dangerspinner.png",
@@ -3804,18 +3815,12 @@
           "chance": 0.25,
           "caseType": "knife",
           "at": "2026-08-21T03:41:33.722Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-21T03:41:28.800Z"
         }
       ],
       "lastBonus": 1787159670682,
       "lastCaseAt": 1787283693304,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1787289467627,
+      "lastBoosterAt": 1787292669554,
       "totalEarned": 44651750,
       "memoryGame": {
         "board": [
@@ -4050,7 +4055,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 4396,
+      "totalOpened": 4397,
       "unknownUntil": 1787160898765,
       "achievements": [
         "open_100",
