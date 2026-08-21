@@ -11101,7 +11101,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -11158,9 +11158,11 @@
           "price": 9000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1787341703069
+        "createdAt": 1787341703069,
+        "flipStage": "wait_second",
+        "firstFlip": 3
       },
       "achievements": [],
       "username": "worakr"
