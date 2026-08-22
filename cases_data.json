@@ -1707,6 +1707,10 @@
         {
           "file": "karambitsnake.png",
           "type": "knife"
+        },
+        {
+          "file": "karambitmonster.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -1949,6 +1953,10 @@
         ],
         "matched": [
           false,
+          true,
+          false,
+          true,
+          true,
           false,
           false,
           false,
@@ -1964,11 +1972,7 @@
           false,
           false,
           false,
-          false,
-          false,
-          false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1981,9 +1985,11 @@
           "price": 50000,
           "weight": 4
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
-        "createdAt": 1787382229965
+        "createdAt": 1787382229965,
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     },
     "6703298995": {
