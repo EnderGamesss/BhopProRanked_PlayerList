@@ -10898,7 +10898,7 @@
     },
     "7898636400": {
       "name": "Alt 19 Mark",
-      "coins": 1093050,
+      "coins": 1092750,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -10921,9 +10921,20 @@
         {
           "file": "thumb-Military.png",
           "type": "glove"
+        },
+        {
+          "file": "thumb-North.png",
+          "type": "glove"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-North.png",
+          "chance": 7.5,
+          "caseType": "glove",
+          "at": "2026-08-22T17:40:14.297Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -10948,19 +10959,13 @@
           "chance": 8,
           "caseType": "glove",
           "at": "2026-08-22T17:39:33.322Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "glove",
-          "at": "2026-08-22T17:39:16.510Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1787420406667,
+      "lastCaseAt": 1787420413821,
       "lastBoosterAt": 1787419894442,
       "totalEarned": 97150,
-      "totalOpened": 19,
+      "totalOpened": 20,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
