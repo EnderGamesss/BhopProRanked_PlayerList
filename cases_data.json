@@ -1655,6 +1655,10 @@
           "file": "m9aura.png",
           "type": "knife",
           "locked": true
+        },
+        {
+          "file": "karambitemerand.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -1900,6 +1904,7 @@
           true,
           false,
           true,
+          true,
           false,
           false,
           false,
@@ -1909,18 +1914,17 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
-          false,
-          false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "skin",
@@ -1929,7 +1933,7 @@
           "price": 50000,
           "weight": 4
         },
-        "attempts": 2,
+        "attempts": 5,
         "status": "playing",
         "createdAt": 1787382229965,
         "flipStage": "wait_first",
