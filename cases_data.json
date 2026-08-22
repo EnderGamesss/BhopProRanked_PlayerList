@@ -11331,16 +11331,27 @@
     },
     "6871050240": {
       "name": "SerVax",
-      "coins": 14500,
+      "coins": 14200,
       "luck": 1,
       "boosts": [],
       "inventory": [
         {
           "file": "butsnake.png",
           "type": "knife"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-22T17:45:31.604Z"
+        },
         {
           "kind": "skin",
           "file": "butsnake.png",
@@ -11365,19 +11376,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-08-22T17:44:44.893Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-22T17:44:22.882Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1787420714269,
+      "lastCaseAt": 1787420730977,
       "lastBoosterAt": 0,
       "totalEarned": 17400,
-      "totalOpened": 13,
+      "totalOpened": 14,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
