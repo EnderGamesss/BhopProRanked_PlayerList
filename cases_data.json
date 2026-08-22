@@ -6681,7 +6681,12 @@
       "coins": 354150,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9koi.png",
+          "type": "knife"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -6913,6 +6918,7 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
@@ -6936,17 +6942,18 @@
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "coins",
           "amount": 250,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1787429262448
+        "createdAt": 1787429262448,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [
         "earn_100k"
