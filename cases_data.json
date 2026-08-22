@@ -1707,6 +1707,10 @@
         {
           "file": "karambitsnake.png",
           "type": "knife"
+        },
+        {
+          "file": "karambitmonster.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -1952,6 +1956,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -1967,8 +1972,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1983,7 +1987,9 @@
         },
         "attempts": 7,
         "status": "playing",
-        "createdAt": 1787382229965
+        "createdAt": 1787382229965,
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     },
     "6703298995": {
