@@ -10898,11 +10898,23 @@
     },
     "7898636400": {
       "name": "Alt 19 Mark",
-      "coins": 95700,
+      "coins": 95400,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitforest.png",
+          "type": "knife"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-22T17:30:35.585Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -10924,10 +10936,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1787419828904,
+      "lastCaseAt": 1787419834987,
       "lastBoosterAt": 1787291651821,
       "totalEarned": 95300,
-      "totalOpened": 3,
+      "totalOpened": 4,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
