@@ -11331,7 +11331,7 @@
     },
     "6871050240": {
       "name": "SerVax",
-      "coins": 14050,
+      "coins": 14250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -11381,7 +11381,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1787420763213,
       "lastBoosterAt": 0,
-      "totalEarned": 18150,
+      "totalEarned": 18350,
       "totalOpened": 17,
       "unknownUntil": 0,
       "memoryGame": {
@@ -11566,6 +11566,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -11573,8 +11574,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -11589,9 +11589,11 @@
           "amount": 250,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1787420813616
+        "createdAt": 1787420813616,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [],
       "username": "DurovHacks"
