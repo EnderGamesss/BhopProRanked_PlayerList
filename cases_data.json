@@ -11553,7 +11553,7 @@
     },
     "6871050240": {
       "name": "SerVax",
-      "coins": 467550,
+      "coins": 467250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -11564,9 +11564,20 @@
         {
           "file": "thumb-Military.png",
           "type": "glove"
+        },
+        {
+          "file": "thumb-Military.png",
+          "type": "glove"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Military.png",
+          "chance": 8,
+          "caseType": "glove",
+          "at": "2026-08-23T08:34:38.544Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-Military.png",
@@ -11592,19 +11603,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-08-23T08:34:02.811Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-08-23T08:33:57.140Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1787474071508,
+      "lastCaseAt": 1787474078095,
       "lastBoosterAt": 1787427310604,
       "totalEarned": 496550,
-      "totalOpened": 101,
+      "totalOpened": 102,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
