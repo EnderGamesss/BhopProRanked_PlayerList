@@ -11152,7 +11152,7 @@
     },
     "7898636400": {
       "name": "Alt 19 Mark",
-      "coins": 1092700,
+      "coins": 1092400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -11199,9 +11199,20 @@
         {
           "file": "camospinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "thumb-Military.png",
+          "type": "glove"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Military.png",
+          "chance": 8,
+          "caseType": "glove",
+          "at": "2026-08-23T08:15:25.845Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -11225,19 +11236,13 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-23T08:14:53.725Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-23T08:14:46.629Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1787472918902,
+      "lastCaseAt": 1787472925471,
       "lastBoosterAt": 1787472694852,
       "totalEarned": 104600,
-      "totalOpened": 46,
+      "totalOpened": 47,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
