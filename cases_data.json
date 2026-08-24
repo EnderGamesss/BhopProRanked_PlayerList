@@ -12178,7 +12178,12 @@
       "coins": 49200,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "royalspinner.png",
+          "type": "spinner"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -12400,6 +12405,7 @@
         ],
         "matched": [
           false,
+          true,
           false,
           false,
           false,
@@ -12410,8 +12416,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -12432,9 +12437,11 @@
           "price": 86000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1787587461547
+        "createdAt": 1787587461547,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [],
       "username": "Bobusps"
