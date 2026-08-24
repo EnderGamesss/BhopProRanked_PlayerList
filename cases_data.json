@@ -12182,6 +12182,10 @@
         {
           "file": "royalspinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "butsaphire.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -12404,7 +12408,7 @@
           false
         ],
         "matched": [
-          false,
+          true,
           true,
           false,
           false,
@@ -12420,7 +12424,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -12437,7 +12441,7 @@
           "price": 86000,
           "weight": 3
         },
-        "attempts": 2,
+        "attempts": 1,
         "status": "playing",
         "createdAt": 1787587461547,
         "flipStage": "wait_first",
