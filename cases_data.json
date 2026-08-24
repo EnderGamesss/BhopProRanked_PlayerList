@@ -12175,16 +12175,27 @@
     },
     "5107720212": {
       "name": "Сава",
-      "coins": 1350,
+      "coins": 1050,
       "luck": 1,
       "boosts": [],
       "inventory": [
         {
           "file": "thumb-North.png",
           "type": "glove"
+        },
+        {
+          "file": "ironaquaspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "ironaquaspinner.png",
+          "chance": 1,
+          "caseType": "spinner",
+          "at": "2026-08-24T16:02:52.808Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -12208,19 +12219,13 @@
           "amount": 500,
           "caseType": "spinner",
           "at": "2026-08-24T16:02:29.381Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "spinner",
-          "at": "2026-08-24T16:02:23.244Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1787587366412,
+      "lastCaseAt": 1787587372231,
       "lastBoosterAt": 0,
       "totalEarned": 6050,
-      "totalOpened": 19,
+      "totalOpened": 20,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
