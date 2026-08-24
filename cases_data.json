@@ -12103,8 +12103,20 @@
       "coins": 11600,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitscratch.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitscratch.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-24T00:19:06.226Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-Military.png",
@@ -12129,9 +12141,9 @@
       ],
       "lastBonus": 0,
       "lastCaseAt": 1787516080434,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1787530745948,
       "totalEarned": 11500,
-      "totalOpened": 3,
+      "totalOpened": 4,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
