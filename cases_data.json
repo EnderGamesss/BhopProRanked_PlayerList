@@ -12175,7 +12175,7 @@
     },
     "5107720212": {
       "name": "Сава",
-      "coins": 300,
+      "coins": 200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -12189,6 +12189,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "spinner",
+          "at": "2026-08-24T16:03:34.542Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -12212,19 +12218,13 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-08-24T16:03:06.097Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-08-24T16:03:00.511Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1787587405988,
+      "lastCaseAt": 1787587413659,
       "lastBoosterAt": 0,
-      "totalEarned": 6800,
-      "totalOpened": 25,
+      "totalEarned": 7000,
+      "totalOpened": 26,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
