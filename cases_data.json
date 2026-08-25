@@ -11112,8 +11112,20 @@
       "coins": 1588150,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitbreak.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitbreak.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-25T16:58:03.782Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -11137,19 +11149,13 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-23T08:16:15.857Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "glove",
-          "at": "2026-08-23T08:16:09.222Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1787473023373,
-      "lastBoosterAt": 1787472694852,
+      "lastBoosterAt": 1787677083267,
       "totalEarned": 603650,
-      "totalOpened": 58,
+      "totalOpened": 59,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
