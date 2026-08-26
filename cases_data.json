@@ -11152,12 +11152,24 @@
       "username": "ATrainne"
     },
     "8640203107": {
-      "name": "димас шахед",
+      "name": "ИнтернетЧеловек",
       "coins": 60750,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitdesert.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-26T13:31:19.690Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -11173,9 +11185,9 @@
       ],
       "lastBonus": 0,
       "lastCaseAt": 1787341693136,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1787751079341,
       "totalEarned": 60350,
-      "totalOpened": 2,
+      "totalOpened": 3,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
@@ -11405,7 +11417,7 @@
         "firstFlip": null
       },
       "achievements": [],
-      "username": "worakr"
+      "username": "NetworkHuman"
     },
     "8784193297": {
       "name": "щитолкер",
