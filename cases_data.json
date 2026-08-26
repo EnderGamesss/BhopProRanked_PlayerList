@@ -12606,11 +12606,23 @@
     },
     "8583061665": {
       "name": "flx",
-      "coins": 15800,
+      "coins": 15500,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9forest.png",
+          "type": "knife"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9forest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-26T17:15:44.589Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -12632,10 +12644,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1787764534511,
+      "lastCaseAt": 1787764544090,
       "lastBoosterAt": 1787764479678,
       "totalEarned": 15400,
-      "totalOpened": 3,
+      "totalOpened": 4,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
