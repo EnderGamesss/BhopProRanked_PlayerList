@@ -11278,6 +11278,10 @@
         {
           "file": "thumb-basic-spinner-5.png",
           "type": "booster"
+        },
+        {
+          "file": "skullspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
@@ -11513,9 +11517,9 @@
           false,
           false,
           false,
+          true,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -11535,9 +11539,11 @@
           "price": 2000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
-        "createdAt": 1787764691509
+        "createdAt": 1787764691509,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [],
       "username": "NetworkHuman"
