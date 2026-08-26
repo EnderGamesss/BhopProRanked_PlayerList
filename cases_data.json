@@ -12617,6 +12617,10 @@
         {
           "file": "m9forest.png",
           "type": "knife"
+        },
+        {
+          "file": "m9spitfire.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -12851,6 +12855,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -12865,8 +12870,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false
@@ -12876,9 +12880,11 @@
           "amount": 500,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1787764699385
+        "createdAt": 1787764699385,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [],
       "username": "flxcsa"
