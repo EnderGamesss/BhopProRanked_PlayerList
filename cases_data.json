@@ -7643,7 +7643,7 @@
     },
     "5897985265": {
       "name": "¤๋ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ͜͡",
-      "coins": 8621450,
+      "coins": 8621150,
       "luck": 1.25,
       "boosts": [
         {
@@ -7676,9 +7676,20 @@
         {
           "file": "butforest.png",
           "type": "knife"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-08-27T07:10:26.285Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -7703,19 +7714,13 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-08-27T07:09:31.326Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-27T07:09:23.940Z"
         }
       ],
       "lastBonus": 1787814490285,
-      "lastCaseAt": 1787814607723,
+      "lastCaseAt": 1787814625953,
       "lastBoosterAt": 1787814499016,
       "totalEarned": 24298150,
-      "totalOpened": 2678,
+      "totalOpened": 2679,
       "username": "fen1xs",
       "unknownUntil": 1787419880823,
       "memoryGame": {
