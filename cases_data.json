@@ -2477,9 +2477,24 @@
         {
           "file": "m9desert.png",
           "type": "booster"
+        },
+        {
+          "file": "karambitscratch.png",
+          "type": "booster"
+        },
+        {
+          "file": "null.png",
+          "type": "charm"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitscratch.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-08-27T11:54:26.133Z"
+        },
         {
           "kind": "skin",
           "file": "m9desert.png",
@@ -2507,19 +2522,12 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-27T09:13:49.983Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitbreak.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-27T08:05:54.114Z"
         }
       ],
       "lastBonus": 1787159670682,
       "lastCaseAt": 1787803135900,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1787828351422,
+      "lastBoosterAt": 1787831665553,
       "totalEarned": 91710800,
       "memoryGame": {
         "board": [
@@ -2754,7 +2762,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 4571,
+      "totalOpened": 4572,
       "unknownUntil": 1787160898765,
       "achievements": [
         "open_100",
