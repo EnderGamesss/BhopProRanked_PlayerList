@@ -1659,6 +1659,10 @@
         {
           "file": "null.png",
           "type": "charm"
+        },
+        {
+          "file": "m9saphire.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -1907,12 +1911,12 @@
         ],
         "matched": [
           false,
+          true,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1937,9 +1941,11 @@
           "amount": 150,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 2,
         "status": "playing",
-        "createdAt": 1787943234759
+        "createdAt": 1787943234759,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Dooobrotan"
     },
