@@ -1791,6 +1791,10 @@
         {
           "file": "butforest.png",
           "type": "knife"
+        },
+        {
+          "file": "thumb-bhopool.png",
+          "type": "glove"
         }
       ],
       "history": [
@@ -2021,7 +2025,7 @@
           false
         ],
         "matched": [
-          false,
+          true,
           false,
           false,
           false,
@@ -2033,7 +2037,7 @@
           true,
           false,
           false,
-          false,
+          true,
           false,
           true,
           true,
@@ -2052,7 +2056,7 @@
           "amount": 750,
           "weight": 20
         },
-        "attempts": 5,
+        "attempts": 3,
         "status": "playing",
         "createdAt": 1787941559610,
         "flipStage": "wait_first",
