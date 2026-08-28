@@ -1655,6 +1655,10 @@
         {
           "file": "null.png",
           "type": "charm"
+        },
+        {
+          "file": "firespinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
@@ -1901,6 +1905,7 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
@@ -1924,17 +1929,18 @@
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "coins",
           "amount": 750,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
-        "createdAt": 1787938483998
+        "createdAt": 1787938483998,
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     },
     "6703298995": {
