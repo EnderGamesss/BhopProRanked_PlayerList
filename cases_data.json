@@ -1667,6 +1667,10 @@
         {
           "file": "karambitsnake.png",
           "type": "knife"
+        },
+        {
+          "file": "M9Galactic.jpg",
+          "type": "knife"
         }
       ],
       "history": [
@@ -1930,20 +1934,22 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "coins",
           "amount": 750,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
-        "createdAt": 1787916644895
+        "createdAt": 1787916644895,
+        "flipStage": "wait_first",
+        "firstFlip": null
       }
     },
     "6703298995": {
