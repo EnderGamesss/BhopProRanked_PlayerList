@@ -1671,6 +1671,10 @@
         {
           "file": "M9Galactic.jpg",
           "type": "knife"
+        },
+        {
+          "file": "butruby.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -1914,12 +1918,7 @@
           false
         ],
         "matched": [
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1938,14 +1937,19 @@
           false,
           false,
           false,
-          true
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
         ],
         "target": {
           "kind": "coins",
           "amount": 750,
           "weight": 20
         },
-        "attempts": 6,
+        "attempts": 4,
         "status": "playing",
         "createdAt": 1787916644895,
         "flipStage": "wait_first",
