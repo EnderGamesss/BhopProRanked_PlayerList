@@ -12977,7 +12977,12 @@
       "coins": 1450,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-bluestar.png",
+          "type": "glove"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -13187,6 +13192,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -13196,8 +13202,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -13211,9 +13216,11 @@
           "amount": 100,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1788043749038
+        "createdAt": 1788043749038,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": []
     }
