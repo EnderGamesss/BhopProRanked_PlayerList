@@ -3286,7 +3286,7 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 3361650,
+      "coins": 3362650,
       "luck": 1,
       "boosts": [],
       "inventory": [],
@@ -3327,7 +3327,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1786277289199,
       "lastBoosterAt": 1788078864278,
-      "totalEarned": 3384050,
+      "totalEarned": 3385050,
       "username": "bogdansert",
       "totalOpened": 1,
       "unknownUntil": 0,
@@ -3519,6 +3519,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -3526,8 +3527,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -3546,9 +3546,11 @@
           "amount": 150,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1788079076305
+        "createdAt": 1788079076305,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [
         "earn_100k",
