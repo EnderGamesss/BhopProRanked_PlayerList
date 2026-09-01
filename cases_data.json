@@ -1731,6 +1731,10 @@
         {
           "file": "thumb-Military.png",
           "type": "glove"
+        },
+        {
+          "file": "butsnake.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -1980,11 +1984,11 @@
         ],
         "matched": [
           true,
-          false,
+          true,
           false,
           false,
           true,
-          false,
+          true,
           false,
           false,
           false,
@@ -2012,7 +2016,7 @@
           "price": 4000,
           "weight": 5
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
         "createdAt": 1788279836913,
         "flipStage": "wait_first",
