@@ -1735,6 +1735,10 @@
         {
           "file": "butsnake.png",
           "type": "knife"
+        },
+        {
+          "file": "thumb-joke.png",
+          "type": "glove"
         }
       ],
       "history": [
@@ -1989,6 +1993,7 @@
           false,
           true,
           true,
+          true,
           false,
           false,
           false,
@@ -1998,8 +2003,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2016,7 +2020,7 @@
           "price": 4000,
           "weight": 5
         },
-        "attempts": 4,
+        "attempts": 2,
         "status": "playing",
         "createdAt": 1788279836913,
         "flipStage": "wait_first",
