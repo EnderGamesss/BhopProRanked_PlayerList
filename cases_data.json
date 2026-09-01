@@ -1703,6 +1703,10 @@
         {
           "file": "butkoi.png",
           "type": "booster"
+        },
+        {
+          "file": "karambitbreak.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -1938,12 +1942,12 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1971,7 +1975,7 @@
           "price": 80000,
           "weight": 3
         },
-        "attempts": 6,
+        "attempts": 5,
         "status": "playing",
         "createdAt": 1788265215762,
         "flipStage": "wait_first",
