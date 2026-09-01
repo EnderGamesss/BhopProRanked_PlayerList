@@ -1719,6 +1719,10 @@
         {
           "file": "karambitruby.png",
           "type": "knife"
+        },
+        {
+          "file": "karambitruby.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -1985,8 +1989,8 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
+          true,
           false,
           true,
           false,
@@ -2003,7 +2007,7 @@
           "price": 65000,
           "weight": 4
         },
-        "attempts": 2,
+        "attempts": 1,
         "status": "playing",
         "createdAt": 1788279192007,
         "flipStage": "wait_first",
