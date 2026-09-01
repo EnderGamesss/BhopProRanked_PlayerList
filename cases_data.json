@@ -1743,6 +1743,10 @@
         {
           "file": "thumb-joke.png",
           "type": "glove"
+        },
+        {
+          "file": "prettyspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
@@ -1992,19 +1996,13 @@
         ],
         "matched": [
           true,
-          false,
-          false,
-          false,
-          true,
-          false,
           true,
           false,
           false,
-          false,
-          false,
-          false,
-          false,
-          false,
+          true,
+          true,
+          true,
+          true,
           false,
           false,
           true,
@@ -2013,9 +2011,15 @@
           false,
           false,
           false,
+          true,
           false,
           false,
-          false
+          false,
+          true,
+          false,
+          false,
+          false,
+          true
         ],
         "target": {
           "kind": "skin",
@@ -2024,7 +2028,7 @@
           "price": 4000,
           "weight": 5
         },
-        "attempts": 1,
+        "attempts": 2,
         "status": "playing",
         "createdAt": 1788279836913,
         "flipStage": "wait_first",
