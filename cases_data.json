@@ -13807,11 +13807,23 @@
     },
     "8632832808": {
       "name": "Wiwiwi",
-      "coins": 18550,
+      "coins": 18250,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9desert.png",
+          "type": "knife"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-02T09:09:40.882Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -13839,10 +13851,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1788340172650,
+      "lastCaseAt": 1788340180234,
       "lastBoosterAt": 1788340116464,
       "totalEarned": 18450,
-      "totalOpened": 4,
+      "totalOpened": 5,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": []
