@@ -1791,9 +1791,20 @@
         {
           "file": "royalspinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "karambitruby.png",
+          "type": "booster"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitruby.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-09-02T08:05:34.954Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -1818,19 +1829,13 @@
           "amount": 1000,
           "caseType": "spinner",
           "at": "2026-09-02T04:18:21.350Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-09-02T04:18:05.298Z"
         }
       ],
       "lastBonus": 1787222102560,
       "lastCaseAt": 1788325658059,
-      "lastBoosterAt": 1788325623798,
+      "lastBoosterAt": 1788336334702,
       "totalEarned": 100161850,
-      "totalOpened": 5905,
+      "totalOpened": 5906,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
