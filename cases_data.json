@@ -1607,7 +1607,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 83943400,
+      "coins": 83943100,
       "luck": 1.25,
       "boosts": [
         {
@@ -1775,9 +1775,20 @@
         {
           "file": "prettyspinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "skullspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "skullspinner.png",
+          "chance": 0.4,
+          "caseType": "spinner",
+          "at": "2026-09-02T04:17:44.480Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -1802,19 +1813,13 @@
           "chance": 0.5,
           "caseType": "spinner",
           "at": "2026-09-02T04:17:05.891Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "spinner",
-          "at": "2026-09-02T04:16:57.459Z"
         }
       ],
       "lastBonus": 1787222102560,
-      "lastCaseAt": 1788322648325,
+      "lastCaseAt": 1788322663566,
       "lastBoosterAt": 1788321880185,
       "totalEarned": 100159900,
-      "totalOpened": 5897,
+      "totalOpened": 5898,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
