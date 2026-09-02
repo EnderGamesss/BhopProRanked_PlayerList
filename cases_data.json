@@ -2573,9 +2573,20 @@
         {
           "file": "m9forest.png",
           "type": "knife"
+        },
+        {
+          "file": "m9emerand.png",
+          "type": "booster"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9emerand.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-09-02T00:14:37.779Z"
+        },
         {
           "kind": "skin",
           "file": "m9forest.png",
@@ -2601,18 +2612,12 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-09-01T16:26:31.601Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-09-01T16:26:26.497Z"
         }
       ],
       "lastBonus": 1787159670682,
       "lastCaseAt": 1788308005547,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1788278977255,
+      "lastBoosterAt": 1788308077472,
       "totalEarned": 100055400,
       "memoryGame": {
         "board": [
@@ -2847,7 +2852,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 4734,
+      "totalOpened": 4735,
       "unknownUntil": 1788072520767,
       "achievements": [
         "open_100",
