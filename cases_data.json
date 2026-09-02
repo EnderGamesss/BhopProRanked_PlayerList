@@ -1855,6 +1855,10 @@
         {
           "file": "buttiger.png",
           "type": "booster"
+        },
+        {
+          "file": "prettyspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
@@ -2122,18 +2126,20 @@
           false,
           false,
           false,
+          true,
           false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "coins",
           "amount": 500,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 1,
         "status": "playing",
-        "createdAt": 1788380047416
+        "createdAt": 1788380047416,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Dooobrotan"
     },
