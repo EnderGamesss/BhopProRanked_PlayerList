@@ -1763,6 +1763,10 @@
         {
           "file": "m9razor.png",
           "type": "booster"
+        },
+        {
+          "file": "m9fire_0.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -2010,8 +2014,8 @@
           false,
           false,
           true,
-          false,
-          false,
+          true,
+          true,
           false,
           false,
           false,
@@ -2038,7 +2042,7 @@
           "price": 4000,
           "weight": 5
         },
-        "attempts": 5,
+        "attempts": 4,
         "status": "playing",
         "createdAt": 1788321845471,
         "flipStage": "wait_first",
