@@ -1799,6 +1799,10 @@
         {
           "file": "karambitsnake.png",
           "type": "booster"
+        },
+        {
+          "file": "m9forest.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -2041,12 +2045,12 @@
         ],
         "matched": [
           false,
+          true,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2071,9 +2075,11 @@
           "amount": 750,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1788357505365
+        "createdAt": 1788357505365,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Dooobrotan"
     },
