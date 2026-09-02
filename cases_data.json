@@ -1811,6 +1811,10 @@
         {
           "file": "m9fire_0.png",
           "type": "booster"
+        },
+        {
+          "file": "camospinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
@@ -2067,6 +2071,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -2077,8 +2082,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2094,9 +2098,11 @@
           "amount": 100,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 1,
         "status": "playing",
-        "createdAt": 1788360912062
+        "createdAt": 1788360912062,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Dooobrotan"
     },
