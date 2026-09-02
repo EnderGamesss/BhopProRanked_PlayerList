@@ -1819,6 +1819,10 @@
         {
           "file": "skullspinner.png",
           "type": "booster"
+        },
+        {
+          "file": "woodspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
@@ -2062,6 +2066,7 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
@@ -2080,8 +2085,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2095,9 +2099,11 @@
           "price": 65000,
           "weight": 4
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1788363289060
+        "createdAt": 1788363289060,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Dooobrotan"
     },
