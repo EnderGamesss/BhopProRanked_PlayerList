@@ -1843,6 +1843,10 @@
         {
           "file": "karambit-hotline.png",
           "type": "booster"
+        },
+        {
+          "file": "butkoi.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -2100,6 +2104,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -2119,8 +2124,7 @@
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "skin",
@@ -2129,9 +2133,11 @@
           "price": 65000,
           "weight": 4
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
-        "createdAt": 1788375430889
+        "createdAt": 1788375430889,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Dooobrotan"
     },
