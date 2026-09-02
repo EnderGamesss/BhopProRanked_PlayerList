@@ -1607,7 +1607,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 83943500,
+      "coins": 83943700,
       "luck": 1.25,
       "boosts": [
         {
@@ -1873,7 +1873,7 @@
       "lastBonus": 1787222102560,
       "lastCaseAt": 1788325658059,
       "lastBoosterAt": 1788369570508,
-      "totalEarned": 100162100,
+      "totalEarned": 100162300,
       "totalOpened": 5912,
       "unknownUntil": 1786828798968,
       "achievements": [
@@ -2081,6 +2081,7 @@
         ],
         "matched": [
           false,
+          true,
           false,
           false,
           false,
@@ -2103,8 +2104,7 @@
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "skin",
@@ -2113,9 +2113,11 @@
           "price": 86000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1788369575469
+        "createdAt": 1788369575469,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Dooobrotan"
     },
