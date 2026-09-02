@@ -1831,6 +1831,10 @@
         {
           "file": "thumb-Military.png",
           "type": "booster"
+        },
+        {
+          "file": "butemerand.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -2085,6 +2089,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -2094,8 +2099,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2113,7 +2117,7 @@
           "price": 86000,
           "weight": 3
         },
-        "attempts": 4,
+        "attempts": 1,
         "status": "playing",
         "createdAt": 1788369575469,
         "flipStage": "wait_first",
