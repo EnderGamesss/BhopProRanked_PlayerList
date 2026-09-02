@@ -1787,6 +1787,10 @@
         {
           "file": "thumb-Swat.png",
           "type": "booster"
+        },
+        {
+          "file": "royalspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
@@ -2030,13 +2034,13 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2063,9 +2067,11 @@
           "price": 80000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 1,
         "status": "playing",
-        "createdAt": 1788325664956
+        "createdAt": 1788325664956,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Dooobrotan"
     },
