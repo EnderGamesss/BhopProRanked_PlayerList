@@ -1607,7 +1607,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 83943700,
+      "coins": 83943800,
       "luck": 1.25,
       "boosts": [
         {
@@ -1893,7 +1893,7 @@
       "lastBonus": 1787222102560,
       "lastCaseAt": 1788325658059,
       "lastBoosterAt": 1788375416528,
-      "totalEarned": 100162300,
+      "totalEarned": 100162400,
       "totalOpened": 5914,
       "unknownUntil": 1786828798968,
       "achievements": [
@@ -2094,7 +2094,7 @@
           false,
           false,
           false,
-          true,
+          false,
           false,
           false,
           false,
@@ -2104,6 +2104,7 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
@@ -2127,19 +2128,18 @@
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "coins",
           "amount": 100,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
         "createdAt": 1788376852389,
-        "flipStage": "wait_second",
-        "firstFlip": 17
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Dooobrotan"
     },
