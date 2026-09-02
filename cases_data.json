@@ -1815,9 +1815,20 @@
         {
           "file": "camospinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "skullspinner.png",
+          "type": "booster"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "skullspinner.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-09-02T15:34:43.889Z"
+        },
         {
           "kind": "skin",
           "file": "m9fire_0.png",
@@ -1845,19 +1856,13 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-09-02T08:05:34.954Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-09-02T05:07:38.494Z"
         }
       ],
       "lastBonus": 1787222102560,
       "lastCaseAt": 1788325658059,
-      "lastBoosterAt": 1788360906893,
+      "lastBoosterAt": 1788363283531,
       "totalEarned": 100162100,
-      "totalOpened": 5909,
+      "totalOpened": 5910,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
