@@ -13505,6 +13505,10 @@
         {
           "file": "m9koi.png",
           "type": "knife"
+        },
+        {
+          "file": "m9saphire.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -13742,14 +13746,14 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -13764,7 +13768,7 @@
           "price": 15000,
           "weight": 3
         },
-        "attempts": 3,
+        "attempts": 1,
         "status": "playing",
         "createdAt": 1788310868743,
         "flipStage": "wait_first",
