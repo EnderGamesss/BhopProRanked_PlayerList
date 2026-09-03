@@ -1663,6 +1663,10 @@
         {
           "file": "null.png",
           "type": "charm"
+        },
+        {
+          "file": "thumb-fairy.png",
+          "type": "glove"
         }
       ],
       "history": [
@@ -1912,11 +1916,11 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1945,7 +1949,9 @@
         },
         "attempts": 7,
         "status": "playing",
-        "createdAt": 1788468437147
+        "createdAt": 1788468437147,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Dooobrotan"
     },
