@@ -1967,6 +1967,10 @@
         {
           "file": "m9spitfire.png",
           "type": "booster"
+        },
+        {
+          "file": "buttiger.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -2212,12 +2216,12 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2239,7 +2243,7 @@
           "amount": 250,
           "weight": 20
         },
-        "attempts": 5,
+        "attempts": 4,
         "status": "playing",
         "createdAt": 1788458599183,
         "flipStage": "wait_first",
