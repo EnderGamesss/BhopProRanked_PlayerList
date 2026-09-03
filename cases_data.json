@@ -1955,6 +1955,10 @@
         {
           "file": "thumb-Military.png",
           "type": "glove"
+        },
+        {
+          "file": "thumb-Swat.png",
+          "type": "glove"
         }
       ],
       "history": [
@@ -2230,8 +2234,8 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
+          true,
           false
         ],
         "target": {
@@ -2239,9 +2243,11 @@
           "amount": 1000,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1788451956928
+        "createdAt": 1788451956928,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Dooobrotan"
     },
