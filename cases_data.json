@@ -1883,6 +1883,10 @@
         {
           "file": "karambitmonster.png",
           "type": "booster"
+        },
+        {
+          "file": "ironaquaspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
@@ -2138,6 +2142,7 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
@@ -2157,8 +2162,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2171,7 +2175,9 @@
         },
         "attempts": 7,
         "status": "playing",
-        "createdAt": 1788422184246
+        "createdAt": 1788422184246,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Dooobrotan"
     },
