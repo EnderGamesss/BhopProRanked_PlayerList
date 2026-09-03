@@ -1915,6 +1915,10 @@
         {
           "file": "skullspinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "skullspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
@@ -2165,7 +2169,7 @@
           false,
           true,
           false,
-          false,
+          true,
           true,
           false,
           false,
@@ -2185,7 +2189,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false
         ],
         "target": {
@@ -2195,7 +2199,7 @@
           "price": 95000,
           "weight": 4
         },
-        "attempts": 3,
+        "attempts": 1,
         "status": "playing",
         "createdAt": 1788430582939,
         "flipStage": "wait_first",
