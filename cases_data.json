@@ -1887,6 +1887,10 @@
         {
           "file": "ironaquaspinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "karambitforest.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -2146,7 +2150,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2163,7 +2167,7 @@
           false,
           false,
           true,
-          false,
+          true,
           false,
           false,
           false
@@ -2173,7 +2177,7 @@
           "amount": 750,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
         "createdAt": 1788422184246,
         "flipStage": "wait_first",
