@@ -1919,6 +1919,10 @@
         {
           "file": "skullspinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "karambitsaphire.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -2156,11 +2160,11 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2189,9 +2193,11 @@
           "price": 78000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1788438765126
+        "createdAt": 1788438765126,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Dooobrotan"
     },
