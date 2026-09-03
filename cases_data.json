@@ -1931,6 +1931,10 @@
         {
           "file": "buttiger.png",
           "type": "booster"
+        },
+        {
+          "file": "thumb-bhopool.png",
+          "type": "glove"
         }
       ],
       "history": [
@@ -2175,6 +2179,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -2184,8 +2189,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2197,9 +2201,11 @@
           "amount": 750,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 1,
         "status": "playing",
-        "createdAt": 1788441133184
+        "createdAt": 1788441133184,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Dooobrotan"
     },
