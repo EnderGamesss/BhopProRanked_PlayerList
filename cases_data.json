@@ -2015,6 +2015,10 @@
         {
           "file": "thumb-fairy.png",
           "type": "glove"
+        },
+        {
+          "file": "ironaquaspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
@@ -2270,11 +2274,11 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2287,7 +2291,7 @@
           "price": 45000,
           "weight": 4
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
         "createdAt": 1788466826939,
         "flipStage": "wait_first",
