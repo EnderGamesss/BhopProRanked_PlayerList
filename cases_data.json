@@ -1951,6 +1951,10 @@
         {
           "file": "woodspinner.png",
           "type": "booster"
+        },
+        {
+          "file": "thumb-Military.png",
+          "type": "glove"
         }
       ],
       "history": [
@@ -2195,14 +2199,14 @@
         ],
         "matched": [
           false,
+          true,
           false,
           false,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2227,9 +2231,11 @@
           "price": 295000,
           "weight": 2
         },
-        "attempts": 7,
+        "attempts": 1,
         "status": "playing",
-        "createdAt": 1788450599842
+        "createdAt": 1788450599842,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Dooobrotan"
     },
