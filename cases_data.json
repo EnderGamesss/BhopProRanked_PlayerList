@@ -1987,6 +1987,10 @@
         {
           "file": "m9snake.png",
           "type": "booster"
+        },
+        {
+          "file": "dangerspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
@@ -2228,11 +2232,11 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
