@@ -2003,6 +2003,10 @@
         {
           "file": "m9emerand.png",
           "type": "knife"
+        },
+        {
+          "file": "thumb-Mercenery.png",
+          "type": "glove"
         }
       ],
       "history": [
@@ -2253,11 +2257,11 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2281,7 +2285,7 @@
           "price": 2500,
           "weight": 5
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
         "createdAt": 1788465175040,
         "flipStage": "wait_first",
