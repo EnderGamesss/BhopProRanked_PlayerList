@@ -1907,6 +1907,10 @@
         {
           "file": "royalspinner.png",
           "type": "booster"
+        },
+        {
+          "file": "skullspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
@@ -2155,10 +2159,10 @@
         ],
         "matched": [
           false,
+          true,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2187,9 +2191,11 @@
           "price": 95000,
           "weight": 4
         },
-        "attempts": 7,
+        "attempts": 5,
         "status": "playing",
-        "createdAt": 1788430582939
+        "createdAt": 1788430582939,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Dooobrotan"
     },
