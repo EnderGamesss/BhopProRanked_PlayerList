@@ -1939,6 +1939,10 @@
         {
           "file": "m9fire_0.png",
           "type": "booster"
+        },
+        {
+          "file": "thumb-Military.png",
+          "type": "glove"
         }
       ],
       "history": [
@@ -2197,6 +2201,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -2206,8 +2211,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false
@@ -2217,9 +2221,11 @@
           "amount": 150,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 1,
         "status": "playing",
-        "createdAt": 1788446827052
+        "createdAt": 1788446827052,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Dooobrotan"
     },
