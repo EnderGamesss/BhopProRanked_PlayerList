@@ -1971,6 +1971,10 @@
         {
           "file": "buttiger.png",
           "type": "knife"
+        },
+        {
+          "file": "m9skullskin.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -2212,7 +2216,7 @@
           false
         ],
         "matched": [
-          false,
+          true,
           false,
           false,
           false,
@@ -2220,7 +2224,7 @@
           false,
           false,
           false,
-          false,
+          true,
           true,
           false,
           false,
@@ -2243,7 +2247,7 @@
           "amount": 250,
           "weight": 20
         },
-        "attempts": 4,
+        "attempts": 3,
         "status": "playing",
         "createdAt": 1788458599183,
         "flipStage": "wait_first",
