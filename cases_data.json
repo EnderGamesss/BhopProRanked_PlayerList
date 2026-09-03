@@ -1979,6 +1979,10 @@
         {
           "file": "karambitforest.png",
           "type": "booster"
+        },
+        {
+          "file": "thumb-bhopool.png",
+          "type": "glove"
         }
       ],
       "history": [
@@ -2234,6 +2238,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -2249,8 +2254,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2261,9 +2265,11 @@
           "amount": 200,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1788461331760
+        "createdAt": 1788461331760,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Dooobrotan"
     },
