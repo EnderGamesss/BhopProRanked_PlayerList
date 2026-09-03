@@ -14326,11 +14326,23 @@
     },
     "8391986605": {
       "name": "Viollien",
-      "coins": 10550,
+      "coins": 10250,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butdesert.png",
+          "type": "knife"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-03T16:17:58.722Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -14354,20 +14366,13 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-09-03T16:16:15.276Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitsnake.png",
-          "chance": 0.3,
-          "caseType": "knife",
-          "at": "2026-09-03T16:15:41.849Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1788452270467,
+      "lastCaseAt": 1788452278136,
       "lastBoosterAt": 0,
       "totalEarned": 11650,
-      "totalOpened": 7,
+      "totalOpened": 8,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
