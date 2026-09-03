@@ -1991,6 +1991,10 @@
         {
           "file": "dangerspinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "karambit-hotline.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -2242,7 +2246,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2252,7 +2256,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2263,7 +2267,7 @@
           "amount": 200,
           "weight": 20
         },
-        "attempts": 2,
+        "attempts": 1,
         "status": "playing",
         "createdAt": 1788464070714,
         "flipStage": "wait_first",
