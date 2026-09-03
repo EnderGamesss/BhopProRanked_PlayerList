@@ -1999,6 +1999,10 @@
         {
           "file": "thumb-fairy.png",
           "type": "glove"
+        },
+        {
+          "file": "m9emerand.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -2244,6 +2248,7 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
@@ -2267,8 +2272,7 @@
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "skin",
@@ -2279,7 +2283,9 @@
         },
         "attempts": 7,
         "status": "playing",
-        "createdAt": 1788465175040
+        "createdAt": 1788465175040,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Dooobrotan"
     },
