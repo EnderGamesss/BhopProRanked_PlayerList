@@ -14604,11 +14604,23 @@
     },
     "6561619106": {
       "name": "￴",
-      "coins": 1200,
+      "coins": 900,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "ironaquaspinner.png",
+          "type": "spinner"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "ironaquaspinner.png",
+          "chance": 1,
+          "caseType": "spinner",
+          "at": "2026-09-04T11:29:05.153Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -14632,19 +14644,13 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-09-04T11:28:25.082Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "spinner",
-          "at": "2026-09-04T11:28:19.837Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1788521336587,
+      "lastCaseAt": 1788521344729,
       "lastBoosterAt": 0,
       "totalEarned": 1700,
-      "totalOpened": 5,
+      "totalOpened": 6,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
