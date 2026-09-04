@@ -1919,6 +1919,10 @@
         {
           "file": "m9spitfire.png",
           "type": "booster"
+        },
+        {
+          "file": "thumb-North.png",
+          "type": "glove"
         }
       ],
       "history": [
@@ -2169,6 +2173,7 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
@@ -2192,8 +2197,7 @@
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "skin",
@@ -2202,9 +2206,11 @@
           "price": 16000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1788498896777
+        "createdAt": 1788498896777,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "username": "Dooobrotan"
     },
