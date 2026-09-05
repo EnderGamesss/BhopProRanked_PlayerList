@@ -12464,7 +12464,12 @@
       "coins": 20350,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-basic-spinner-5.png",
+          "type": "spinner"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -12718,12 +12723,12 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false
@@ -12735,9 +12740,11 @@
           "price": 78000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 4,
         "status": "playing",
-        "createdAt": 1788548860523
+        "createdAt": 1788548860523,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [],
       "username": "campussi"
