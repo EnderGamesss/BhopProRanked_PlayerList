@@ -14876,8 +14876,20 @@
       "coins": 2050,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Mercenery.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Mercenery.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-09-06T13:59:50.876Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -14899,9 +14911,9 @@
       ],
       "lastBonus": 0,
       "lastCaseAt": 1788703164573,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1788703190125,
       "totalEarned": 1950,
-      "totalOpened": 3,
+      "totalOpened": 4,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
