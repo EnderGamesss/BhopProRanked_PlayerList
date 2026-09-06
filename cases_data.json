@@ -16575,16 +16575,27 @@
     },
     "7471736178": {
       "name": "Matveiii1337",
-      "coins": 500,
+      "coins": 200,
       "luck": 1,
       "boosts": [],
       "inventory": [
         {
           "file": "karambitbreak.png",
           "type": "knife"
+        },
+        {
+          "file": "thumb-crown.png",
+          "type": "glove"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-crown.png",
+          "chance": 0.45,
+          "caseType": "glove",
+          "at": "2026-09-06T19:58:20.600Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -16616,7 +16627,7 @@
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 2,
+          "progress": 3,
           "claimed": false
         },
         "skin_m9_sapphire": {
@@ -16628,10 +16639,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1788724694520,
+      "lastCaseAt": 1788724699899,
       "lastBoosterAt": 0,
       "totalEarned": 100,
-      "totalOpened": 2,
+      "totalOpened": 3,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
