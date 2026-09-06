@@ -1655,7 +1655,7 @@
           }
         ],
         "revealed": [
-          false,
+          true,
           false,
           false,
           false,
@@ -1711,8 +1711,8 @@
         "pairCount": 12,
         "attempts": 6,
         "status": "playing",
-        "flipStage": "wait_first",
-        "firstFlip": null,
+        "flipStage": "wait_second",
+        "firstFlip": 0,
         "createdAt": 1788705945303
       }
     },
