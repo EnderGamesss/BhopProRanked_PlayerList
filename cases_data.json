@@ -1672,7 +1672,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1713,10 +1713,10 @@
           false
         ],
         "pairCount": 12,
-        "attempts": 5,
+        "attempts": 6,
         "status": "playing",
-        "flipStage": "wait_first",
-        "firstFlip": null,
+        "flipStage": "wait_second",
+        "firstFlip": 13,
         "createdAt": 1788705945303
       }
     },
@@ -15398,6 +15398,10 @@
           "file": "thumb-bhopool.png",
           "type": "booster",
           "locked": true
+        },
+        {
+          "file": "thumb-Swat.png",
+          "type": "glove"
         }
       ],
       "history": [
@@ -15630,12 +15634,12 @@
         ],
         "matched": [
           false,
+          true,
           false,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -15662,9 +15666,11 @@
           "price": 86000,
           "weight": 3
         },
-        "attempts": 7,
+        "attempts": 3,
         "status": "playing",
-        "createdAt": 1788705955471
+        "createdAt": 1788705955471,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [],
       "username": "SSyarik14"
