@@ -15873,7 +15873,7 @@
     },
     "8572869421": {
       "name": "спикс",
-      "coins": 22750,
+      "coins": 97750,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -15942,7 +15942,9 @@
           "at": "2026-09-06T17:31:49.540Z"
         }
       ],
-      "boosterInventory": [],
+      "boosterInventory": [
+        "lucky_hour"
+      ],
       "activeBooster": {
         "id": "chaos_boost",
         "until": 1788716299366,
@@ -15965,7 +15967,7 @@
       "dailyQuests": {
         "open_15_cases": {
           "progress": 15,
-          "claimed": false
+          "claimed": true
         },
         "skin_butterfly": {
           "progress": 0,
@@ -15978,7 +15980,7 @@
       },
       "lastCaseAt": 1788715934336,
       "lastBoosterAt": 1788715472517,
-      "totalEarned": 34050,
+      "totalEarned": 109050,
       "totalOpened": 42,
       "unknownUntil": 0,
       "memoryGame": {
