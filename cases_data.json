@@ -1432,6 +1432,10 @@
         {
           "file": "karambitruby.png",
           "type": "knife"
+        },
+        {
+          "file": "m9tiger.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -1655,7 +1659,7 @@
           }
         ],
         "revealed": [
-          true,
+          false,
           false,
           false,
           false,
@@ -1682,10 +1686,10 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -1711,8 +1715,8 @@
         "pairCount": 12,
         "attempts": 6,
         "status": "playing",
-        "flipStage": "wait_second",
-        "firstFlip": 0,
+        "flipStage": "wait_first",
+        "firstFlip": null,
         "createdAt": 1788705945303
       }
     },
