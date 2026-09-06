@@ -15873,7 +15873,7 @@
     },
     "8572869421": {
       "name": "спикс",
-      "coins": 97700,
+      "coins": 97400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -15908,9 +15908,20 @@
         {
           "file": "karambitkoi.png",
           "type": "knife"
+        },
+        {
+          "file": "thumb-North.png",
+          "type": "glove"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-North.png",
+          "chance": 7.5,
+          "caseType": "glove",
+          "at": "2026-09-06T17:32:57.861Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -15934,12 +15945,6 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-09-06T17:32:02.628Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-09-06T17:31:57.244Z"
         }
       ],
       "boosterInventory": [
@@ -15978,10 +15983,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1788715965961,
+      "lastCaseAt": 1788715977095,
       "lastBoosterAt": 1788715472517,
       "totalEarned": 109300,
-      "totalOpened": 43,
+      "totalOpened": 44,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
