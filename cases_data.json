@@ -15873,7 +15873,7 @@
     },
     "8572869421": {
       "name": "спикс",
-      "coins": 23600,
+      "coins": 23300,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -15888,9 +15888,20 @@
         {
           "file": "m9aura.png",
           "type": "knife"
+        },
+        {
+          "file": "butforest.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-06T17:28:28.240Z"
+        },
         {
           "kind": "booster",
           "boosterId": "chaos_boost",
@@ -15916,12 +15927,6 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-09-06T17:21:11.022Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-09-06T17:21:05.567Z"
         }
       ],
       "boosterInventory": [],
@@ -15946,7 +15951,7 @@
       ],
       "dailyQuests": {
         "open_15_cases": {
-          "progress": 10,
+          "progress": 11,
           "claimed": false
         },
         "skin_butterfly": {
@@ -15958,10 +15963,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1788715320966,
+      "lastCaseAt": 1788715707537,
       "lastBoosterAt": 1788715472517,
       "totalEarned": 25600,
-      "totalOpened": 11,
+      "totalOpened": 12,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
