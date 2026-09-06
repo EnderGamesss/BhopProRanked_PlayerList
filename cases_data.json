@@ -1440,6 +1440,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "lucky_hour",
+          "caseType": "booster",
+          "at": "2026-09-06T15:49:51.619Z"
+        },
+        {
           "kind": "skin",
           "file": "m9saphire.png",
           "chance": 1,
@@ -1463,21 +1469,15 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-23T12:26:24.607Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-08-23T12:26:17.730Z"
         }
       ],
       "lastBonus": 1788709123675,
       "username": "EnderGamesDev",
       "lastCaseAt": 1787487996728,
       "totalEarned": 2651400,
-      "lastBoosterAt": 1788707763494,
+      "lastBoosterAt": 1788709791280,
       "language": "ru",
-      "totalOpened": 164,
+      "totalOpened": 165,
       "unknownUntil": 1786824820340,
       "achievements": [
         "earn_100k",
@@ -1720,7 +1720,9 @@
         "firstFlip": null,
         "createdAt": 1788705945303
       },
-      "boosterInventory": [],
+      "boosterInventory": [
+        "lucky_hour"
+      ],
       "activeBooster": null,
       "hotStreak": {
         "count": 0,
