@@ -2120,7 +2120,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 96570400,
+      "coins": 96570200,
       "luck": 1.25,
       "boosts": [
         {
@@ -2189,12 +2189,6 @@
       "history": [
         {
           "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-09-06T17:33:40.610Z"
-        },
-        {
-          "kind": "coins",
           "amount": 100,
           "caseType": "knife",
           "at": "2026-09-06T17:33:31.727Z"
@@ -2216,13 +2210,19 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-09-06T17:24:48.488Z"
+        },
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-09-06T17:24:40.460Z"
         }
       ],
       "lastBonus": 1788714660173,
-      "lastCaseAt": 1788716019996,
+      "lastCaseAt": 1788716011169,
       "lastBoosterAt": 1788714734751,
-      "totalEarned": 112822300,
-      "totalOpened": 6067,
+      "totalEarned": 112821800,
+      "totalOpened": 6066,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
@@ -2498,7 +2498,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 99,
+          "progress": 98,
           "claimed": false
         },
         "skin_camo_spinner": {
@@ -15764,7 +15764,7 @@
     },
     "8572869421": {
       "name": "спикс",
-      "coins": 97250,
+      "coins": 96950,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -15803,9 +15803,20 @@
         {
           "file": "thumb-North.png",
           "type": "glove"
+        },
+        {
+          "file": "camospinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 2.5,
+          "caseType": "spinner",
+          "at": "2026-09-06T17:33:41.763Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -15830,12 +15841,6 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-09-06T17:32:14.794Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-09-06T17:32:08.665Z"
         }
       ],
       "boosterInventory": [
@@ -15870,14 +15875,14 @@
           "claimed": false
         },
         "skin_camo_spinner": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         }
       },
-      "lastCaseAt": 1788716008124,
+      "lastCaseAt": 1788716021058,
       "lastBoosterAt": 1788715472517,
       "totalEarned": 109450,
-      "totalOpened": 45,
+      "totalOpened": 46,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
