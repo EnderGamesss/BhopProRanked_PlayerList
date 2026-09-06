@@ -15873,7 +15873,7 @@
     },
     "8572869421": {
       "name": "спикс",
-      "coins": 24650,
+      "coins": 24350,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -15892,9 +15892,20 @@
         {
           "file": "butforest.png",
           "type": "knife"
+        },
+        {
+          "file": "karambitforest.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-06T17:29:32.357Z"
+        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -15918,12 +15929,6 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-09-06T17:29:08.581Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-09-06T17:29:01.308Z"
         }
       ],
       "boosterInventory": [],
@@ -15960,10 +15965,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1788715766555,
+      "lastCaseAt": 1788715771900,
       "lastBoosterAt": 1788715472517,
       "totalEarned": 29350,
-      "totalOpened": 20,
+      "totalOpened": 21,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
