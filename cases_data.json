@@ -16266,7 +16266,12 @@
       "coins": 27600,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-bluestar.png",
+          "type": "glove"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -16544,9 +16549,9 @@
           false,
           false,
           false,
+          true,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
