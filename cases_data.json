@@ -15873,7 +15873,7 @@
     },
     "8572869421": {
       "name": "спикс",
-      "coins": 23800,
+      "coins": 24000,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -15895,6 +15895,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-09-06T17:29:01.308Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -15919,12 +15925,6 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-09-06T17:28:28.240Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "chaos_boost",
-          "caseType": "booster",
-          "at": "2026-09-06T17:24:33.044Z"
         }
       ],
       "boosterInventory": [],
@@ -15949,7 +15949,7 @@
       ],
       "dailyQuests": {
         "open_15_cases": {
-          "progress": 14,
+          "progress": 15,
           "claimed": false
         },
         "skin_butterfly": {
@@ -15961,10 +15961,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1788715726629,
+      "lastCaseAt": 1788715740848,
       "lastBoosterAt": 1788715472517,
-      "totalEarned": 27000,
-      "totalOpened": 15,
+      "totalEarned": 27500,
+      "totalOpened": 16,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
@@ -16205,17 +16205,11 @@
     },
     "8893128696": {
       "name": "ᴍ ᴇ ғ ɪ s ᴛ ᴏ",
-      "coins": 600,
+      "coins": 800,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-09-06T17:29:00.695Z"
-        },
         {
           "kind": "coins",
           "amount": 100,
@@ -16240,7 +16234,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 2,
+          "progress": 1,
           "claimed": false
         },
         "skin_camo_spinner": {
@@ -16252,10 +16246,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1788715740216,
+      "lastCaseAt": 1788715733659,
       "lastBoosterAt": 0,
-      "totalEarned": 200,
-      "totalOpened": 2,
+      "totalEarned": 100,
+      "totalOpened": 1,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
