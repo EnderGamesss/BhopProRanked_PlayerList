@@ -2120,7 +2120,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 94944550,
+      "coins": 94944400,
       "luck": 1.25,
       "boosts": [
         {
@@ -2240,6 +2240,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-09-06T17:16:53.346Z"
+        },
+        {
           "kind": "skin",
           "file": "camospinner.png",
           "chance": 2.5,
@@ -2263,20 +2269,13 @@
           "amount": 500,
           "caseType": "spinner",
           "at": "2026-09-06T17:15:59.188Z"
-        },
-        {
-          "kind": "skin",
-          "file": "arrowspinner.png",
-          "chance": 0.6,
-          "caseType": "spinner",
-          "at": "2026-09-06T17:15:51.852Z"
         }
       ],
       "lastBonus": 1788714660173,
-      "lastCaseAt": 1788714975939,
+      "lastCaseAt": 1788715012919,
       "lastBoosterAt": 1788714734751,
-      "totalEarned": 111178150,
-      "totalOpened": 6006,
+      "totalEarned": 111178300,
+      "totalOpened": 6007,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
@@ -2552,7 +2551,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 38,
+          "progress": 39,
           "claimed": false
         },
         "skin_camo_spinner": {
