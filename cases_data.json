@@ -15888,6 +15888,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "chaos_boost",
+          "caseType": "booster",
+          "at": "2026-09-06T17:24:33.044Z"
+        },
+        {
           "kind": "skin",
           "file": "karambitforest.png",
           "chance": 0.9,
@@ -15912,15 +15918,11 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-09-06T17:21:05.567Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-09-06T17:20:59.213Z"
         }
       ],
-      "boosterInventory": [],
+      "boosterInventory": [
+        "chaos_boost"
+      ],
       "activeBooster": null,
       "hotStreak": {
         "count": 0,
@@ -15950,9 +15952,9 @@
         }
       },
       "lastCaseAt": 1788715320966,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1788715472517,
       "totalEarned": 2100,
-      "totalOpened": 10,
+      "totalOpened": 11,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
