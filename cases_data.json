@@ -2120,7 +2120,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 94873950,
+      "coins": 94873900,
       "luck": 1.25,
       "boosts": [
         {
@@ -2208,6 +2208,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "spinner",
+          "at": "2026-09-06T17:12:22.907Z"
+        },
+        {
           "kind": "booster",
           "boosterId": "lucky_hour",
           "caseType": "booster",
@@ -2231,19 +2237,13 @@
           "chance": 2,
           "caseType": "spinner",
           "at": "2026-09-06T17:11:53.241Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-09-06T17:11:45.677Z"
         }
       ],
       "lastBonus": 1788714660173,
-      "lastCaseAt": 1788714726101,
+      "lastCaseAt": 1788714742450,
       "lastBoosterAt": 1788714734751,
-      "totalEarned": 111098250,
-      "totalOpened": 5975,
+      "totalEarned": 111098500,
+      "totalOpened": 5976,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
@@ -2519,7 +2519,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 7,
+          "progress": 8,
           "claimed": false
         },
         "skin_camo_spinner": {
@@ -3311,12 +3311,6 @@
       ],
       "history": [
         {
-          "kind": "booster",
-          "boosterId": "lucky_hour",
-          "caseType": "booster",
-          "at": "2026-09-06T17:12:22.720Z"
-        },
-        {
           "kind": "skin",
           "file": "woodspinner.png",
           "chance": 1,
@@ -3343,12 +3337,19 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-09-06T14:13:17.502Z"
+        },
+        {
+          "kind": "skin",
+          "file": "karambittiger.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-09-06T13:41:24.112Z"
         }
       ],
       "lastBonus": 1787159670682,
       "lastCaseAt": 1788308005547,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1788714742231,
+      "lastBoosterAt": 1788711872375,
       "totalEarned": 100854900,
       "memoryGame": {
         "board": [
@@ -3583,7 +3584,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 4808,
+      "totalOpened": 4807,
       "unknownUntil": 1788072520767,
       "achievements": [
         "open_100",
@@ -3600,37 +3601,7 @@
         "earn_50m",
         "earn_100m"
       ],
-      "equippedCharm": "mythical_charm",
-      "boosterInventory": [
-        "lucky_hour"
-      ],
-      "activeBooster": null,
-      "hotStreak": {
-        "count": 0,
-        "lastOpen": 0
-      },
-      "dailyStreak": 0,
-      "dailyQuestDate": "2026-09-06",
-      "dailyQuestVersion": 2,
-      "dailyQuestIds": [
-        "open_50_cases",
-        "skin_m9_sapphire",
-        "skin_camo_spinner"
-      ],
-      "dailyQuests": {
-        "open_50_cases": {
-          "progress": 0,
-          "claimed": false
-        },
-        "skin_m9_sapphire": {
-          "progress": 0,
-          "claimed": false
-        },
-        "skin_camo_spinner": {
-          "progress": 0,
-          "claimed": false
-        }
-      }
+      "equippedCharm": "mythical_charm"
     },
     "7886451818": {
       "name": "EnderGamesDev",
