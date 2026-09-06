@@ -14873,11 +14873,23 @@
     },
     "7603134809": {
       "name": "Tufilka",
-      "coins": 5150,
+      "coins": 4850,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-North.png",
+          "type": "glove"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-North.png",
+          "chance": 7.5,
+          "caseType": "glove",
+          "at": "2026-09-06T14:00:41.011Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -14902,19 +14914,13 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-09-06T13:59:50.876Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-09-06T13:59:25.188Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1788703232910,
+      "lastCaseAt": 1788703240477,
       "lastBoosterAt": 1788703190125,
       "totalEarned": 5950,
-      "totalOpened": 7,
+      "totalOpened": 8,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
