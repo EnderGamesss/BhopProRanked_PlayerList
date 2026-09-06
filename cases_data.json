@@ -3311,6 +3311,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "lucky_hour",
+          "caseType": "booster",
+          "at": "2026-09-06T17:12:22.720Z"
+        },
+        {
           "kind": "skin",
           "file": "woodspinner.png",
           "chance": 1,
@@ -3337,19 +3343,12 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-09-06T14:13:17.502Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambittiger.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-09-06T13:41:24.112Z"
         }
       ],
       "lastBonus": 1787159670682,
       "lastCaseAt": 1788308005547,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1788711872375,
+      "lastBoosterAt": 1788714742231,
       "totalEarned": 100854900,
       "memoryGame": {
         "board": [
@@ -3584,7 +3583,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 4807,
+      "totalOpened": 4808,
       "unknownUntil": 1788072520767,
       "achievements": [
         "open_100",
@@ -3601,7 +3600,37 @@
         "earn_50m",
         "earn_100m"
       ],
-      "equippedCharm": "mythical_charm"
+      "equippedCharm": "mythical_charm",
+      "boosterInventory": [
+        "lucky_hour"
+      ],
+      "activeBooster": null,
+      "hotStreak": {
+        "count": 0,
+        "lastOpen": 0
+      },
+      "dailyStreak": 0,
+      "dailyQuestDate": "2026-09-06",
+      "dailyQuestVersion": 2,
+      "dailyQuestIds": [
+        "open_50_cases",
+        "skin_m9_sapphire",
+        "skin_camo_spinner"
+      ],
+      "dailyQuests": {
+        "open_50_cases": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_m9_sapphire": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_camo_spinner": {
+          "progress": 0,
+          "claimed": false
+        }
+      }
     },
     "7886451818": {
       "name": "EnderGamesDev",
