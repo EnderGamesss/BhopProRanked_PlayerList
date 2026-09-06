@@ -15873,7 +15873,7 @@
     },
     "8572869421": {
       "name": "спикс",
-      "coins": 23500,
+      "coins": 23350,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -15895,6 +15895,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-09-06T17:28:40.757Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -15920,13 +15926,6 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-09-06T17:22:01.324Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9faded.png",
-          "chance": 0.05,
-          "caseType": "knife",
-          "at": "2026-09-06T17:21:19.921Z"
         }
       ],
       "boosterInventory": [],
@@ -15951,7 +15950,7 @@
       ],
       "dailyQuests": {
         "open_15_cases": {
-          "progress": 12,
+          "progress": 13,
           "claimed": false
         },
         "skin_butterfly": {
@@ -15963,10 +15962,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1788715715099,
+      "lastCaseAt": 1788715720517,
       "lastBoosterAt": 1788715472517,
-      "totalEarned": 26100,
-      "totalOpened": 13,
+      "totalEarned": 26250,
+      "totalOpened": 14,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
