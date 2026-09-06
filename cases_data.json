@@ -16263,11 +16263,23 @@
     },
     "7514664916": {
       "name": "Адам | +1",
-      "coins": 700,
+      "coins": 400,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Mercenery.png",
+          "type": "glove"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Mercenery.png",
+          "chance": 8.5,
+          "caseType": "glove",
+          "at": "2026-09-06T18:57:05.382Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -16312,7 +16324,7 @@
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 3,
+          "progress": 4,
           "claimed": false
         },
         "skin_camo_spinner": {
@@ -16324,10 +16336,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1788719793855,
+      "lastCaseAt": 1788721025090,
       "lastBoosterAt": 1788719763152,
       "totalEarned": 600,
-      "totalOpened": 4,
+      "totalOpened": 5,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
