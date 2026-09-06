@@ -15437,7 +15437,7 @@
     },
     "5846300345": {
       "name": "WVYss",
-      "coins": 3500,
+      "coins": 4500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -15487,7 +15487,7 @@
       "lastBonus": 0,
       "lastCaseAt": 1788705929991,
       "lastBoosterAt": 1788713862444,
-      "totalEarned": 4000,
+      "totalEarned": 5000,
       "totalOpened": 7,
       "unknownUntil": 0,
       "memoryGame": {
@@ -15680,6 +15680,7 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
@@ -15703,17 +15704,18 @@
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "coins",
           "amount": 750,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 2,
         "status": "playing",
-        "createdAt": 1788713873428
+        "createdAt": 1788713873428,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [],
       "username": "SSyarik14"
