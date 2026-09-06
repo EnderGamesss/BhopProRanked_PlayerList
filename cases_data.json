@@ -15155,8 +15155,20 @@
       "coins": 3200,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-bhopool.png",
+          "type": "booster"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-bhopool.png",
+          "chance": 1,
+          "caseType": "booster",
+          "at": "2026-09-06T14:44:10.922Z"
+        },
         {
           "kind": "skin",
           "file": "m9desert.png",
@@ -15167,9 +15179,9 @@
       ],
       "lastBonus": 0,
       "lastCaseAt": 1788705805969,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1788705850407,
       "totalEarned": 2500,
-      "totalOpened": 1,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
