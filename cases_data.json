@@ -14873,16 +14873,27 @@
     },
     "7603134809": {
       "name": "Tufilka",
-      "coins": 8250,
+      "coins": 7950,
       "luck": 1,
       "boosts": [],
       "inventory": [
         {
           "file": "karambitforest.png",
           "type": "knife"
+        },
+        {
+          "file": "butforest.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-06T14:04:26.166Z"
+        },
         {
           "kind": "skin",
           "file": "karambitforest.png",
@@ -14907,19 +14918,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-09-06T14:02:47.734Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-09-06T14:02:06.745Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1788703458783,
+      "lastCaseAt": 1788703465633,
       "lastBoosterAt": 1788703190125,
       "totalEarned": 12950,
-      "totalOpened": 20,
+      "totalOpened": 21,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
