@@ -1352,7 +1352,7 @@
     },
     "7307808447": {
       "name": "EnderGamesDev",
-      "coins": 3140550,
+      "coins": 3130550,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3290,7 +3290,7 @@
     },
     "7886451818": {
       "name": "EnderGamesDev",
-      "coins": 101250,
+      "coins": 111250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3350,7 +3350,8 @@
       "lastBoosterAt": 0,
       "totalOpened": 1,
       "unknownUntil": 0,
-      "achievements": []
+      "achievements": [],
+      "memoryGame": null
     },
     "8881481544": {
       "name": "Тьфу, свинья ебаная",
@@ -15214,5 +15215,14 @@
       "until": 1786826014689
     }
   },
-  "globalLuck": {}
+  "globalLuck": {},
+  "processedTransfers": {
+    "bp_7307808447_7886451818_1788705830858_5syxuq": {
+      "at": 1788705831157,
+      "kind": "bp",
+      "from": "7307808447",
+      "to": "7886451818",
+      "amount": 10000
+    }
+  }
 }
