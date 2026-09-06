@@ -15924,10 +15924,13 @@
           "at": "2026-09-06T17:21:05.567Z"
         }
       ],
-      "boosterInventory": [
-        "chaos_boost"
-      ],
-      "activeBooster": null,
+      "boosterInventory": [],
+      "activeBooster": {
+        "id": "chaos_boost",
+        "until": 1788716299366,
+        "multiplier": 1.5,
+        "targetType": null
+      },
       "hotStreak": {
         "count": 0,
         "lastOpen": 0
