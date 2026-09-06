@@ -16300,10 +16300,13 @@
           "at": "2026-09-06T18:36:34.508Z"
         }
       ],
-      "boosterInventory": [
-        "hot_streak"
-      ],
-      "activeBooster": null,
+      "boosterInventory": [],
+      "activeBooster": {
+        "id": "hot_streak",
+        "until": 1788724851594,
+        "multiplier": 1,
+        "targetType": null
+      },
       "hotStreak": {
         "count": 0,
         "lastOpen": 0
