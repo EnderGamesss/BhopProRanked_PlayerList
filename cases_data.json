@@ -16916,11 +16916,17 @@
     },
     "8231800216": {
       "name": "Braian moyser",
-      "coins": 49100,
+      "coins": 48900,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-09-07T17:58:33.986Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -16944,13 +16950,6 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-09-07T17:58:09.313Z"
-        },
-        {
-          "kind": "skin",
-          "file": "camospinner.png",
-          "chance": 2.5,
-          "caseType": "spinner",
-          "at": "2026-09-07T17:54:44.500Z"
         }
       ],
       "boosterInventory": [],
@@ -16970,7 +16969,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 10,
+          "progress": 11,
           "claimed": false
         },
         "skin_thumb_fairy": {
@@ -16982,10 +16981,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1788803907206,
+      "lastCaseAt": 1788803913565,
       "lastBoosterAt": 0,
-      "totalEarned": 51100,
-      "totalOpened": 10,
+      "totalEarned": 51200,
+      "totalOpened": 11,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
