@@ -3324,6 +3324,12 @@
       "history": [
         {
           "kind": "booster",
+          "boosterId": "night_drop",
+          "caseType": "booster",
+          "at": "2026-09-07T06:02:12.589Z"
+        },
+        {
+          "kind": "booster",
           "boosterId": "overdrive",
           "caseType": "booster",
           "at": "2026-09-07T00:10:23.504Z"
@@ -3347,19 +3353,12 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-09-06T15:37:23.069Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9guardian.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-09-06T15:05:16.755Z"
         }
       ],
       "lastBonus": 1787159670682,
       "lastCaseAt": 1788308005547,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1788739823048,
+      "lastBoosterAt": 1788760932203,
       "totalEarned": 100854900,
       "memoryGame": {
         "board": [
@@ -3594,7 +3593,7 @@
         "flipStage": "wait_first",
         "firstFlip": null
       },
-      "totalOpened": 4809,
+      "totalOpened": 4810,
       "unknownUntil": 1788072520767,
       "achievements": [
         "open_100",
@@ -3614,7 +3613,8 @@
       "equippedCharm": "mythical_charm",
       "boosterInventory": [
         "night_drop",
-        "overdrive"
+        "overdrive",
+        "night_drop"
       ],
       "activeBooster": null,
       "hotStreak": {
