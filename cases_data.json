@@ -16845,11 +16845,17 @@
     },
     "8346237589": {
       "name": "Михаил",
-      "coins": 23500,
+      "coins": 23300,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "spinner",
+          "at": "2026-09-07T13:43:28.844Z"
+        },
         {
           "kind": "booster",
           "boosterId": "overdrive",
@@ -16876,7 +16882,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
         "skin_m9_desert": {
@@ -16888,10 +16894,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 0,
+      "lastCaseAt": 1788788608484,
       "lastBoosterAt": 1788788502713,
-      "totalEarned": 22500,
-      "totalOpened": 1,
+      "totalEarned": 22600,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": []
