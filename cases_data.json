@@ -16769,11 +16769,17 @@
     },
     "7232841759": {
       "name": "Finn",
-      "coins": 1200,
+      "coins": 1100,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-09-07T13:20:17.525Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -16797,12 +16803,6 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-09-07T13:18:51.559Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-09-07T13:18:43.617Z"
         }
       ],
       "boosterInventory": [],
@@ -16822,7 +16822,7 @@
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 5,
+          "progress": 6,
           "claimed": false
         },
         "skin_butterfly": {
@@ -16834,10 +16834,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1788787210974,
+      "lastCaseAt": 1788787217140,
       "lastBoosterAt": 0,
-      "totalEarned": 1700,
-      "totalOpened": 5,
+      "totalEarned": 1900,
+      "totalOpened": 6,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
