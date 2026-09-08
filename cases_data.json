@@ -3404,6 +3404,12 @@
       "history": [
         {
           "kind": "booster",
+          "boosterId": "target_boost",
+          "caseType": "booster",
+          "at": "2026-09-08T23:53:40.529Z"
+        },
+        {
+          "kind": "booster",
           "boosterId": "lucky_hour",
           "caseType": "booster",
           "at": "2026-09-08T14:33:22.137Z"
@@ -3425,18 +3431,12 @@
           "boosterId": "night_drop",
           "caseType": "booster",
           "at": "2026-09-08T11:59:35.591Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "overdrive",
-          "caseType": "booster",
-          "at": "2026-09-08T10:25:07.243Z"
         }
       ],
       "lastBonus": 1788774883947,
       "lastCaseAt": 1788308005547,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1788878001772,
+      "lastBoosterAt": 1788911620212,
       "totalEarned": 100877400,
       "memoryGame": {
         "board": [
@@ -3672,7 +3672,7 @@
         "firstFlip": null,
         "endedAt": 1788781417204
       },
-      "totalOpened": 4825,
+      "totalOpened": 4826,
       "unknownUntil": 1788072520767,
       "achievements": [
         "open_100",
@@ -3708,7 +3708,8 @@
         "night_drop",
         "chaos_boost",
         "overdrive",
-        "lucky_hour"
+        "lucky_hour",
+        "target_boost"
       ],
       "activeBooster": null,
       "hotStreak": {
@@ -3716,23 +3717,23 @@
         "lastOpen": 0
       },
       "dailyStreak": 1,
-      "dailyQuestDate": "2026-09-08",
+      "dailyQuestDate": "2026-09-09",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
-        "open_5_cases",
-        "skin_thumb_fairy",
-        "skin_m9_desert"
+        "open_15_cases",
+        "skin_butterfly",
+        "skin_m9_sapphire"
       ],
       "dailyQuests": {
-        "open_5_cases": {
+        "open_15_cases": {
           "progress": 0,
           "claimed": false
         },
-        "skin_thumb_fairy": {
+        "skin_butterfly": {
           "progress": 0,
           "claimed": false
         },
-        "skin_m9_desert": {
+        "skin_m9_sapphire": {
           "progress": 0,
           "claimed": false
         }
