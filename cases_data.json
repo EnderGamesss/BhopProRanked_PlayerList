@@ -2196,6 +2196,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "night_drop",
+          "caseType": "booster",
+          "at": "2026-09-08T05:27:44.211Z"
+        },
+        {
           "kind": "coins",
           "amount": 1000,
           "caseType": "knife",
@@ -2219,19 +2225,13 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-09-06T17:33:57.887Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-09-06T17:33:51.800Z"
         }
       ],
       "lastBonus": 1788845228392,
       "lastCaseAt": 1788716529071,
-      "lastBoosterAt": 1788714734751,
+      "lastBoosterAt": 1788845263704,
       "totalEarned": 113353600,
-      "totalOpened": 6071,
+      "totalOpened": 6072,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
@@ -2491,7 +2491,8 @@
       "username": "Dooobrotan",
       "boosterInventory": [
         "lucky_hour",
-        "overdrive"
+        "overdrive",
+        "night_drop"
       ],
       "activeBooster": null,
       "hotStreak": {
@@ -2499,23 +2500,23 @@
         "lastOpen": 0
       },
       "dailyStreak": 2,
-      "dailyQuestDate": "2026-09-06",
+      "dailyQuestDate": "2026-09-08",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
-        "open_100_cases",
-        "skin_camo_spinner",
-        "skin_butterfly"
+        "open_15_cases",
+        "skin_m9_desert",
+        "skin_m9_sapphire"
       ],
       "dailyQuests": {
-        "open_100_cases": {
-          "progress": 100,
-          "claimed": true
+        "open_15_cases": {
+          "progress": 0,
+          "claimed": false
         },
-        "skin_camo_spinner": {
-          "progress": 1,
-          "claimed": true
+        "skin_m9_desert": {
+          "progress": 0,
+          "claimed": false
         },
-        "skin_butterfly": {
+        "skin_m9_sapphire": {
           "progress": 0,
           "claimed": false
         }
