@@ -17361,11 +17361,17 @@
     },
     "7482085067": {
       "name": "1mpress1ve",
-      "coins": 1000,
+      "coins": 950,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "spinner",
+          "at": "2026-09-08T19:46:54.501Z"
+        },
         {
           "kind": "booster",
           "boosterId": "overdrive",
@@ -17392,7 +17398,7 @@
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
         "skin_butterfly": {
@@ -17404,10 +17410,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 0,
+      "lastCaseAt": 1788896813856,
       "lastBoosterAt": 1788896793374,
-      "totalEarned": 0,
-      "totalOpened": 1,
+      "totalEarned": 250,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
