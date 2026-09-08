@@ -2241,6 +2241,12 @@
       "history": [
         {
           "kind": "booster",
+          "boosterId": "overdrive",
+          "caseType": "booster",
+          "at": "2026-09-08T16:19:37.513Z"
+        },
+        {
+          "kind": "booster",
           "boosterId": "lucky_hour",
           "caseType": "booster",
           "at": "2026-09-08T12:26:17.977Z"
@@ -2262,19 +2268,13 @@
           "boosterId": "target_boost",
           "caseType": "booster",
           "at": "2026-09-08T07:12:22.793Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "night_drop",
-          "caseType": "booster",
-          "at": "2026-09-08T05:27:44.211Z"
         }
       ],
       "lastBonus": 1788845228392,
       "lastCaseAt": 1788716529071,
-      "lastBoosterAt": 1788870377453,
+      "lastBoosterAt": 1788884377060,
       "totalEarned": 113353600,
-      "totalOpened": 6076,
+      "totalOpened": 6077,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
@@ -2541,7 +2541,8 @@
         "target_boost",
         "hot_streak",
         "night_drop",
-        "lucky_hour"
+        "lucky_hour",
+        "overdrive"
       ],
       "activeBooster": null,
       "hotStreak": {
