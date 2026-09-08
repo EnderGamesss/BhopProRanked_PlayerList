@@ -17361,7 +17361,7 @@
     },
     "7482085067": {
       "name": "1mpress1ve",
-      "coins": 44850,
+      "coins": 44550,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -17388,9 +17388,20 @@
         {
           "file": "m9snake.png",
           "type": "knife"
+        },
+        {
+          "file": "karambitforest.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-08T19:57:27.630Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -17414,12 +17425,6 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-09-08T19:57:02.793Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-09-08T19:56:42.892Z"
         }
       ],
       "boosterInventory": [
@@ -17453,10 +17458,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1788897441281,
+      "lastCaseAt": 1788897447310,
       "lastBoosterAt": 1788896793374,
       "totalEarned": 60650,
-      "totalOpened": 57,
+      "totalOpened": 58,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
