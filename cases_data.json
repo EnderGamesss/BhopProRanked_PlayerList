@@ -2209,6 +2209,12 @@
       "history": [
         {
           "kind": "booster",
+          "boosterId": "target_boost",
+          "caseType": "booster",
+          "at": "2026-09-08T07:12:22.793Z"
+        },
+        {
+          "kind": "booster",
           "boosterId": "night_drop",
           "caseType": "booster",
           "at": "2026-09-08T05:27:44.211Z"
@@ -2230,20 +2236,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-09-06T17:34:18.439Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9forest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-09-06T17:33:57.887Z"
         }
       ],
       "lastBonus": 1788845228392,
       "lastCaseAt": 1788716529071,
-      "lastBoosterAt": 1788845263704,
+      "lastBoosterAt": 1788851542431,
       "totalEarned": 113353600,
-      "totalOpened": 6072,
+      "totalOpened": 6073,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
@@ -2507,7 +2506,8 @@
       "boosterInventory": [
         "lucky_hour",
         "overdrive",
-        "night_drop"
+        "night_drop",
+        "target_boost"
       ],
       "activeBooster": null,
       "hotStreak": {
