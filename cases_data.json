@@ -17361,11 +17361,23 @@
     },
     "7482085067": {
       "name": "1mpress1ve",
-      "coins": 1300,
+      "coins": 1000,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "dangerspinner.png",
+          "type": "spinner"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "dangerspinner.png",
+          "chance": 0.2,
+          "caseType": "spinner",
+          "at": "2026-09-08T19:48:40.161Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -17389,12 +17401,6 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-09-08T19:48:09.874Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "spinner",
-          "at": "2026-09-08T19:47:50.200Z"
         }
       ],
       "boosterInventory": [
@@ -17428,10 +17434,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1788896914530,
+      "lastCaseAt": 1788896919840,
       "lastBoosterAt": 1788896793374,
       "totalEarned": 4200,
-      "totalOpened": 14,
+      "totalOpened": 15,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
