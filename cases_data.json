@@ -2192,6 +2192,10 @@
         {
           "file": "m9forest.png",
           "type": "knife"
+        },
+        {
+          "file": "m9guardian.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -2465,6 +2469,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -2476,8 +2481,7 @@
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "target": {
           "kind": "coins",
