@@ -2233,6 +2233,12 @@
       "history": [
         {
           "kind": "booster",
+          "boosterId": "lucky_hour",
+          "caseType": "booster",
+          "at": "2026-09-08T12:26:17.977Z"
+        },
+        {
+          "kind": "booster",
           "boosterId": "night_drop",
           "caseType": "booster",
           "at": "2026-09-08T08:58:30.096Z"
@@ -2254,19 +2260,13 @@
           "boosterId": "night_drop",
           "caseType": "booster",
           "at": "2026-09-08T05:27:44.211Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "knife",
-          "at": "2026-09-06T17:42:09.717Z"
         }
       ],
       "lastBonus": 1788845228392,
       "lastCaseAt": 1788716529071,
-      "lastBoosterAt": 1788857909368,
+      "lastBoosterAt": 1788870377453,
       "totalEarned": 113353600,
-      "totalOpened": 6075,
+      "totalOpened": 6076,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
@@ -2525,7 +2525,8 @@
         "night_drop",
         "target_boost",
         "hot_streak",
-        "night_drop"
+        "night_drop",
+        "lucky_hour"
       ],
       "activeBooster": null,
       "hotStreak": {
