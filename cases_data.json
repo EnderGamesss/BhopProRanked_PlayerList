@@ -2204,6 +2204,10 @@
         {
           "file": "karambitruby.png",
           "type": "knife"
+        },
+        {
+          "file": "prettyspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
@@ -2479,6 +2483,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -2491,8 +2496,7 @@
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "pairCount": 12,
         "attempts": 4,
