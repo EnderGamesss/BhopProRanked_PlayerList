@@ -17361,7 +17361,7 @@
     },
     "7482085067": {
       "name": "1mpress1ve",
-      "coins": 48150,
+      "coins": 48350,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -17371,6 +17371,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-09-08T19:50:16.287Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -17395,12 +17401,6 @@
           "chance": 0.2,
           "caseType": "spinner",
           "at": "2026-09-08T19:48:40.161Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-09-08T19:48:35.061Z"
         }
       ],
       "boosterInventory": [
@@ -17434,10 +17434,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1788897008217,
+      "lastCaseAt": 1788897015648,
       "lastBoosterAt": 1788896793374,
-      "totalEarned": 52250,
-      "totalOpened": 18,
+      "totalEarned": 52750,
+      "totalOpened": 19,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
