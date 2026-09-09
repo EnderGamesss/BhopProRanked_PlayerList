@@ -4526,12 +4526,18 @@
       "username": "FatalADS"
     },
     "7886091409": {
-      "name": "33",
+      "name": "marce",
       "coins": 1567550,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "booster",
+          "boosterId": "lucky_hour",
+          "caseType": "booster",
+          "at": "2026-09-09T17:50:07.269Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -4555,26 +4561,50 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-08-21T13:15:07.702Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-21T13:14:59.868Z"
         }
       ],
       "lastBonus": 1786355532795,
       "lastCaseAt": 1787318132184,
-      "lastBoosterAt": 1787318036945,
+      "lastBoosterAt": 1788976206878,
       "totalEarned": 1637350,
       "username": "torment33",
-      "totalOpened": 96,
+      "totalOpened": 97,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
         "earn_100k",
         "earn_1m"
-      ]
+      ],
+      "boosterInventory": [
+        "lucky_hour"
+      ],
+      "activeBooster": null,
+      "hotStreak": {
+        "count": 0,
+        "lastOpen": 0
+      },
+      "dailyStreak": 0,
+      "dailyQuestDate": "2026-09-09",
+      "dailyQuestVersion": 2,
+      "dailyQuestIds": [
+        "open_50_cases",
+        "skin_m9_sapphire",
+        "skin_m9_desert"
+      ],
+      "dailyQuests": {
+        "open_50_cases": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_m9_sapphire": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_m9_desert": {
+          "progress": 0,
+          "claimed": false
+        }
+      }
     },
     "7231392817": {
       "name": "Нейрохам",
