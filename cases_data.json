@@ -17602,11 +17602,17 @@
     },
     "8054363735": {
       "name": ".",
-      "coins": 1000,
+      "coins": 800,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-09-10T01:01:00.196Z"
+        },
         {
           "kind": "booster",
           "boosterId": "lucky_hour",
@@ -17633,7 +17639,7 @@
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
         "skin_m9_desert": {
@@ -17645,10 +17651,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 0,
+      "lastCaseAt": 1789002059929,
       "lastBoosterAt": 1789002045123,
-      "totalEarned": 0,
-      "totalOpened": 1,
+      "totalEarned": 100,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
