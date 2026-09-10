@@ -3404,6 +3404,12 @@
       "history": [
         {
           "kind": "booster",
+          "boosterId": "overdrive",
+          "caseType": "booster",
+          "at": "2026-09-10T06:56:15.492Z"
+        },
+        {
+          "kind": "booster",
           "boosterId": "target_boost",
           "caseType": "booster",
           "at": "2026-09-10T00:04:30.950Z"
@@ -3425,18 +3431,12 @@
           "boosterId": "hot_streak",
           "caseType": "booster",
           "at": "2026-09-09T13:40:43.712Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "target_boost",
-          "caseType": "booster",
-          "at": "2026-09-09T12:54:03.265Z"
         }
       ],
       "lastBonus": 1788774883947,
       "lastCaseAt": 1788308005547,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1788998670596,
+      "lastBoosterAt": 1789023375008,
       "totalEarned": 100877400,
       "memoryGame": {
         "board": [
@@ -3672,7 +3672,7 @@
         "firstFlip": null,
         "endedAt": 1788781417204
       },
-      "totalOpened": 4836,
+      "totalOpened": 4837,
       "unknownUntil": 1788072520767,
       "achievements": [
         "open_100",
@@ -3719,7 +3719,8 @@
         "hot_streak",
         "target_boost",
         "hot_streak",
-        "target_boost"
+        "target_boost",
+        "overdrive"
       ],
       "activeBooster": null,
       "hotStreak": {
