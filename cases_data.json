@@ -3699,7 +3699,6 @@
         "hot_streak",
         "overdrive",
         "target_boost",
-        "chaos_boost",
         "night_drop",
         "night_drop",
         "night_drop",
@@ -3726,7 +3725,12 @@
         "lucky_hour",
         "target_boost"
       ],
-      "activeBooster": null,
+      "activeBooster": {
+        "id": "chaos_boost",
+        "until": 1789037915224,
+        "multiplier": 1.5,
+        "targetType": null
+      },
       "hotStreak": {
         "count": 0,
         "lastOpen": 0
