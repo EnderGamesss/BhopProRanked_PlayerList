@@ -16074,7 +16074,7 @@
     },
     "8572869421": {
       "name": "спикс",
-      "coins": 96800,
+      "coins": 96500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -16117,9 +16117,20 @@
         {
           "file": "camospinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "karambitdesert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-10T15:37:35.130Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -16145,12 +16156,6 @@
           "chance": 7.5,
           "caseType": "glove",
           "at": "2026-09-06T17:32:57.861Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "glove",
-          "at": "2026-09-06T17:32:46.499Z"
         }
       ],
       "boosterInventory": [
@@ -16177,7 +16182,7 @@
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 1,
+          "progress": 2,
           "claimed": false
         },
         "skin_camo_spinner": {
@@ -16189,10 +16194,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1789054643631,
+      "lastCaseAt": 1789054654664,
       "lastBoosterAt": 1788715472517,
       "totalEarned": 109600,
-      "totalOpened": 47,
+      "totalOpened": 48,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
