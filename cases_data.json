@@ -16074,7 +16074,7 @@
     },
     "8572869421": {
       "name": "спикс",
-      "coins": 96950,
+      "coins": 96800,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -16121,6 +16121,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-09-10T15:37:24.561Z"
+        },
+        {
           "kind": "skin",
           "file": "camospinner.png",
           "chance": 2.5,
@@ -16145,12 +16151,6 @@
           "amount": 250,
           "caseType": "glove",
           "at": "2026-09-06T17:32:46.499Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-09-06T17:32:14.794Z"
         }
       ],
       "boosterInventory": [
@@ -16168,19 +16168,19 @@
       },
       "lastBonus": 1788715499449,
       "dailyStreak": 1,
-      "dailyQuestDate": "2026-09-07",
+      "dailyQuestDate": "2026-09-10",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
         "open_5_cases",
-        "skin_thumb_fairy",
+        "skin_camo_spinner",
         "skin_m9_sapphire"
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
-        "skin_thumb_fairy": {
+        "skin_camo_spinner": {
           "progress": 0,
           "claimed": false
         },
@@ -16189,10 +16189,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1788716021058,
+      "lastCaseAt": 1789054643631,
       "lastBoosterAt": 1788715472517,
-      "totalEarned": 109450,
-      "totalOpened": 46,
+      "totalEarned": 109600,
+      "totalOpened": 47,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
