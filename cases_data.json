@@ -8983,6 +8983,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "hot_streak",
+          "caseType": "booster",
+          "at": "2026-09-10T15:29:27.984Z"
+        },
+        {
           "kind": "skin",
           "file": "thumb-North.png",
           "chance": 7.5,
@@ -9007,19 +9013,13 @@
           "chance": 8.5,
           "caseType": "glove",
           "at": "2026-09-07T06:03:23.081Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "glove",
-          "at": "2026-09-07T06:03:14.958Z"
         }
       ],
       "lastBonus": 1789054158668,
       "lastCaseAt": 1788761032258,
-      "lastBoosterAt": 1788613486514,
+      "lastBoosterAt": 1789054167644,
       "totalEarned": 25052800,
-      "totalOpened": 2771,
+      "totalOpened": 2772,
       "username": "fen1xs",
       "unknownUntil": 1787419880823,
       "memoryGame": {
@@ -9265,30 +9265,32 @@
         "open_2500"
       ],
       "equippedCharm": "legendary_charm",
-      "boosterInventory": [],
+      "boosterInventory": [
+        "hot_streak"
+      ],
       "activeBooster": null,
       "hotStreak": {
         "count": 0,
         "lastOpen": 0
       },
       "dailyStreak": 1,
-      "dailyQuestDate": "2026-09-07",
+      "dailyQuestDate": "2026-09-10",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
         "open_50_cases",
-        "skin_thumb_fairy",
-        "skin_butterfly"
+        "skin_butterfly",
+        "skin_m9_desert"
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 20,
-          "claimed": false
-        },
-        "skin_thumb_fairy": {
           "progress": 0,
           "claimed": false
         },
         "skin_butterfly": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_m9_desert": {
           "progress": 0,
           "claimed": false
         }
