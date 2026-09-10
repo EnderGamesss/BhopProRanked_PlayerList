@@ -17602,11 +17602,23 @@
     },
     "8054363735": {
       "name": ".",
-      "coins": 450,
+      "coins": 150,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9koi.png",
+          "type": "knife"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9koi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-09-10T01:01:21.427Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -17651,7 +17663,7 @@
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 3,
+          "progress": 4,
           "claimed": false
         },
         "skin_m9_desert": {
@@ -17663,10 +17675,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1789002075153,
+      "lastCaseAt": 1789002081005,
       "lastBoosterAt": 1789002045123,
       "totalEarned": 350,
-      "totalOpened": 4,
+      "totalOpened": 5,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
