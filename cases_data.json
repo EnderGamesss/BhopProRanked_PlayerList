@@ -8902,7 +8902,7 @@
     },
     "5897985265": {
       "name": "tonxi",
-      "coins": 2350900,
+      "coins": 2350600,
       "luck": 1.25,
       "boosts": [
         {
@@ -8979,9 +8979,20 @@
         {
           "file": "thumb-North.png",
           "type": "glove"
+        },
+        {
+          "file": "m9desert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-10T15:30:07.310Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -9006,19 +9017,13 @@
           "chance": 7.5,
           "caseType": "glove",
           "at": "2026-09-07T06:03:52.645Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "glove",
-          "at": "2026-09-07T06:03:43.990Z"
         }
       ],
       "lastBonus": 1789054158668,
-      "lastCaseAt": 1789054201459,
+      "lastCaseAt": 1789054206543,
       "lastBoosterAt": 1789054167644,
       "totalEarned": 25053100,
-      "totalOpened": 2774,
+      "totalOpened": 2775,
       "username": "fen1xs",
       "unknownUntil": 1787419880823,
       "memoryGame": {
@@ -9272,8 +9277,8 @@
         "targetType": null
       },
       "hotStreak": {
-        "count": 2,
-        "lastOpen": 1789054201459
+        "count": 3,
+        "lastOpen": 1789054206543
       },
       "dailyStreak": 1,
       "dailyQuestDate": "2026-09-10",
@@ -9285,7 +9290,7 @@
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 2,
+          "progress": 3,
           "claimed": false
         },
         "skin_butterfly": {
@@ -9293,7 +9298,7 @@
           "claimed": false
         },
         "skin_m9_desert": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         }
       }
