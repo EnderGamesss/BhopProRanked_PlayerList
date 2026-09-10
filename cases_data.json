@@ -3404,6 +3404,12 @@
       "history": [
         {
           "kind": "booster",
+          "boosterId": "target_boost",
+          "caseType": "booster",
+          "at": "2026-09-10T00:04:30.950Z"
+        },
+        {
+          "kind": "booster",
           "boosterId": "hot_streak",
           "caseType": "booster",
           "at": "2026-09-09T16:00:19.256Z"
@@ -3425,18 +3431,12 @@
           "boosterId": "target_boost",
           "caseType": "booster",
           "at": "2026-09-09T12:54:03.265Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "target_boost",
-          "caseType": "booster",
-          "at": "2026-09-09T11:59:04.291Z"
         }
       ],
       "lastBonus": 1788774883947,
       "lastCaseAt": 1788308005547,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1788969618511,
+      "lastBoosterAt": 1788998670596,
       "totalEarned": 100877400,
       "memoryGame": {
         "board": [
@@ -3672,7 +3672,7 @@
         "firstFlip": null,
         "endedAt": 1788781417204
       },
-      "totalOpened": 4835,
+      "totalOpened": 4836,
       "unknownUntil": 1788072520767,
       "achievements": [
         "open_100",
@@ -3718,7 +3718,8 @@
         "target_boost",
         "hot_streak",
         "target_boost",
-        "hot_streak"
+        "hot_streak",
+        "target_boost"
       ],
       "activeBooster": null,
       "hotStreak": {
@@ -3726,23 +3727,23 @@
         "lastOpen": 0
       },
       "dailyStreak": 1,
-      "dailyQuestDate": "2026-09-09",
+      "dailyQuestDate": "2026-09-10",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
-        "open_15_cases",
-        "skin_butterfly",
-        "skin_m9_sapphire"
+        "open_100_cases",
+        "skin_m9_desert",
+        "skin_camo_spinner"
       ],
       "dailyQuests": {
-        "open_15_cases": {
+        "open_100_cases": {
           "progress": 0,
           "claimed": false
         },
-        "skin_butterfly": {
+        "skin_m9_desert": {
           "progress": 0,
           "claimed": false
         },
-        "skin_m9_sapphire": {
+        "skin_camo_spinner": {
           "progress": 0,
           "claimed": false
         }
