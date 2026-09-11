@@ -3405,6 +3405,12 @@
       "history": [
         {
           "kind": "booster",
+          "boosterId": "overdrive",
+          "caseType": "booster",
+          "at": "2026-09-11T14:57:57.499Z"
+        },
+        {
+          "kind": "booster",
           "boosterId": "night_drop",
           "caseType": "booster",
           "at": "2026-09-11T14:11:01.315Z"
@@ -3426,18 +3432,12 @@
           "boosterId": "chaos_boost",
           "caseType": "booster",
           "at": "2026-09-11T11:14:20.942Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "night_drop",
-          "caseType": "booster",
-          "at": "2026-09-11T09:12:27.086Z"
         }
       ],
       "lastBonus": 1788774883947,
       "lastCaseAt": 1788308005547,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1789135860600,
+      "lastBoosterAt": 1789138676875,
       "totalEarned": 100877400,
       "memoryGame": {
         "board": [
@@ -3673,7 +3673,7 @@
         "firstFlip": null,
         "endedAt": 1788781417204
       },
-      "totalOpened": 4855,
+      "totalOpened": 4856,
       "unknownUntil": 1788072520767,
       "achievements": [
         "open_100",
@@ -3738,7 +3738,8 @@
         "chaos_boost",
         "lucky_hour",
         "hot_streak",
-        "night_drop"
+        "night_drop",
+        "overdrive"
       ],
       "activeBooster": {
         "id": "chaos_boost",
