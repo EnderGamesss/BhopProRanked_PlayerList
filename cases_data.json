@@ -3404,6 +3404,12 @@
       "history": [
         {
           "kind": "booster",
+          "boosterId": "lucky_hour",
+          "caseType": "booster",
+          "at": "2026-09-11T00:26:03.929Z"
+        },
+        {
+          "kind": "booster",
           "boosterId": "hot_streak",
           "caseType": "booster",
           "at": "2026-09-10T15:43:47.256Z"
@@ -3425,18 +3431,12 @@
           "boosterId": "overdrive",
           "caseType": "booster",
           "at": "2026-09-10T13:26:38.527Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "hot_streak",
-          "caseType": "booster",
-          "at": "2026-09-10T12:12:40.879Z"
         }
       ],
       "lastBonus": 1788774883947,
       "lastCaseAt": 1788308005547,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1789055026527,
+      "lastBoosterAt": 1789086363532,
       "totalEarned": 100877400,
       "memoryGame": {
         "board": [
@@ -3672,7 +3672,7 @@
         "firstFlip": null,
         "endedAt": 1788781417204
       },
-      "totalOpened": 4847,
+      "totalOpened": 4848,
       "unknownUntil": 1788072520767,
       "achievements": [
         "open_100",
@@ -3729,7 +3729,8 @@
         "overdrive",
         "overdrive",
         "night_drop",
-        "hot_streak"
+        "hot_streak",
+        "lucky_hour"
       ],
       "activeBooster": {
         "id": "chaos_boost",
@@ -3742,19 +3743,19 @@
         "lastOpen": 0
       },
       "dailyStreak": 1,
-      "dailyQuestDate": "2026-09-10",
+      "dailyQuestDate": "2026-09-11",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
-        "open_100_cases",
-        "skin_m9_desert",
+        "open_50_cases",
+        "skin_m9_sapphire",
         "skin_camo_spinner"
       ],
       "dailyQuests": {
-        "open_100_cases": {
+        "open_50_cases": {
           "progress": 0,
           "claimed": false
         },
-        "skin_m9_desert": {
+        "skin_m9_sapphire": {
           "progress": 0,
           "claimed": false
         },
