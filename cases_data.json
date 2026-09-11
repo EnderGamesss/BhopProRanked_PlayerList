@@ -2265,6 +2265,12 @@
       "history": [
         {
           "kind": "booster",
+          "boosterId": "target_boost",
+          "caseType": "booster",
+          "at": "2026-09-11T09:09:15.768Z"
+        },
+        {
+          "kind": "booster",
           "boosterId": "overdrive",
           "caseType": "booster",
           "at": "2026-09-08T16:19:37.513Z"
@@ -2286,19 +2292,13 @@
           "boosterId": "hot_streak",
           "caseType": "booster",
           "at": "2026-09-08T07:57:18.433Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "target_boost",
-          "caseType": "booster",
-          "at": "2026-09-08T07:12:22.793Z"
         }
       ],
       "lastBonus": 1789106148964,
       "lastCaseAt": 1788716529071,
-      "lastBoosterAt": 1788884377060,
+      "lastBoosterAt": 1789117755110,
       "totalEarned": 113376100,
-      "totalOpened": 6077,
+      "totalOpened": 6078,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
@@ -2567,7 +2567,8 @@
         "hot_streak",
         "night_drop",
         "lucky_hour",
-        "overdrive"
+        "overdrive",
+        "target_boost"
       ],
       "activeBooster": null,
       "hotStreak": {
@@ -2575,23 +2576,23 @@
         "lastOpen": 0
       },
       "dailyStreak": 1,
-      "dailyQuestDate": "2026-09-08",
+      "dailyQuestDate": "2026-09-11",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
-        "open_15_cases",
-        "skin_m9_desert",
-        "skin_m9_sapphire"
+        "open_100_cases",
+        "skin_thumb_fairy",
+        "skin_camo_spinner"
       ],
       "dailyQuests": {
-        "open_15_cases": {
+        "open_100_cases": {
           "progress": 0,
           "claimed": false
         },
-        "skin_m9_desert": {
+        "skin_thumb_fairy": {
           "progress": 0,
           "claimed": false
         },
-        "skin_m9_sapphire": {
+        "skin_camo_spinner": {
           "progress": 0,
           "claimed": false
         }
