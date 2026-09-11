@@ -15519,11 +15519,17 @@
     },
     "7603134809": {
       "name": "Tufilka",
-      "coins": 11300,
+      "coins": 11200,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-09-11T08:10:59.387Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -15547,19 +15553,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-09-06T14:07:14.582Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-09-06T14:07:06.761Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1789114242945,
+      "lastCaseAt": 1789114258730,
       "lastBoosterAt": 1788703190125,
-      "totalEarned": 19600,
-      "totalOpened": 32,
+      "totalEarned": 19800,
+      "totalOpened": 33,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
@@ -15806,7 +15806,7 @@
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 3,
+          "progress": 4,
           "claimed": false
         },
         "skin_thumb_fairy": {
