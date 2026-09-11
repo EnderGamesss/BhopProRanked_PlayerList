@@ -16157,6 +16157,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "overdrive",
+          "caseType": "booster",
+          "at": "2026-09-11T08:53:39.310Z"
+        },
+        {
           "kind": "skin",
           "file": "karambitdesert.png",
           "chance": 0.9,
@@ -16181,17 +16187,11 @@
           "amount": 150,
           "caseType": "glove",
           "at": "2026-09-06T17:33:28.844Z"
-        },
-        {
-          "kind": "skin",
-          "file": "thumb-North.png",
-          "chance": 7.5,
-          "caseType": "glove",
-          "at": "2026-09-06T17:32:57.861Z"
         }
       ],
       "boosterInventory": [
-        "lucky_hour"
+        "lucky_hour",
+        "overdrive"
       ],
       "activeBooster": {
         "id": "chaos_boost",
@@ -16205,31 +16205,31 @@
       },
       "lastBonus": 1788715499449,
       "dailyStreak": 1,
-      "dailyQuestDate": "2026-09-10",
+      "dailyQuestDate": "2026-09-11",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
-        "open_5_cases",
-        "skin_camo_spinner",
-        "skin_m9_sapphire"
+        "open_15_cases",
+        "skin_thumb_fairy",
+        "skin_camo_spinner"
       ],
       "dailyQuests": {
-        "open_5_cases": {
-          "progress": 2,
+        "open_15_cases": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_thumb_fairy": {
+          "progress": 0,
           "claimed": false
         },
         "skin_camo_spinner": {
           "progress": 0,
           "claimed": false
-        },
-        "skin_m9_sapphire": {
-          "progress": 0,
-          "claimed": false
         }
       },
       "lastCaseAt": 1789054654664,
-      "lastBoosterAt": 1788715472517,
+      "lastBoosterAt": 1789116818713,
       "totalEarned": 109600,
-      "totalOpened": 48,
+      "totalOpened": 49,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
