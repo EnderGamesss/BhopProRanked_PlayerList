@@ -17665,11 +17665,17 @@
     },
     "8054363735": {
       "name": "NazinskiyOFC",
-      "coins": 37700,
+      "coins": 37600,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-09-11T08:56:05.199Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -17693,13 +17699,6 @@
           "boosterId": "hot_streak",
           "caseType": "booster",
           "at": "2026-09-11T08:48:34.011Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9koi.png",
-          "chance": 0.25,
-          "caseType": "knife",
-          "at": "2026-09-10T01:01:21.427Z"
         }
       ],
       "boosterInventory": [
@@ -17722,7 +17721,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 3,
+          "progress": 4,
           "claimed": false
         },
         "skin_thumb_fairy": {
@@ -17734,10 +17733,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1789116957465,
+      "lastCaseAt": 1789116964843,
       "lastBoosterAt": 1789116513246,
-      "totalEarned": 38800,
-      "totalOpened": 9,
+      "totalEarned": 39000,
+      "totalOpened": 10,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
