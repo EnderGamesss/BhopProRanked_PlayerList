@@ -17703,10 +17703,14 @@
         }
       ],
       "boosterInventory": [
-        "lucky_hour",
         "hot_streak"
       ],
-      "activeBooster": null,
+      "activeBooster": {
+        "id": "lucky_hour",
+        "until": 1789121476843,
+        "multiplier": 1.25,
+        "targetType": null
+      },
       "hotStreak": {
         "count": 0,
         "lastOpen": 0
