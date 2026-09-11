@@ -15519,11 +15519,17 @@
     },
     "7603134809": {
       "name": "Tufilka",
-      "coins": 11650,
+      "coins": 11500,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-09-11T08:10:31.961Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -15547,19 +15553,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-09-06T14:06:37.974Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-09-06T14:06:31.186Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1788703634043,
+      "lastCaseAt": 1789114231340,
       "lastBoosterAt": 1788703190125,
-      "totalEarned": 19050,
-      "totalOpened": 29,
+      "totalEarned": 19200,
+      "totalOpened": 30,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
@@ -15789,7 +15789,35 @@
         "createdAt": 1788703656944
       },
       "achievements": [],
-      "username": "onion675261"
+      "username": "onion675261",
+      "boosterInventory": [],
+      "activeBooster": null,
+      "hotStreak": {
+        "count": 0,
+        "lastOpen": 0
+      },
+      "dailyStreak": 0,
+      "dailyQuestDate": "2026-09-11",
+      "dailyQuestVersion": 2,
+      "dailyQuestIds": [
+        "open_50_cases",
+        "skin_thumb_fairy",
+        "skin_m9_desert"
+      ],
+      "dailyQuests": {
+        "open_50_cases": {
+          "progress": 1,
+          "claimed": false
+        },
+        "skin_thumb_fairy": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_m9_desert": {
+          "progress": 0,
+          "claimed": false
+        }
+      }
     },
     "5846300345": {
       "name": "WVYss",
