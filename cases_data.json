@@ -2158,7 +2158,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 97152550,
+      "coins": 97152250,
       "luck": 1.25,
       "boosts": [
         {
@@ -2294,9 +2294,20 @@
         {
           "file": "butsuicide.png",
           "type": "knife"
+        },
+        {
+          "file": "camospinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 2.5,
+          "caseType": "spinner",
+          "at": "2026-09-12T19:38:36.718Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2320,19 +2331,13 @@
           "boosterId": "target_boost",
           "caseType": "booster",
           "at": "2026-09-11T09:09:15.768Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "overdrive",
-          "caseType": "booster",
-          "at": "2026-09-08T16:19:37.513Z"
         }
       ],
       "lastBonus": 1789241837838,
-      "lastCaseAt": 1789241909293,
+      "lastCaseAt": 1789241915874,
       "lastBoosterAt": 1789117755110,
       "totalEarned": 113406550,
-      "totalOpened": 6081,
+      "totalOpened": 6082,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
@@ -2623,7 +2628,7 @@
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 3,
+          "progress": 4,
           "claimed": false
         },
         "skin_thumb_fairy": {
@@ -2631,7 +2636,7 @@
           "claimed": false
         },
         "skin_camo_spinner": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         }
       }
