@@ -8919,7 +8919,7 @@
     },
     "5897985265": {
       "name": "tonxi",
-      "coins": 2450600,
+      "coins": 2450400,
       "luck": 1.25,
       "boosts": [
         {
@@ -9004,6 +9004,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-09-12T07:42:33.173Z"
+        },
+        {
           "kind": "skin",
           "file": "m9desert.png",
           "chance": 0.9,
@@ -9027,20 +9033,13 @@
           "boosterId": "hot_streak",
           "caseType": "booster",
           "at": "2026-09-10T15:29:27.984Z"
-        },
-        {
-          "kind": "skin",
-          "file": "thumb-North.png",
-          "chance": 7.5,
-          "caseType": "glove",
-          "at": "2026-09-07T06:03:52.645Z"
         }
       ],
       "lastBonus": 1789054158668,
-      "lastCaseAt": 1789054206543,
+      "lastCaseAt": 1789198952698,
       "lastBoosterAt": 1789054167644,
-      "totalEarned": 25153100,
-      "totalOpened": 2775,
+      "totalEarned": 25153200,
+      "totalOpened": 2776,
       "username": "fen1xs",
       "unknownUntil": 1787419880823,
       "memoryGame": {
@@ -9298,25 +9297,25 @@
         "lastOpen": 1789054206543
       },
       "dailyStreak": 1,
-      "dailyQuestDate": "2026-09-10",
+      "dailyQuestDate": "2026-09-12",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
-        "open_50_cases",
-        "skin_butterfly",
-        "skin_m9_desert"
+        "open_5_cases",
+        "skin_m9_desert",
+        "skin_m9_sapphire"
       ],
       "dailyQuests": {
-        "open_50_cases": {
-          "progress": 3,
-          "claimed": false
-        },
-        "skin_butterfly": {
-          "progress": 0,
+        "open_5_cases": {
+          "progress": 1,
           "claimed": false
         },
         "skin_m9_desert": {
-          "progress": 1,
-          "claimed": true
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_m9_sapphire": {
+          "progress": 0,
+          "claimed": false
         }
       }
     },
