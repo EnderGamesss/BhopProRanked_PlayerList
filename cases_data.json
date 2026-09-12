@@ -2596,7 +2596,6 @@
       "boosterInventory": [
         "lucky_hour",
         "overdrive",
-        "night_drop",
         "target_boost",
         "hot_streak",
         "night_drop",
@@ -2604,7 +2603,12 @@
         "overdrive",
         "target_boost"
       ],
-      "activeBooster": null,
+      "activeBooster": {
+        "id": "night_drop",
+        "until": 1789245471667,
+        "multiplier": 1.35,
+        "targetType": null
+      },
       "hotStreak": {
         "count": 0,
         "lastOpen": 0
