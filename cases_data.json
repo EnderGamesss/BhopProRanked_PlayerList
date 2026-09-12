@@ -2310,6 +2310,10 @@
         {
           "file": "thumb-joke.png",
           "type": "glove"
+        },
+        {
+          "file": "thumb-joke.png",
+          "type": "glove"
         }
       ],
       "history": [
@@ -2572,8 +2576,7 @@
           false
         ],
         "matched": [
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -2594,12 +2597,13 @@
           false,
           false,
           true,
+          true,
           false,
           false,
           true
         ],
         "pairCount": 12,
-        "attempts": 5,
+        "attempts": 6,
         "status": "playing",
         "flipStage": "wait_first",
         "firstFlip": null,
