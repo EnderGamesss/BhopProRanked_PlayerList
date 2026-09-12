@@ -2330,6 +2330,10 @@
         {
           "file": "butsuicide.png",
           "type": "knife"
+        },
+        {
+          "file": "thumb-Military.png",
+          "type": "glove"
         }
       ],
       "history": [
@@ -2592,20 +2596,16 @@
           false
         ],
         "matched": [
-          false,
-          false,
+          true,
           false,
           true,
           true,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
           true,
+          false,
+          false,
+          false,
+          false,
+          false,
           false,
           false,
           false,
@@ -2613,13 +2613,17 @@
           false,
           false,
           false,
+          true,
+          true,
+          false,
+          true,
           true,
           false,
           false,
           true
         ],
         "pairCount": 12,
-        "attempts": 2,
+        "attempts": 3,
         "status": "playing",
         "flipStage": "wait_first",
         "firstFlip": null,
