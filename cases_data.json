@@ -2350,6 +2350,10 @@
         {
           "file": "karambit-hotline.png",
           "type": "knife"
+        },
+        {
+          "file": "karambit-hotline.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -2612,20 +2616,15 @@
           false
         ],
         "matched": [
-          false,
           true,
           true,
           true,
           true,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
-          false,
           true,
-          true,
+          false,
+          false,
+          false,
+          false,
           false,
           false,
           false,
@@ -2633,13 +2632,18 @@
           true,
           false,
           false,
+          false,
+          true,
+          true,
+          false,
+          true,
           true,
           true,
           true,
           true
         ],
         "pairCount": 12,
-        "attempts": 2,
+        "attempts": 3,
         "status": "playing",
         "flipStage": "wait_first",
         "firstFlip": null,
