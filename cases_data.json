@@ -17691,11 +17691,17 @@
     },
     "8054363735": {
       "name": "Назпаб пастакод",
-      "coins": 104200,
+      "coins": 104050,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-09-12T09:58:01.957Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -17719,12 +17725,6 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-09-11T09:12:04.081Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-09-11T09:11:58.707Z"
         }
       ],
       "boosterInventory": [
@@ -17742,19 +17742,19 @@
       },
       "lastBonus": 1789204509149,
       "dailyStreak": 3,
-      "dailyQuestDate": "2026-09-11",
+      "dailyQuestDate": "2026-09-12",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
-        "open_100_cases",
-        "skin_thumb_fairy",
+        "open_5_cases",
+        "skin_camo_spinner",
         "skin_butterfly"
       ],
       "dailyQuests": {
-        "open_100_cases": {
-          "progress": 11,
+        "open_5_cases": {
+          "progress": 1,
           "claimed": false
         },
-        "skin_thumb_fairy": {
+        "skin_camo_spinner": {
           "progress": 0,
           "claimed": false
         },
@@ -17763,10 +17763,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1789117944733,
+      "lastCaseAt": 1789207081287,
       "lastBoosterAt": 1789116513246,
-      "totalEarned": 107700,
-      "totalOpened": 17,
+      "totalEarned": 107850,
+      "totalOpened": 18,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
