@@ -3900,16 +3900,27 @@
     },
     "8347129286": {
       "name": "s10",
-      "coins": 1395000,
+      "coins": 1394700,
       "luck": 1,
       "boosts": [],
       "inventory": [
         {
           "file": "karambitforest.png",
           "type": "knife"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-12T09:10:07.212Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -3933,20 +3944,14 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-09-12T09:08:45.677Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-09-12T09:08:39.467Z"
         }
       ],
       "lastBonus": 1789204162506,
-      "lastCaseAt": 1789204146747,
+      "lastCaseAt": 1789204206900,
       "username": "pastanal",
       "lastBoosterAt": 1789203885724,
       "totalEarned": 1085150,
-      "totalOpened": 52,
+      "totalOpened": 53,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
@@ -3978,7 +3983,7 @@
           "claimed": true
         },
         "skin_butterfly": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
         "skin_m9_sapphire": {
