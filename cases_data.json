@@ -2366,6 +2366,10 @@
         {
           "file": "karambitforest.png",
           "type": "knife"
+        },
+        {
+          "file": "karambitforest.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -2628,7 +2632,7 @@
           false
         ],
         "matched": [
-          true,
+          false,
           true,
           true,
           true,
@@ -2648,14 +2652,14 @@
           true,
           true,
           true,
-          true,
+          false,
           true,
           true,
           true,
           true
         ],
         "pairCount": 12,
-        "attempts": 3,
+        "attempts": 2,
         "status": "playing",
         "flipStage": "wait_first",
         "firstFlip": null,
