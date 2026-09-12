@@ -3900,11 +3900,17 @@
     },
     "8347129286": {
       "name": "s10",
-      "coins": 1350350,
+      "coins": 1350300,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-09-12T09:06:22.475Z"
+        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -3928,21 +3934,14 @@
           "boosterId": "overdrive",
           "caseType": "booster",
           "at": "2026-09-12T09:04:46.239Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9tiger.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-29T14:14:27.871Z"
         }
       ],
       "lastBonus": 1786280838643,
-      "lastCaseAt": 1789203972159,
+      "lastCaseAt": 1789203981815,
       "username": "pastanal",
       "lastBoosterAt": 1789203885724,
-      "totalEarned": 1033300,
-      "totalOpened": 28,
+      "totalEarned": 1033550,
+      "totalOpened": 29,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
@@ -3970,7 +3969,7 @@
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 3,
+          "progress": 4,
           "claimed": false
         },
         "skin_butterfly": {
