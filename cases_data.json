@@ -3900,7 +3900,7 @@
     },
     "8347129286": {
       "name": "s10",
-      "coins": 1543950,
+      "coins": 1543650,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -3915,9 +3915,20 @@
         {
           "file": "m9forest.png",
           "type": "knife"
+        },
+        {
+          "file": "m9forest.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9forest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-12T09:12:42.534Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -3941,20 +3952,14 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-09-12T09:12:17.542Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-09-12T09:12:11.265Z"
         }
       ],
       "lastBonus": 1789204162506,
-      "lastCaseAt": 1789204356649,
+      "lastCaseAt": 1789204362101,
       "username": "pastanal",
       "lastBoosterAt": 1789203885724,
       "totalEarned": 1239800,
-      "totalOpened": 71,
+      "totalOpened": 72,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
