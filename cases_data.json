@@ -2158,7 +2158,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 97153000,
+      "coins": 97152800,
       "luck": 1.25,
       "boosts": [
         {
@@ -2298,6 +2298,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-09-12T19:38:12.164Z"
+        },
+        {
           "kind": "booster",
           "boosterId": "target_boost",
           "caseType": "booster",
@@ -2320,19 +2326,13 @@
           "boosterId": "night_drop",
           "caseType": "booster",
           "at": "2026-09-08T08:58:30.096Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "hot_streak",
-          "caseType": "booster",
-          "at": "2026-09-08T07:57:18.433Z"
         }
       ],
       "lastBonus": 1789241837838,
-      "lastCaseAt": 1788716529071,
+      "lastCaseAt": 1789241891743,
       "lastBoosterAt": 1789117755110,
-      "totalEarned": 113406100,
-      "totalOpened": 6078,
+      "totalEarned": 113406200,
+      "totalOpened": 6079,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
@@ -2614,16 +2614,16 @@
         "lastOpen": 0
       },
       "dailyStreak": 2,
-      "dailyQuestDate": "2026-09-11",
+      "dailyQuestDate": "2026-09-12",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
-        "open_100_cases",
+        "open_5_cases",
         "skin_thumb_fairy",
         "skin_camo_spinner"
       ],
       "dailyQuests": {
-        "open_100_cases": {
-          "progress": 0,
+        "open_5_cases": {
+          "progress": 1,
           "claimed": false
         },
         "skin_thumb_fairy": {
