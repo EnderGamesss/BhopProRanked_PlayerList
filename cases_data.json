@@ -3949,10 +3949,13 @@
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
-      "boosterInventory": [
-        "overdrive"
-      ],
-      "activeBooster": null,
+      "boosterInventory": [],
+      "activeBooster": {
+        "id": "overdrive",
+        "until": 1789204837167,
+        "multiplier": 1.5,
+        "targetType": null
+      },
       "hotStreak": {
         "count": 0,
         "lastOpen": 0
