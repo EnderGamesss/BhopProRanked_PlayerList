@@ -17868,7 +17868,7 @@
     },
     "7692141621": {
       "name": ".",
-      "coins": 700,
+      "coins": 500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -17878,6 +17878,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "spinner",
+          "at": "2026-09-12T12:02:31.177Z"
+        },
         {
           "kind": "skin",
           "file": "ironaquaspinner.png",
@@ -17903,7 +17909,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 1,
+          "progress": 2,
           "claimed": false
         },
         "skin_thumb_fairy": {
@@ -17915,10 +17921,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1789214541795,
+      "lastCaseAt": 1789214550701,
       "lastBoosterAt": 0,
-      "totalEarned": 0,
-      "totalOpened": 1,
+      "totalEarned": 100,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
