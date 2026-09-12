@@ -17871,7 +17871,12 @@
       "coins": 45500,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "woodspinner.png",
+          "type": "spinner"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -18127,9 +18132,9 @@
           false,
           false,
           false,
+          true,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -18150,7 +18155,7 @@
           false
         ],
         "pairCount": 12,
-        "attempts": 5,
+        "attempts": 6,
         "status": "playing",
         "flipStage": "wait_first",
         "firstFlip": null,
