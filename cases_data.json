@@ -2322,6 +2322,10 @@
         {
           "file": "karambitruby.png",
           "type": "knife"
+        },
+        {
+          "file": "butsuicide.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -2584,10 +2588,10 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
-          false,
-          false,
+          true,
           true,
           false,
           false,
@@ -2601,17 +2605,17 @@
           false,
           false,
           false,
+          true,
           false,
           false,
-          false,
-          false,
+          true,
           true,
           false,
           false,
           true
         ],
         "pairCount": 12,
-        "attempts": 3,
+        "attempts": 4,
         "status": "playing",
         "flipStage": "wait_first",
         "firstFlip": null,
