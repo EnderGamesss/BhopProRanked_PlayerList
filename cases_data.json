@@ -17691,11 +17691,17 @@
     },
     "8054363735": {
       "name": "Назпаб пастакод",
-      "coins": 104050,
+      "coins": 103850,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-09-12T09:58:12.476Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -17719,12 +17725,6 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-09-11T09:12:10.846Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-09-11T09:12:04.081Z"
         }
       ],
       "boosterInventory": [
@@ -17751,7 +17751,7 @@
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 1,
+          "progress": 2,
           "claimed": false
         },
         "skin_camo_spinner": {
@@ -17763,10 +17763,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1789207081287,
+      "lastCaseAt": 1789207092037,
       "lastBoosterAt": 1789116513246,
-      "totalEarned": 107850,
-      "totalOpened": 18,
+      "totalEarned": 107950,
+      "totalOpened": 19,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
