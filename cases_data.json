@@ -2158,7 +2158,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 97249950,
+      "coins": 97249650,
       "luck": 1.25,
       "boosts": [
         {
@@ -2386,9 +2386,20 @@
         {
           "file": "thumb-Swat.png",
           "type": "glove"
+        },
+        {
+          "file": "thumb-Mercenery.png",
+          "type": "glove"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Mercenery.png",
+          "chance": 8.5,
+          "caseType": "glove",
+          "at": "2026-09-12T19:45:28.329Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -2412,19 +2423,13 @@
           "amount": 250,
           "caseType": "glove",
           "at": "2026-09-12T19:45:04.671Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "glove",
-          "at": "2026-09-12T19:44:58.001Z"
         }
       ],
       "lastBonus": 1789241837838,
-      "lastCaseAt": 1789242321880,
+      "lastCaseAt": 1789242328022,
       "lastBoosterAt": 1789117755110,
       "totalEarned": 113508150,
-      "totalOpened": 6095,
+      "totalOpened": 6096,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
