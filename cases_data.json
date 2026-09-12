@@ -2158,7 +2158,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 97152750,
+      "coins": 97152550,
       "luck": 1.25,
       "boosts": [
         {
@@ -2299,6 +2299,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 100,
+          "caseType": "spinner",
+          "at": "2026-09-12T19:38:30.039Z"
+        },
+        {
+          "kind": "coins",
           "amount": 250,
           "caseType": "spinner",
           "at": "2026-09-12T19:38:23.171Z"
@@ -2320,19 +2326,13 @@
           "boosterId": "overdrive",
           "caseType": "booster",
           "at": "2026-09-08T16:19:37.513Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "lucky_hour",
-          "caseType": "booster",
-          "at": "2026-09-08T12:26:17.977Z"
         }
       ],
       "lastBonus": 1789241837838,
-      "lastCaseAt": 1789241902821,
+      "lastCaseAt": 1789241909293,
       "lastBoosterAt": 1789117755110,
-      "totalEarned": 113406450,
-      "totalOpened": 6080,
+      "totalEarned": 113406550,
+      "totalOpened": 6081,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
@@ -2623,7 +2623,7 @@
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 2,
+          "progress": 3,
           "claimed": false
         },
         "skin_thumb_fairy": {
