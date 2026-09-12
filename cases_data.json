@@ -3900,11 +3900,23 @@
     },
     "8347129286": {
       "name": "s10",
-      "coins": 1349350,
+      "coins": 1349050,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitforest.png",
+          "type": "knife"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-12T09:07:02.785Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -3928,20 +3940,14 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-09-12T09:06:36.920Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-09-12T09:06:31.232Z"
         }
       ],
       "lastBonus": 1786280838643,
-      "lastCaseAt": 1789204016707,
+      "lastCaseAt": 1789204022301,
       "username": "pastanal",
       "lastBoosterAt": 1789203885724,
       "totalEarned": 1034100,
-      "totalOpened": 34,
+      "totalOpened": 35,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
