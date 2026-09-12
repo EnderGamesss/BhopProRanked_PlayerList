@@ -17805,11 +17805,23 @@
     },
     "8303625213": {
       "name": "Alehav",
-      "coins": 900,
+      "coins": 600,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Mercenery.png",
+          "type": "glove"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Mercenery.png",
+          "chance": 8.5,
+          "caseType": "glove",
+          "at": "2026-09-12T11:21:57.518Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -17834,7 +17846,7 @@
       ],
       "dailyQuests": {
         "open_15_cases": {
-          "progress": 1,
+          "progress": 2,
           "claimed": false
         },
         "skin_camo_spinner": {
@@ -17846,10 +17858,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1789212111523,
+      "lastCaseAt": 1789212117093,
       "lastBoosterAt": 0,
       "totalEarned": 200,
-      "totalOpened": 1,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": []
