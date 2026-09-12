@@ -2342,6 +2342,10 @@
         {
           "file": "woodspinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "woodspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
@@ -2604,11 +2608,11 @@
           false
         ],
         "matched": [
-          false,
           true,
           true,
           true,
           true,
+          true,
           false,
           false,
           false,
@@ -2624,14 +2628,14 @@
           true,
           true,
           false,
-          false,
+          true,
           true,
           false,
           true,
           true
         ],
         "pairCount": 12,
-        "attempts": 2,
+        "attempts": 3,
         "status": "playing",
         "flipStage": "wait_first",
         "firstFlip": null,
