@@ -9018,6 +9018,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "night_drop",
+          "caseType": "booster",
+          "at": "2026-09-12T09:19:22.357Z"
+        },
+        {
           "kind": "coins",
           "amount": 100,
           "caseType": "knife",
@@ -9041,19 +9047,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-09-10T15:29:52.469Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "hot_streak",
-          "caseType": "booster",
-          "at": "2026-09-10T15:29:27.984Z"
         }
       ],
       "lastBonus": 1789054158668,
       "lastCaseAt": 1789198952698,
-      "lastBoosterAt": 1789054167644,
+      "lastBoosterAt": 1789204761703,
       "totalEarned": 25153200,
-      "totalOpened": 2776,
+      "totalOpened": 2777,
       "username": "fen1xs",
       "unknownUntil": 1787419880823,
       "memoryGame": {
@@ -9299,7 +9299,9 @@
         "open_2500"
       ],
       "equippedCharm": "legendary_charm",
-      "boosterInventory": [],
+      "boosterInventory": [
+        "night_drop"
+      ],
       "activeBooster": {
         "id": "hot_streak",
         "until": 1789057782448,
