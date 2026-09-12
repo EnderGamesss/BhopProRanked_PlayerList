@@ -3900,11 +3900,17 @@
     },
     "8347129286": {
       "name": "s10",
-      "coins": 1349650,
+      "coins": 1350350,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 1000,
+          "caseType": "knife",
+          "at": "2026-09-12T09:06:12.889Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -3929,21 +3935,14 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-29T14:14:27.871Z"
-        },
-        {
-          "kind": "skin",
-          "file": "dangerspinner.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-08-24T14:55:25.738Z"
         }
       ],
       "lastBonus": 1786280838643,
-      "lastCaseAt": 1789203965164,
+      "lastCaseAt": 1789203972159,
       "username": "pastanal",
       "lastBoosterAt": 1789203885724,
-      "totalEarned": 1032300,
-      "totalOpened": 27,
+      "totalEarned": 1033300,
+      "totalOpened": 28,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
@@ -3971,7 +3970,7 @@
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 2,
+          "progress": 3,
           "claimed": false
         },
         "skin_butterfly": {
