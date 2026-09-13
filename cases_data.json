@@ -18447,7 +18447,7 @@
     },
     "6153687170": {
       "name": "Кот президент",
-      "coins": 122950,
+      "coins": 122650,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -18470,9 +18470,20 @@
         {
           "file": "thumb-Military.png",
           "type": "glove"
+        },
+        {
+          "file": "karambitmonster.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitmonster.png",
+          "chance": 0.05,
+          "caseType": "knife",
+          "at": "2026-09-13T10:33:55.909Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -18496,13 +18507,6 @@
           "amount": 1000,
           "caseType": "knife",
           "at": "2026-09-13T10:33:31.716Z"
-        },
-        {
-          "kind": "skin",
-          "file": "thumb-Military.png",
-          "chance": 8,
-          "caseType": "glove",
-          "at": "2026-09-13T10:33:02.286Z"
         }
       ],
       "boosterInventory": [],
@@ -18527,7 +18531,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 15,
+          "progress": 16,
           "claimed": false
         },
         "skin_m9_desert": {
@@ -18539,10 +18543,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1789295628421,
+      "lastCaseAt": 1789295634575,
       "lastBoosterAt": 1789291238498,
       "totalEarned": 126450,
-      "totalOpened": 16,
+      "totalOpened": 17,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
