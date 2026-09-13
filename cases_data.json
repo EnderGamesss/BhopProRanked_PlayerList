@@ -18446,11 +18446,23 @@
     },
     "6153687170": {
       "name": "Кот президент",
-      "coins": 1700,
+      "coins": 1400,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9desert.png",
+          "type": "knife"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-13T09:21:29.000Z"
+        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -18486,11 +18498,11 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 1,
+          "progress": 2,
           "claimed": false
         },
         "skin_m9_desert": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
         "skin_m9_sapphire": {
@@ -18498,10 +18510,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1789291279253,
+      "lastCaseAt": 1789291288445,
       "lastBoosterAt": 1789291238498,
       "totalEarned": 1000,
-      "totalOpened": 2,
+      "totalOpened": 3,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
