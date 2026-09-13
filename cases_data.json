@@ -18446,11 +18446,17 @@
     },
     "6153687170": {
       "name": "Кот президент",
-      "coins": 1000,
+      "coins": 1700,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 1000,
+          "caseType": "knife",
+          "at": "2026-09-13T09:21:19.975Z"
+        },
         {
           "kind": "booster",
           "boosterId": "overdrive",
@@ -18480,7 +18486,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
         "skin_m9_desert": {
@@ -18492,10 +18498,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 0,
+      "lastCaseAt": 1789291279253,
       "lastBoosterAt": 1789291238498,
-      "totalEarned": 0,
-      "totalOpened": 1,
+      "totalEarned": 1000,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
