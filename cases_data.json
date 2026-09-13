@@ -3536,6 +3536,12 @@
       "history": [
         {
           "kind": "booster",
+          "boosterId": "overdrive",
+          "caseType": "booster",
+          "at": "2026-09-13T05:36:58.946Z"
+        },
+        {
+          "kind": "booster",
           "boosterId": "target_boost",
           "caseType": "booster",
           "at": "2026-09-12T16:54:13.013Z"
@@ -3557,18 +3563,12 @@
           "boosterId": "target_boost",
           "caseType": "booster",
           "at": "2026-09-12T13:15:20.782Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "lucky_hour",
-          "caseType": "booster",
-          "at": "2026-09-12T07:30:19.757Z"
         }
       ],
       "lastBonus": 1788774883947,
       "lastCaseAt": 1788308005547,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1789232052286,
+      "lastBoosterAt": 1789277818516,
       "totalEarned": 100877400,
       "memoryGame": {
         "board": [
@@ -3804,7 +3804,7 @@
         "firstFlip": null,
         "endedAt": 1788781417204
       },
-      "totalOpened": 4866,
+      "totalOpened": 4867,
       "unknownUntil": 1788072520767,
       "achievements": [
         "open_100",
@@ -3880,7 +3880,8 @@
         "target_boost",
         "lucky_hour",
         "hot_streak",
-        "target_boost"
+        "target_boost",
+        "overdrive"
       ],
       "activeBooster": {
         "id": "chaos_boost",
@@ -3893,23 +3894,23 @@
         "lastOpen": 0
       },
       "dailyStreak": 1,
-      "dailyQuestDate": "2026-09-12",
+      "dailyQuestDate": "2026-09-13",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
-        "open_15_cases",
-        "skin_thumb_fairy",
-        "skin_butterfly"
+        "open_5_cases",
+        "skin_m9_desert",
+        "skin_camo_spinner"
       ],
       "dailyQuests": {
-        "open_15_cases": {
+        "open_5_cases": {
           "progress": 0,
           "claimed": false
         },
-        "skin_thumb_fairy": {
+        "skin_m9_desert": {
           "progress": 0,
           "claimed": false
         },
-        "skin_butterfly": {
+        "skin_camo_spinner": {
           "progress": 0,
           "claimed": false
         }
