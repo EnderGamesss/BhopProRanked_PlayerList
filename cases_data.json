@@ -18458,10 +18458,13 @@
           "at": "2026-09-13T09:20:39.071Z"
         }
       ],
-      "boosterInventory": [
-        "overdrive"
-      ],
-      "activeBooster": null,
+      "boosterInventory": [],
+      "activeBooster": {
+        "id": "overdrive",
+        "until": 1789292157178,
+        "multiplier": 1.5,
+        "targetType": null
+      },
       "hotStreak": {
         "count": 0,
         "lastOpen": 0
