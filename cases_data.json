@@ -19298,11 +19298,17 @@
     },
     "5974820423": {
       "name": "Ебучий Джагер",
-      "coins": 1000,
+      "coins": 850,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-09-15T15:49:28.936Z"
+        },
         {
           "kind": "booster",
           "boosterId": "lucky_hour",
@@ -19329,7 +19335,7 @@
       ],
       "dailyQuests": {
         "open_15_cases": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
         "skin_m9_sapphire": {
@@ -19341,10 +19347,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 0,
+      "lastCaseAt": 1789487368602,
       "lastBoosterAt": 1789487346570,
-      "totalEarned": 0,
-      "totalOpened": 1,
+      "totalEarned": 150,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
