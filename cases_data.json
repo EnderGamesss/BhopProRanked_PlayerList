@@ -18970,7 +18970,12 @@
       "coins": 47750,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "firespinner.png",
+          "type": "spinner"
+        }
+      ],
       "history": [
         {
           "kind": "booster",
@@ -19245,6 +19250,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -19253,8 +19259,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
