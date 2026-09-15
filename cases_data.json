@@ -18967,7 +18967,7 @@
     },
     "7203396104": {
       "name": "logophobe",
-      "coins": 349350,
+      "coins": 349050,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -18978,9 +18978,20 @@
         {
           "file": "m9desert.png",
           "type": "knife"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-15T14:33:19.645Z"
+        },
         {
           "kind": "skin",
           "file": "m9desert.png",
@@ -19005,12 +19016,6 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-09-15T14:27:10.935Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-09-15T14:27:03.894Z"
         }
       ],
       "boosterInventory": [],
@@ -19039,7 +19044,7 @@
           "claimed": true
         },
         "skin_butterfly": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
         "skin_thumb_fairy": {
@@ -19047,10 +19052,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1789482791439,
+      "lastCaseAt": 1789482799280,
       "lastBoosterAt": 1789482448488,
       "totalEarned": 350450,
-      "totalOpened": 8,
+      "totalOpened": 9,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
