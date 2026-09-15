@@ -18967,11 +18967,17 @@
     },
     "7203396104": {
       "name": "logophobe",
-      "coins": 650,
+      "coins": 550,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-09-15T14:26:58.820Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -19002,7 +19008,7 @@
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 2,
+          "progress": 3,
           "claimed": false
         },
         "skin_butterfly": {
@@ -19014,10 +19020,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1789482411719,
+      "lastCaseAt": 1789482418230,
       "lastBoosterAt": 0,
-      "totalEarned": 250,
-      "totalOpened": 2,
+      "totalEarned": 450,
+      "totalOpened": 3,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
