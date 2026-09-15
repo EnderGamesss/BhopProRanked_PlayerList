@@ -18973,6 +18973,12 @@
       "inventory": [],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "chaos_boost",
+          "caseType": "booster",
+          "at": "2026-09-15T14:27:28.828Z"
+        },
+        {
           "kind": "coins",
           "amount": 200,
           "caseType": "knife",
@@ -18995,15 +19001,11 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-09-15T14:26:52.199Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-09-15T14:26:45.395Z"
         }
       ],
-      "boosterInventory": [],
+      "boosterInventory": [
+        "chaos_boost"
+      ],
       "activeBooster": null,
       "hotStreak": {
         "count": 0,
@@ -19033,9 +19035,9 @@
         }
       },
       "lastCaseAt": 1789482430252,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1789482448488,
       "totalEarned": 750,
-      "totalOpened": 5,
+      "totalOpened": 6,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
