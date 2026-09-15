@@ -18967,16 +18967,27 @@
     },
     "7203396104": {
       "name": "logophobe",
-      "coins": 349650,
+      "coins": 349350,
       "luck": 1,
       "boosts": [],
       "inventory": [
         {
           "file": "arrowspinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "m9desert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-15T14:33:12.257Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -19000,12 +19011,6 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-09-15T14:27:03.894Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-09-15T14:26:58.820Z"
         }
       ],
       "boosterInventory": [],
@@ -19042,10 +19047,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1789482727376,
+      "lastCaseAt": 1789482791439,
       "lastBoosterAt": 1789482448488,
       "totalEarned": 350450,
-      "totalOpened": 7,
+      "totalOpened": 8,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
