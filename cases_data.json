@@ -10444,6 +10444,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "hot_streak",
+          "caseType": "booster",
+          "at": "2026-09-16T20:07:26.260Z"
+        },
+        {
           "kind": "skin",
           "file": "butsuicide.png",
           "chance": 1,
@@ -10468,19 +10474,13 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-08-26T16:13:59.140Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "knife",
-          "at": "2026-08-26T15:59:12.744Z"
         }
       ],
       "lastBonus": 1787062499246,
       "lastCaseAt": 1787762997511,
-      "lastBoosterAt": 1788334813625,
+      "lastBoosterAt": 1789589245368,
       "totalEarned": 10791300,
-      "totalOpened": 1688,
+      "totalOpened": 1689,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
@@ -10724,7 +10724,37 @@
       ],
       "username": "merlinbaba",
       "equippedCharm": "legendary_charm",
-      "language": "en"
+      "language": "en",
+      "boosterInventory": [
+        "hot_streak"
+      ],
+      "activeBooster": null,
+      "hotStreak": {
+        "count": 0,
+        "lastOpen": 0
+      },
+      "dailyStreak": 0,
+      "dailyQuestDate": "2026-09-17",
+      "dailyQuestVersion": 2,
+      "dailyQuestIds": [
+        "open_50_cases",
+        "skin_m9_sapphire",
+        "skin_camo_spinner"
+      ],
+      "dailyQuests": {
+        "open_50_cases": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_m9_sapphire": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_camo_spinner": {
+          "progress": 0,
+          "claimed": false
+        }
+      }
     },
     "8153945733": {
       "name": "Ehøka 🩸",
