@@ -10718,9 +10718,11 @@
           "amount": 200,
           "weight": 20
         },
-        "attempts": 7,
+        "attempts": 6,
         "status": "playing",
-        "createdAt": 1787259100665
+        "createdAt": 1787259100665,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [
         "drop_aura",
