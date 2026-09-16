@@ -10348,7 +10348,7 @@
     },
     "7948563397": {
       "name": "merlin",
-      "coins": 6186400,
+      "coins": 6186300,
       "luck": 1,
       "boosts": [
         {
@@ -10457,6 +10457,12 @@
       "history": [
         {
           "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-09-16T20:10:32.526Z"
+        },
+        {
+          "kind": "coins",
           "amount": 500,
           "caseType": "knife",
           "at": "2026-09-16T20:10:27.385Z"
@@ -10479,19 +10485,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-09-16T20:10:07.219Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-09-16T20:09:46.105Z"
         }
       ],
       "lastBonus": 1787062499246,
-      "lastCaseAt": 1789589427040,
+      "lastCaseAt": 1789589432052,
       "lastBoosterAt": 1789589245368,
-      "totalEarned": 10797300,
-      "totalOpened": 1708,
+      "totalEarned": 10797500,
+      "totalOpened": 1709,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
@@ -10744,8 +10744,8 @@
         "targetType": null
       },
       "hotStreak": {
-        "count": 5,
-        "lastOpen": 1789589427040
+        "count": 6,
+        "lastOpen": 1789589432052
       },
       "dailyStreak": 0,
       "dailyQuestDate": "2026-09-17",
@@ -10757,7 +10757,7 @@
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 19,
+          "progress": 20,
           "claimed": false
         },
         "skin_m9_sapphire": {
