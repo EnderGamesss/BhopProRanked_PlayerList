@@ -10348,7 +10348,7 @@
     },
     "7948563397": {
       "name": "merlin",
-      "coins": 6186300,
+      "coins": 6186000,
       "luck": 1,
       "boosts": [
         {
@@ -10448,9 +10448,20 @@
         {
           "file": "butforest.png",
           "type": "knife"
+        },
+        {
+          "file": "m9forest.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9forest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-16T20:10:14.410Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -10474,19 +10485,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-09-16T20:09:01.939Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-09-16T20:08:55.398Z"
         }
       ],
       "lastBonus": 1787062499246,
-      "lastCaseAt": 1789589406570,
+      "lastCaseAt": 1789589413589,
       "lastBoosterAt": 1789589245368,
       "totalEarned": 10796300,
-      "totalOpened": 1705,
+      "totalOpened": 1706,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
@@ -10739,8 +10744,8 @@
         "targetType": null
       },
       "hotStreak": {
-        "count": 2,
-        "lastOpen": 1789589406570
+        "count": 3,
+        "lastOpen": 1789589413589
       },
       "dailyStreak": 0,
       "dailyQuestDate": "2026-09-17",
@@ -10752,7 +10757,7 @@
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 16,
+          "progress": 17,
           "claimed": false
         },
         "skin_m9_sapphire": {
