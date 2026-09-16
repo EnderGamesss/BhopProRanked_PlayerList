@@ -8690,11 +8690,17 @@
     },
     "8987506438": {
       "name": "Рома",
-      "coins": 946450,
+      "coins": 946400,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "spinner",
+          "at": "2026-09-16T12:16:00.395Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -8718,19 +8724,13 @@
           "amount": 250,
           "caseType": "spinner",
           "at": "2026-09-16T12:15:37.221Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-09-16T12:15:28.861Z"
         }
       ],
       "lastBonus": 1789560803960,
-      "lastCaseAt": 1789560953896,
+      "lastCaseAt": 1789560959578,
       "lastBoosterAt": 1789560830352,
-      "totalEarned": 966750,
-      "totalOpened": 78,
+      "totalEarned": 967000,
+      "totalOpened": 79,
       "username": "GGxxxw",
       "unknownUntil": 0,
       "memoryGame": null,
@@ -8746,7 +8746,7 @@
       },
       "hotStreak": {
         "count": 6,
-        "lastOpen": 1789560953896
+        "lastOpen": 1789560959578
       },
       "dailyStreak": 1,
       "dailyQuestDate": "2026-09-16",
