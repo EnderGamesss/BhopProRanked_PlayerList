@@ -8696,6 +8696,12 @@
       "inventory": [],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "hot_streak",
+          "caseType": "booster",
+          "at": "2026-09-16T12:13:50.689Z"
+        },
+        {
           "kind": "coins",
           "amount": 250,
           "caseType": "spinner",
@@ -8718,36 +8724,49 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-08-28T19:36:38.434Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-28T19:36:31.723Z"
         }
       ],
       "lastBonus": 1789560803960,
       "lastCaseAt": 1787945825092,
-      "lastBoosterAt": 1787945710558,
+      "lastBoosterAt": 1789560830352,
       "totalEarned": 965000,
-      "totalOpened": 71,
+      "totalOpened": 72,
       "username": "GGxxxw",
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
         "earn_100k"
       ],
-      "boosterInventory": [],
+      "boosterInventory": [
+        "hot_streak"
+      ],
       "activeBooster": null,
       "hotStreak": {
         "count": 0,
         "lastOpen": 0
       },
       "dailyStreak": 1,
-      "dailyQuestDate": "",
-      "dailyQuestVersion": 0,
-      "dailyQuestIds": [],
-      "dailyQuests": {}
+      "dailyQuestDate": "2026-09-16",
+      "dailyQuestVersion": 2,
+      "dailyQuestIds": [
+        "open_5_cases",
+        "skin_m9_sapphire",
+        "skin_camo_spinner"
+      ],
+      "dailyQuests": {
+        "open_5_cases": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_m9_sapphire": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_camo_spinner": {
+          "progress": 0,
+          "claimed": false
+        }
+      }
     },
     "8093859683": {
       "name": "золотистый петух",
