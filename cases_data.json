@@ -8690,11 +8690,17 @@
     },
     "8987506438": {
       "name": "Рома",
-      "coins": 946500,
+      "coins": 946950,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "spinner",
+          "at": "2026-09-16T12:15:16.642Z"
+        },
         {
           "kind": "booster",
           "boosterId": "hot_streak",
@@ -8718,19 +8724,13 @@
           "amount": 500,
           "caseType": "spinner",
           "at": "2026-08-28T19:36:46.530Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-28T19:36:38.434Z"
         }
       ],
       "lastBonus": 1789560803960,
-      "lastCaseAt": 1787945825092,
+      "lastCaseAt": 1789560915950,
       "lastBoosterAt": 1789560830352,
-      "totalEarned": 965000,
-      "totalOpened": 72,
+      "totalEarned": 965750,
+      "totalOpened": 73,
       "username": "GGxxxw",
       "unknownUntil": 0,
       "memoryGame": null,
@@ -8745,8 +8745,8 @@
         "targetType": null
       },
       "hotStreak": {
-        "count": 0,
-        "lastOpen": 0
+        "count": 1,
+        "lastOpen": 1789560915950
       },
       "dailyStreak": 1,
       "dailyQuestDate": "2026-09-16",
@@ -8758,7 +8758,7 @@
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
         "skin_m9_sapphire": {
