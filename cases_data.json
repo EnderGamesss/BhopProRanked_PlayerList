@@ -10732,10 +10732,13 @@
       "username": "merlinbaba",
       "equippedCharm": "legendary_charm",
       "language": "en",
-      "boosterInventory": [
-        "hot_streak"
-      ],
-      "activeBooster": null,
+      "boosterInventory": [],
+      "activeBooster": {
+        "id": "hot_streak",
+        "until": 1789592958983,
+        "multiplier": 1,
+        "targetType": null
+      },
       "hotStreak": {
         "count": 0,
         "lastOpen": 0
