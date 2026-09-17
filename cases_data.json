@@ -5140,11 +5140,17 @@
     },
     "7692376723": {
       "name": "Алукард",
-      "coins": 428450,
+      "coins": 428250,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "glove",
+          "at": "2026-09-17T20:47:13.110Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -5168,20 +5174,14 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-21T13:34:30.476Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-21T13:34:24.105Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1789678015006,
+      "lastCaseAt": 1789678032568,
       "lastBoosterAt": 1787160777863,
-      "totalEarned": 473950,
+      "totalEarned": 474050,
       "username": "ALUKARDIKC",
-      "totalOpened": 106,
+      "totalOpened": 107,
       "unknownUntil": 1786827961056,
       "memoryGame": null,
       "achievements": [
@@ -5204,7 +5204,7 @@
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 3,
+          "progress": 4,
           "claimed": false
         },
         "skin_butterfly": {
