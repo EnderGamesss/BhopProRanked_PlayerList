@@ -3552,6 +3552,12 @@
       "history": [
         {
           "kind": "booster",
+          "boosterId": "chaos_boost",
+          "caseType": "booster",
+          "at": "2026-09-17T00:12:56.068Z"
+        },
+        {
+          "kind": "booster",
           "boosterId": "overdrive",
           "caseType": "booster",
           "at": "2026-09-16T14:14:34.040Z"
@@ -3573,18 +3579,12 @@
           "boosterId": "lucky_hour",
           "caseType": "booster",
           "at": "2026-09-16T06:31:33.522Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "hot_streak",
-          "caseType": "booster",
-          "at": "2026-09-16T00:08:39.797Z"
         }
       ],
       "lastBonus": 1788774883947,
       "lastCaseAt": 1788308005547,
       "username": "Bonnifacay",
-      "lastBoosterAt": 1789568073509,
+      "lastBoosterAt": 1789603975457,
       "totalEarned": 100877400,
       "memoryGame": {
         "board": [
@@ -3820,7 +3820,7 @@
         "firstFlip": null,
         "endedAt": 1788781417204
       },
-      "totalOpened": 4903,
+      "totalOpened": 4904,
       "unknownUntil": 1788072520767,
       "achievements": [
         "open_100",
@@ -3933,7 +3933,8 @@
         "lucky_hour",
         "lucky_hour",
         "hot_streak",
-        "overdrive"
+        "overdrive",
+        "chaos_boost"
       ],
       "activeBooster": {
         "id": "chaos_boost",
@@ -3946,23 +3947,23 @@
         "lastOpen": 0
       },
       "dailyStreak": 1,
-      "dailyQuestDate": "2026-09-16",
+      "dailyQuestDate": "2026-09-17",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
-        "open_15_cases",
-        "skin_m9_desert",
-        "skin_butterfly"
+        "open_5_cases",
+        "skin_m9_sapphire",
+        "skin_thumb_fairy"
       ],
       "dailyQuests": {
-        "open_15_cases": {
+        "open_5_cases": {
           "progress": 0,
           "claimed": false
         },
-        "skin_m9_desert": {
+        "skin_m9_sapphire": {
           "progress": 0,
           "claimed": false
         },
-        "skin_butterfly": {
+        "skin_thumb_fairy": {
           "progress": 0,
           "claimed": false
         }
