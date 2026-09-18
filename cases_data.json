@@ -19495,13 +19495,21 @@
       "inventory": [],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "chaos_boost",
+          "caseType": "booster",
+          "at": "2026-09-18T03:31:05.065Z"
+        },
+        {
           "kind": "coins",
           "amount": 500,
           "caseType": "glove",
           "at": "2026-09-18T03:30:43.806Z"
         }
       ],
-      "boosterInventory": [],
+      "boosterInventory": [
+        "chaos_boost"
+      ],
       "activeBooster": null,
       "hotStreak": {
         "count": 0,
@@ -19531,9 +19539,9 @@
         }
       },
       "lastCaseAt": 1789702243409,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1789702264652,
       "totalEarned": 500,
-      "totalOpened": 1,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
