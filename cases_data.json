@@ -19489,11 +19489,17 @@
     },
     "7321746112": {
       "name": "𝕂𝕒𝕥𝕣𝕠𝕞",
-      "coins": 25000,
+      "coins": 25200,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "spinner",
+          "at": "2026-09-18T03:32:48.771Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -19517,12 +19523,6 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-09-18T03:32:20.237Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "spinner",
-          "at": "2026-09-18T03:32:12.456Z"
         }
       ],
       "boosterInventory": [
@@ -19544,7 +19544,7 @@
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 8,
+          "progress": 9,
           "claimed": false
         },
         "skin_m9_desert": {
@@ -19556,10 +19556,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1789702362049,
+      "lastCaseAt": 1789702368354,
       "lastBoosterAt": 1789702264652,
-      "totalEarned": 26400,
-      "totalOpened": 9,
+      "totalEarned": 26900,
+      "totalOpened": 10,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
