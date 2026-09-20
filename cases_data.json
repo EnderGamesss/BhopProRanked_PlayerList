@@ -9200,6 +9200,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "overdrive",
+          "caseType": "booster",
+          "at": "2026-09-20T07:04:37.119Z"
+        },
+        {
           "kind": "coins",
           "amount": 100,
           "caseType": "knife",
@@ -9223,19 +9229,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-09-18T10:34:21.649Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-09-18T10:34:12.437Z"
         }
       ],
       "lastBonus": 1789727607533,
       "lastCaseAt": 1789728048511,
-      "lastBoosterAt": 1789727589876,
+      "lastBoosterAt": 1789887876267,
       "totalEarned": 25653050,
-      "totalOpened": 2805,
+      "totalOpened": 2806,
       "username": "fen1xs",
       "unknownUntil": 1787419880823,
       "memoryGame": {
@@ -9484,6 +9484,7 @@
       "boosterInventory": [
         "night_drop",
         "overdrive",
+        "overdrive",
         "overdrive"
       ],
       "activeBooster": {
@@ -9497,23 +9498,23 @@
         "lastOpen": 1789054206543
       },
       "dailyStreak": 3,
-      "dailyQuestDate": "2026-09-18",
+      "dailyQuestDate": "2026-09-20",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
-        "open_50_cases",
+        "open_100_cases",
         "skin_m9_sapphire",
-        "skin_butterfly"
+        "skin_thumb_fairy"
       ],
       "dailyQuests": {
-        "open_50_cases": {
-          "progress": 5,
+        "open_100_cases": {
+          "progress": 0,
           "claimed": false
         },
         "skin_m9_sapphire": {
           "progress": 0,
           "claimed": false
         },
-        "skin_butterfly": {
+        "skin_thumb_fairy": {
           "progress": 0,
           "claimed": false
         }
