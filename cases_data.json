@@ -10411,6 +10411,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "overdrive",
+          "caseType": "booster",
+          "at": "2026-09-20T13:51:17.559Z"
+        },
+        {
           "kind": "coins",
           "amount": 200,
           "caseType": "knife",
@@ -10433,20 +10439,13 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-09-16T20:10:20.568Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9forest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-09-16T20:10:14.410Z"
         }
       ],
       "lastBonus": 1789589473030,
       "lastCaseAt": 1789589438202,
-      "lastBoosterAt": 1789589245368,
+      "lastBoosterAt": 1789912276822,
       "totalEarned": 10820200,
-      "totalOpened": 1710,
+      "totalOpened": 1711,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
@@ -10693,7 +10692,9 @@
       "username": "merlinbaba",
       "equippedCharm": "legendary_charm",
       "language": "en",
-      "boosterInventory": [],
+      "boosterInventory": [
+        "overdrive"
+      ],
       "activeBooster": {
         "id": "hot_streak",
         "until": 1789592958983,
@@ -10705,19 +10706,19 @@
         "lastOpen": 1789589438202
       },
       "dailyStreak": 1,
-      "dailyQuestDate": "2026-09-17",
+      "dailyQuestDate": "2026-09-20",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
-        "open_50_cases",
-        "skin_m9_sapphire",
+        "open_5_cases",
+        "skin_m9_desert",
         "skin_camo_spinner"
       ],
       "dailyQuests": {
-        "open_50_cases": {
-          "progress": 21,
+        "open_5_cases": {
+          "progress": 0,
           "claimed": false
         },
-        "skin_m9_sapphire": {
+        "skin_m9_desert": {
           "progress": 0,
           "claimed": false
         },
