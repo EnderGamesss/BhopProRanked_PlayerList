@@ -1386,7 +1386,7 @@
     },
     "7307808447": {
       "name": "EnderGamesDev",
-      "coins": 3126050,
+      "coins": 3126000,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1478,6 +1478,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-09-20T16:56:26.983Z"
+        },
+        {
           "kind": "booster",
           "boosterId": "lucky_hour",
           "caseType": "booster",
@@ -1501,21 +1507,15 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-08-23T12:26:31.535Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-23T12:26:24.607Z"
         }
       ],
       "lastBonus": 1789889511878,
       "username": "EnderGamesDev",
-      "lastCaseAt": 1787487996728,
-      "totalEarned": 2696400,
+      "lastCaseAt": 1789923386317,
+      "totalEarned": 2696650,
       "lastBoosterAt": 1788709791280,
       "language": "ru",
-      "totalOpened": 165,
+      "totalOpened": 166,
       "unknownUntil": 1786824820340,
       "achievements": [
         "earn_100k",
@@ -1767,17 +1767,17 @@
         "lastOpen": 0
       },
       "dailyStreak": 1,
-      "dailyQuestDate": "2026-09-06",
+      "dailyQuestDate": "2026-09-20",
       "dailyQuests": {
         "open_100_cases": {
+          "progress": 1,
+          "claimed": false
+        },
+        "skin_m9_sapphire": {
           "progress": 0,
           "claimed": false
         },
         "skin_m9_desert": {
-          "progress": 0,
-          "claimed": false
-        },
-        "skin_camo_spinner": {
           "progress": 0,
           "claimed": false
         }
@@ -1785,8 +1785,8 @@
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
         "open_100_cases",
-        "skin_m9_desert",
-        "skin_camo_spinner"
+        "skin_m9_sapphire",
+        "skin_m9_desert"
       ]
     },
     "7887063317": {
