@@ -10303,7 +10303,7 @@
     },
     "7948563397": {
       "name": "merlin",
-      "coins": 6208700,
+      "coins": 6208400,
       "luck": 1,
       "boosts": [
         {
@@ -10407,9 +10407,20 @@
         {
           "file": "m9forest.png",
           "type": "knife"
+        },
+        {
+          "file": "m9ruby.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9ruby.png",
+          "chance": 0.08,
+          "caseType": "knife",
+          "at": "2026-09-20T13:51:45.402Z"
+        },
         {
           "kind": "booster",
           "boosterId": "overdrive",
@@ -10433,19 +10444,13 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-09-16T20:10:27.385Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-09-16T20:10:20.568Z"
         }
       ],
       "lastBonus": 1789589473030,
-      "lastCaseAt": 1789589438202,
+      "lastCaseAt": 1789912305063,
       "lastBoosterAt": 1789912276822,
       "totalEarned": 10820200,
-      "totalOpened": 1711,
+      "totalOpened": 1712,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
@@ -10713,7 +10718,7 @@
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
         "skin_m9_desert": {
