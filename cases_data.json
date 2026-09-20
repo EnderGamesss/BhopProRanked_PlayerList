@@ -17177,16 +17177,26 @@
     },
     "7471736178": {
       "name": "cry | v3ters1337",
-      "coins": 139200,
+      "coins": 139900,
       "luck": 1,
       "boosts": [],
       "inventory": [
         {
           "file": "karambitemerand.png",
           "type": "knife"
+        },
+        {
+          "file": "null.png",
+          "type": "charm"
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 1000,
+          "caseType": "knife",
+          "at": "2026-09-20T15:25:03.539Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -17210,12 +17220,6 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-09-07T13:46:52.196Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-09-07T13:46:42.482Z"
         }
       ],
       "boosterInventory": [
@@ -17238,7 +17242,7 @@
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 1,
+          "progress": 2,
           "claimed": false
         },
         "skin_camo_spinner": {
@@ -17250,10 +17254,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1789917896613,
+      "lastCaseAt": 1789917903024,
       "lastBoosterAt": 1789917875718,
-      "totalEarned": 141500,
-      "totalOpened": 13,
+      "totalEarned": 142500,
+      "totalOpened": 14,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
