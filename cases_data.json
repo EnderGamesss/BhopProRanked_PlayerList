@@ -19565,16 +19565,27 @@
     },
     "8920958673": {
       "name": "Minecraft pwp",
-      "coins": 22600,
+      "coins": 22300,
       "luck": 1,
       "boosts": [],
       "inventory": [
         {
           "file": "thumb-Swat.png",
           "type": "glove"
+        },
+        {
+          "file": "skullspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "skullspinner.png",
+          "chance": 0.4,
+          "caseType": "spinner",
+          "at": "2026-09-22T13:01:09.735Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -19598,12 +19609,6 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-09-22T13:00:45.822Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-09-22T13:00:36.790Z"
         }
       ],
       "boosterInventory": [],
@@ -19635,10 +19640,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1790082064100,
+      "lastCaseAt": 1790082069274,
       "lastBoosterAt": 0,
       "totalEarned": 26700,
-      "totalOpened": 17,
+      "totalOpened": 18,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": []
