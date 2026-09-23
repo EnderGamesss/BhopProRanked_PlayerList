@@ -914,11 +914,23 @@
     },
     "1774514539": {
       "name": "пикачъ54",
-      "coins": 37500,
+      "coins": 37200,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitdesert.png",
+          "type": "knife"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-23T12:56:34.785Z"
+        },
         {
           "kind": "skin",
           "file": "m9desert.png",
@@ -943,13 +955,6 @@
           "boosterId": "overdrive",
           "caseType": "booster",
           "at": "2026-09-23T12:55:28.667Z"
-        },
-        {
-          "kind": "skin",
-          "file": "thumb-bluestar.png",
-          "chance": 2.5,
-          "caseType": "glove",
-          "at": "2026-09-23T12:55:04.858Z"
         }
       ],
       "boosterInventory": [
@@ -988,10 +993,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1790168172300,
+      "lastCaseAt": 1790168194537,
       "lastBoosterAt": 1790168128232,
       "totalEarned": 39200,
-      "totalOpened": 11,
+      "totalOpened": 12,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
