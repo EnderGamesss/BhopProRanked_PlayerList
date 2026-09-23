@@ -9374,7 +9374,7 @@
     },
     "5897985265": {
       "name": "tonxi",
-      "coins": 2988150,
+      "coins": 2987850,
       "luck": 1.25,
       "boosts": [
         {
@@ -9399,9 +9399,20 @@
         {
           "file": "m9koi.png",
           "type": "knife"
+        },
+        {
+          "file": "butforest.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-23T12:42:43.100Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -9425,19 +9436,13 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-09-20T07:06:21.599Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "overdrive",
-          "caseType": "booster",
-          "at": "2026-09-20T07:04:37.119Z"
         }
       ],
       "lastBonus": 1789887947160,
-      "lastCaseAt": 1790167352521,
+      "lastCaseAt": 1790167362545,
       "lastBoosterAt": 1789887876267,
       "totalEarned": 25699350,
-      "totalOpened": 2810,
+      "totalOpened": 2811,
       "username": "fen1xs",
       "unknownUntil": 1787419880823,
       "memoryGame": {
@@ -9719,7 +9724,7 @@
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 1,
+          "progress": 2,
           "claimed": false
         },
         "skin_m9_sapphire": {
