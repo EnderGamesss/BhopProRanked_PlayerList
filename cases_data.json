@@ -4584,7 +4584,12 @@
       "coins": 3577000,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butruby.png",
+          "type": "knife"
+        }
+      ],
       "history": [
         {
           "kind": "booster",
@@ -4829,7 +4834,7 @@
         ],
         "matched": [
           true,
-          false,
+          true,
           false,
           false,
           false,
@@ -4849,7 +4854,7 @@
           false,
           false,
           false,
-          false,
+          true,
           false,
           false,
           false
