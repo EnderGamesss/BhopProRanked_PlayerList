@@ -4556,6 +4556,12 @@
       "inventory": [],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "night_drop",
+          "caseType": "booster",
+          "at": "2026-09-23T11:49:50.728Z"
+        },
+        {
           "kind": "skin",
           "file": "m9saphire.png",
           "chance": 1,
@@ -4580,20 +4586,14 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-08-09T12:07:58.788Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-08-09T12:07:40.880Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1786277289199,
-      "lastBoosterAt": 1788078864278,
+      "lastBoosterAt": 1790164190049,
       "totalEarned": 3575900,
       "username": "bogdansert",
-      "totalOpened": 1,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
@@ -4823,17 +4823,36 @@
         "earn_100k",
         "earn_1m"
       ],
-      "boosterInventory": [],
+      "boosterInventory": [
+        "night_drop"
+      ],
       "activeBooster": null,
       "hotStreak": {
         "count": 0,
         "lastOpen": 0
       },
       "dailyStreak": 0,
-      "dailyQuestDate": "",
-      "dailyQuestVersion": 0,
-      "dailyQuestIds": [],
-      "dailyQuests": {}
+      "dailyQuestDate": "2026-09-23",
+      "dailyQuestVersion": 2,
+      "dailyQuestIds": [
+        "open_100_cases",
+        "skin_m9_sapphire",
+        "skin_butterfly"
+      ],
+      "dailyQuests": {
+        "open_100_cases": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_m9_sapphire": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_butterfly": {
+          "progress": 0,
+          "claimed": false
+        }
+      }
     },
     "8161884493": {
       "name": "lolololololo",
