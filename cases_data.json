@@ -4553,7 +4553,12 @@
       "coins": 3362650,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "royalspinner.png",
+          "type": "spinner"
+        }
+      ],
       "history": [
         {
           "kind": "skin",
@@ -4781,11 +4786,11 @@
           false
         ],
         "matched": [
+          true,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -4814,12 +4819,25 @@
         },
         "attempts": 7,
         "status": "playing",
-        "createdAt": 1788079818902
+        "createdAt": 1788079818902,
+        "flipStage": "wait_first",
+        "firstFlip": null
       },
       "achievements": [
         "earn_100k",
         "earn_1m"
-      ]
+      ],
+      "boosterInventory": [],
+      "activeBooster": null,
+      "hotStreak": {
+        "count": 0,
+        "lastOpen": 0
+      },
+      "dailyStreak": 0,
+      "dailyQuestDate": "",
+      "dailyQuestVersion": 0,
+      "dailyQuestIds": [],
+      "dailyQuests": {}
     },
     "8161884493": {
       "name": "lolololololo",
