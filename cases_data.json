@@ -920,6 +920,12 @@
       "inventory": [],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "lucky_hour",
+          "caseType": "booster",
+          "at": "2026-09-23T19:12:29.520Z"
+        },
+        {
           "kind": "coins",
           "amount": 250,
           "caseType": "knife",
@@ -943,17 +949,11 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-09-23T12:56:34.785Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9desert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-09-23T12:56:12.988Z"
         }
       ],
       "boosterInventory": [
-        "overdrive"
+        "overdrive",
+        "lucky_hour"
       ],
       "activeBooster": {
         "id": "chaos_boost",
@@ -989,9 +989,9 @@
         }
       },
       "lastCaseAt": 1790168222967,
-      "lastBoosterAt": 1790168128232,
+      "lastBoosterAt": 1790190748541,
       "totalEarned": 142300,
-      "totalOpened": 15,
+      "totalOpened": 16,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
