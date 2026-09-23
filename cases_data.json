@@ -914,11 +914,17 @@
     },
     "1774514539": {
       "name": "пикачъ54",
-      "coins": 39450,
+      "coins": 39400,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-09-23T12:57:03.631Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -944,12 +950,6 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-09-23T12:56:12.988Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-09-23T12:56:07.641Z"
         }
       ],
       "boosterInventory": [
@@ -988,10 +988,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1790168215315,
+      "lastCaseAt": 1790168222967,
       "lastBoosterAt": 1790168128232,
-      "totalEarned": 42050,
-      "totalOpened": 14,
+      "totalEarned": 42300,
+      "totalOpened": 15,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
