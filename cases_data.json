@@ -1792,7 +1792,7 @@
     },
     "7887063317": {
       "name": "𝐛𝟏𝟎𝐱𝐱𝐱𝟏𝟎 𐌕",
-      "coins": 2923600,
+      "coins": 2923300,
       "luck": 1.25,
       "boosts": [
         {
@@ -1824,9 +1824,20 @@
         {
           "file": "camospinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "ironaquaspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "ironaquaspinner.png",
+          "chance": 1,
+          "caseType": "spinner",
+          "at": "2026-09-23T11:13:26.848Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -1850,20 +1861,14 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-09-23T11:09:26.781Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-09-23T11:09:21.860Z"
         }
       ],
       "lastBonus": 1790160890646,
       "username": "b10xxx10",
-      "lastCaseAt": 1790162000485,
+      "lastCaseAt": 1790162006058,
       "lastBoosterAt": 1790161090468,
       "totalEarned": 2580800,
-      "totalOpened": 372,
+      "totalOpened": 373,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
