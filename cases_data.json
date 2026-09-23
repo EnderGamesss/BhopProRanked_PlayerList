@@ -920,6 +920,12 @@
       "inventory": [],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "overdrive",
+          "caseType": "booster",
+          "at": "2026-09-23T12:55:28.667Z"
+        },
+        {
           "kind": "skin",
           "file": "thumb-bluestar.png",
           "chance": 2.5,
@@ -943,15 +949,11 @@
           "amount": 500,
           "caseType": "glove",
           "at": "2026-09-23T12:54:33.347Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "glove",
-          "at": "2026-09-23T12:54:26.585Z"
         }
       ],
-      "boosterInventory": [],
+      "boosterInventory": [
+        "overdrive"
+      ],
       "activeBooster": {
         "id": "chaos_boost",
         "until": 1790168645139,
@@ -986,9 +988,9 @@
         }
       },
       "lastCaseAt": 1790168104526,
-      "lastBoosterAt": 1790162339537,
+      "lastBoosterAt": 1790168128232,
       "totalEarned": 11500,
-      "totalOpened": 7,
+      "totalOpened": 8,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
