@@ -914,11 +914,17 @@
     },
     "1774514539": {
       "name": "пикачъ54",
-      "coins": 1000,
+      "coins": 900,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "glove",
+          "at": "2026-09-23T12:54:19.936Z"
+        },
         {
           "kind": "booster",
           "boosterId": "chaos_boost",
@@ -948,7 +954,7 @@
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
         "skin_m9_desert": {
@@ -960,10 +966,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 0,
+      "lastCaseAt": 1790168059175,
       "lastBoosterAt": 1790162339537,
-      "totalEarned": 0,
-      "totalOpened": 1,
+      "totalEarned": 200,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
