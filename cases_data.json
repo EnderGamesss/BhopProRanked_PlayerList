@@ -914,11 +914,23 @@
     },
     "1774514539": {
       "name": "пикачъ54",
-      "coins": 141950,
+      "coins": 141650,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9desert.png",
+          "type": "knife"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-23T19:16:27.507Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -942,12 +954,6 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-09-23T19:15:50.349Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "knife",
-          "at": "2026-09-23T19:15:38.997Z"
         }
       ],
       "boosterInventory": [
@@ -986,10 +992,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1790190975538,
+      "lastCaseAt": 1790190986839,
       "lastBoosterAt": 1790190748541,
       "totalEarned": 148150,
-      "totalOpened": 27,
+      "totalOpened": 28,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
