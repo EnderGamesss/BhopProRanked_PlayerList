@@ -914,11 +914,23 @@
     },
     "1774514539": {
       "name": "пикачъ54",
-      "coins": 224800,
+      "coins": 224500,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitdesert.png",
+          "type": "knife"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-23T23:57:39.311Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -945,12 +957,6 @@
           "chance": 0.9,
           "caseType": "knife",
           "at": "2026-09-23T19:18:01.086Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-09-23T19:17:53.083Z"
         }
       ],
       "boosterInventory": [
@@ -977,7 +983,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 2,
+          "progress": 3,
           "claimed": false
         },
         "skin_thumb_fairy": {
@@ -989,10 +995,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1790207852531,
+      "lastCaseAt": 1790207858628,
       "lastBoosterAt": 1790190748541,
       "totalEarned": 235800,
-      "totalOpened": 43,
+      "totalOpened": 44,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
