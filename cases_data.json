@@ -1803,6 +1803,12 @@
       "inventory": [],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "night_drop",
+          "caseType": "booster",
+          "at": "2026-09-23T10:58:11.262Z"
+        },
+        {
           "kind": "coins",
           "amount": 100,
           "caseType": "spinner",
@@ -1825,20 +1831,14 @@
           "amount": 250,
           "caseType": "spinner",
           "at": "2026-09-04T05:05:20.876Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-09-04T05:05:14.343Z"
         }
       ],
       "lastBonus": 1790160890646,
       "username": "b10xxx10",
       "lastCaseAt": 1788498342036,
-      "lastBoosterAt": 1788497883569,
+      "lastBoosterAt": 1790161090468,
       "totalEarned": 2547300,
-      "totalOpened": 322,
+      "totalOpened": 323,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
@@ -2084,7 +2084,9 @@
         "earn_1m"
       ],
       "equippedCharm": "lucky_charm",
-      "boosterInventory": [],
+      "boosterInventory": [
+        "night_drop"
+      ],
       "activeBooster": null,
       "hotStreak": {
         "count": 0,
