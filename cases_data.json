@@ -914,11 +914,23 @@
     },
     "1774514539": {
       "name": "пикачъ54",
-      "coins": 222800,
+      "coins": 222500,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Mercenery.png",
+          "type": "glove"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Mercenery.png",
+          "chance": 8.5,
+          "caseType": "glove",
+          "at": "2026-09-23T23:57:16.270Z"
+        },
         {
           "kind": "skin",
           "file": "karambitsaphire.png",
@@ -944,12 +956,6 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-09-23T19:17:45.615Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-09-23T19:17:39.529Z"
         }
       ],
       "boosterInventory": [
@@ -967,31 +973,31 @@
       },
       "lastBonus": 0,
       "dailyStreak": 0,
-      "dailyQuestDate": "2026-09-23",
+      "dailyQuestDate": "2026-09-24",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
-        "open_5_cases",
-        "skin_m9_desert",
-        "skin_thumb_fairy"
+        "open_100_cases",
+        "skin_thumb_fairy",
+        "skin_camo_spinner"
       ],
       "dailyQuests": {
-        "open_5_cases": {
-          "progress": 5,
-          "claimed": true
-        },
-        "skin_m9_desert": {
+        "open_100_cases": {
           "progress": 1,
-          "claimed": true
+          "claimed": false
         },
         "skin_thumb_fairy": {
           "progress": 0,
           "claimed": false
+        },
+        "skin_camo_spinner": {
+          "progress": 0,
+          "claimed": false
         }
       },
-      "lastCaseAt": 1790191088217,
+      "lastCaseAt": 1790207835945,
       "lastBoosterAt": 1790190748541,
       "totalEarned": 233200,
-      "totalOpened": 41,
+      "totalOpened": 42,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
