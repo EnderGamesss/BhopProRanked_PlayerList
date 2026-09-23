@@ -914,11 +914,17 @@
     },
     "1774514539": {
       "name": "пикачъ54",
-      "coins": 141300,
+      "coins": 141200,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-09-23T19:15:25.571Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-Mercenery.png",
@@ -943,12 +949,6 @@
           "amount": 250,
           "caseType": "glove",
           "at": "2026-09-23T19:13:10.134Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "lucky_hour",
-          "caseType": "booster",
-          "at": "2026-09-23T19:12:29.520Z"
         }
       ],
       "boosterInventory": [
@@ -987,10 +987,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1790190807504,
+      "lastCaseAt": 1790190925310,
       "lastBoosterAt": 1790190748541,
-      "totalEarned": 145400,
-      "totalOpened": 20,
+      "totalEarned": 145600,
+      "totalOpened": 21,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
