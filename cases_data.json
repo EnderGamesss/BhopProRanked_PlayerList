@@ -1846,7 +1846,7 @@
     },
     "7887063317": {
       "name": "𝐛𝟏𝟎𝐱𝐱𝐱𝟏𝟎 𐌕",
-      "coins": 2917800,
+      "coins": 2917500,
       "luck": 1.25,
       "boosts": [
         {
@@ -1922,9 +1922,20 @@
         {
           "file": "butforest.png",
           "type": "knife"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-23T11:27:22.085Z"
+        },
         {
           "kind": "skin",
           "file": "butforest.png",
@@ -1949,20 +1960,14 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-09-23T11:26:56.664Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-09-23T11:25:04.608Z"
         }
       ],
       "lastBonus": 1790160890646,
       "username": "b10xxx10",
-      "lastCaseAt": 1790162835463,
+      "lastCaseAt": 1790162841751,
       "lastBoosterAt": 1790161090468,
       "totalEarned": 2598100,
-      "totalOpened": 449,
+      "totalOpened": 450,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
@@ -2230,7 +2235,7 @@
           "claimed": true
         },
         "skin_butterfly": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
         "skin_m9_desert": {
