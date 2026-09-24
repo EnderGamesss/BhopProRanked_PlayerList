@@ -2105,7 +2105,7 @@
     },
     "7887063317": {
       "name": "𝐛𝟏𝟎𝐱𝐱𝐱𝟏𝟎 𐌕",
-      "coins": 2916700,
+      "coins": 2916400,
       "luck": 1.25,
       "boosts": [
         {
@@ -2189,9 +2189,20 @@
         {
           "file": "butkoi.png",
           "type": "knife"
+        },
+        {
+          "file": "butsnake.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butsnake.png",
+          "chance": 0.3,
+          "caseType": "knife",
+          "at": "2026-09-24T07:17:19.795Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -2215,20 +2226,14 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-09-23T11:29:47.556Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-09-23T11:28:09.108Z"
         }
       ],
       "lastBonus": 1790160890646,
       "username": "b10xxx10",
-      "lastCaseAt": 1790234180267,
+      "lastCaseAt": 1790234239149,
       "lastBoosterAt": 1790161090468,
       "totalEarned": 2599400,
-      "totalOpened": 457,
+      "totalOpened": 458,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
@@ -2492,7 +2497,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 3,
+          "progress": 4,
           "claimed": false
         },
         "skin_thumb_fairy": {
