@@ -1787,9 +1787,20 @@
         {
           "file": "M9Crimson_Web.jpg",
           "type": "booster"
+        },
+        {
+          "file": "karambitdesert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-25T10:47:31.180Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -1814,21 +1825,15 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-09-06T15:16:03.941Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-23T12:26:37.395Z"
         }
       ],
       "lastBonus": 1789889511878,
       "username": "EnderGamesDev",
-      "lastCaseAt": 1790333234830,
+      "lastCaseAt": 1790333251180,
       "totalEarned": 2696750,
       "lastBoosterAt": 1788709791280,
       "language": "ru",
-      "totalOpened": 167,
+      "totalOpened": 168,
       "unknownUntil": 1786824820340,
       "achievements": [
         "earn_100k",
@@ -20176,9 +20181,9 @@
       "bet": 1000,
       "turn": "7307808447",
       "challengerOpens": 2,
-      "opponentOpens": 1,
+      "opponentOpens": 2,
       "challengerTotal": 2600,
-      "opponentTotal": 100,
+      "opponentTotal": 2600,
       "results": [
         {
           "uid": "5282819350",
@@ -20204,9 +20209,18 @@
             "chance": 0.9
           },
           "earnings": 2500
+        },
+        {
+          "uid": "7307808447",
+          "result": {
+            "kind": "skin",
+            "file": "karambitdesert.png",
+            "chance": 0.9
+          },
+          "earnings": 2500
         }
       ],
-      "lastAction": 1790333242205
+      "lastAction": 1790333251180
     }
   },
   "trades": {},
