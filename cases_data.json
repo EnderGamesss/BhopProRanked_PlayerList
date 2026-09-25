@@ -20094,8 +20094,20 @@
       "coins": 100,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "butdesert.png",
+          "type": "knife"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-25T10:47:22.205Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -20115,10 +20127,10 @@
       "dailyQuestVersion": 0,
       "dailyQuestIds": [],
       "dailyQuests": {},
-      "lastCaseAt": 1790333225738,
+      "lastCaseAt": 1790333242205,
       "lastBoosterAt": 0,
       "totalEarned": 100,
-      "totalOpened": 1,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
@@ -20163,9 +20175,9 @@
       "chosenType": "knife",
       "bet": 1000,
       "turn": "5282819350",
-      "challengerOpens": 1,
+      "challengerOpens": 2,
       "opponentOpens": 1,
-      "challengerTotal": 100,
+      "challengerTotal": 2600,
       "opponentTotal": 100,
       "results": [
         {
@@ -20183,9 +20195,18 @@
             "amount": 100
           },
           "earnings": 100
+        },
+        {
+          "uid": "5282819350",
+          "result": {
+            "kind": "skin",
+            "file": "butdesert.png",
+            "chance": 0.9
+          },
+          "earnings": 2500
         }
       ],
-      "lastAction": 1790333234830
+      "lastAction": 1790333242205
     }
   },
   "trades": {},
