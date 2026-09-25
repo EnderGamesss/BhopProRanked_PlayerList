@@ -1699,7 +1699,7 @@
     },
     "7307808447": {
       "name": "EnderGamesDev",
-      "coins": 3125100,
+      "coins": 3125300,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -1795,6 +1795,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-09-25T10:47:47.848Z"
+        },
+        {
           "kind": "skin",
           "file": "karambitdesert.png",
           "chance": 0.9,
@@ -1818,22 +1824,15 @@
           "boosterId": "lucky_hour",
           "caseType": "booster",
           "at": "2026-09-06T15:49:51.619Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9saphire.png",
-          "chance": 1,
-          "caseType": "booster",
-          "at": "2026-09-06T15:16:03.941Z"
         }
       ],
       "lastBonus": 1789889511878,
       "username": "EnderGamesDev",
-      "lastCaseAt": 1790333251180,
-      "totalEarned": 2696750,
+      "lastCaseAt": 1790333267848,
+      "totalEarned": 2696950,
       "lastBoosterAt": 1788709791280,
       "language": "ru",
-      "totalOpened": 168,
+      "totalOpened": 169,
       "unknownUntil": 1786824820340,
       "achievements": [
         "earn_100k",
@@ -20187,9 +20186,9 @@
       "bet": 1000,
       "turn": "7307808447",
       "challengerOpens": 3,
-      "opponentOpens": 2,
+      "opponentOpens": 3,
       "challengerTotal": 2700,
-      "opponentTotal": 2600,
+      "opponentTotal": 2800,
       "results": [
         {
           "uid": "5282819350",
@@ -20232,9 +20231,17 @@
             "amount": 100
           },
           "earnings": 100
+        },
+        {
+          "uid": "7307808447",
+          "result": {
+            "kind": "coins",
+            "amount": 200
+          },
+          "earnings": 200
         }
       ],
-      "lastAction": 1790333260226
+      "lastAction": 1790333267848
     }
   },
   "trades": {},
