@@ -20091,11 +20091,18 @@
     },
     "5282819350": {
       "name": "А",
-      "coins": 0,
+      "coins": 100,
       "luck": 1,
       "boosts": [],
       "inventory": [],
-      "history": [],
+      "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-09-25T10:47:05.738Z"
+        }
+      ],
       "boosterInventory": [],
       "activeBooster": null,
       "hotStreak": {
@@ -20108,10 +20115,10 @@
       "dailyQuestVersion": 0,
       "dailyQuestIds": [],
       "dailyQuests": {},
-      "lastCaseAt": 0,
+      "lastCaseAt": 1790333225738,
       "lastBoosterAt": 0,
-      "totalEarned": 0,
-      "totalOpened": 0,
+      "totalEarned": 100,
+      "totalOpened": 1,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
@@ -20156,12 +20163,21 @@
       "chosenType": "knife",
       "bet": 1000,
       "turn": "5282819350",
-      "challengerOpens": 0,
+      "challengerOpens": 1,
       "opponentOpens": 0,
-      "challengerTotal": 0,
+      "challengerTotal": 100,
       "opponentTotal": 0,
-      "results": [],
-      "lastAction": 1790333219808
+      "results": [
+        {
+          "uid": "5282819350",
+          "result": {
+            "kind": "coins",
+            "amount": 100
+          },
+          "earnings": 100
+        }
+      ],
+      "lastAction": 1790333225738
     }
   },
   "trades": {},
