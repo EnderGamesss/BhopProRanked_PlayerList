@@ -3373,6 +3373,12 @@
       "inventory": [],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "night_drop",
+          "caseType": "booster",
+          "at": "2026-09-29T20:46:03.377Z"
+        },
+        {
           "kind": "skin",
           "file": "m9razor.png",
           "chance": 1,
@@ -3399,34 +3405,48 @@
           "chance": 0.05,
           "caseType": "knife",
           "at": "2026-08-11T20:11:38.634Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "knife",
-          "at": "2026-08-11T16:50:04.029Z"
         }
       ],
       "lastBonus": 1790714745441,
       "lastCaseAt": 1786479097985,
       "username": "KaliLinuxKidd",
-      "lastBoosterAt": 1786503499860,
+      "lastBoosterAt": 1790714762653,
       "totalEarned": 21332650,
-      "totalOpened": 1070,
+      "totalOpened": 1071,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
-      "boosterInventory": [],
+      "boosterInventory": [
+        "night_drop"
+      ],
       "activeBooster": null,
       "hotStreak": {
         "count": 0,
         "lastOpen": 0
       },
       "dailyStreak": 1,
-      "dailyQuestDate": "",
-      "dailyQuestVersion": 0,
-      "dailyQuestIds": [],
-      "dailyQuests": {}
+      "dailyQuestDate": "2026-09-30",
+      "dailyQuestVersion": 2,
+      "dailyQuestIds": [
+        "open_50_cases",
+        "skin_thumb_fairy",
+        "skin_m9_sapphire"
+      ],
+      "dailyQuests": {
+        "open_50_cases": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_thumb_fairy": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_m9_sapphire": {
+          "progress": 0,
+          "claimed": false
+        }
+      },
+      "equippedCharm": "lucky_charm"
     },
     "8624452786": {
       "name": "Örzet",
