@@ -3362,7 +3362,7 @@
     },
     "6408582313": {
       "name": "r/Аналдо",
-      "coins": 11236950,
+      "coins": 11236650,
       "luck": 1.25,
       "boosts": [
         {
@@ -3378,8 +3378,20 @@
           "at": "2026-09-29T20:48:38.014Z"
         }
       ],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitdesert.png",
+          "type": "knife"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-09-29T20:51:40.426Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -3403,20 +3415,14 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-09-29T20:51:15.826Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-09-29T20:50:12.928Z"
         }
       ],
       "lastBonus": 1790714745441,
-      "lastCaseAt": 1790715092909,
+      "lastCaseAt": 1790715100100,
       "username": "KaliLinuxKidd",
       "lastBoosterAt": 1790714762653,
       "totalEarned": 21334150,
-      "totalOpened": 1077,
+      "totalOpened": 1078,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
@@ -3446,7 +3452,7 @@
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 6,
+          "progress": 7,
           "claimed": false
         },
         "skin_thumb_fairy": {
