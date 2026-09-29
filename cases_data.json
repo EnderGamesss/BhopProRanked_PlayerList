@@ -20529,11 +20529,18 @@
     },
     "7938233289": {
       "name": "Тигр😎",
-      "coins": 23500,
+      "coins": 23400,
       "luck": 1,
       "boosts": [],
       "inventory": [],
-      "history": [],
+      "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-09-29T14:37:50.445Z"
+        }
+      ],
       "boosterInventory": [],
       "activeBooster": null,
       "hotStreak": {
@@ -20542,14 +20549,31 @@
       },
       "lastBonus": 1790692653108,
       "dailyStreak": 1,
-      "dailyQuestDate": "",
-      "dailyQuestVersion": 0,
-      "dailyQuestIds": [],
-      "dailyQuests": {},
-      "lastCaseAt": 0,
+      "dailyQuestDate": "2026-09-29",
+      "dailyQuestVersion": 2,
+      "dailyQuestIds": [
+        "open_50_cases",
+        "skin_camo_spinner",
+        "skin_thumb_fairy"
+      ],
+      "dailyQuests": {
+        "open_50_cases": {
+          "progress": 1,
+          "claimed": false
+        },
+        "skin_camo_spinner": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_thumb_fairy": {
+          "progress": 0,
+          "claimed": false
+        }
+      },
+      "lastCaseAt": 1790692669872,
       "lastBoosterAt": 0,
-      "totalEarned": 22500,
-      "totalOpened": 0,
+      "totalEarned": 22700,
+      "totalOpened": 1,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
