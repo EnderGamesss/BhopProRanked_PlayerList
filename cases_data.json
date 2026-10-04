@@ -858,6 +858,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "night_drop",
+          "caseType": "booster",
+          "at": "2026-10-04T10:26:03.614Z"
+        },
+        {
           "kind": "skin",
           "file": "thumb-Mercenery.png",
           "chance": 1,
@@ -883,20 +889,14 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-08-20T10:35:58.557Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-08-20T10:35:53.223Z"
         }
       ],
       "lastBonus": 1791109523217,
       "lastCaseAt": 1787310705772,
-      "lastBoosterAt": 1787314820578,
+      "lastBoosterAt": 1791109562702,
       "totalEarned": 35960550,
       "username": "wfoee",
-      "totalOpened": 7160,
+      "totalOpened": 7161,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
@@ -911,17 +911,36 @@
         "earn_10m"
       ],
       "equippedCharm": "mythical_charm",
-      "boosterInventory": [],
+      "boosterInventory": [
+        "night_drop"
+      ],
       "activeBooster": null,
       "hotStreak": {
         "count": 0,
         "lastOpen": 0
       },
       "dailyStreak": 1,
-      "dailyQuestDate": "",
-      "dailyQuestVersion": 0,
-      "dailyQuestIds": [],
-      "dailyQuests": {}
+      "dailyQuestDate": "2026-10-04",
+      "dailyQuestVersion": 2,
+      "dailyQuestIds": [
+        "open_15_cases",
+        "skin_thumb_fairy",
+        "skin_camo_spinner"
+      ],
+      "dailyQuests": {
+        "open_15_cases": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_thumb_fairy": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_camo_spinner": {
+          "progress": 0,
+          "claimed": false
+        }
+      }
     },
     "1774514539": {
       "name": "пикачъ54",
