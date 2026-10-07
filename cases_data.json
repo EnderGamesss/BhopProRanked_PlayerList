@@ -20823,7 +20823,12 @@
       "coins": 23700,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitscratch.png",
+          "type": "knife"
+        }
+      ],
       "history": [],
       "boosterInventory": [],
       "activeBooster": null,
@@ -21060,8 +21065,8 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
+          true,
           true,
           false,
           true
