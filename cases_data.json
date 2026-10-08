@@ -10942,6 +10942,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "target_boost",
+          "caseType": "booster",
+          "at": "2026-10-08T19:57:19.310Z"
+        },
+        {
           "kind": "coins",
           "amount": 150,
           "caseType": "knife",
@@ -10965,19 +10971,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-09-20T13:53:32.563Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "knife",
-          "at": "2026-09-20T13:53:27.533Z"
         }
       ],
       "lastBonus": 1789912477313,
       "lastCaseAt": 1789912429876,
-      "lastBoosterAt": 1789912276822,
+      "lastBoosterAt": 1791489438519,
       "totalEarned": 10971300,
-      "totalOpened": 1732,
+      "totalOpened": 1733,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
@@ -11224,7 +11224,9 @@
       "username": "merlinbaba",
       "equippedCharm": "legendary_charm",
       "language": "en",
-      "boosterInventory": [],
+      "boosterInventory": [
+        "target_boost"
+      ],
       "activeBooster": {
         "id": "overdrive",
         "until": 1789913194380,
@@ -11236,23 +11238,23 @@
         "lastOpen": 1789589438202
       },
       "dailyStreak": 1,
-      "dailyQuestDate": "2026-09-20",
+      "dailyQuestDate": "2026-10-08",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
         "open_5_cases",
-        "skin_m9_desert",
-        "skin_camo_spinner"
+        "skin_thumb_fairy",
+        "skin_m9_desert"
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 5,
-          "claimed": true
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_thumb_fairy": {
+          "progress": 0,
+          "claimed": false
         },
         "skin_m9_desert": {
-          "progress": 1,
-          "claimed": true
-        },
-        "skin_camo_spinner": {
           "progress": 0,
           "claimed": false
         }
