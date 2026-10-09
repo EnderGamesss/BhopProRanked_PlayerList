@@ -21086,11 +21086,23 @@
     },
     "8937318091": {
       "name": "Hate старый бог",
-      "coins": 1500,
+      "coins": 1200,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-Mercenery.png",
+          "type": "glove"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Mercenery.png",
+          "chance": 8.5,
+          "caseType": "glove",
+          "at": "2026-10-09T20:14:07.023Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -21135,7 +21147,7 @@
       ],
       "dailyQuests": {
         "open_15_cases": {
-          "progress": 3,
+          "progress": 4,
           "claimed": false
         },
         "skin_m9_sapphire": {
@@ -21147,10 +21159,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1791576839151,
+      "lastCaseAt": 1791576846570,
       "lastBoosterAt": 1791576750370,
       "totalEarned": 1400,
-      "totalOpened": 4,
+      "totalOpened": 5,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
