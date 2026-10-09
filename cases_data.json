@@ -21086,16 +21086,27 @@
     },
     "8937318091": {
       "name": "Hate старый бог",
-      "coins": 950,
+      "coins": 650,
       "luck": 1,
       "boosts": [],
       "inventory": [
         {
           "file": "thumb-Mercenery.png",
           "type": "glove"
+        },
+        {
+          "file": "karambitdesert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-10-09T20:14:45.043Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -21120,12 +21131,6 @@
           "amount": 150,
           "caseType": "glove",
           "at": "2026-10-09T20:13:59.826Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "glove",
-          "at": "2026-10-09T20:13:52.587Z"
         }
       ],
       "boosterInventory": [
@@ -21147,7 +21152,7 @@
       ],
       "dailyQuests": {
         "open_15_cases": {
-          "progress": 6,
+          "progress": 7,
           "claimed": false
         },
         "skin_m9_sapphire": {
@@ -21159,10 +21164,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1791576878115,
+      "lastCaseAt": 1791576884499,
       "lastBoosterAt": 1791576750370,
       "totalEarned": 1750,
-      "totalOpened": 7,
+      "totalOpened": 8,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
