@@ -21248,11 +21248,23 @@
     },
     "8075364703": {
       "name": "Романчела Surfgochela",
-      "coins": 400,
+      "coins": 100,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "arrowspinner.png",
+          "type": "spinner"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "arrowspinner.png",
+          "chance": 0.6,
+          "caseType": "spinner",
+          "at": "2026-10-10T13:43:03.741Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -21276,12 +21288,6 @@
           "amount": 500,
           "caseType": "spinner",
           "at": "2026-10-10T13:42:40.257Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "spinner",
-          "at": "2026-10-10T13:42:33.247Z"
         }
       ],
       "boosterInventory": [
@@ -21303,7 +21309,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 8,
+          "progress": 9,
           "claimed": false
         },
         "skin_m9_sapphire": {
@@ -21315,10 +21321,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1791639776119,
+      "lastCaseAt": 1791639782887,
       "lastBoosterAt": 1791639717402,
       "totalEarned": 1800,
-      "totalOpened": 9,
+      "totalOpened": 10,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
