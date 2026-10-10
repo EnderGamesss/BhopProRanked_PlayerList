@@ -21174,7 +21174,7 @@
     },
     "6276049599": {
       "name": "Аминахон",
-      "coins": 700,
+      "coins": 600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -21184,6 +21184,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "glove",
+          "at": "2026-10-10T11:52:23.738Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-Military.png",
@@ -21209,7 +21215,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 1,
+          "progress": 2,
           "claimed": false
         },
         "skin_m9_sapphire": {
@@ -21221,10 +21227,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1791633134005,
+      "lastCaseAt": 1791633143407,
       "lastBoosterAt": 0,
-      "totalEarned": 0,
-      "totalOpened": 1,
+      "totalEarned": 200,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": []
