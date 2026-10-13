@@ -21571,11 +21571,23 @@
     },
     "7664014095": {
       "name": "1327",
-      "coins": 750,
+      "coins": 450,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "ironaquaspinner.png",
+          "type": "spinner"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "ironaquaspinner.png",
+          "chance": 1,
+          "caseType": "spinner",
+          "at": "2026-10-13T15:53:38.303Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -21606,7 +21618,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 2,
+          "progress": 3,
           "claimed": false
         },
         "skin_butterfly": {
@@ -21618,10 +21630,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1791906811683,
+      "lastCaseAt": 1791906818037,
       "lastBoosterAt": 0,
       "totalEarned": 350,
-      "totalOpened": 2,
+      "totalOpened": 3,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
