@@ -21571,11 +21571,17 @@
     },
     "7664014095": {
       "name": "1327",
-      "coins": 800,
+      "coins": 750,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "spinner",
+          "at": "2026-10-13T15:53:32.181Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -21600,7 +21606,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 1,
+          "progress": 2,
           "claimed": false
         },
         "skin_butterfly": {
@@ -21612,10 +21618,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1791906805675,
+      "lastCaseAt": 1791906811683,
       "lastBoosterAt": 0,
-      "totalEarned": 100,
-      "totalOpened": 1,
+      "totalEarned": 350,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
