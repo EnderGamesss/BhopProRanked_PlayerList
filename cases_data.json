@@ -21577,6 +21577,12 @@
       "inventory": [],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "chaos_boost",
+          "caseType": "booster",
+          "at": "2026-10-13T15:54:06.495Z"
+        },
+        {
           "kind": "skin",
           "file": "ironaquaspinner.png",
           "chance": 1,
@@ -21596,7 +21602,9 @@
           "at": "2026-10-13T15:53:26.175Z"
         }
       ],
-      "boosterInventory": [],
+      "boosterInventory": [
+        "chaos_boost"
+      ],
       "activeBooster": null,
       "hotStreak": {
         "count": 0,
@@ -21626,9 +21634,9 @@
         }
       },
       "lastCaseAt": 1791906818037,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1791906845874,
       "totalEarned": 45350,
-      "totalOpened": 3,
+      "totalOpened": 4,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
