@@ -11436,16 +11436,27 @@
     },
     "7052038349": {
       "name": "mapt0v денчик.404.ftp.sh #wizert812",
-      "coins": 72900,
+      "coins": 72600,
       "luck": 1,
       "boosts": [],
       "inventory": [
         {
           "file": "m9aura.png",
           "type": "booster"
+        },
+        {
+          "file": "m9desert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-10-16T14:07:38.959Z"
+        },
         {
           "kind": "coins",
           "amount": 750,
@@ -11469,19 +11480,13 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-10-16T14:07:09.979Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "hot_streak",
-          "caseType": "booster",
-          "at": "2026-10-16T14:06:39.280Z"
         }
       ],
       "lastBonus": 1792159558889,
-      "lastCaseAt": 1792159650111,
+      "lastCaseAt": 1792159658161,
       "lastBoosterAt": 1792159599037,
       "totalEarned": 76100,
-      "totalOpened": 17,
+      "totalOpened": 18,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
@@ -11506,7 +11511,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 4,
+          "progress": 5,
           "claimed": false
         },
         "skin_butterfly": {
@@ -11514,7 +11519,7 @@
           "claimed": false
         },
         "skin_m9_desert": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         }
       }
