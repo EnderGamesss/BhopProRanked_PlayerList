@@ -403,7 +403,7 @@
     },
     "1154371545": {
       "name": "Zebuniso",
-      "coins": 400,
+      "coins": 200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -417,6 +417,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "glove",
+          "at": "2026-10-17T07:58:09.085Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-Mercenery.png",
@@ -449,7 +455,7 @@
       ],
       "dailyQuests": {
         "open_15_cases": {
-          "progress": 2,
+          "progress": 3,
           "claimed": false
         },
         "skin_butterfly": {
@@ -461,10 +467,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1792223880808,
+      "lastCaseAt": 1792223888349,
       "lastBoosterAt": 0,
-      "totalEarned": 0,
-      "totalOpened": 2,
+      "totalEarned": 100,
+      "totalOpened": 3,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
