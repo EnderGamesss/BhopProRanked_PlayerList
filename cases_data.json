@@ -21547,11 +21547,23 @@
     },
     "6511314068": {
       "name": "🥞",
-      "coins": 23600,
+      "coins": 23300,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "thumb-bluestar.png",
+          "type": "glove"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-bluestar.png",
+          "chance": 2.5,
+          "caseType": "glove",
+          "at": "2026-10-18T09:50:44.282Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -21596,7 +21608,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 3,
+          "progress": 4,
           "claimed": false
         },
         "skin_camo_spinner": {
@@ -21608,10 +21620,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1792317037051,
+      "lastCaseAt": 1792317043843,
       "lastBoosterAt": 1792317014585,
       "totalEarned": 23500,
-      "totalOpened": 4,
+      "totalOpened": 5,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
