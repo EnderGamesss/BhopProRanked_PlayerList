@@ -21553,13 +21553,21 @@
       "inventory": [],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "overdrive",
+          "caseType": "booster",
+          "at": "2026-10-18T09:50:14.960Z"
+        },
+        {
           "kind": "coins",
           "amount": 500,
           "caseType": "glove",
           "at": "2026-10-18T09:49:13.862Z"
         }
       ],
-      "boosterInventory": [],
+      "boosterInventory": [
+        "overdrive"
+      ],
       "activeBooster": null,
       "hotStreak": {
         "count": 0,
@@ -21589,9 +21597,9 @@
         }
       },
       "lastCaseAt": 1792316953166,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1792317014585,
       "totalEarned": 23000,
-      "totalOpened": 1,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
