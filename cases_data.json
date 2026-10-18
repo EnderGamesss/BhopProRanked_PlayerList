@@ -21547,7 +21547,7 @@
     },
     "6511314068": {
       "name": "🥞",
-      "coins": 24000,
+      "coins": 23900,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -21557,6 +21557,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "glove",
+          "at": "2026-10-18T09:50:59.497Z"
+        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -21581,12 +21587,6 @@
           "amount": 250,
           "caseType": "glove",
           "at": "2026-10-18T09:50:30.494Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "overdrive",
-          "caseType": "booster",
-          "at": "2026-10-18T09:50:14.960Z"
         }
       ],
       "boosterInventory": [
@@ -21608,7 +21608,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 5,
+          "progress": 6,
           "claimed": false
         },
         "skin_camo_spinner": {
@@ -21620,10 +21620,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1792317051148,
+      "lastCaseAt": 1792317058821,
       "lastBoosterAt": 1792317014585,
-      "totalEarned": 24500,
-      "totalOpened": 6,
+      "totalEarned": 24700,
+      "totalOpened": 7,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
