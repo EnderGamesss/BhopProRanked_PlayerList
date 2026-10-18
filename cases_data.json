@@ -21547,11 +21547,18 @@
     },
     "6511314068": {
       "name": "🥞",
-      "coins": 23500,
+      "coins": 23700,
       "luck": 1,
       "boosts": [],
       "inventory": [],
-      "history": [],
+      "history": [
+        {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "glove",
+          "at": "2026-10-18T09:49:13.862Z"
+        }
+      ],
       "boosterInventory": [],
       "activeBooster": null,
       "hotStreak": {
@@ -21560,14 +21567,31 @@
       },
       "lastBonus": 1792316938020,
       "dailyStreak": 1,
-      "dailyQuestDate": "",
-      "dailyQuestVersion": 0,
-      "dailyQuestIds": [],
-      "dailyQuests": {},
-      "lastCaseAt": 0,
+      "dailyQuestDate": "2026-10-18",
+      "dailyQuestVersion": 2,
+      "dailyQuestIds": [
+        "open_100_cases",
+        "skin_camo_spinner",
+        "skin_thumb_fairy"
+      ],
+      "dailyQuests": {
+        "open_100_cases": {
+          "progress": 1,
+          "claimed": false
+        },
+        "skin_camo_spinner": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_thumb_fairy": {
+          "progress": 0,
+          "claimed": false
+        }
+      },
+      "lastCaseAt": 1792316953166,
       "lastBoosterAt": 0,
-      "totalEarned": 22500,
-      "totalOpened": 0,
+      "totalEarned": 23000,
+      "totalOpened": 1,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
