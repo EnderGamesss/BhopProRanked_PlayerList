@@ -10701,7 +10701,7 @@
     },
     "7948563397": {
       "name": "merlin",
-      "coins": 6352850,
+      "coins": 6352550,
       "luck": 1,
       "boosts": [
         {
@@ -10825,9 +10825,20 @@
         {
           "file": "m9emerand.png",
           "type": "knife"
+        },
+        {
+          "file": "butsnake.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butsnake.png",
+          "chance": 0.3,
+          "caseType": "knife",
+          "at": "2026-10-18T17:36:54.928Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -10852,19 +10863,13 @@
           "boosterId": "lucky_hour",
           "caseType": "booster",
           "at": "2026-10-18T17:35:45.772Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "target_boost",
-          "caseType": "booster",
-          "at": "2026-10-08T19:57:19.310Z"
         }
       ],
       "lastBonus": 1789912477313,
-      "lastCaseAt": 1792345007283,
+      "lastCaseAt": 1792345014541,
       "lastBoosterAt": 1792344945073,
       "totalEarned": 10971550,
-      "totalOpened": 1737,
+      "totalOpened": 1738,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
@@ -11134,7 +11139,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 3,
+          "progress": 4,
           "claimed": false
         },
         "skin_camo_spinner": {
