@@ -17547,7 +17547,7 @@
     },
     "7471736178": {
       "name": "cry | v3ters1337",
-      "coins": 251000,
+      "coins": 250700,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -17566,9 +17566,20 @@
         {
           "file": "thumb-Mercenery.png",
           "type": "glove"
+        },
+        {
+          "file": "thumb-Military.png",
+          "type": "glove"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Military.png",
+          "chance": 8,
+          "caseType": "glove",
+          "at": "2026-10-18T17:51:45.795Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -17592,12 +17603,6 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-10-18T17:51:19.941Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-10-18T17:51:13.400Z"
         }
       ],
       "boosterInventory": [
@@ -17620,7 +17625,7 @@
       ],
       "dailyQuests": {
         "open_15_cases": {
-          "progress": 11,
+          "progress": 12,
           "claimed": false
         },
         "skin_thumb_fairy": {
@@ -17632,10 +17637,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1792345899614,
+      "lastCaseAt": 1792345904913,
       "lastBoosterAt": 1789917875718,
       "totalEarned": 265300,
-      "totalOpened": 53,
+      "totalOpened": 54,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
