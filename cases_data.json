@@ -20064,7 +20064,7 @@
     },
     "5282819350": {
       "name": "А",
-      "coins": 1313400,
+      "coins": 1313300,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -20079,6 +20079,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-10-21T12:22:12.759Z"
+        },
         {
           "kind": "booster",
           "boosterId": "night_drop",
@@ -20103,12 +20109,6 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-10-21T11:37:18.913Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "knife",
-          "at": "2026-10-21T11:37:10.930Z"
         }
       ],
       "boosterInventory": [
@@ -20144,10 +20144,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1792582650746,
+      "lastCaseAt": 1792585332310,
       "lastBoosterAt": 1792585056879,
-      "totalEarned": 319600,
-      "totalOpened": 30,
+      "totalEarned": 319800,
+      "totalOpened": 31,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
