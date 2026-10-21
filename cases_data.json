@@ -20042,7 +20042,7 @@
     },
     "5282819350": {
       "name": "А",
-      "coins": 1045600,
+      "coins": 1045500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -20052,6 +20052,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-10-21T11:31:29.441Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -20075,13 +20081,6 @@
           "boosterId": "hot_streak",
           "caseType": "booster",
           "at": "2026-10-21T11:26:37.861Z"
-        },
-        {
-          "kind": "skin",
-          "file": "butkoi.png",
-          "chance": 0.25,
-          "caseType": "knife",
-          "at": "2026-10-21T11:11:15.214Z"
         }
       ],
       "boosterInventory": [
@@ -20103,7 +20102,7 @@
       ],
       "dailyQuests": {
         "open_15_cases": {
-          "progress": 6,
+          "progress": 7,
           "claimed": false
         },
         "skin_camo_spinner": {
@@ -20115,10 +20114,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1792582278912,
+      "lastCaseAt": 1792582288891,
       "lastBoosterAt": 1792581996252,
-      "totalEarned": 46400,
-      "totalOpened": 11,
+      "totalEarned": 46600,
+      "totalOpened": 12,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
