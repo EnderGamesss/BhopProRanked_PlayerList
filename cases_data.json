@@ -20037,16 +20037,27 @@
     },
     "5282819350": {
       "name": "А",
-      "coins": 1000,
+      "coins": 700,
       "luck": 1,
       "boosts": [],
       "inventory": [
         {
           "file": "butdesert.png",
           "type": "knife"
+        },
+        {
+          "file": "butkoi.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butkoi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-10-21T11:11:15.214Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -20070,13 +20081,6 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-09-25T10:47:40.226Z"
-        },
-        {
-          "kind": "skin",
-          "file": "butdesert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-09-25T10:47:22.205Z"
         }
       ],
       "boosterInventory": [],
@@ -20096,7 +20100,7 @@
       ],
       "dailyQuests": {
         "open_15_cases": {
-          "progress": 2,
+          "progress": 3,
           "claimed": false
         },
         "skin_camo_spinner": {
@@ -20108,10 +20112,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1792581066398,
+      "lastCaseAt": 1792581074712,
       "lastBoosterAt": 0,
       "totalEarned": 600,
-      "totalOpened": 6,
+      "totalOpened": 7,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
