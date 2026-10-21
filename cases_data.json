@@ -2685,6 +2685,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "lucky_hour",
+          "caseType": "booster",
+          "at": "2026-10-21T11:18:23.623Z"
+        },
+        {
           "kind": "coins",
           "amount": 250,
           "caseType": "knife",
@@ -2707,19 +2713,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-10-14T18:57:19.985Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-10-14T18:57:14.151Z"
         }
       ],
       "lastBonus": 1789366275869,
       "lastCaseAt": 1792004269725,
-      "lastBoosterAt": 1789117755110,
+      "lastBoosterAt": 1792581503015,
       "totalEarned": 119041900,
-      "totalOpened": 6122,
+      "totalOpened": 6123,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
@@ -2976,7 +2976,8 @@
         "night_drop",
         "lucky_hour",
         "overdrive",
-        "target_boost"
+        "target_boost",
+        "lucky_hour"
       ],
       "activeBooster": {
         "id": "night_drop",
@@ -2989,19 +2990,19 @@
         "lastOpen": 0
       },
       "dailyStreak": 3,
-      "dailyQuestDate": "2026-10-14",
+      "dailyQuestDate": "2026-10-21",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
         "open_5_cases",
-        "skin_camo_spinner",
+        "skin_thumb_fairy",
         "skin_butterfly"
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 5,
+          "progress": 0,
           "claimed": false
         },
-        "skin_camo_spinner": {
+        "skin_thumb_fairy": {
           "progress": 0,
           "claimed": false
         },
