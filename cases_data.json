@@ -935,6 +935,12 @@
       "history": [
         {
           "kind": "booster",
+          "boosterId": "overdrive",
+          "caseType": "booster",
+          "at": "2026-10-21T15:37:22.287Z"
+        },
+        {
+          "kind": "booster",
           "boosterId": "night_drop",
           "caseType": "booster",
           "at": "2026-10-04T10:26:03.614Z"
@@ -959,20 +965,14 @@
           "chance": 1,
           "caseType": "booster",
           "at": "2026-08-21T11:11:17.043Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-08-20T10:35:58.557Z"
         }
       ],
       "lastBonus": 1791109523217,
       "lastCaseAt": 1787310705772,
-      "lastBoosterAt": 1791109562702,
+      "lastBoosterAt": 1792597041480,
       "totalEarned": 35960550,
       "username": "wfoee",
-      "totalOpened": 7161,
+      "totalOpened": 7162,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
@@ -988,7 +988,8 @@
       ],
       "equippedCharm": "mythical_charm",
       "boosterInventory": [
-        "night_drop"
+        "night_drop",
+        "overdrive"
       ],
       "activeBooster": null,
       "hotStreak": {
@@ -996,15 +997,15 @@
         "lastOpen": 0
       },
       "dailyStreak": 1,
-      "dailyQuestDate": "2026-10-04",
+      "dailyQuestDate": "2026-10-21",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
-        "open_15_cases",
+        "open_50_cases",
         "skin_thumb_fairy",
-        "skin_camo_spinner"
+        "skin_m9_sapphire"
       ],
       "dailyQuests": {
-        "open_15_cases": {
+        "open_50_cases": {
           "progress": 0,
           "claimed": false
         },
@@ -1012,7 +1013,7 @@
           "progress": 0,
           "claimed": false
         },
-        "skin_camo_spinner": {
+        "skin_m9_sapphire": {
           "progress": 0,
           "claimed": false
         }
