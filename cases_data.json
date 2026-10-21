@@ -20084,6 +20084,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "night_drop",
+          "caseType": "booster",
+          "at": "2026-10-21T12:17:37.566Z"
+        },
+        {
           "kind": "skin",
           "file": "karambitdesert.png",
           "chance": 0.9,
@@ -20107,17 +20113,12 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-10-21T11:37:10.930Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-10-21T11:37:04.080Z"
         }
       ],
       "boosterInventory": [
         "hot_streak",
-        "lucky_hour"
+        "lucky_hour",
+        "night_drop"
       ],
       "activeBooster": null,
       "hotStreak": {
@@ -20148,9 +20149,9 @@
         }
       },
       "lastCaseAt": 1792582650746,
-      "lastBoosterAt": 1792581996252,
+      "lastBoosterAt": 1792585056879,
       "totalEarned": 126000,
-      "totalOpened": 29,
+      "totalOpened": 30,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
