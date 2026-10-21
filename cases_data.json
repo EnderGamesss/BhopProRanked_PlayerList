@@ -2617,7 +2617,7 @@
     },
     "8708014655": {
       "name": "LÖX",
-      "coins": 101798100,
+      "coins": 101798300,
       "luck": 1.25,
       "boosts": [
         {
@@ -2689,6 +2689,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 500,
+          "caseType": "knife",
+          "at": "2026-10-21T11:37:47.123Z"
+        },
+        {
           "kind": "booster",
           "boosterId": "lucky_hour",
           "caseType": "booster",
@@ -2711,19 +2717,13 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-10-14T18:57:25.867Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "knife",
-          "at": "2026-10-14T18:57:19.985Z"
         }
       ],
       "lastBonus": 1792581596116,
-      "lastCaseAt": 1792004269725,
+      "lastCaseAt": 1792582666447,
       "lastBoosterAt": 1792581503015,
-      "totalEarned": 119064400,
-      "totalOpened": 6123,
+      "totalEarned": 119064900,
+      "totalOpened": 6124,
       "unknownUntil": 1786828798968,
       "achievements": [
         "open_100",
@@ -3003,7 +3003,7 @@
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
         "skin_thumb_fairy": {
