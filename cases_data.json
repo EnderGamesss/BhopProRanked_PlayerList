@@ -20122,6 +20122,10 @@
         {
           "file": "woodspinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "buttiger.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -20413,11 +20417,11 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -20429,7 +20433,7 @@
           false
         ],
         "pairCount": 12,
-        "attempts": 1,
+        "attempts": 2,
         "status": "playing",
         "flipStage": "wait_first",
         "firstFlip": null,
