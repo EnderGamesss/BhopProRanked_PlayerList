@@ -20053,6 +20053,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "hot_streak",
+          "caseType": "booster",
+          "at": "2026-10-21T11:26:37.861Z"
+        },
+        {
           "kind": "skin",
           "file": "butkoi.png",
           "chance": 0.25,
@@ -20076,15 +20082,11 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-09-25T10:47:54.676Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-09-25T10:47:40.226Z"
         }
       ],
-      "boosterInventory": [],
+      "boosterInventory": [
+        "hot_streak"
+      ],
       "activeBooster": null,
       "hotStreak": {
         "count": 0,
@@ -20114,9 +20116,9 @@
         }
       },
       "lastCaseAt": 1792581074712,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1792581996252,
       "totalEarned": 45600,
-      "totalOpened": 7,
+      "totalOpened": 8,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
