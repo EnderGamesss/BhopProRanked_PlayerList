@@ -20096,6 +20096,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "lucky_hour",
+          "caseType": "booster",
+          "at": "2026-10-21T13:37:10.842Z"
+        },
+        {
           "kind": "coins",
           "amount": 100,
           "caseType": "knife",
@@ -20119,19 +20125,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-10-21T12:31:27.772Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9forest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-10-21T12:30:26.846Z"
         }
       ],
       "boosterInventory": [
         "hot_streak",
         "lucky_hour",
-        "night_drop"
+        "night_drop",
+        "lucky_hour"
       ],
       "activeBooster": null,
       "hotStreak": {
@@ -20162,9 +20162,9 @@
         }
       },
       "lastCaseAt": 1792586546195,
-      "lastBoosterAt": 1792585056879,
+      "lastBoosterAt": 1792589830215,
       "totalEarned": 335700,
-      "totalOpened": 58,
+      "totalOpened": 59,
       "unknownUntil": 1792585711346,
       "memoryGame": {
         "board": [
