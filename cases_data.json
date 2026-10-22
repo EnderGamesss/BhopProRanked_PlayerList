@@ -20091,7 +20091,7 @@
     },
     "5282819350": {
       "name": "А",
-      "coins": 2643800,
+      "coins": 2643500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -20115,9 +20115,20 @@
         {
           "file": "m9desert.png",
           "type": "knife"
+        },
+        {
+          "file": "butdesert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-10-22T17:30:51.996Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -20141,12 +20152,6 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-10-22T17:30:25.396Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-10-22T17:30:19.750Z"
         }
       ],
       "boosterInventory": [
@@ -20177,7 +20182,7 @@
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 17,
+          "progress": 18,
           "claimed": false
         },
         "skin_thumb_fairy": {
@@ -20185,14 +20190,14 @@
           "claimed": false
         },
         "skin_butterfly": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         }
       },
-      "lastCaseAt": 1792690243381,
+      "lastCaseAt": 1792690251539,
       "lastBoosterAt": 1792672530860,
       "totalEarned": 1686900,
-      "totalOpened": 156,
+      "totalOpened": 157,
       "unknownUntil": 1792596792317,
       "memoryGame": {
         "board": [
