@@ -20142,10 +20142,14 @@
         "lucky_hour",
         "night_drop",
         "lucky_hour",
-        "overdrive",
         "lucky_hour"
       ],
-      "activeBooster": null,
+      "activeBooster": {
+        "id": "overdrive",
+        "until": 1792691037799,
+        "multiplier": 1.5,
+        "targetType": null
+      },
       "hotStreak": {
         "count": 0,
         "lastOpen": 0
