@@ -22557,16 +22557,27 @@
     },
     "8167830829": {
       "name": "forever young666⚜️",
-      "coins": 550,
+      "coins": 250,
       "luck": 1,
       "boosts": [],
       "inventory": [
         {
           "file": "m9desert.png",
           "type": "knife"
+        },
+        {
+          "file": "butforest.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "butforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-10-28T20:04:34.594Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -22604,7 +22615,7 @@
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 3,
+          "progress": 4,
           "claimed": false
         },
         "skin_m9_sapphire": {
@@ -22616,10 +22627,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1793217866591,
+      "lastCaseAt": 1793217874153,
       "lastBoosterAt": 0,
       "totalEarned": 450,
-      "totalOpened": 3,
+      "totalOpened": 4,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
