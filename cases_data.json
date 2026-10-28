@@ -13105,11 +13105,17 @@
     },
     "7898636400": {
       "name": "alt21mark",
-      "coins": 1667700,
+      "coins": 1667550,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-10-28T18:25:25.521Z"
+        },
         {
           "kind": "booster",
           "boosterId": "night_drop",
@@ -13133,19 +13139,13 @@
           "amount": 150,
           "caseType": "glove",
           "at": "2026-08-25T16:58:54.552Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-08-25T16:58:34.036Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1787677157903,
+      "lastCaseAt": 1793211924703,
       "lastBoosterAt": 1793211901963,
-      "totalEarned": 684100,
-      "totalOpened": 64,
+      "totalEarned": 684250,
+      "totalOpened": 65,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
@@ -13171,7 +13171,7 @@
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
         "skin_camo_spinner": {
