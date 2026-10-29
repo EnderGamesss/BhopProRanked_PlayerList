@@ -22638,11 +22638,17 @@
     },
     "6359772164": {
       "name": "Денис",
-      "coins": 4250,
+      "coins": 4150,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "spinner",
+          "at": "2026-10-29T02:15:50.668Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -22666,13 +22672,6 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-10-29T02:15:22.269Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitforest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-10-29T02:14:48.976Z"
         }
       ],
       "boosterInventory": [
@@ -22694,7 +22693,7 @@
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 12,
+          "progress": 13,
           "claimed": false
         },
         "skin_butterfly": {
@@ -22706,10 +22705,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1793240141334,
+      "lastCaseAt": 1793240150311,
       "lastBoosterAt": 1793240009049,
-      "totalEarned": 6850,
-      "totalOpened": 13,
+      "totalEarned": 7050,
+      "totalOpened": 14,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
