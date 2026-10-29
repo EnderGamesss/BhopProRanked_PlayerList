@@ -22745,11 +22745,17 @@
     },
     "5546648652": {
       "name": ".",
-      "coins": 4550,
+      "coins": 4350,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "glove",
+          "at": "2026-10-29T20:02:15.339Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -22773,12 +22779,6 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-10-29T20:01:39.133Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "glove",
-          "at": "2026-10-29T20:01:26.380Z"
         }
       ],
       "boosterInventory": [],
@@ -22798,7 +22798,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 8,
+          "progress": 9,
           "claimed": false
         },
         "skin_m9_sapphire": {
@@ -22810,10 +22810,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1793304129662,
+      "lastCaseAt": 1793304134962,
       "lastBoosterAt": 0,
-      "totalEarned": 5950,
-      "totalOpened": 8,
+      "totalEarned": 6050,
+      "totalOpened": 9,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
