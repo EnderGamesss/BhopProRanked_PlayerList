@@ -22745,7 +22745,7 @@
     },
     "5546648652": {
       "name": ".",
-      "coins": 192800,
+      "coins": 192500,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -22756,9 +22756,20 @@
         {
           "file": "thumb-bluestar.png",
           "type": "glove"
+        },
+        {
+          "file": "thumb-bluestar.png",
+          "type": "glove"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-bluestar.png",
+          "chance": 2.5,
+          "caseType": "glove",
+          "at": "2026-10-29T20:15:29.131Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -22783,12 +22794,6 @@
           "chance": 2.5,
           "caseType": "glove",
           "at": "2026-10-29T20:15:07.167Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "glove",
-          "at": "2026-10-29T20:15:01.522Z"
         }
       ],
       "boosterInventory": [],
@@ -22813,7 +22818,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 24,
+          "progress": 25,
           "claimed": false
         },
         "skin_m9_sapphire": {
@@ -22825,10 +22830,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1793304923141,
+      "lastCaseAt": 1793304928684,
       "lastBoosterAt": 1793304833987,
       "totalEarned": 199000,
-      "totalOpened": 25,
+      "totalOpened": 26,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
