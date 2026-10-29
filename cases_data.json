@@ -22638,11 +22638,17 @@
     },
     "6359772164": {
       "name": "Денис",
-      "coins": 2950,
+      "coins": 2850,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-10-29T02:14:34.138Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -22667,12 +22673,6 @@
           "amount": 150,
           "caseType": "glove",
           "at": "2026-10-29T02:13:48.133Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "hot_streak",
-          "caseType": "booster",
-          "at": "2026-10-29T02:13:29.466Z"
         }
       ],
       "boosterInventory": [
@@ -22694,7 +22694,7 @@
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 5,
+          "progress": 6,
           "claimed": false
         },
         "skin_butterfly": {
@@ -22706,10 +22706,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1793240068016,
+      "lastCaseAt": 1793240073767,
       "lastBoosterAt": 1793240009049,
-      "totalEarned": 3450,
-      "totalOpened": 6,
+      "totalEarned": 3650,
+      "totalOpened": 7,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
