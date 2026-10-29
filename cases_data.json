@@ -22674,10 +22674,13 @@
           "at": "2026-10-29T02:15:57.371Z"
         }
       ],
-      "boosterInventory": [
-        "hot_streak"
-      ],
-      "activeBooster": null,
+      "boosterInventory": [],
+      "activeBooster": {
+        "id": "hot_streak",
+        "until": 1793243832116,
+        "multiplier": 1,
+        "targetType": null
+      },
       "hotStreak": {
         "count": 0,
         "lastOpen": 0
