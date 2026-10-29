@@ -23076,13 +23076,22 @@
       "username": "bezbiletn1k"
     },
     "7510443133": {
-      "name": "Player",
+      "name": "Trick",
       "coins": 1000,
       "luck": 1,
       "boosts": [],
       "inventory": [],
-      "history": [],
-      "boosterInventory": [],
+      "history": [
+        {
+          "kind": "booster",
+          "boosterId": "lucky_hour",
+          "caseType": "booster",
+          "at": "2026-10-29T22:18:22.690Z"
+        }
+      ],
+      "boosterInventory": [
+        "lucky_hour"
+      ],
       "activeBooster": null,
       "hotStreak": {
         "count": 0,
@@ -23090,14 +23099,31 @@
       },
       "lastBonus": 0,
       "dailyStreak": 0,
-      "dailyQuestDate": "",
-      "dailyQuestVersion": 0,
-      "dailyQuestIds": [],
-      "dailyQuests": {},
+      "dailyQuestDate": "2026-10-30",
+      "dailyQuestVersion": 2,
+      "dailyQuestIds": [
+        "open_100_cases",
+        "skin_camo_spinner",
+        "skin_m9_desert"
+      ],
+      "dailyQuests": {
+        "open_100_cases": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_camo_spinner": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_m9_desert": {
+          "progress": 0,
+          "claimed": false
+        }
+      },
       "lastCaseAt": 0,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1793312302283,
       "totalEarned": 0,
-      "totalOpened": 0,
+      "totalOpened": 1,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
