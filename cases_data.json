@@ -22745,7 +22745,7 @@
     },
     "5546648652": {
       "name": ".",
-      "coins": 244700,
+      "coins": 244400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -22756,9 +22756,20 @@
         {
           "file": "thumb-North.png",
           "type": "glove"
+        },
+        {
+          "file": "thumb-North.png",
+          "type": "glove"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-North.png",
+          "chance": 7.5,
+          "caseType": "glove",
+          "at": "2026-10-29T20:24:24.676Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -22782,12 +22793,6 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-10-29T20:23:20.272Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-10-29T20:23:10.385Z"
         }
       ],
       "boosterInventory": [],
@@ -22812,7 +22817,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 79,
+          "progress": 80,
           "claimed": false
         },
         "skin_m9_sapphire": {
@@ -22824,10 +22829,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1793305453308,
+      "lastCaseAt": 1793305464299,
       "lastBoosterAt": 1793304833987,
       "totalEarned": 267400,
-      "totalOpened": 80,
+      "totalOpened": 81,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
