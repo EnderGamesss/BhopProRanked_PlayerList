@@ -23124,7 +23124,7 @@
     },
     "8283725836": {
       "name": "sa",
-      "coins": 6250,
+      "coins": 6200,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -23134,6 +23134,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-10-30T18:29:49.448Z"
+        },
         {
           "kind": "skin",
           "file": "butforest.png",
@@ -23158,12 +23164,6 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-10-30T18:29:23.692Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "lucky_hour",
-          "caseType": "booster",
-          "at": "2026-10-30T18:29:03.018Z"
         }
       ],
       "boosterInventory": [],
@@ -23188,7 +23188,7 @@
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 6,
+          "progress": 7,
           "claimed": false
         },
         "skin_m9_desert": {
@@ -23200,10 +23200,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1793384981200,
+      "lastCaseAt": 1793384988400,
       "lastBoosterAt": 1793384942357,
-      "totalEarned": 7050,
-      "totalOpened": 7,
+      "totalEarned": 7300,
+      "totalOpened": 8,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
