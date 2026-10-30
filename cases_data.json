@@ -23130,6 +23130,12 @@
       "inventory": [],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "lucky_hour",
+          "caseType": "booster",
+          "at": "2026-10-30T18:29:03.018Z"
+        },
+        {
           "kind": "skin",
           "file": "thumb-North.png",
           "chance": 7.5,
@@ -23144,7 +23150,9 @@
           "at": "2026-10-30T18:28:39.064Z"
         }
       ],
-      "boosterInventory": [],
+      "boosterInventory": [
+        "lucky_hour"
+      ],
       "activeBooster": null,
       "hotStreak": {
         "count": 0,
@@ -23174,9 +23182,9 @@
         }
       },
       "lastCaseAt": 1793384925562,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1793384942357,
       "totalEarned": 6500,
-      "totalOpened": 2,
+      "totalOpened": 3,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
