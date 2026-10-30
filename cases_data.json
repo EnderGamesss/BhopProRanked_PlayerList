@@ -23124,16 +23124,27 @@
     },
     "8283725836": {
       "name": "sa",
-      "coins": 700,
+      "coins": 400,
       "luck": 1,
       "boosts": [],
       "inventory": [
         {
           "file": "thumb-Mercenery.png",
           "type": "glove"
+        },
+        {
+          "file": "thumb-North.png",
+          "type": "glove"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-North.png",
+          "chance": 7.5,
+          "caseType": "glove",
+          "at": "2026-10-30T18:28:46.512Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-Mercenery.png",
@@ -23159,7 +23170,7 @@
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 1,
+          "progress": 2,
           "claimed": false
         },
         "skin_m9_desert": {
@@ -23171,10 +23182,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1793384918422,
+      "lastCaseAt": 1793384925562,
       "lastBoosterAt": 0,
       "totalEarned": 0,
-      "totalOpened": 1,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
