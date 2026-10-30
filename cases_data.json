@@ -23150,10 +23150,13 @@
           "at": "2026-10-30T18:28:39.064Z"
         }
       ],
-      "boosterInventory": [
-        "lucky_hour"
-      ],
-      "activeBooster": null,
+      "boosterInventory": [],
+      "activeBooster": {
+        "id": "lucky_hour",
+        "until": 1793388554092,
+        "multiplier": 1.25,
+        "targetType": null
+      },
       "hotStreak": {
         "count": 0,
         "lastOpen": 0
