@@ -23124,11 +23124,17 @@
     },
     "8283725836": {
       "name": "sa",
-      "coins": 6600,
+      "coins": 6550,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-10-30T18:29:35.863Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -23153,13 +23159,6 @@
           "chance": 7.5,
           "caseType": "glove",
           "at": "2026-10-30T18:28:46.512Z"
-        },
-        {
-          "kind": "skin",
-          "file": "thumb-Mercenery.png",
-          "chance": 8.5,
-          "caseType": "glove",
-          "at": "2026-10-30T18:28:39.064Z"
         }
       ],
       "boosterInventory": [],
@@ -23184,7 +23183,7 @@
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 4,
+          "progress": 5,
           "claimed": false
         },
         "skin_m9_desert": {
@@ -23196,10 +23195,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1793384968363,
+      "lastCaseAt": 1793384975091,
       "lastBoosterAt": 1793384942357,
-      "totalEarned": 6800,
-      "totalOpened": 5,
+      "totalEarned": 7050,
+      "totalOpened": 6,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
