@@ -10313,7 +10313,7 @@
     },
     "6393789306": {
       "name": "Скалероз",
-      "coins": 700,
+      "coins": 650,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -10323,6 +10323,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "glove",
+          "at": "2026-11-01T16:16:54.381Z"
+        },
         {
           "kind": "booster",
           "boosterId": "hot_streak",
@@ -10338,10 +10344,10 @@
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1786823058504,
+      "lastCaseAt": 1793549813773,
       "lastBoosterAt": 1793549803266,
-      "totalEarned": 0,
-      "totalOpened": 2,
+      "totalEarned": 250,
+      "totalOpened": 3,
       "unknownUntil": 0,
       "achievements": [],
       "username": "nicopatty_larp2",
@@ -10363,7 +10369,7 @@
       ],
       "dailyQuests": {
         "open_15_cases": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
         "skin_m9_desert": {
