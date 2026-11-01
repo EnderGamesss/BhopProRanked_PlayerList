@@ -22805,11 +22805,23 @@
     },
     "5546648652": {
       "name": ".",
-      "coins": 279150,
+      "coins": 278850,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitdesert.png",
+          "type": "knife"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-11-01T21:07:41.188Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -22835,12 +22847,6 @@
           "chance": 2,
           "caseType": "spinner",
           "at": "2026-10-30T05:47:21.294Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-10-29T20:24:45.013Z"
         }
       ],
       "boosterInventory": [],
@@ -22865,7 +22871,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 3,
+          "progress": 4,
           "claimed": false
         },
         "skin_thumb_fairy": {
@@ -22877,10 +22883,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1793567255488,
+      "lastCaseAt": 1793567260945,
       "lastBoosterAt": 1793304833987,
       "totalEarned": 303950,
-      "totalOpened": 87,
+      "totalOpened": 88,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
