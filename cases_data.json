@@ -22805,16 +22805,27 @@
     },
     "5546648652": {
       "name": ".",
-      "coins": 261800,
+      "coins": 261500,
       "luck": 1,
       "boosts": [],
       "inventory": [
         {
           "file": "thumb-basic-spinner-5.png",
           "type": "spinner"
+        },
+        {
+          "file": "thumb-Military.png",
+          "type": "glove"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "thumb-Military.png",
+          "chance": 8,
+          "caseType": "glove",
+          "at": "2026-11-01T21:07:15.571Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-basic-spinner-5.png",
@@ -22840,12 +22851,6 @@
           "chance": 7.5,
           "caseType": "glove",
           "at": "2026-10-29T20:24:24.676Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-10-29T20:24:14.093Z"
         }
       ],
       "boosterInventory": [],
@@ -22861,31 +22866,31 @@
       },
       "lastBonus": 1793304150972,
       "dailyStreak": 1,
-      "dailyQuestDate": "2026-10-30",
+      "dailyQuestDate": "2026-11-02",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
         "open_100_cases",
-        "skin_m9_sapphire",
-        "skin_m9_desert"
+        "skin_thumb_fairy",
+        "skin_m9_sapphire"
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 83,
+          "progress": 1,
+          "claimed": false
+        },
+        "skin_thumb_fairy": {
+          "progress": 0,
           "claimed": false
         },
         "skin_m9_sapphire": {
           "progress": 0,
           "claimed": false
-        },
-        "skin_m9_desert": {
-          "progress": 0,
-          "claimed": false
         }
       },
-      "lastCaseAt": 1793339241000,
+      "lastCaseAt": 1793567235234,
       "lastBoosterAt": 1793304833987,
       "totalEarned": 285700,
-      "totalOpened": 84,
+      "totalOpened": 85,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
