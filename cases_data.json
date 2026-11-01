@@ -22805,11 +22805,17 @@
     },
     "5546648652": {
       "name": ".",
-      "coins": 403250,
+      "coins": 403200,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "knife",
+          "at": "2026-11-01T21:10:50.872Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -22833,12 +22839,6 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-11-01T21:10:04.650Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "glove",
-          "at": "2026-11-01T21:09:58.903Z"
         }
       ],
       "boosterInventory": [],
@@ -22863,7 +22863,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 20,
+          "progress": 21,
           "claimed": false
         },
         "skin_thumb_fairy": {
@@ -22875,10 +22875,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1793567444711,
+      "lastCaseAt": 1793567450257,
       "lastBoosterAt": 1793304833987,
-      "totalEarned": 433150,
-      "totalOpened": 104,
+      "totalEarned": 433400,
+      "totalOpened": 105,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
