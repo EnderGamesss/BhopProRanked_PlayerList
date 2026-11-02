@@ -988,10 +988,14 @@
       ],
       "equippedCharm": "mythical_charm",
       "boosterInventory": [
-        "night_drop",
-        "overdrive"
+        "night_drop"
       ],
-      "activeBooster": null,
+      "activeBooster": {
+        "id": "overdrive",
+        "until": 1793630242543,
+        "multiplier": 1.5,
+        "targetType": null
+      },
       "hotStreak": {
         "count": 0,
         "lastOpen": 0
