@@ -23300,13 +23300,21 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "lucky_hour",
+          "caseType": "booster",
+          "at": "2026-11-05T13:09:51.898Z"
+        },
+        {
           "kind": "coins",
           "amount": 750,
           "caseType": "glove",
           "at": "2026-11-05T13:09:24.439Z"
         }
       ],
-      "boosterInventory": [],
+      "boosterInventory": [
+        "lucky_hour"
+      ],
       "activeBooster": null,
       "hotStreak": {
         "count": 0,
@@ -23336,9 +23344,9 @@
         }
       },
       "lastCaseAt": 1793884163829,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1793884191293,
       "totalEarned": 750,
-      "totalOpened": 1,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": []
