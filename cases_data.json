@@ -13232,11 +13232,15 @@
       ],
       "username": "alternate_21mark",
       "boosterInventory": [
-        "target_boost",
         "night_drop",
         "target_boost"
       ],
-      "activeBooster": null,
+      "activeBooster": {
+        "id": "target_boost",
+        "until": 1794122386284,
+        "multiplier": 1.4,
+        "targetType": "knife"
+      },
       "hotStreak": {
         "count": 0,
         "lastOpen": 0
@@ -13263,7 +13267,7 @@
           "claimed": false
         }
       },
-      "pendingBooster": "target_boost"
+      "pendingBooster": null
     },
     "5256476770": {
       "name": "сансет фан",
