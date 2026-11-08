@@ -13183,12 +13183,18 @@
       ]
     },
     "7898636400": {
-      "name": "alt21mark",
+      "name": "ａｌｔ２１ｍａｒｋ",
       "coins": 1692700,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "booster",
+          "boosterId": "target_boost",
+          "caseType": "booster",
+          "at": "2026-11-08T06:59:11.197Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -13212,19 +13218,13 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-10-28T18:27:34.080Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "knife",
-          "at": "2026-10-28T18:25:44.988Z"
         }
       ],
       "lastBonus": 0,
       "lastCaseAt": 1793212109035,
-      "lastBoosterAt": 1793211901963,
+      "lastBoosterAt": 1794121150420,
       "totalEarned": 711500,
-      "totalOpened": 72,
+      "totalOpened": 73,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
@@ -13233,7 +13233,8 @@
       "username": "alternate_21mark",
       "boosterInventory": [
         "target_boost",
-        "night_drop"
+        "night_drop",
+        "target_boost"
       ],
       "activeBooster": null,
       "hotStreak": {
@@ -13241,23 +13242,23 @@
         "lastOpen": 0
       },
       "dailyStreak": 0,
-      "dailyQuestDate": "2026-10-28",
+      "dailyQuestDate": "2026-11-08",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
-        "open_5_cases",
-        "skin_camo_spinner",
-        "skin_thumb_fairy"
+        "open_15_cases",
+        "skin_m9_desert",
+        "skin_m9_sapphire"
       ],
       "dailyQuests": {
-        "open_5_cases": {
-          "progress": 5,
-          "claimed": true
-        },
-        "skin_camo_spinner": {
+        "open_15_cases": {
           "progress": 0,
           "claimed": false
         },
-        "skin_thumb_fairy": {
+        "skin_m9_desert": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_m9_sapphire": {
           "progress": 0,
           "claimed": false
         }
