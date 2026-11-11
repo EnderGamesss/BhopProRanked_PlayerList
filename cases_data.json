@@ -20176,7 +20176,7 @@
     },
     "5282819350": {
       "name": "А",
-      "coins": 3323200,
+      "coins": 3322900,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -20236,9 +20236,20 @@
         {
           "file": "karambitforest.png",
           "type": "knife"
+        },
+        {
+          "file": "m9spitfire.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9spitfire.png",
+          "chance": 0.05,
+          "caseType": "knife",
+          "at": "2026-11-11T13:48:24.265Z"
+        },
         {
           "kind": "skin",
           "file": "karambitforest.png",
@@ -20265,13 +20276,6 @@
           "amount": 500,
           "caseType": "knife",
           "at": "2026-11-11T13:48:00.057Z"
-        },
-        {
-          "kind": "skin",
-          "file": "butforest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-11-11T13:47:49.318Z"
         }
       ],
       "boosterInventory": [
@@ -20308,7 +20312,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 19,
+          "progress": 20,
           "claimed": false
         },
         "skin_camo_spinner": {
@@ -20320,10 +20324,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1794404898279,
+      "lastCaseAt": 1794404903623,
       "lastBoosterAt": 1794404606239,
       "totalEarned": 2389700,
-      "totalOpened": 239,
+      "totalOpened": 240,
       "unknownUntil": 1792596792317,
       "memoryGame": {
         "board": [
