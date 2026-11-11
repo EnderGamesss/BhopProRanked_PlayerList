@@ -23450,6 +23450,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "lucky_hour",
+          "caseType": "booster",
+          "at": "2026-11-11T14:24:20.796Z"
+        },
+        {
           "kind": "coins",
           "amount": 200,
           "caseType": "knife",
@@ -23463,7 +23469,9 @@
           "at": "2026-11-11T14:23:57.756Z"
         }
       ],
-      "boosterInventory": [],
+      "boosterInventory": [
+        "lucky_hour"
+      ],
       "activeBooster": null,
       "hotStreak": {
         "count": 0,
@@ -23493,9 +23501,9 @@
         }
       },
       "lastCaseAt": 1794407043899,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1794407060328,
       "totalEarned": 22700,
-      "totalOpened": 2,
+      "totalOpened": 3,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
