@@ -20224,6 +20224,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "chaos_boost",
+          "caseType": "booster",
+          "at": "2026-11-11T05:13:29.350Z"
+        },
+        {
           "kind": "coins",
           "amount": 200,
           "caseType": "knife",
@@ -20247,12 +20253,6 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-11-09T16:53:46.304Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-11-09T16:53:39.191Z"
         }
       ],
       "boosterInventory": [
@@ -20264,7 +20264,8 @@
         "lucky_hour",
         "lucky_hour",
         "target_boost",
-        "lucky_hour"
+        "lucky_hour",
+        "chaos_boost"
       ],
       "activeBooster": {
         "id": "overdrive",
@@ -20278,19 +20279,19 @@
       },
       "lastBonus": 1794373986578,
       "dailyStreak": 2,
-      "dailyQuestDate": "2026-11-09",
+      "dailyQuestDate": "2026-11-11",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
-        "open_5_cases",
-        "skin_m9_desert",
+        "open_100_cases",
+        "skin_camo_spinner",
         "skin_butterfly"
       ],
       "dailyQuests": {
-        "open_5_cases": {
-          "progress": 5,
-          "claimed": true
+        "open_100_cases": {
+          "progress": 0,
+          "claimed": false
         },
-        "skin_m9_desert": {
+        "skin_camo_spinner": {
           "progress": 0,
           "claimed": false
         },
@@ -20300,9 +20301,9 @@
         }
       },
       "lastCaseAt": 1794243246911,
-      "lastBoosterAt": 1794242742924,
+      "lastBoosterAt": 1794374009021,
       "totalEarned": 2133850,
-      "totalOpened": 217,
+      "totalOpened": 218,
       "unknownUntil": 1792596792317,
       "memoryGame": {
         "board": [
