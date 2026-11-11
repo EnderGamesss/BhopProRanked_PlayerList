@@ -23439,7 +23439,7 @@
     },
     "5011555484": {
       "name": "Omniscient",
-      "coins": 22750,
+      "coins": 22600,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -23449,6 +23449,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 150,
+          "caseType": "knife",
+          "at": "2026-11-11T14:24:54.921Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -23472,12 +23478,6 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-11-11T14:24:29.705Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "lucky_hour",
-          "caseType": "booster",
-          "at": "2026-11-11T14:24:20.796Z"
         }
       ],
       "boosterInventory": [
@@ -23511,10 +23511,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1794407088116,
+      "lastCaseAt": 1794407094589,
       "lastBoosterAt": 1794407060328,
-      "totalEarned": 23550,
-      "totalOpened": 7,
+      "totalEarned": 23700,
+      "totalOpened": 8,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
