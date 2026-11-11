@@ -20256,6 +20256,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "overdrive",
+          "caseType": "booster",
+          "at": "2026-11-11T17:10:15.334Z"
+        },
+        {
           "kind": "coins",
           "amount": 1000,
           "caseType": "knife",
@@ -20278,12 +20284,6 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-11-11T13:53:19.094Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-11-11T13:53:13.657Z"
         }
       ],
       "boosterInventory": [
@@ -20297,7 +20297,8 @@
         "target_boost",
         "lucky_hour",
         "target_boost",
-        "night_drop"
+        "night_drop",
+        "overdrive"
       ],
       "activeBooster": {
         "id": "chaos_boost",
@@ -20333,9 +20334,9 @@
         }
       },
       "lastCaseAt": 1794405296803,
-      "lastBoosterAt": 1794404606239,
+      "lastBoosterAt": 1794417014946,
       "totalEarned": 2394650,
-      "totalOpened": 264,
+      "totalOpened": 265,
       "unknownUntil": 1792596792317,
       "memoryGame": {
         "board": [
