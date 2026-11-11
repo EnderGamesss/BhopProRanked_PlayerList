@@ -23439,7 +23439,7 @@
     },
     "5011555484": {
       "name": "Omniscient",
-      "coins": 23200,
+      "coins": 23100,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -23449,6 +23449,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-11-11T14:24:04.373Z"
+        },
         {
           "kind": "skin",
           "file": "butsnake.png",
@@ -23474,7 +23480,7 @@
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 1,
+          "progress": 2,
           "claimed": false
         },
         "skin_butterfly": {
@@ -23486,10 +23492,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1794407037293,
+      "lastCaseAt": 1794407043899,
       "lastBoosterAt": 0,
-      "totalEarned": 22500,
-      "totalOpened": 1,
+      "totalEarned": 22700,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
