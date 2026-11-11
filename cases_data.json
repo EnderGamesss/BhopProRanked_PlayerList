@@ -20221,6 +20221,12 @@
       "history": [
         {
           "kind": "booster",
+          "boosterId": "night_drop",
+          "caseType": "booster",
+          "at": "2026-11-11T13:43:26.623Z"
+        },
+        {
+          "kind": "booster",
           "boosterId": "target_boost",
           "caseType": "booster",
           "at": "2026-11-11T06:11:51.419Z"
@@ -20242,13 +20248,6 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-11-09T16:53:58.488Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitforest.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-11-09T16:53:51.520Z"
         }
       ],
       "boosterInventory": [
@@ -20261,7 +20260,8 @@
         "lucky_hour",
         "target_boost",
         "lucky_hour",
-        "target_boost"
+        "target_boost",
+        "night_drop"
       ],
       "activeBooster": {
         "id": "chaos_boost",
@@ -20297,9 +20297,9 @@
         }
       },
       "lastCaseAt": 1794243246911,
-      "lastBoosterAt": 1794377510820,
+      "lastBoosterAt": 1794404606239,
       "totalEarned": 2386850,
-      "totalOpened": 219,
+      "totalOpened": 220,
       "unknownUntil": 1792596792317,
       "memoryGame": {
         "board": [
