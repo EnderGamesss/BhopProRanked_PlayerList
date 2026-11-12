@@ -4740,7 +4740,7 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 3029600,
+      "coins": 3029300,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -4767,9 +4767,20 @@
         {
           "file": "m9desert.png",
           "type": "knife"
+        },
+        {
+          "file": "karambitforest.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitforest.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-11-12T16:14:54.649Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -4793,21 +4804,14 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-11-12T16:14:05.026Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9desert.png",
-          "chance": 0.9,
-          "caseType": "knife",
-          "at": "2026-11-12T16:13:52.132Z"
         }
       ],
       "lastBonus": 1794476301875,
-      "lastCaseAt": 1794500063926,
+      "lastCaseAt": 1794500094164,
       "lastBoosterAt": 1794499360042,
       "totalEarned": 5264800,
       "username": "bogdansert",
-      "totalOpened": 48,
+      "totalOpened": 49,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
@@ -5075,7 +5079,7 @@
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 26,
+          "progress": 27,
           "claimed": false
         },
         "skin_camo_spinner": {
