@@ -4755,6 +4755,10 @@
         {
           "file": "m9tiger.png",
           "type": "knife"
+        },
+        {
+          "file": "prettyspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
@@ -5009,9 +5013,9 @@
           false,
           true,
           false,
+          true,
           false,
-          false,
-          false,
+          true,
           false,
           true,
           false,
@@ -5026,7 +5030,7 @@
           false
         ],
         "pairCount": 12,
-        "attempts": 2,
+        "attempts": 1,
         "status": "playing",
         "flipStage": "wait_first",
         "firstFlip": null,
