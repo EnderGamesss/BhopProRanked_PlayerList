@@ -23913,11 +23913,23 @@
     },
     "7741112397": {
       "name": "Hugo",
-      "coins": 23500,
+      "coins": 23200,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitdesert.png",
+          "type": "knife"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-11-12T13:47:53.849Z"
+        },
         {
           "kind": "booster",
           "boosterId": "hot_streak",
@@ -23944,7 +23956,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
         "skin_butterfly": {
@@ -23956,10 +23968,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 0,
+      "lastCaseAt": 1794491273021,
       "lastBoosterAt": 1794491253460,
       "totalEarned": 22500,
-      "totalOpened": 1,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
