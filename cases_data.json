@@ -5048,10 +5048,14 @@
       "boosterInventory": [
         "night_drop",
         "hot_streak",
-        "lucky_hour",
         "night_drop"
       ],
-      "activeBooster": null,
+      "activeBooster": {
+        "id": "lucky_hour",
+        "until": 1794503305517,
+        "multiplier": 1.25,
+        "targetType": null
+      },
       "hotStreak": {
         "count": 0,
         "lastOpen": 0
