@@ -4724,7 +4724,7 @@
     },
     "5467219654": {
       "name": "Ичпочмах",
-      "coins": 3934200,
+      "coins": 3934650,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -4734,6 +4734,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "spinner",
+          "at": "2026-11-12T10:17:12.031Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -4758,20 +4764,14 @@
           "boosterId": "lucky_hour",
           "caseType": "booster",
           "at": "2026-11-12T10:15:18.702Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "spinner",
-          "at": "2026-09-23T13:37:48.593Z"
         }
       ],
       "lastBonus": 1794476301875,
-      "lastCaseAt": 1794478625326,
+      "lastCaseAt": 1794478631463,
       "lastBoosterAt": 1794478518290,
-      "totalEarned": 5062600,
+      "totalEarned": 5063350,
       "username": "bogdansert",
-      "totalOpened": 24,
+      "totalOpened": 25,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
@@ -5034,7 +5034,7 @@
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 3,
+          "progress": 4,
           "claimed": false
         },
         "skin_camo_spinner": {
