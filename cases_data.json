@@ -20488,7 +20488,7 @@
     },
     "5282819350": {
       "name": "А",
-      "coins": 5322450,
+      "coins": 5322150,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -20540,9 +20540,20 @@
         {
           "file": "m9desert.png",
           "type": "knife"
+        },
+        {
+          "file": "karambitkoi.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitkoi.png",
+          "chance": 0.25,
+          "caseType": "knife",
+          "at": "2026-11-12T16:15:25.354Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -20566,12 +20577,6 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-11-12T16:14:45.553Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-11-12T16:14:39.662Z"
         }
       ],
       "boosterInventory": [
@@ -20622,10 +20627,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1794500103401,
+      "lastCaseAt": 1794500124777,
       "lastBoosterAt": 1794499271103,
       "totalEarned": 2604050,
-      "totalOpened": 291,
+      "totalOpened": 292,
       "unknownUntil": 1792596792317,
       "memoryGame": {
         "board": [
