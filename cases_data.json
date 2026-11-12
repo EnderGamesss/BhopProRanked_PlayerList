@@ -20491,9 +20491,14 @@
     },
     "5282819350": {
       "name": "А",
-      "coins": 5322150,
+      "coins": 4322150,
       "luck": 1,
-      "boosts": [],
+      "boosts": [
+        {
+          "id": "lucky_charm",
+          "at": "2026-11-12T16:18:21.375Z"
+        }
+      ],
       "inventory": [
         {
           "file": "m9aura.png",
@@ -20876,7 +20881,8 @@
         "open_100",
         "earn_1m"
       ],
-      "username": "AAA15308"
+      "username": "AAA15308",
+      "equippedCharm": "lucky_charm"
     },
     "7988434212": {
       "name": "Wenoy",
