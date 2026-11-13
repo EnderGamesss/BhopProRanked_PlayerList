@@ -4743,7 +4743,12 @@
       "coins": 3473850,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambit-hotline.png",
+          "type": "knife"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -4995,6 +5000,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -5012,8 +5018,7 @@
           false,
           false,
           false,
-          false,
-          false
+          true
         ],
         "pairCount": 12,
         "attempts": 4,
