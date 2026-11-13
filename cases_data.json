@@ -4751,6 +4751,10 @@
         {
           "file": "m9razor.png",
           "type": "knife"
+        },
+        {
+          "file": "m9spitfire.png",
+          "type": "knife"
         }
       ],
       "history": [
@@ -5007,17 +5011,17 @@
           false,
           false,
           false,
-          false,
+          true,
           true,
           false,
           false,
           false,
           false,
           false,
-          false
+          true
         ],
         "pairCount": 12,
-        "attempts": 2,
+        "attempts": 1,
         "status": "playing",
         "flipStage": "wait_first",
         "firstFlip": null,
