@@ -4743,7 +4743,12 @@
       "coins": 3878850,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9razor.png",
+          "type": "knife"
+        }
+      ],
       "history": [
         {
           "kind": "booster",
@@ -4990,6 +4995,7 @@
           false,
           false,
           false,
+          true,
           false,
           false,
           false,
@@ -4998,8 +5004,7 @@
           false,
           false,
           false,
-          false,
-          false,
+          true,
           false,
           false,
           false,
@@ -5008,7 +5013,7 @@
           false
         ],
         "pairCount": 12,
-        "attempts": 4,
+        "attempts": 6,
         "status": "playing",
         "flipStage": "wait_first",
         "firstFlip": null,
