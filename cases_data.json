@@ -4746,6 +4746,12 @@
       "inventory": [],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "night_drop",
+          "caseType": "booster",
+          "at": "2026-11-13T06:46:11.868Z"
+        },
+        {
           "kind": "coins",
           "amount": 100,
           "caseType": "knife",
@@ -4768,20 +4774,14 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-11-12T16:19:20.902Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-11-12T16:19:14.217Z"
         }
       ],
       "lastBonus": 1794476301875,
       "lastCaseAt": 1794500387722,
-      "lastBoosterAt": 1794499360042,
+      "lastBoosterAt": 1794552371424,
       "totalEarned": 6524250,
       "username": "bogdansert",
-      "totalOpened": 82,
+      "totalOpened": 83,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
@@ -5032,7 +5032,8 @@
         "night_drop",
         "hot_streak",
         "night_drop",
-        "target_boost"
+        "target_boost",
+        "night_drop"
       ],
       "activeBooster": {
         "id": "lucky_hour",
@@ -5045,25 +5046,25 @@
         "lastOpen": 0
       },
       "dailyStreak": 1,
-      "dailyQuestDate": "2026-11-12",
+      "dailyQuestDate": "2026-11-13",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
-        "open_50_cases",
-        "skin_camo_spinner",
+        "open_100_cases",
+        "skin_m9_sapphire",
         "skin_m9_desert"
       ],
       "dailyQuests": {
-        "open_50_cases": {
-          "progress": 50,
-          "claimed": true
+        "open_100_cases": {
+          "progress": 0,
+          "claimed": false
         },
-        "skin_camo_spinner": {
-          "progress": 1,
-          "claimed": true
+        "skin_m9_sapphire": {
+          "progress": 0,
+          "claimed": false
         },
         "skin_m9_desert": {
-          "progress": 1,
-          "claimed": true
+          "progress": 0,
+          "claimed": false
         }
       }
     },
