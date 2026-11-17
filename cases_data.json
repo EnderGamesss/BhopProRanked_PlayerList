@@ -20545,6 +20545,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "overdrive",
+          "caseType": "booster",
+          "at": "2026-11-17T18:10:02.942Z"
+        },
+        {
           "kind": "skin",
           "file": "karambittiger.png",
           "chance": 0.05,
@@ -20568,13 +20574,6 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-11-12T16:18:56.078Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambitkoi.png",
-          "chance": 0.25,
-          "caseType": "knife",
-          "at": "2026-11-12T16:15:25.354Z"
         }
       ],
       "boosterInventory": [
@@ -20590,7 +20589,8 @@
         "target_boost",
         "night_drop",
         "overdrive",
-        "hot_streak"
+        "hot_streak",
+        "overdrive"
       ],
       "activeBooster": {
         "id": "chaos_boost",
@@ -20604,31 +20604,31 @@
       },
       "lastBonus": 1794938983975,
       "dailyStreak": 1,
-      "dailyQuestDate": "2026-11-12",
+      "dailyQuestDate": "2026-11-17",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
-        "open_5_cases",
-        "skin_camo_spinner",
-        "skin_butterfly"
+        "open_15_cases",
+        "skin_m9_desert",
+        "skin_camo_spinner"
       ],
       "dailyQuests": {
-        "open_5_cases": {
-          "progress": 5,
-          "claimed": true
-        },
-        "skin_camo_spinner": {
+        "open_15_cases": {
           "progress": 0,
           "claimed": false
         },
-        "skin_butterfly": {
+        "skin_m9_desert": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_camo_spinner": {
           "progress": 0,
           "claimed": false
         }
       },
       "lastCaseAt": 1794500543845,
-      "lastBoosterAt": 1794499271103,
+      "lastBoosterAt": 1794939001956,
       "totalEarned": 2732000,
-      "totalOpened": 296,
+      "totalOpened": 297,
       "unknownUntil": 1792596792317,
       "memoryGame": {
         "board": [
