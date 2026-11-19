@@ -10371,11 +10371,17 @@
     },
     "6393789306": {
       "name": "Скалероз",
-      "coins": 17700,
+      "coins": 17500,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-11-19T12:27:37.815Z"
+        },
         {
           "kind": "coins",
           "amount": 150,
@@ -10400,19 +10406,13 @@
           "boosterId": "overdrive",
           "caseType": "booster",
           "at": "2026-11-19T12:25:50.445Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 500,
-          "caseType": "glove",
-          "at": "2026-11-01T16:17:00.769Z"
         }
       ],
       "lastBonus": 0,
-      "lastCaseAt": 1795091252102,
+      "lastCaseAt": 1795091257422,
       "lastBoosterAt": 1795091149905,
-      "totalEarned": 18500,
-      "totalOpened": 8,
+      "totalEarned": 18600,
+      "totalOpened": 9,
       "unknownUntil": 0,
       "achievements": [],
       "username": "cat_pidrik",
@@ -10435,7 +10435,7 @@
       ],
       "dailyQuests": {
         "open_50_cases": {
-          "progress": 3,
+          "progress": 4,
           "claimed": false
         },
         "skin_butterfly": {
