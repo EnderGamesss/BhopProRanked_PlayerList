@@ -13484,11 +13484,23 @@
     },
     "7898636400": {
       "name": "Ｓｈ１ｅｓｔｙ ｐｆｐ",
-      "coins": 1714200,
+      "coins": 1713900,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambitdesert.png",
+          "type": "knife"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-11-20T18:02:19.137Z"
+        },
         {
           "kind": "booster",
           "boosterId": "overdrive",
@@ -13512,19 +13524,13 @@
           "amount": 100,
           "caseType": "knife",
           "at": "2026-11-08T07:00:51.922Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-11-08T07:00:39.488Z"
         }
       ],
       "lastBonus": 1795197582982,
-      "lastCaseAt": 1794121266260,
+      "lastCaseAt": 1795197738714,
       "lastBoosterAt": 1795197671847,
       "totalEarned": 735400,
-      "totalOpened": 82,
+      "totalOpened": 83,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
@@ -13555,7 +13561,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
         "skin_camo_spinner": {
