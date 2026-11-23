@@ -24807,6 +24807,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "lucky_hour",
+          "caseType": "booster",
+          "at": "2026-11-23T13:07:28.573Z"
+        },
+        {
           "kind": "skin",
           "file": "ironaquaspinner.png",
           "chance": 1,
@@ -24830,16 +24836,11 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-11-23T12:41:28.448Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-11-23T12:41:21.117Z"
         }
       ],
       "boosterInventory": [
-        "hot_streak"
+        "hot_streak",
+        "lucky_hour"
       ],
       "activeBooster": null,
       "hotStreak": {
@@ -24870,9 +24871,9 @@
         }
       },
       "lastCaseAt": 1795437706605,
-      "lastBoosterAt": 1795437395732,
+      "lastBoosterAt": 1795439248317,
       "totalEarned": 76350,
-      "totalOpened": 20,
+      "totalOpened": 21,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
