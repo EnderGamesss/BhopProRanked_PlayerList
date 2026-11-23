@@ -24794,11 +24794,17 @@
     },
     "8663597361": {
       "name": "NeНормалды",
-      "coins": 533450,
+      "coins": 533350,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "spinner",
+          "at": "2026-11-23T20:33:17.938Z"
+        },
         {
           "kind": "booster",
           "boosterId": "overdrive",
@@ -24822,12 +24828,6 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-11-23T13:18:58.740Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-11-23T13:18:50.672Z"
         }
       ],
       "boosterInventory": [
@@ -24851,7 +24851,7 @@
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
         "skin_m9_desert": {
@@ -24863,10 +24863,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1795439950233,
+      "lastCaseAt": 1795465997528,
       "lastBoosterAt": 1795465975072,
-      "totalEarned": 548950,
-      "totalOpened": 58,
+      "totalEarned": 549150,
+      "totalOpened": 59,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
