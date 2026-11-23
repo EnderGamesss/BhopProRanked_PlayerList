@@ -24802,13 +24802,21 @@
       "inventory": [],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "hot_streak",
+          "caseType": "booster",
+          "at": "2026-11-23T12:36:36.567Z"
+        },
+        {
           "kind": "coins",
           "amount": 250,
           "caseType": "spinner",
           "at": "2026-11-23T12:33:33.742Z"
         }
       ],
-      "boosterInventory": [],
+      "boosterInventory": [
+        "hot_streak"
+      ],
       "activeBooster": null,
       "hotStreak": {
         "count": 0,
@@ -24838,9 +24846,9 @@
         }
       },
       "lastCaseAt": 1795437213463,
-      "lastBoosterAt": 0,
+      "lastBoosterAt": 1795437395732,
       "totalEarned": 250,
-      "totalOpened": 1,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
