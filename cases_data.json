@@ -24696,16 +24696,27 @@
     },
     "9128352253": {
       "name": "Serpium1337",
-      "coins": 450,
+      "coins": 150,
       "luck": 1,
       "boosts": [],
       "inventory": [
         {
           "file": "thumb-basic-spinner-5.png",
           "type": "spinner"
+        },
+        {
+          "file": "skullspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "skullspinner.png",
+          "chance": 0.4,
+          "caseType": "spinner",
+          "at": "2026-11-23T12:25:40.537Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -24730,12 +24741,6 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-11-23T12:24:10.197Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-11-23T12:24:02.210Z"
         }
       ],
       "boosterInventory": [],
@@ -24760,7 +24765,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 8,
+          "progress": 9,
           "claimed": false
         },
         "skin_m9_sapphire": {
@@ -24772,10 +24777,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1795436732815,
+      "lastCaseAt": 1795436740278,
       "lastBoosterAt": 1795381794591,
       "totalEarned": 1850,
-      "totalOpened": 9,
+      "totalOpened": 10,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
