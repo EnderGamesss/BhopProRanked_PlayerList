@@ -24796,7 +24796,7 @@
     },
     "8663597361": {
       "name": "NeНормалды",
-      "coins": 71300,
+      "coins": 71250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -24806,6 +24806,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 250,
+          "caseType": "spinner",
+          "at": "2026-11-23T13:08:04.166Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -24829,13 +24835,6 @@
           "boosterId": "lucky_hour",
           "caseType": "booster",
           "at": "2026-11-23T13:07:28.573Z"
-        },
-        {
-          "kind": "skin",
-          "file": "ironaquaspinner.png",
-          "chance": 1,
-          "caseType": "spinner",
-          "at": "2026-11-23T12:41:47.025Z"
         }
       ],
       "boosterInventory": [
@@ -24858,7 +24857,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 22,
+          "progress": 23,
           "claimed": false
         },
         "skin_thumb_fairy": {
@@ -24870,10 +24869,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1795439278128,
+      "lastCaseAt": 1795439283721,
       "lastBoosterAt": 1795439248317,
-      "totalEarned": 76900,
-      "totalOpened": 24,
+      "totalEarned": 77150,
+      "totalOpened": 25,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
