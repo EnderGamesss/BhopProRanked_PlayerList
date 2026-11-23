@@ -24794,7 +24794,7 @@
     },
     "8663597361": {
       "name": "NeНормалды",
-      "coins": 70150,
+      "coins": 69850,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -24825,9 +24825,20 @@
         {
           "file": "thumb-basic-spinner-5.png",
           "type": "spinner"
+        },
+        {
+          "file": "skullspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "skullspinner.png",
+          "chance": 0.4,
+          "caseType": "spinner",
+          "at": "2026-11-23T13:18:16.655Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-basic-spinner-5.png",
@@ -24854,12 +24865,6 @@
           "chance": 1,
           "caseType": "spinner",
           "at": "2026-11-23T13:17:52.959Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "spinner",
-          "at": "2026-11-23T13:17:47.893Z"
         }
       ],
       "boosterInventory": [
@@ -24882,7 +24887,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 45,
+          "progress": 46,
           "claimed": false
         },
         "skin_thumb_fairy": {
@@ -24894,10 +24899,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1795439890658,
+      "lastCaseAt": 1795439895765,
       "lastBoosterAt": 1795439248317,
       "totalEarned": 82650,
-      "totalOpened": 47,
+      "totalOpened": 48,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
