@@ -24800,6 +24800,12 @@
       "inventory": [],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "overdrive",
+          "caseType": "booster",
+          "at": "2026-11-23T20:32:55.530Z"
+        },
+        {
           "kind": "coins",
           "amount": 250,
           "caseType": "spinner",
@@ -24822,17 +24828,12 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-11-23T13:18:50.672Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "spinner",
-          "at": "2026-11-23T13:18:46.000Z"
         }
       ],
       "boosterInventory": [
         "hot_streak",
-        "lucky_hour"
+        "lucky_hour",
+        "overdrive"
       ],
       "activeBooster": null,
       "hotStreak": {
@@ -24841,31 +24842,31 @@
       },
       "lastBonus": 1795439146230,
       "dailyStreak": 1,
-      "dailyQuestDate": "2026-11-23",
+      "dailyQuestDate": "2026-11-24",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
-        "open_100_cases",
-        "skin_thumb_fairy",
-        "skin_m9_sapphire"
+        "open_5_cases",
+        "skin_m9_desert",
+        "skin_butterfly"
       ],
       "dailyQuests": {
-        "open_100_cases": {
-          "progress": 55,
-          "claimed": false
-        },
-        "skin_thumb_fairy": {
+        "open_5_cases": {
           "progress": 0,
           "claimed": false
         },
-        "skin_m9_sapphire": {
+        "skin_m9_desert": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_butterfly": {
           "progress": 0,
           "claimed": false
         }
       },
       "lastCaseAt": 1795439950233,
-      "lastBoosterAt": 1795439248317,
+      "lastBoosterAt": 1795465975072,
       "totalEarned": 548950,
-      "totalOpened": 57,
+      "totalOpened": 58,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
