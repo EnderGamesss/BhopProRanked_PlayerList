@@ -24707,6 +24707,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "lucky_hour",
+          "caseType": "booster",
+          "at": "2026-11-23T12:28:03.846Z"
+        },
+        {
           "kind": "coins",
           "amount": 150,
           "caseType": "spinner",
@@ -24729,15 +24735,11 @@
           "amount": 250,
           "caseType": "spinner",
           "at": "2026-11-23T12:27:09.896Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "spinner",
-          "at": "2026-11-23T12:27:02.124Z"
         }
       ],
-      "boosterInventory": [],
+      "boosterInventory": [
+        "lucky_hour"
+      ],
       "activeBooster": {
         "id": "lucky_hour",
         "until": 1795385435508,
@@ -24772,9 +24774,9 @@
         }
       },
       "lastCaseAt": 1795436850891,
-      "lastBoosterAt": 1795381794591,
+      "lastBoosterAt": 1795436883542,
       "totalEarned": 18750,
-      "totalOpened": 17,
+      "totalOpened": 18,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
