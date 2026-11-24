@@ -24935,10 +24935,14 @@
         }
       ],
       "boosterInventory": [
-        "overdrive",
         "hot_streak"
       ],
-      "activeBooster": null,
+      "activeBooster": {
+        "id": "overdrive",
+        "until": 1795539630405,
+        "multiplier": 1.5,
+        "targetType": null
+      },
       "hotStreak": {
         "count": 0,
         "lastOpen": 0
