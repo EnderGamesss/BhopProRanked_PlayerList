@@ -24887,7 +24887,7 @@
     },
     "5130180441": {
       "name": "fast",
-      "coins": 10400,
+      "coins": 10300,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -24897,6 +24897,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-11-24T04:32:20.159Z"
+        },
         {
           "kind": "skin",
           "file": "m9desert.png",
@@ -24921,12 +24927,6 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-11-24T04:31:54.956Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "knife",
-          "at": "2026-11-24T04:31:47.891Z"
         }
       ],
       "boosterInventory": [
@@ -24948,7 +24948,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 17,
+          "progress": 18,
           "claimed": false
         },
         "skin_m9_desert": {
@@ -24960,10 +24960,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1795494733158,
+      "lastCaseAt": 1795494739866,
       "lastBoosterAt": 1795494537713,
-      "totalEarned": 14500,
-      "totalOpened": 18,
+      "totalEarned": 14700,
+      "totalOpened": 19,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
