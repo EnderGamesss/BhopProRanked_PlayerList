@@ -24887,11 +24887,17 @@
     },
     "5130180441": {
       "name": "fast",
-      "coins": 10750,
+      "coins": 10550,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "knife",
+          "at": "2026-11-24T04:30:16.130Z"
+        },
         {
           "kind": "skin",
           "file": "karambitsnake.png",
@@ -24916,12 +24922,6 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-11-24T04:29:25.544Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 750,
-          "caseType": "knife",
-          "at": "2026-11-24T04:29:18.278Z"
         }
       ],
       "boosterInventory": [
@@ -24943,7 +24943,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 5,
+          "progress": 6,
           "claimed": false
         },
         "skin_m9_desert": {
@@ -24955,10 +24955,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1795494588153,
+      "lastCaseAt": 1795494615879,
       "lastBoosterAt": 1795494537713,
-      "totalEarned": 11250,
-      "totalOpened": 6,
+      "totalEarned": 11350,
+      "totalOpened": 7,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
