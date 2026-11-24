@@ -24898,11 +24898,23 @@
     },
     "5130180441": {
       "name": "fast",
-      "coins": 236000,
+      "coins": 235700,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "karambit-hotline.png",
+          "type": "knife"
+        }
+      ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambit-hotline.png",
+          "chance": 0.05,
+          "caseType": "knife",
+          "at": "2026-11-24T16:45:53.194Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -24926,12 +24938,6 @@
           "amount": 150,
           "caseType": "knife",
           "at": "2026-11-24T04:35:01.255Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "knife",
-          "at": "2026-11-24T04:34:53.667Z"
         }
       ],
       "boosterInventory": [
@@ -24958,7 +24964,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 24,
+          "progress": 25,
           "claimed": false
         },
         "skin_m9_desert": {
@@ -24970,10 +24976,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1795538745637,
+      "lastCaseAt": 1795538752767,
       "lastBoosterAt": 1795538696170,
       "totalEarned": 242200,
-      "totalOpened": 26,
+      "totalOpened": 27,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
