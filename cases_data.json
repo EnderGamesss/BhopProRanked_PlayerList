@@ -24794,7 +24794,7 @@
     },
     "8663597361": {
       "name": "NeНормалды",
-      "coins": 655750,
+      "coins": 655450,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -24813,9 +24813,20 @@
         {
           "file": "thumb-basic-spinner-5.png",
           "type": "spinner"
+        },
+        {
+          "file": "arrowspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "arrowspinner.png",
+          "chance": 0.6,
+          "caseType": "spinner",
+          "at": "2026-11-24T10:23:28.715Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -24839,12 +24850,6 @@
           "amount": 100,
           "caseType": "spinner",
           "at": "2026-11-24T10:23:02.610Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-11-24T10:22:56.517Z"
         }
       ],
       "boosterInventory": [
@@ -24880,10 +24885,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1795515802202,
+      "lastCaseAt": 1795515808144,
       "lastBoosterAt": 1795465975072,
       "totalEarned": 681450,
-      "totalOpened": 92,
+      "totalOpened": 93,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
