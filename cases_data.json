@@ -24887,11 +24887,17 @@
     },
     "5130180441": {
       "name": "fast",
-      "coins": 1000,
+      "coins": 1450,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "knife",
+          "at": "2026-11-24T04:29:18.278Z"
+        },
         {
           "kind": "booster",
           "boosterId": "overdrive",
@@ -24918,7 +24924,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
         "skin_m9_desert": {
@@ -24930,10 +24936,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 0,
+      "lastCaseAt": 1795494557473,
       "lastBoosterAt": 1795494537713,
-      "totalEarned": 0,
-      "totalOpened": 1,
+      "totalEarned": 750,
+      "totalOpened": 2,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
