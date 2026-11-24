@@ -24904,6 +24904,12 @@
       "inventory": [],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "hot_streak",
+          "caseType": "booster",
+          "at": "2026-11-24T16:44:56.869Z"
+        },
+        {
           "kind": "coins",
           "amount": 150,
           "caseType": "knife",
@@ -24926,16 +24932,11 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-11-24T04:32:32.819Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-11-24T04:32:25.791Z"
         }
       ],
       "boosterInventory": [
-        "overdrive"
+        "overdrive",
+        "hot_streak"
       ],
       "activeBooster": null,
       "hotStreak": {
@@ -24966,9 +24967,9 @@
         }
       },
       "lastCaseAt": 1795494906974,
-      "lastBoosterAt": 1795494537713,
+      "lastBoosterAt": 1795538696170,
       "totalEarned": 242100,
-      "totalOpened": 24,
+      "totalOpened": 25,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
