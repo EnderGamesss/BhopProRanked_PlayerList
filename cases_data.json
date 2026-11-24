@@ -24794,7 +24794,7 @@
     },
     "8663597361": {
       "name": "NeНормалды",
-      "coins": 557650,
+      "coins": 557350,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -24805,9 +24805,20 @@
         {
           "file": "camospinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "m9desert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "m9desert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-11-24T10:04:19.689Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -24831,13 +24842,6 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-11-23T20:33:44.886Z"
-        },
-        {
-          "kind": "skin",
-          "file": "camospinner.png",
-          "chance": 2.5,
-          "caseType": "spinner",
-          "at": "2026-11-23T20:33:38.735Z"
         }
       ],
       "boosterInventory": [
@@ -24865,7 +24869,7 @@
           "claimed": true
         },
         "skin_m9_desert": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
         "skin_butterfly": {
@@ -24873,10 +24877,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1795514627346,
+      "lastCaseAt": 1795514659171,
       "lastBoosterAt": 1795465975072,
       "totalEarned": 575250,
-      "totalOpened": 65,
+      "totalOpened": 66,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
