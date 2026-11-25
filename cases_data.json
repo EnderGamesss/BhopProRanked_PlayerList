@@ -24803,7 +24803,7 @@
     },
     "8663597361": {
       "name": "NeНормалды",
-      "coins": 653700,
+      "coins": 653400,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -24850,9 +24850,20 @@
         {
           "file": "skullspinner.png",
           "type": "spinner"
+        },
+        {
+          "file": "camospinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "camospinner.png",
+          "chance": 2.5,
+          "caseType": "spinner",
+          "at": "2026-11-25T11:03:30.825Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -24878,13 +24889,6 @@
           "amount": 150,
           "caseType": "spinner",
           "at": "2026-11-25T11:02:24.643Z"
-        },
-        {
-          "kind": "skin",
-          "file": "ironaquaspinner.png",
-          "chance": 1,
-          "caseType": "spinner",
-          "at": "2026-11-25T11:02:17.819Z"
         }
       ],
       "boosterInventory": [
@@ -24912,11 +24916,11 @@
       ],
       "dailyQuests": {
         "open_15_cases": {
-          "progress": 12,
+          "progress": 13,
           "claimed": false
         },
         "skin_camo_spinner": {
-          "progress": 0,
+          "progress": 1,
           "claimed": false
         },
         "skin_thumb_fairy": {
@@ -24924,10 +24928,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1795604603470,
+      "lastCaseAt": 1795604610386,
       "lastBoosterAt": 1795465975072,
       "totalEarned": 683300,
-      "totalOpened": 105,
+      "totalOpened": 106,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
