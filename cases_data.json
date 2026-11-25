@@ -9596,7 +9596,7 @@
     },
     "5897985265": {
       "name": "tonxi",
-      "coins": 3028950,
+      "coins": 3028650,
       "luck": 1.25,
       "boosts": [
         {
@@ -9681,9 +9681,20 @@
         {
           "file": "butsnake.png",
           "type": "knife"
+        },
+        {
+          "file": "karambitdesert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-11-25T06:08:02.550Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -9709,20 +9720,13 @@
           "amount": 250,
           "caseType": "knife",
           "at": "2026-11-08T06:42:22.206Z"
-        },
-        {
-          "kind": "skin",
-          "file": "m9koi.png",
-          "chance": 0.25,
-          "caseType": "knife",
-          "at": "2026-11-08T06:39:39.664Z"
         }
       ],
       "lastBonus": 1794119550421,
-      "lastCaseAt": 1795586876017,
+      "lastCaseAt": 1795586882168,
       "lastBoosterAt": 1789887876267,
       "totalEarned": 25756650,
-      "totalOpened": 2865,
+      "totalOpened": 2866,
       "username": "DAL_PO_CbEBAM",
       "unknownUntil": 1787419880823,
       "memoryGame": {
@@ -10004,7 +10008,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 2,
+          "progress": 3,
           "claimed": false
         },
         "skin_butterfly": {
