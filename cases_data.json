@@ -479,11 +479,17 @@
     },
     "1408115589": {
       "name": "Ohneschnitzel",
-      "coins": 1200,
+      "coins": 1900,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 1000,
+          "caseType": "knife",
+          "at": "2026-11-25T22:26:05.792Z"
+        },
         {
           "kind": "coins",
           "amount": 500,
@@ -516,7 +522,7 @@
       ],
       "dailyQuests": {
         "open_5_cases": {
-          "progress": 1,
+          "progress": 2,
           "claimed": false
         },
         "skin_camo_spinner": {
@@ -528,10 +534,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1795645559687,
+      "lastCaseAt": 1795645565522,
       "lastBoosterAt": 1795645541154,
-      "totalEarned": 500,
-      "totalOpened": 2,
+      "totalEarned": 1500,
+      "totalOpened": 3,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [],
