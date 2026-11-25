@@ -24803,7 +24803,7 @@
     },
     "8663597361": {
       "name": "NeНормалды",
-      "coins": 654850,
+      "coins": 654550,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -24838,9 +24838,20 @@
         {
           "file": "thumb-Military.png",
           "type": "glove"
+        },
+        {
+          "file": "ironaquaspinner.png",
+          "type": "spinner"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "ironaquaspinner.png",
+          "chance": 1,
+          "caseType": "spinner",
+          "at": "2026-11-25T11:02:17.819Z"
+        },
         {
           "kind": "skin",
           "file": "thumb-Military.png",
@@ -24867,12 +24878,6 @@
           "chance": 7.5,
           "caseType": "glove",
           "at": "2026-11-25T11:01:49.700Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "spinner",
-          "at": "2026-11-25T11:01:38.421Z"
         }
       ],
       "boosterInventory": [
@@ -24896,7 +24901,7 @@
       ],
       "dailyQuests": {
         "open_15_cases": {
-          "progress": 7,
+          "progress": 8,
           "claimed": false
         },
         "skin_camo_spinner": {
@@ -24908,10 +24913,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1795604531181,
+      "lastCaseAt": 1795604537258,
       "lastBoosterAt": 1795465975072,
       "totalEarned": 682950,
-      "totalOpened": 100,
+      "totalOpened": 101,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
