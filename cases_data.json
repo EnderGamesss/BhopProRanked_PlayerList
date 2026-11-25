@@ -24803,7 +24803,7 @@
     },
     "8663597361": {
       "name": "NeНормалды",
-      "coins": 655450,
+      "coins": 655250,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -24830,6 +24830,12 @@
       ],
       "history": [
         {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "spinner",
+          "at": "2026-11-25T11:01:25.887Z"
+        },
+        {
           "kind": "skin",
           "file": "arrowspinner.png",
           "chance": 0.6,
@@ -24853,12 +24859,6 @@
           "amount": 200,
           "caseType": "spinner",
           "at": "2026-11-24T10:23:09.215Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 100,
-          "caseType": "spinner",
-          "at": "2026-11-24T10:23:02.610Z"
         }
       ],
       "boosterInventory": [
@@ -24873,31 +24873,31 @@
       },
       "lastBonus": 1795439146230,
       "dailyStreak": 1,
-      "dailyQuestDate": "2026-11-24",
+      "dailyQuestDate": "2026-11-25",
       "dailyQuestVersion": 2,
       "dailyQuestIds": [
-        "open_5_cases",
-        "skin_m9_desert",
-        "skin_butterfly"
+        "open_15_cases",
+        "skin_camo_spinner",
+        "skin_thumb_fairy"
       ],
       "dailyQuests": {
-        "open_5_cases": {
-          "progress": 5,
-          "claimed": true
-        },
-        "skin_m9_desert": {
+        "open_15_cases": {
           "progress": 1,
-          "claimed": true
+          "claimed": false
         },
-        "skin_butterfly": {
+        "skin_camo_spinner": {
+          "progress": 0,
+          "claimed": false
+        },
+        "skin_thumb_fairy": {
           "progress": 0,
           "claimed": false
         }
       },
-      "lastCaseAt": 1795515808144,
+      "lastCaseAt": 1795604485446,
       "lastBoosterAt": 1795465975072,
-      "totalEarned": 681450,
-      "totalOpened": 93,
+      "totalEarned": 681550,
+      "totalOpened": 94,
       "unknownUntil": 0,
       "memoryGame": null,
       "achievements": [
