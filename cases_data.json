@@ -485,6 +485,12 @@
       "inventory": [],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "hot_streak",
+          "caseType": "booster",
+          "at": "2026-11-26T07:14:27.720Z"
+        },
+        {
           "kind": "coins",
           "amount": 100,
           "caseType": "spinner",
@@ -507,16 +513,11 @@
           "amount": 500,
           "caseType": "spinner",
           "at": "2026-11-25T22:32:44.178Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 250,
-          "caseType": "spinner",
-          "at": "2026-11-25T22:32:35.702Z"
         }
       ],
       "boosterInventory": [
-        "target_boost"
+        "target_boost",
+        "hot_streak"
       ],
       "activeBooster": null,
       "hotStreak": {
@@ -547,9 +548,9 @@
         }
       },
       "lastCaseAt": 1795645984043,
-      "lastBoosterAt": 1795645541154,
+      "lastBoosterAt": 1795677266985,
       "totalEarned": 139050,
-      "totalOpened": 22,
+      "totalOpened": 23,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
