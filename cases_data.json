@@ -479,11 +479,17 @@
     },
     "1408115589": {
       "name": "Ohneschnitzel",
-      "coins": 133000,
+      "coins": 133450,
       "luck": 1,
       "boosts": [],
       "inventory": [],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 750,
+          "caseType": "spinner",
+          "at": "2026-11-26T07:18:01.657Z"
+        },
         {
           "kind": "coins",
           "amount": 200,
@@ -507,12 +513,6 @@
           "amount": 200,
           "caseType": "knife",
           "at": "2026-11-26T07:16:40.066Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 150,
-          "caseType": "spinner",
-          "at": "2026-11-26T07:16:24.473Z"
         }
       ],
       "boosterInventory": [
@@ -547,10 +547,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1795677468311,
+      "lastCaseAt": 1795677480958,
       "lastBoosterAt": 1795677266985,
-      "totalEarned": 141600,
-      "totalOpened": 34,
+      "totalEarned": 142350,
+      "totalOpened": 35,
       "unknownUntil": 1795677532264,
       "memoryGame": {
         "board": [
