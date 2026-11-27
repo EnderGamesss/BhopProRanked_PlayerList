@@ -482,7 +482,12 @@
       "coins": 227500,
       "luck": 1,
       "boosts": [],
-      "inventory": [],
+      "inventory": [
+        {
+          "file": "m9saphire.png",
+          "type": "knife"
+        }
+      ],
       "history": [
         {
           "kind": "coins",
@@ -762,10 +767,10 @@
           true,
           false,
           false,
-          false,
-          false,
           true,
           false,
+          true,
+          true,
           false,
           false,
           false,
