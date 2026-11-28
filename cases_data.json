@@ -25485,7 +25485,7 @@
     },
     "5130180441": {
       "name": "fast",
-      "coins": 476200,
+      "coins": 475900,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -25496,9 +25496,20 @@
         {
           "file": "m9fire_0.png",
           "type": "knife"
+        },
+        {
+          "file": "karambitdesert.png",
+          "type": "knife"
         }
       ],
       "history": [
+        {
+          "kind": "skin",
+          "file": "karambitdesert.png",
+          "chance": 0.9,
+          "caseType": "knife",
+          "at": "2026-11-28T07:49:10.055Z"
+        },
         {
           "kind": "coins",
           "amount": 100,
@@ -25522,12 +25533,6 @@
           "amount": 750,
           "caseType": "knife",
           "at": "2026-11-28T07:48:45.144Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 200,
-          "caseType": "knife",
-          "at": "2026-11-28T07:48:40.225Z"
         }
       ],
       "boosterInventory": [
@@ -25541,7 +25546,7 @@
       },
       "hotStreak": {
         "count": 6,
-        "lastOpen": 1795852143008
+        "lastOpen": 1795852149714
       },
       "lastBonus": 0,
       "dailyStreak": 0,
@@ -25554,7 +25559,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 17,
+          "progress": 18,
           "claimed": false
         },
         "skin_m9_sapphire": {
@@ -25566,10 +25571,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1795852143008,
+      "lastCaseAt": 1795852149714,
       "lastBoosterAt": 1795852047462,
       "totalEarned": 487800,
-      "totalOpened": 45,
+      "totalOpened": 46,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
