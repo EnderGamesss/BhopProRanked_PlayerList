@@ -25496,6 +25496,12 @@
       ],
       "history": [
         {
+          "kind": "booster",
+          "boosterId": "overdrive",
+          "caseType": "booster",
+          "at": "2026-11-28T07:47:28.066Z"
+        },
+        {
           "kind": "coins",
           "amount": 750,
           "caseType": "glove",
@@ -25519,16 +25525,11 @@
           "amount": 100,
           "caseType": "glove",
           "at": "2026-11-28T07:46:50.167Z"
-        },
-        {
-          "kind": "coins",
-          "amount": 1000,
-          "caseType": "glove",
-          "at": "2026-11-28T07:46:45.016Z"
         }
       ],
       "boosterInventory": [
-        "hot_streak"
+        "hot_streak",
+        "overdrive"
       ],
       "activeBooster": {
         "id": "overdrive",
@@ -25564,9 +25565,9 @@
         }
       },
       "lastCaseAt": 1795852026700,
-      "lastBoosterAt": 1795538696170,
+      "lastBoosterAt": 1795852047462,
       "totalEarned": 484550,
-      "totalOpened": 35,
+      "totalOpened": 36,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
