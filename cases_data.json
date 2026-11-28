@@ -25485,7 +25485,7 @@
     },
     "5130180441": {
       "name": "fast",
-      "coins": 475400,
+      "coins": 475300,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -25499,6 +25499,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 200,
+          "caseType": "knife",
+          "at": "2026-11-28T07:48:40.225Z"
+        },
         {
           "kind": "coins",
           "amount": 250,
@@ -25523,12 +25529,6 @@
           "chance": 0.05,
           "caseType": "knife",
           "at": "2026-11-28T07:48:17.022Z"
-        },
-        {
-          "kind": "booster",
-          "boosterId": "overdrive",
-          "caseType": "booster",
-          "at": "2026-11-28T07:47:28.066Z"
         }
       ],
       "boosterInventory": [
@@ -25541,8 +25541,8 @@
         "targetType": null
       },
       "hotStreak": {
-        "count": 4,
-        "lastOpen": 1795852114326
+        "count": 5,
+        "lastOpen": 1795852119715
       },
       "lastBonus": 0,
       "dailyStreak": 0,
@@ -25555,7 +25555,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 12,
+          "progress": 13,
           "claimed": false
         },
         "skin_m9_sapphire": {
@@ -25567,10 +25567,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1795852114326,
+      "lastCaseAt": 1795852119715,
       "lastBoosterAt": 1795852047462,
-      "totalEarned": 485500,
-      "totalOpened": 40,
+      "totalEarned": 485700,
+      "totalOpened": 41,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
