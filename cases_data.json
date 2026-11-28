@@ -25485,7 +25485,7 @@
     },
     "5130180441": {
       "name": "fast",
-      "coins": 235850,
+      "coins": 235650,
       "luck": 1,
       "boosts": [],
       "inventory": [
@@ -25495,6 +25495,12 @@
         }
       ],
       "history": [
+        {
+          "kind": "coins",
+          "amount": 100,
+          "caseType": "glove",
+          "at": "2026-11-28T07:46:50.167Z"
+        },
         {
           "kind": "coins",
           "amount": 1000,
@@ -25518,13 +25524,6 @@
           "amount": 100,
           "caseType": "glove",
           "at": "2026-11-28T07:46:27.747Z"
-        },
-        {
-          "kind": "skin",
-          "file": "karambit-hotline.png",
-          "chance": 0.05,
-          "caseType": "knife",
-          "at": "2026-11-24T16:45:53.194Z"
         }
       ],
       "boosterInventory": [
@@ -25551,7 +25550,7 @@
       ],
       "dailyQuests": {
         "open_100_cases": {
-          "progress": 4,
+          "progress": 5,
           "claimed": false
         },
         "skin_m9_sapphire": {
@@ -25563,10 +25562,10 @@
           "claimed": false
         }
       },
-      "lastCaseAt": 1795852004197,
+      "lastCaseAt": 1795852009474,
       "lastBoosterAt": 1795538696170,
-      "totalEarned": 243550,
-      "totalOpened": 31,
+      "totalEarned": 243650,
+      "totalOpened": 32,
       "unknownUntil": 0,
       "memoryGame": {
         "board": [
